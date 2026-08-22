@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>TCGplayer - Base local</title>
+<style>
+  :root {
+    --bg: #0f1115;
+    --panel: #171a21;
+    --panel2: #1f232c;
+    --border: #2a2f3a;
+    --text: #e8e9ec;
+    --muted: #8b90a0;
+    --accent: #5b8cff;
+    --up: #4ade80;
+    --down: #f87171;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+  header {
+    padding: 20px 24px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  header h1 { font-size: 20px; margin: 0; }
+  header .meta { color: var(--muted); font-size: 13px; }
+
+  .controls {
+    padding: 16px 24px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    border-bottom: 1px solid var(--border);
+  }
+  input, select {
+    background: var(--panel2);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 8px 10px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  input[type="text"] { flex: 1; min-width: 200px; }
+
+  #grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 16px;
+    padding: 20px 24px;
+  }
+  .card {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform .1s, border-color .1s;
+    display: flex;
+    flex-direction: column;
+  }
+  .card:hover { border-color: var(--accent); transform: translateY(-2px); }
+  .card img {
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    object-fit: cover;
+    background: #000;
+    display: block;
+  }
+  .card .body { padding: 10px 12px 12px; flex: 1; display: flex; flex-direction: column; gap: 4px; }
+  .card .name { font-size: 13px; font-weight: 600; line-height: 1.3; }
+  .card .sub { font-size: 12px; color: var(--muted); }
+  .card .prices { margin-top: auto; display: flex; justify-content: space-between; align-items: baseline; padding-top: 6px; }
+  .card .median { font-size: 15px; font-weight: 700; color: var(--accent); }
+  .card .avg { font-size: 12px; color: var(--muted); }
+
+  #empty { padding: 60px 24px; text-align: center; color: var(--muted); }
+
+  /* Modal de detalle */
+  #overlay {
+    display: none;
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,.6);
+    align-items: center; justify-content: center;
+    padding: 20px;
+    z-index: 10;
+  }
+  #overlay.open { display: flex; }
+  #modal {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    max-width: 780px; width: 100%;
+    max-height: 90vh;
+    overflow-y: auto;
+  }
+  #modal .mhead {
+    display: flex; gap: 16px; padding: 20px;
+    border-bottom: 1px solid var(--border);
+  }
+  #modal .mhead img { width: 140px; border-radius: 8px; object-fit: cover; background:#000; }
+  #modal .mhead .info { flex: 1; }
+  #modal .mhead h2 { margin: 0 0 6px; font-size: 18px; }
+  #modal .mhead .close { cursor: pointer; color: var(--muted); font-size: 20px; align-self: flex-start; }
+  #modal .attrs { display: grid; grid-template-columns: 1fr 1fr; gap: 4px 16px; font-size: 13px; margin-top: 10px; }
+  #modal .attrs div span.k { color: var(--muted); }
+  #modal .section { padding: 16px 20px; border-top: 1px solid var(--border); }
+  #modal .section h3 { margin: 0 0 10px; font-size: 14px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  table th, table td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--border); }
+  table th { color: var(--muted); font-weight: 500; }
+  a.link { color: var(--accent); text-decoration: none; }
+  a.link:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🃏 TCGplayer — Base local</h1>
+  <div class="meta" id="metaInfo">Sin datos cargados</div>
+</header>
+
+<div class="controls">
+  <input type="text" id="search" placeholder="Buscar por nombre, número, rareza...">
+  <select id="sortBy">
+    <option value="name">Ordenar: Nombre</option>
+    <option value="median_desc">Precio (mayor a menor)</option>
+    <option value="median_asc">Precio (menor a mayor)</option>
+    <option value="recent">Actualizado recientemente</option>
+  </select>
+</div>
+
+<div id="grid"></div>
+<div id="empty" style="display:none;">No se encontraron productos. Corré <code>python details.py --range ...</code> para poblar la base.</div>
+
+<div id="overlay">
+  <div id="modal"></div>
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
