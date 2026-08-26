@@ -34,6 +34,27 @@
   header h1 { font-size: 20px; margin: 0; }
   header .meta { color: var(--muted); font-size: 13px; }
 
+  nav.tabs {
+    display: flex;
+    gap: 4px;
+    padding: 0 24px;
+    border-bottom: 1px solid var(--border);
+  }
+  nav.tabs button {
+    background: transparent;
+    border: none;
+    color: var(--muted);
+    padding: 12px 16px;
+    font-size: 14px;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+  }
+  nav.tabs button.active { color: var(--text); border-bottom-color: var(--accent); }
+  nav.tabs button:hover { color: var(--text); }
+
+  .view { display: none; }
+  .view.active { display: block; }
+
   .controls {
     padding: 16px 24px;
     display: flex;
@@ -50,6 +71,17 @@
     font-size: 14px;
   }
   input[type="text"] { flex: 1; min-width: 200px; }
+  button.btn {
+    background: var(--accent);
+    border: none;
+    color: white;
+    padding: 8px 14px;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  button.btn:hover { opacity: .9; }
+  button.btn.secondary { background: var(--panel2); border: 1px solid var(--border); color: var(--text); }
 
   #grid {
     display: grid;
@@ -83,6 +115,63 @@
   .card .avg { font-size: 12px; color: var(--muted); }
 
   #empty { padding: 60px 24px; text-align: center; color: var(--muted); }
+
+  /* Coleccion */
+  .col-wrap { padding: 20px 24px; }
+  .add-row {
+    display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
+    background: var(--panel); border: 1px solid var(--border);
+    border-radius: 10px; padding: 14px; margin-bottom: 20px;
+  }
+  .add-row input[type="text"] { min-width: 260px; }
+  .add-row input[type="number"] { width: 90px; }
+  #suggestions { position: relative; }
+  #suggestions input[type="text"] { width: 100%; }
+  #suggestionsList {
+    position: absolute; top: 100%; left: 0; right: 0;
+    background: var(--panel2); border: 1px solid var(--border);
+    border-radius: 6px; margin-top: 4px; max-height: 220px; overflow-y: auto;
+    z-index: 5; display: none;
+  }
+  #suggestionsList div {
+    padding: 8px 10px; cursor: pointer; font-size: 13px;
+    display: flex; justify-content: space-between; gap: 10px;
+  }
+  #suggestionsList div:hover { background: var(--accent); }
+
+  .totals {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  .totals .box {
+    background: var(--panel); border: 1px solid var(--border);
+    border-radius: 10px; padding: 16px;
+  }
+  .totals .box .label { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+  .totals .box .label[title] { cursor: help; border-bottom: 1px dotted var(--muted); display: inline-block; }
+  .totals .box .value { font-size: 24px; font-weight: 700; margin-top: 4px; }
+  .totals .box.median .value { color: var(--accent); }
+
+  table.col-table { width: 100%; border-collapse: collapse; font-size: 13px; background: var(--panel); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
+  table.col-table th, table.col-table td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--border); }
+  table.col-table th { color: var(--muted); font-weight: 500; font-size: 12px; text-transform: uppercase; }
+  table.col-table th[title] { cursor: help; border-bottom: 1px dotted var(--muted); }
+  table.col-table img.thumb { width: 36px; height: 48px; object-fit: cover; border-radius: 4px; background: #000; vertical-align: middle; margin-right: 8px; }
+  table.col-table input.qty { width: 55px; }
+  table.col-table .rm { color: var(--down); cursor: pointer; background: none; border: none; font-size: 16px; }
+  table.col-table tfoot td { font-weight: 700; border-top: 2px solid var(--border); border-bottom: none; }
+
+  #updateBox {
+    margin-top: 20px; background: var(--panel); border: 1px solid var(--border);
+    border-radius: 10px; padding: 16px; display: none;
+  }
+  #updateBox pre {
+    background: var(--panel2); padding: 10px 12px; border-radius: 6px;
+    overflow-x: auto; font-size: 13px; user-select: all;
+  }
+  #colEmpty { padding: 40px 0; text-align: center; color: var(--muted); }
 
   /* Modal de detalle */
   #overlay {
@@ -128,18 +217,84 @@
   <div class="meta" id="metaInfo">Sin datos cargados</div>
 </header>
 
-<div class="controls">
-  <input type="text" id="search" placeholder="Buscar por nombre, número, rareza...">
-  <select id="sortBy">
-    <option value="name">Ordenar: Nombre</option>
-    <option value="median_desc">Precio (mayor a menor)</option>
-    <option value="median_asc">Precio (menor a mayor)</option>
-    <option value="recent">Actualizado recientemente</option>
-  </select>
+<nav class="tabs">
+  <button id="tabCatalogo" class="active">Catálogo</button>
+  <button id="tabColeccion">Colección</button>
+</nav>
+
+<!-- Vista: Catalogo -->
+<div id="viewCatalogo" class="view active">
+  <div class="controls">
+    <input type="text" id="search" placeholder="Buscar por nombre, número, rareza...">
+    <select id="sortBy">
+      <option value="number">Ordenar: Número (ej. OP16-077)</option>
+      <option value="name">Ordenar: Nombre</option>
+      <option value="median_desc">Precio (mayor a menor)</option>
+      <option value="median_asc">Precio (menor a mayor)</option>
+      <option value="recent">Actualizado recientemente</option>
+    </select>
+  </div>
+  <div id="grid"></div>
+  <div id="empty" style="display:none;">No se encontraron productos. Corré <code>python details.py --range ...</code> para poblar la base.</div>
 </div>
 
-<div id="grid"></div>
-<div id="empty" style="display:none;">No se encontraron productos. Corré <code>python details.py --range ...</code> para poblar la base.</div>
+<!-- Vista: Coleccion -->
+<div id="viewColeccion" class="view">
+  <div class="col-wrap">
+
+    <div class="add-row">
+      <div id="suggestions" style="flex:1; min-width:260px;">
+        <input type="text" id="colSearch" placeholder="Buscar carta para agregar a tu colección...">
+        <div id="suggestionsList"></div>
+      </div>
+      <button class="btn" id="addToCollection">Agregar</button>
+    </div>
+
+    <div class="totals">
+      <div class="box median">
+        <div class="label">Total (Listed Median)</div>
+        <div class="value" id="totalMedian">$0.00</div>
+      </div>
+      <div class="box">
+        <div class="label" title="Promedio de las hasta 5 ventas más recientes registradas para esta carta en TCGplayer (no es el precio de listado, es lo que realmente se vendió últimamente).">Total (Ventas Recientes)</div>
+        <div class="value" id="totalAvg">$0.00</div>
+      </div>
+      <div class="box">
+        <div class="label">Cartas en colección</div>
+        <div class="value" id="totalCount">0</div>
+      </div>
+    </div>
+
+    <div style="margin-bottom:16px;">
+      <button class="btn secondary" id="updatePricesBtn">🔄 Actualizar precios de la colección</button>
+    </div>
+
+    <div id="updateBox">
+      <div class="label" style="color:var(--muted); font-size:13px; margin-bottom:8px;">
+        Copiá y corré este comando en la terminal (misma carpeta que details.py). Cuando termine, recargá esta página para ver los precios actualizados:
+      </div>
+      <pre id="updateCommand"></pre>
+      <button class="btn secondary" id="copyCommand">Copiar comando</button>
+    </div>
+
+    <div id="colEmpty">Tu colección está vacía. Buscá una carta arriba para agregarla.</div>
+    <table class="col-table" id="colTable" style="display:none;">
+      <thead>
+        <tr>
+          <th>Carta</th>
+          <th>Cant.</th>
+          <th>Listed Median</th>
+          <th title="Promedio de las hasta 5 ventas más recientes registradas para esta carta.">Ventas Recientes</th>
+          <th>Subtotal (Median)</th>
+          <th title="Cantidad × promedio de las hasta 5 ventas más recientes registradas.">Subtotal (Ventas Recientes)</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody id="colBody"></tbody>
+    </table>
+
+  </div>
+</div>
 
 <div id="overlay">
   <div id="modal"></div>

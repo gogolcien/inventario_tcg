@@ -230,6 +230,43 @@ def export_web_data(conn, out_path="web/data.js"):
     print(f"Pagina web actualizada: {out_path} ({len(products)} productos)")
 
 
+def check_range(conn, prefix, start, end):
+    """
+    Verifica que existan en la base todos los numeros de carta esperados,
+    ej. check_range(conn, "OP16", 1, 119) revisa OP16-001 ... OP16-119.
+    Nota: es normal que un mismo numero tenga varias filas (ej. version
+    normal + alternate art comparten el mismo "Number"), asi que solo
+    chequea que EXISTA al menos una, no que sea unico.
+    """
+    rows = conn.execute("SELECT attributes FROM products").fetchall()
+    found = {}
+    for (attrs_json,) in rows:
+        attrs = json.loads(attrs_json) if attrs_json else {}
+        num = attrs.get("Number")
+        if num:
+            found[num] = found.get(num, 0) + 1
+
+    missing = []
+    for i in range(start, end + 1):
+        num = f"{prefix}-{i:03d}"
+        if num not in found:
+            missing.append(num)
+
+    total_expected = end - start + 1
+    present = total_expected - len(missing)
+    print(f"Rango esperado: {prefix}-{start:03d} a {prefix}-{end:03d} ({total_expected} numeros)")
+    print(f"Presentes: {present} | Faltantes: {len(missing)}")
+
+    if missing:
+        print("\nFaltan:")
+        for m in missing:
+            print(f"  {m}")
+    else:
+        print("\nNo falta ninguno. ✔")
+
+    return missing
+
+
 # ---------------------------------------------------------------------------
 # Utilidades de consulta rapida desde la terminal
 # ---------------------------------------------------------------------------
@@ -278,8 +315,15 @@ if __name__ == "__main__":
         show_history(conn, sys.argv[2])
     elif len(sys.argv) >= 3 and sys.argv[1] == "sales":
         show_sales(conn, sys.argv[2])
+    elif len(sys.argv) >= 5 and sys.argv[1] == "check-range":
+        # python tcgplayer_db.py check-range OP16 1 119
+        prefix = sys.argv[2]
+        start = int(sys.argv[3])
+        end = int(sys.argv[4])
+        check_range(conn, prefix, start, end)
     else:
         print("Uso:")
         print("  python tcgplayer_db.py list")
         print("  python tcgplayer_db.py history <product_id>")
         print("  python tcgplayer_db.py sales <product_id>")
+        print("  python tcgplayer_db.py check-range <prefix> <inicio> <fin>")
