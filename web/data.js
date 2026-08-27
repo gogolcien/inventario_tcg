@@ -1,7 +1,7 @@
 // Archivo generado automaticamente -- no editar a mano.
 // Se regenera cada vez que corres details.py
 const TCG_DATA = {
-  "generated_at": "2026-08-26T00:01:44+00:00",
+  "generated_at": "2026-08-27T00:31:03+00:00",
   "products": [
     {
       "product_id": "696064",
@@ -117,6 +117,218 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "709104",
+      "name": "Aramaki - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/709104?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709104_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-059",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "8000",
+        "Subtype(s)": "Navy Admiral",
+        "Attribute": "Special"
+      },
+      "listed_median": "$0.50",
+      "average_sale_price": 0.3,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:40:41+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.24"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.35"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.40"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:40:41+00:00",
+          "listed_median": "$0.50",
+          "average_sale_price": 0.3
+        }
+      ]
+    },
+    {
+      "product_id": "712701",
+      "name": "Aramaki - The World's Strongest Warriors Release Event Cards (OP17 RE)",
+      "url": "https://www.tcgplayer.com/product/712701?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712701_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-059",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "8000",
+        "Subtype(s)": "Navy Admiral",
+        "Attribute": "Special"
+      },
+      "listed_median": "$2.49",
+      "average_sale_price": 2.49,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-26T22:41:20+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$2.49"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$2.49"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:41:20+00:00",
+          "listed_median": "$2.49",
+          "average_sale_price": 2.49
+        }
+      ]
+    },
+    {
+      "product_id": "711425",
+      "name": "Are You That Afraid of the New Era?! (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/711425?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711425_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-037",
+        "Color": "Green",
+        "Card Type": "Event",
+        "Cost": "1",
+        "Subtype(s)": "The Four Emperors Red-Haired Pirates"
+      },
+      "listed_median": "$120.00",
+      "average_sale_price": 115.66,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:18:55+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$118.99"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$120.09"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$117.23"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$100.00"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$122.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:18:55+00:00",
+          "listed_median": "$120.00",
+          "average_sale_price": 115.66
+        }
+      ]
+    },
+    {
+      "product_id": "498064",
+      "name": "Arlong (Alternate Art) - Pillars of Strength (OP03)",
+      "url": "https://www.tcgplayer.com/product/498064?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/498064_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP03-022",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$42.12",
+      "average_sale_price": 40.37,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:53:39+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$39.97"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$39.95"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$39.98"
+        },
+        {
+          "date": "8/10/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$42.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:53:39+00:00",
+          "listed_median": "$42.12",
+          "average_sale_price": 40.37
+        }
+      ]
+    },
+    {
       "product_id": "696008",
       "name": "Arlong - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696008?Language=English",
@@ -174,6 +386,66 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T18:29:45+00:00",
           "listed_median": "$0.10",
           "average_sale_price": 0.05
+        }
+      ]
+    },
+    {
+      "product_id": "712591",
+      "name": "Atmos - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712591?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712591_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-002",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "6000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.1,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:21:52+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "5",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:21:52+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.1
         }
       ]
     },
@@ -240,6 +512,118 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T22:20:02+00:00",
           "listed_median": "$0.15",
           "average_sale_price": 0.07
+        }
+      ]
+    },
+    {
+      "product_id": "533881",
+      "name": "Backlight - Starter Deck 11: Uta (ST-11)",
+      "url": "https://www.tcgplayer.com/product/533881?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/533881_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "ST11-003",
+        "Color": "Green",
+        "Card Type": "Event",
+        "Cost": "2",
+        "Subtype(s)": "FILM Music"
+      },
+      "listed_median": "$0.22",
+      "average_sale_price": 0.16,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:00:50+00:00",
+      "recent_sales": [
+        {
+          "date": "8/8/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.15"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/12/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/11/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.19"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:00:50+00:00",
+          "listed_median": "$0.22",
+          "average_sale_price": 0.16
+        }
+      ]
+    },
+    {
+      "product_id": "712622",
+      "name": "Barbell - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712622?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712622_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-053",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "7000",
+        "Subtype(s)": "Fish-Man Rocks Pirates",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.14,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:41:45+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.13"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:41:45+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.14
         }
       ]
     },
@@ -366,6 +750,138 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712634",
+      "name": "Basil Hawkins - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712634?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712634_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-073",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "1000",
+        "Subtype(s)": "Animal Kingdom Pirates Hawkins Pirates",
+        "Counter+": "2000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$2.97",
+      "average_sale_price": 1.15,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:58:58+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$2.21"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.85"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.80"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.85"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.80"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:49:28+00:00",
+          "listed_median": "$3.00",
+          "average_sale_price": 1.1
+        },
+        {
+          "scraped_at": "2026-08-26T21:58:58+00:00",
+          "listed_median": "$2.97",
+          "average_sale_price": 1.15
+        }
+      ]
+    },
+    {
+      "product_id": "629169",
+      "name": "Belo Betty (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629169?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629169_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP05-002",
+        "Color": "Red Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Revolutionary Army",
+        "Attribute": "Special"
+      },
+      "listed_median": "$850.00",
+      "average_sale_price": 731.79,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:17:52+00:00",
+      "recent_sales": [
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$839.99"
+        },
+        {
+          "date": "6/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$119.95"
+        },
+        {
+          "date": "6/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$800.00"
+        },
+        {
+          "date": "5/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$999.00"
+        },
+        {
+          "date": "5/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$899.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:17:52+00:00",
+          "listed_median": "$850.00",
+          "average_sale_price": 731.79
+        }
+      ]
+    },
+    {
       "product_id": "696059",
       "name": "Benevolent King of the Waves - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696059?Language=English",
@@ -416,6 +932,67 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T20:26:06+00:00",
           "listed_median": "$0.13",
           "average_sale_price": 0.05
+        }
+      ]
+    },
+    {
+      "product_id": "712085",
+      "name": "Benn.Beckman (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712085?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712085_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-027",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "9000",
+        "Subtype(s)": "Red-Haired Pirates",
+        "Counter+": "9000",
+        "Attribute": "Ranged"
+      },
+      "listed_median": "$27.52",
+      "average_sale_price": 27.94,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:24:51+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$27.28"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$25.49"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$26.93"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$25.90"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:24:51+00:00",
+          "listed_median": "$27.52",
+          "average_sale_price": 27.94
         }
       ]
     },
@@ -544,6 +1121,110 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "705990",
+      "name": "Black Maria - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/705990?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/705990_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-072",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "1000",
+        "Subtype(s)": "Animal Kingdom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$0.50",
+      "average_sale_price": 0.34,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:45:11+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.22"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.43"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.39"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.40"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:45:11+00:00",
+          "listed_median": "$0.50",
+          "average_sale_price": 0.34
+        }
+      ]
+    },
+    {
+      "product_id": "712710",
+      "name": "Black Maria - The World's Strongest Warriors Release Event Cards (OP17 RE)",
+      "url": "https://www.tcgplayer.com/product/712710?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712710_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-072",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "1000",
+        "Subtype(s)": "Animal Kingdom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$6.47",
+      "average_sale_price": 7.0,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-26T22:45:50+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$7.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$6.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:45:50+00:00",
+          "listed_median": "$6.47",
+          "average_sale_price": 7.0
+        }
+      ]
+    },
+    {
       "product_id": "696098",
       "name": "Black Vortex - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696098?Language=English",
@@ -603,6 +1284,291 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T22:29:05+00:00",
           "listed_median": "$0.15",
           "average_sale_price": 0.05
+        }
+      ]
+    },
+    {
+      "product_id": "712597",
+      "name": "Blamenco - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712597?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712597_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-011",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.13,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:25:43+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "6",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:25:43+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.13
+        }
+      ]
+    },
+    {
+      "product_id": "707125",
+      "name": "Blenheim - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707125?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707125_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-012",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "1000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.53",
+      "average_sale_price": 0.3,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:33:37+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.22"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.23"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.33"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.37"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.37"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:33:37+00:00",
+          "listed_median": "$0.53",
+          "average_sale_price": 0.3
+        }
+      ]
+    },
+    {
+      "product_id": "712672",
+      "name": "Blenheim - The World's Strongest Warriors Release Event Cards (OP17 RE)",
+      "url": "https://www.tcgplayer.com/product/712672?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712672_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-012",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "1000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$8.00",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:34:15+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:34:15+00:00",
+          "listed_median": "$8.00",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "545823",
+      "name": "Boa Hancock (038) (Parallel) - 500 Years in the Future (OP07)",
+      "url": "https://www.tcgplayer.com/product/545823?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545823_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP07-038",
+        "Color": "Blue",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Kuja Pirates The Seven Warlords of the Sea",
+        "Attribute": "Special"
+      },
+      "listed_median": "$121.91",
+      "average_sale_price": 111.66,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:23:07+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$110.99"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$110.95"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$115.40"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$110.99"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$109.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:23:07+00:00",
+          "listed_median": "$121.91",
+          "average_sale_price": 111.66
+        }
+      ]
+    },
+    {
+      "product_id": "545841",
+      "name": "Boa Hancock (051) (Parallel) (Manga) - 500 Years in the Future (OP07)",
+      "url": "https://www.tcgplayer.com/product/545841?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545841_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP07-051",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "8000",
+        "Subtype(s)": "Kuja Pirates The Seven Warlords of the Sea",
+        "Attribute": "Special"
+      },
+      "listed_median": "$2,574.99",
+      "average_sale_price": 1911.66,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:15:40+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,900.00"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,000.00"
+        },
+        {
+          "date": "7/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,160.00"
+        },
+        {
+          "date": "7/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,348.32"
+        },
+        {
+          "date": "7/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,150.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:15:40+00:00",
+          "listed_median": "$2,574.99",
+          "average_sale_price": 1911.66
         }
       ]
     },
@@ -673,6 +1639,66 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "623618",
+      "name": "Boa Hancock (2025 PSA Magazine Promo) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/623618?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/623618_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP07-038",
+        "Color": "Blue",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Kuja Pirates The Seven Warlords of the Sea",
+        "Attribute": "Special"
+      },
+      "listed_median": "$199.36",
+      "average_sale_price": 159.98,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:12:39+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$170.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$158.52"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$169.00"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$174.00"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$128.38"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:12:39+00:00",
+          "listed_median": "$199.36",
+          "average_sale_price": 159.98
+        }
+      ]
+    },
+    {
       "product_id": "695309",
       "name": "Boa Hancock (Alternate Art) - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/695309?Language=English",
@@ -723,6 +1749,204 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T23:43:37+00:00",
           "listed_median": "$40.00",
           "average_sale_price": 31.66
+        }
+      ]
+    },
+    {
+      "product_id": "684105",
+      "name": "Boa Hancock (CS 26-27 Regionals Season 1) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/684105?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684105_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP14-112",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "9",
+        "Power": "10000",
+        "Subtype(s)": "Kuja Pirates The Seven Warlords of the Sea",
+        "Attribute": "Special"
+      },
+      "listed_median": "$3,898.95",
+      "average_sale_price": 3999.95,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-26T18:08:34+00:00",
+      "recent_sales": [
+        {
+          "date": "5/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3,999.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:08:34+00:00",
+          "listed_median": "$3,898.95",
+          "average_sale_price": 3999.95
+        }
+      ]
+    },
+    {
+      "product_id": "629181",
+      "name": "Boa Hancock (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629181?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629181_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP07-038",
+        "Color": "Blue",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Kuja Pirates The Seven Warlords of the Sea",
+        "Attribute": "Special"
+      },
+      "listed_median": "$10,999.00",
+      "average_sale_price": 5084.84,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-26T18:01:34+00:00",
+      "recent_sales": [
+        {
+          "date": "5/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$6,969.69"
+        },
+        {
+          "date": "5/1/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3,200.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:01:34+00:00",
+          "listed_median": "$10,999.00",
+          "average_sale_price": 5084.84
+        }
+      ]
+    },
+    {
+      "product_id": "672823",
+      "name": "Boa Hancock (SP) - Extra Booster: One Piece Heroines Edition (EB-03-04)",
+      "url": "https://www.tcgplayer.com/product/672823?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672823_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "EB03-026",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "8000",
+        "Subtype(s)": "Kuja Pirates The Seven Warlords of the Sea",
+        "Attribute": "Special"
+      },
+      "listed_median": "$1,630.00",
+      "average_sale_price": 1622.26,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:27:57+00:00",
+      "recent_sales": [
+        {
+          "date": "8/6/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,409.99"
+        },
+        {
+          "date": "7/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,675.97"
+        },
+        {
+          "date": "7/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,632.34"
+        },
+        {
+          "date": "7/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,673.01"
+        },
+        {
+          "date": "7/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,720.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:27:57+00:00",
+          "listed_median": "$1,630.00",
+          "average_sale_price": 1622.26
+        }
+      ]
+    },
+    {
+      "product_id": "668335",
+      "name": "Boa Hancock - OP14-041 (Alternate Art) - The Azure Sea's Seven (OP14)",
+      "url": "https://www.tcgplayer.com/product/668335?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668335_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP14-041",
+        "Color": "Blue Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Kuja Pirates The Seven Warlords of the Sea",
+        "Attribute": "Special"
+      },
+      "listed_median": "$108.64",
+      "average_sale_price": 96.59,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:27:48+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$96.95"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$95.01"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$91.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$97.29"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$102.72"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:27:48+00:00",
+          "listed_median": "$108.64",
+          "average_sale_price": 96.59
         }
       ]
     },
@@ -918,6 +2142,110 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "705920",
+      "name": "Bonk Punch & Monster - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/705920?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/705920_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-028",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "3000",
+        "Subtype(s)": "Animal Red-Haired Pirates",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.30",
+      "average_sale_price": 0.23,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:36:11+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.27"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.20"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.20"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:36:11+00:00",
+          "listed_median": "$0.30",
+          "average_sale_price": 0.23
+        }
+      ]
+    },
+    {
+      "product_id": "712684",
+      "name": "Bonk Punch & Monster - The World's Strongest Warriors Release Event Cards (OP17 RE)",
+      "url": "https://www.tcgplayer.com/product/712684?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/image-missing.svg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-028",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "3000",
+        "Subtype(s)": "Animal Red-Haired Pirates",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$3.50",
+      "average_sale_price": 4.1,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:36:50+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$3.78"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$5.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$3.51"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:36:50+00:00",
+          "listed_median": "$3.50",
+          "average_sale_price": 4.1
+        }
+      ]
+    },
+    {
       "product_id": "696108",
       "name": "Borsalino (Manga) - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696108?Language=English",
@@ -974,6 +2302,176 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T22:08:58+00:00",
           "listed_median": "$1,044.14",
           "average_sale_price": 996.4
+        }
+      ]
+    },
+    {
+      "product_id": "712646",
+      "name": "Brogy - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712646?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712646_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-092",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "5000",
+        "Subtype(s)": "Giant Elbaph Giant Pirates",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.45",
+      "average_sale_price": 0.42,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:57:10+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.38"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.39"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.45"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.41"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.47"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:57:10+00:00",
+          "listed_median": "$0.45",
+          "average_sale_price": 0.42
+        }
+      ]
+    },
+    {
+      "product_id": "685363",
+      "name": "Brook (OP15-022) (Alternate Art) - Adventure on Kami's Island (OP15-EB04)",
+      "url": "https://www.tcgplayer.com/product/685363?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685363_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP15-022",
+        "Color": "Green Black",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$72.80",
+      "average_sale_price": 61.01,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:39:56+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$52.60"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$63.97"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$63.50"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$63.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$62.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:39:56+00:00",
+          "listed_median": "$72.80",
+          "average_sale_price": 61.01
+        }
+      ]
+    },
+    {
+      "product_id": "712645",
+      "name": "Brook - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712645?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712645_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-091",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "2000",
+        "Subtype(s)": "Elbaph Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.16,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:56:31+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:56:31+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.16
         }
       ]
     },
@@ -1159,6 +2657,71 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "596971",
+      "name": "Buggy (042) (Parallel) - Emperors in the New World (OP09)",
+      "url": "https://www.tcgplayer.com/product/596971?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/596971_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP09-042",
+        "Color": "Blue",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "The Four Emperors Cross Guild",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$35.20",
+      "average_sale_price": 26.95,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:30:25+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$27.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$26.93"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$26.95"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$26.93"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$26.93"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:14:41+00:00",
+          "listed_median": "$35.20",
+          "average_sale_price": 26.95
+        },
+        {
+          "scraped_at": "2026-08-27T00:30:25+00:00",
+          "listed_median": "$35.20",
+          "average_sale_price": 26.95
+        }
+      ]
+    },
+    {
       "product_id": "694645",
       "name": "Buggy (048) (Alternate Art) - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/694645?Language=English",
@@ -1281,6 +2844,342 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "596984",
+      "name": "Buggy (051) (Manga) - Emperors in the New World (OP09)",
+      "url": "https://www.tcgplayer.com/product/596984?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/596984_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP09-051",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "The Four Emperors Cross Guild",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$1,587.91",
+      "average_sale_price": 2025.0,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-26T18:22:08+00:00",
+      "recent_sales": [
+        {
+          "date": "5/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,650.00"
+        },
+        {
+          "date": "5/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,400.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:22:08+00:00",
+          "listed_median": "$1,587.91",
+          "average_sale_price": 2025.0
+        }
+      ]
+    },
+    {
+      "product_id": "635470",
+      "name": "Buggy (English Version 2nd Anniversary Set) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/635470?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/635470_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP09-042",
+        "Color": "Blue",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "The Four Emperors Cross Guild",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$82.60",
+      "average_sale_price": 66.57,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:35:16+00:00",
+      "recent_sales": [
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$73.28"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$67.99"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$67.99"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$54.23"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$69.35"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:35:16+00:00",
+          "listed_median": "$82.60",
+          "average_sale_price": 66.57
+        }
+      ]
+    },
+    {
+      "product_id": "707315",
+      "name": "Buggy (P-084) (SP) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707315?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707315_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-084",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "8000",
+        "Subtype(s)": "The Four Emperors Cross Guild",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$525.00",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:16:56+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:16:56+00:00",
+          "listed_median": "$525.00",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "671453",
+      "name": "Buggy - OP09-051 (SP) (Gold) - The Azure Sea's Seven (OP14)",
+      "url": "https://www.tcgplayer.com/product/671453?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671453_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP09-051",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "The Four Emperors Cross Guild",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$1,606.53",
+      "average_sale_price": 1590.72,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:23:25+00:00",
+      "recent_sales": [
+        {
+          "date": "7/6/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,575.00"
+        },
+        {
+          "date": "7/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,649.96"
+        },
+        {
+          "date": "6/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,550.00"
+        },
+        {
+          "date": "5/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,528.69"
+        },
+        {
+          "date": "5/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,649.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:23:25+00:00",
+          "listed_median": "$1,606.53",
+          "average_sale_price": 1590.72
+        }
+      ]
+    },
+    {
+      "product_id": "712605",
+      "name": "Building Snake (Pandaman Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712605?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712605_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-025",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "Red-Haired Pirates",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$9.93",
+      "average_sale_price": 9.29,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:28:42+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$8.63"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$8.60"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$7.62"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$12.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:30:51+00:00",
+          "listed_median": "$10.10",
+          "average_sale_price": 9.29
+        },
+        {
+          "scraped_at": "2026-08-26T21:28:42+00:00",
+          "listed_median": "$9.93",
+          "average_sale_price": 9.29
+        }
+      ]
+    },
+    {
+      "product_id": "708068",
+      "name": "Building Snake - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/708068?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708068_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-025",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "Red-Haired Pirates",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.70",
+      "average_sale_price": 0.64,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:31:03+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.65"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.67"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.64"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.58"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.67"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:15:20+00:00",
+          "listed_median": "$0.72",
+          "average_sale_price": 0.64
+        },
+        {
+          "scraped_at": "2026-08-27T00:31:03+00:00",
+          "listed_median": "$0.70",
+          "average_sale_price": 0.64
+        }
+      ]
+    },
+    {
       "product_id": "696010",
       "name": "Bunkov - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696010?Language=English",
@@ -1342,6 +3241,67 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712651",
+      "name": "Capone\"Gang\"Bege - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712651?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712651_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-100",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "8000",
+        "Subtype(s)": "Supernovas Firetank Pirates",
+        "Counter+": "2000",
+        "Attribute": "Ranged"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.11,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:00:24+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.15"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "8",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:00:24+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.11
+        }
+      ]
+    },
+    {
       "product_id": "696045",
       "name": "Captain Buggy's Our Savior!! - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696045?Language=English",
@@ -1396,6 +3356,175 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T20:17:03+00:00",
           "listed_median": "$0.13",
           "average_sale_price": 0.04
+        }
+      ]
+    },
+    {
+      "product_id": "712615",
+      "name": "Captain John - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712615?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712615_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-044",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "6000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$0.39",
+      "average_sale_price": 0.34,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:37:16+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.33"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.35"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.34"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.29"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.40"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:37:16+00:00",
+          "listed_median": "$0.39",
+          "average_sale_price": 0.34
+        }
+      ]
+    },
+    {
+      "product_id": "712652",
+      "name": "Caribou - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712652?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712652_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-101",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Supernovas Caribou Pirates",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T20:01:03+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:01:03+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "629187",
+      "name": "Carrot (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629187?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629187_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP08-021",
+        "Color": "Green",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Minks",
+        "Attribute": "Special"
+      },
+      "listed_median": "$1,969.98",
+      "average_sale_price": 519.38,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:17:13+00:00",
+      "recent_sales": [
+        {
+          "date": "6/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,099.99"
+        },
+        {
+          "date": "5/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$198.95"
+        },
+        {
+          "date": "5/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$149.00"
+        },
+        {
+          "date": "5/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$148.99"
+        },
+        {
+          "date": "5/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$999.98"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:17:13+00:00",
+          "listed_median": "$1,969.98",
+          "average_sale_price": 519.38
         }
       ]
     },
@@ -1526,6 +3655,568 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712656",
+      "name": "Charlotte Brulee - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712656?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712656_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-108",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "4000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T20:03:36+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:03:36+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "707116",
+      "name": "Charlotte Chiffon - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707116?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707116_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-105",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "0",
+        "Subtype(s)": "Firetank Pirates Former Big Mom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$0.54",
+      "average_sale_price": 0.39,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:51:35+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.39"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.39"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.38"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "12",
+          "price": "$0.38"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.43"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:51:35+00:00",
+          "listed_median": "$0.54",
+          "average_sale_price": 0.39
+        }
+      ]
+    },
+    {
+      "product_id": "712733",
+      "name": "Charlotte Chiffon - The World's Strongest Warriors Release Event Cards (OP17 RE)",
+      "url": "https://www.tcgplayer.com/product/712733?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/image-missing.svg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-105",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "0",
+        "Subtype(s)": "Firetank Pirates Former Big Mom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$2.40",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:52:13+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:52:13+00:00",
+          "listed_median": "$2.40",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "708209",
+      "name": "Charlotte Cracker - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/708209?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708209_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-104",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "4000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.80",
+      "average_sale_price": 0.71,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:50:19+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.75"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.69"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.75"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.69"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:50:19+00:00",
+          "listed_median": "$0.80",
+          "average_sale_price": 0.71
+        }
+      ]
+    },
+    {
+      "product_id": "712732",
+      "name": "Charlotte Cracker - The World's Strongest Warriors Release Event Cards (OP17 RE)",
+      "url": "https://www.tcgplayer.com/product/712732?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712732_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-104",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "4000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$13.00",
+      "average_sale_price": 10.1,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:50:57+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$9.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$9.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$8.45"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$11.60"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$11.44"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:50:57+00:00",
+          "listed_median": "$13.00",
+          "average_sale_price": 10.1
+        }
+      ]
+    },
+    {
+      "product_id": "712655",
+      "name": "Charlotte Daifuku (Pandaman Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712655?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712655_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-107",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "4000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "2000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$13.60",
+      "average_sale_price": 12.44,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:27:24+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$12.86"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$11.72"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$11.95"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$12.85"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$12.84"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:02:58+00:00",
+          "listed_median": "$13.60",
+          "average_sale_price": 0.0
+        },
+        {
+          "scraped_at": "2026-08-26T21:27:24+00:00",
+          "listed_median": "$13.60",
+          "average_sale_price": 12.44
+        }
+      ]
+    },
+    {
+      "product_id": "712654",
+      "name": "Charlotte Daifuku - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712654?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712654_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-107",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "4000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "2000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.80",
+      "average_sale_price": 0.81,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:09:54+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.84"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.79"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.70"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.79"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.91"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:02:19+00:00",
+          "listed_median": "$0.86",
+          "average_sale_price": 0.0
+        },
+        {
+          "scraped_at": "2026-08-26T22:09:54+00:00",
+          "listed_median": "$0.80",
+          "average_sale_price": 0.81
+        }
+      ]
+    },
+    {
+      "product_id": "632431",
+      "name": "Charlotte Katakuri (062) (Alternate Art) - A Fist of Divine Speed (OP11)",
+      "url": "https://www.tcgplayer.com/product/632431?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632431_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP11-062",
+        "Color": "Purple",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$43.72",
+      "average_sale_price": 35.23,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:50:09+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$39.95"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$39.71"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$18.01"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$35.00"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$43.48"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:50:09+00:00",
+          "listed_median": "$43.72",
+          "average_sale_price": 35.23
+        }
+      ]
+    },
+    {
+      "product_id": "498484",
+      "name": "Charlotte Katakuri (099) (Alternate Art) - Pillars of Strength (OP03)",
+      "url": "https://www.tcgplayer.com/product/498484?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/498484_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP03-099",
+        "Color": "Yellow",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$96.30",
+      "average_sale_price": 78.28,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:29:54+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$80.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$80.79"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "MP Foil",
+          "quantity": "1",
+          "price": "$70.00"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$80.79"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$79.80"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:29:54+00:00",
+          "listed_median": "$96.30",
+          "average_sale_price": 78.28
+        }
+      ]
+    },
+    {
       "product_id": "695325",
       "name": "Charlotte Katakuri (SP) - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/695325?Language=English",
@@ -1582,6 +4273,1305 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T00:01:03+00:00",
           "listed_median": "$119.99",
           "average_sale_price": 100.82
+        }
+      ]
+    },
+    {
+      "product_id": "710863",
+      "name": "Charlotte Katakuri - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710863?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710863_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-103",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "4000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.76",
+      "average_sale_price": 0.73,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:49:02+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.76"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.73"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.75"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.70"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.69"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:49:02+00:00",
+          "listed_median": "$0.76",
+          "average_sale_price": 0.73
+        }
+      ]
+    },
+    {
+      "product_id": "712731",
+      "name": "Charlotte Katakuri - The World's Strongest Warriors Release Event Cards (OP17 RE)",
+      "url": "https://www.tcgplayer.com/product/712731?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/image-missing.svg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-103",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "4000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$12.00",
+      "average_sale_price": 10.6,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:49:41+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$9.01"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$9.01"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$12.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$12.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$10.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:49:41+00:00",
+          "listed_median": "$12.00",
+          "average_sale_price": 10.6
+        }
+      ]
+    },
+    {
+      "product_id": "710540",
+      "name": "Charlotte Linlin (049) (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710540?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710540_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-049",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "7000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$46.40",
+      "average_sale_price": 49.33,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:27:33+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$46.90"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$49.95"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$49.94"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$49.97"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$49.91"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:27:33+00:00",
+          "listed_median": "$46.40",
+          "average_sale_price": 49.33
+        }
+      ]
+    },
+    {
+      "product_id": "712088",
+      "name": "Charlotte Linlin (049) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712088?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712088_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-049",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "7000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$0.99",
+      "average_sale_price": 0.93,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:06:02+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.95"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.94"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.97"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.94"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.87"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:06:02+00:00",
+          "listed_median": "$0.99",
+          "average_sale_price": 0.93
+        }
+      ]
+    },
+    {
+      "product_id": "498482",
+      "name": "Charlotte Linlin (077) (Alternate Art) - Pillars of Strength (OP03)",
+      "url": "https://www.tcgplayer.com/product/498482?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/498482_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP03-077",
+        "Color": "Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$34.01",
+      "average_sale_price": 27.79,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:24:59+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$28.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$28.99"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$28.00"
+        },
+        {
+          "date": "8/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$28.99"
+        },
+        {
+          "date": "8/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$24.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:09:13+00:00",
+          "listed_median": "$34.01",
+          "average_sale_price": 27.79
+        },
+        {
+          "scraped_at": "2026-08-27T00:24:59+00:00",
+          "listed_median": "$34.01",
+          "average_sale_price": 27.79
+        }
+      ]
+    },
+    {
+      "product_id": "707139",
+      "name": "Charlotte Linlin (099) (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707139?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707139_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP17-099",
+        "Color": "Yellow",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Subtype(s)": "The Four Emperors Big Mom Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$57.92",
+      "average_sale_price": 58.77,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:26:56+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$58.44"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$57.99"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$57.94"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$59.75"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$59.74"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:26:56+00:00",
+          "listed_median": "$57.92",
+          "average_sale_price": 58.77
+        }
+      ]
+    },
+    {
+      "product_id": "707138",
+      "name": "Charlotte Linlin (099) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707138?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707138_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP17-099",
+        "Color": "Yellow",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Subtype(s)": "The Four Emperors Big Mom Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$0.69",
+      "average_sale_price": 0.62,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:11:11+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.63"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.53"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.51"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.74"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.67"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:11:11+00:00",
+          "listed_median": "$0.69",
+          "average_sale_price": 0.62
+        }
+      ]
+    },
+    {
+      "product_id": "711324",
+      "name": "Charlotte Linlin (112) (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/711324?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711324_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-112",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "The Four Emperors Big Mom Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$37.61",
+      "average_sale_price": 36.4,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:30:07+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$35.97"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.49"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$37.62"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$38.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:30:07+00:00",
+          "listed_median": "$37.61",
+          "average_sale_price": 36.4
+        }
+      ]
+    },
+    {
+      "product_id": "708072",
+      "name": "Charlotte Linlin (112) (Manga) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/708072?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708072_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-112",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "The Four Emperors Big Mom Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$2,900.48",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:11:49+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:11:49+00:00",
+          "listed_median": "$2,900.48",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "711325",
+      "name": "Charlotte Linlin (112) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/711325?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711325_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-112",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "The Four Emperors Big Mom Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$6.12",
+      "average_sale_price": 5.58,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:49:14+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$5.75"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$5.47"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$5.76"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$5.47"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:49:14+00:00",
+          "listed_median": "$6.12",
+          "average_sale_price": 5.58
+        }
+      ]
+    },
+    {
+      "product_id": "706345",
+      "name": "Charlotte Linlin - Starter Deck 34: PURPLE Charlotte Katakuri (ST-34)",
+      "url": "https://www.tcgplayer.com/product/706345?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706345_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "ST34-004",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "The Four Emperors Big Mom Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$16.50",
+      "average_sale_price": 15.39,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T17:57:03+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$14.44"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$15.50"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$15.75"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$15.75"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$15.50"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T17:57:03+00:00",
+          "listed_median": "$16.50",
+          "average_sale_price": 15.39
+        }
+      ]
+    },
+    {
+      "product_id": "712658",
+      "name": "Charlotte Mont-d'or - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712658?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712658_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-111",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "4000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T20:04:52+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:04:52+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "712653",
+      "name": "Charlotte Oven - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712653?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712653_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-102",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "4000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$0.88",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T20:01:41+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:01:41+00:00",
+          "listed_median": "$0.88",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "712657",
+      "name": "Charlotte Perospero - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712657?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712657_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-110",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "4000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.13,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:04:14+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:04:14+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.13
+        }
+      ]
+    },
+    {
+      "product_id": "558089",
+      "name": "Charlotte Pudding (058) (Parallel) - Two Legends (OP08)",
+      "url": "https://www.tcgplayer.com/product/558089?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558089_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP08-058",
+        "Color": "Purple Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$99.99",
+      "average_sale_price": 75.19,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:43:20+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$75.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$85.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$82.97"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$48.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$85.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:43:20+00:00",
+          "listed_median": "$99.99",
+          "average_sale_price": 75.19
+        }
+      ]
+    },
+    {
+      "product_id": "629189",
+      "name": "Charlotte Pudding (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629189?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629189_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP08-058",
+        "Color": "Purple Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$1,999.99",
+      "average_sale_price": 677.0,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-26T19:01:08+00:00",
+      "recent_sales": [
+        {
+          "date": "5/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,199.01"
+        },
+        {
+          "date": "4/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$154.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:34:25+00:00",
+          "listed_median": "$1,999.99",
+          "average_sale_price": 677.0
+        },
+        {
+          "scraped_at": "2026-08-26T19:01:08+00:00",
+          "listed_median": "$1,999.99",
+          "average_sale_price": 677.0
+        }
+      ]
+    },
+    {
+      "product_id": "708074",
+      "name": "Charlotte Pudding - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/708074?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708074_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-109",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "4000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$2.44",
+      "average_sale_price": 2.35,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:58:20+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$2.49"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$2.32"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$2.30"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$2.32"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.32"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:58:20+00:00",
+          "listed_median": "$2.44",
+          "average_sale_price": 2.35
+        }
+      ]
+    },
+    {
+      "product_id": "707144",
+      "name": "Charlotte Smoothie - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707144?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707144_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-106",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "4000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$0.82",
+      "average_sale_price": 0.51,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:52:51+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.53"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.49"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.53"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:52:51+00:00",
+          "listed_median": "$0.82",
+          "average_sale_price": 0.51
+        }
+      ]
+    },
+    {
+      "product_id": "712734",
+      "name": "Charlotte Smoothie - The World's Strongest Warriors Release Event Cards (OP17 RE)",
+      "url": "https://www.tcgplayer.com/product/712734?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712734_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-106",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "4000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$5.00",
+      "average_sale_price": 5.4,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:53:30+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$4.01"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$5.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$6.99"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$5.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:53:30+00:00",
+          "listed_median": "$5.00",
+          "average_sale_price": 5.4
+        }
+      ]
+    },
+    {
+      "product_id": "419882",
+      "name": "Crocodile (001) - Super Pre-Release Starter Deck 3: The Seven Warlords of the Sea (ST-03 PRE)",
+      "url": "https://www.tcgplayer.com/product/419882?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/419882_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "ST03-001",
+        "Color": "Blue",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Baroque Works The Seven Warlords of the Sea",
+        "Attribute": "Special"
+      },
+      "listed_median": "$80.39",
+      "average_sale_price": 83.41,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:31:53+00:00",
+      "recent_sales": [
+        {
+          "date": "7/31/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$63.09"
+        },
+        {
+          "date": "7/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$81.38"
+        },
+        {
+          "date": "7/28/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$63.09"
+        },
+        {
+          "date": "7/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$93.50"
+        },
+        {
+          "date": "7/1/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$115.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:31:53+00:00",
+          "listed_median": "$80.39",
+          "average_sale_price": 83.41
+        }
+      ]
+    },
+    {
+      "product_id": "511766",
+      "name": "Crocodile (058) (Alternate Art) - Kingdoms of Intrigue (OP04)",
+      "url": "https://www.tcgplayer.com/product/511766?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/511766_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP04-058",
+        "Color": "Purple Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Baroque Works The Seven Warlords of the Sea",
+        "Attribute": "Special"
+      },
+      "listed_median": "$57.26",
+      "average_sale_price": 48.34,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:46:39+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$46.06"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$50.99"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$48.23"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$48.20"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:46:39+00:00",
+          "listed_median": "$57.26",
+          "average_sale_price": 48.34
+        }
+      ]
+    },
+    {
+      "product_id": "454589",
+      "name": "Crocodile (062) (Parallel) - Romance Dawn (OP01)",
+      "url": "https://www.tcgplayer.com/product/454589?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454589_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP01-062",
+        "Color": "Blue Purple",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Baroque Works The Seven Warlords of the Sea",
+        "Attribute": "Special"
+      },
+      "listed_median": "$140.00",
+      "average_sale_price": 135.6,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:18:34+00:00",
+      "recent_sales": [
+        {
+          "date": "8/6/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$139.00"
+        },
+        {
+          "date": "8/4/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$127.99"
+        },
+        {
+          "date": "8/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$139.99"
+        },
+        {
+          "date": "7/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$130.00"
+        },
+        {
+          "date": "7/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$141.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:18:34+00:00",
+          "listed_median": "$140.00",
+          "average_sale_price": 135.6
+        }
+      ]
+    },
+    {
+      "product_id": "683981",
+      "name": "Crocodile - OP14-120 (CS26-27 Regionals Season 1) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/683981?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/683981_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "OP14-120",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "8",
+        "Power": "10000",
+        "Subtype(s)": "Baroque Works The Seven Warlords of the Sea",
+        "Attribute": "Special"
+      },
+      "listed_median": "$1,499.99",
+      "average_sale_price": 1329.79,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:27:18+00:00",
+      "recent_sales": [
+        {
+          "date": "8/5/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,399.00"
+        },
+        {
+          "date": "5/5/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,249.99"
+        },
+        {
+          "date": "5/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,299.99"
+        },
+        {
+          "date": "5/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,499.99"
+        },
+        {
+          "date": "5/1/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,200.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:27:18+00:00",
+          "listed_median": "$1,499.99",
+          "average_sale_price": 1329.79
         }
       ]
     },
@@ -1646,6 +5636,67 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712603",
+      "name": "Crone Oil - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712603?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712603_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-021",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "0",
+        "Subtype(s)": "Red-Haired Pirates Allies",
+        "Counter+": "2000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.49",
+      "average_sale_price": 0.31,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:29:34+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.44"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.21"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.44"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.20"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:29:34+00:00",
+          "listed_median": "$0.49",
+          "average_sale_price": 0.31
+        }
+      ]
+    },
+    {
       "product_id": "695988",
       "name": "Curiel - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/695988?Language=English",
@@ -1697,6 +5748,114 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T23:01:59+00:00",
           "listed_median": "$0.15",
           "average_sale_price": 0.06
+        }
+      ]
+    },
+    {
+      "product_id": "712745",
+      "name": "DON!! Card (World United) (Luffy) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/712745?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712745_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$19.49",
+      "average_sale_price": 18.17,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T17:38:23+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$19.25"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$19.24"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$17.95"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$15.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$18.40"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T17:38:23+00:00",
+          "listed_median": "$19.49",
+          "average_sale_price": 18.17
+        }
+      ]
+    },
+    {
+      "product_id": "712744",
+      "name": "DON!! Card (World United) (Zoro) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/712744?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712744_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$19.40",
+      "average_sale_price": 18.2,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T17:39:09+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$19.40"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$19.38"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$19.25"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$17.96"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$14.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T17:39:09+00:00",
+          "listed_median": "$19.40",
+          "average_sale_price": 18.2
         }
       ]
     },
@@ -1757,6 +5916,166 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T22:25:12+00:00",
           "listed_median": "$0.15",
           "average_sale_price": 0.09
+        }
+      ]
+    },
+    {
+      "product_id": "712621",
+      "name": "Don Marlon - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712621?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712621_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-052",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "5000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Ranged"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.13,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:41:06+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.12"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:41:06+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.13
+        }
+      ]
+    },
+    {
+      "product_id": "712660",
+      "name": "Don't you know that even in the cruel world of pirates there's still a code of honor?!! - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712660?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712660_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-115",
+        "Color": "Yellow",
+        "Card Type": "Event",
+        "Cost": "1",
+        "Subtype(s)": "The Four Emperors Big Mom Pirates"
+      },
+      "listed_median": "$0.86",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T20:06:09+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:06:09+00:00",
+          "listed_median": "$0.86",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "510897",
+      "name": "Donquixote Doflamingo (019) (Alternate Art) - Kingdoms of Intrigue (OP04)",
+      "url": "https://www.tcgplayer.com/product/510897?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/510897_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP04-019",
+        "Color": "Green Purple",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Donquixote Pirates The Seven Warlords of the Sea",
+        "Attribute": "Special"
+      },
+      "listed_median": "$74.98",
+      "average_sale_price": 50.79,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:35:55+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$53.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$53.99"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$43.99"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$57.99"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$43.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:35:55+00:00",
+          "listed_median": "$74.98",
+          "average_sale_price": 50.79
         }
       ]
     },
@@ -1822,6 +6141,60 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "454586",
+      "name": "Donquixote Doflamingo (060) (Parallel) - Romance Dawn (OP01)",
+      "url": "https://www.tcgplayer.com/product/454586?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454586_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP01-060",
+        "Color": "Blue",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Donquixote Pirates The Seven Warlords of the Sea",
+        "Attribute": "Special"
+      },
+      "listed_median": "$308.99",
+      "average_sale_price": 230.07,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:09:59+00:00",
+      "recent_sales": [
+        {
+          "date": "8/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$248.67"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$83.95"
+        },
+        {
+          "date": "8/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$309.99"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$259.06"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:09:59+00:00",
+          "listed_median": "$308.99",
+          "average_sale_price": 230.07
+        }
+      ]
+    },
+    {
       "product_id": "696057",
       "name": "Donquixote Doflamingo (069) - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696057?Language=English",
@@ -1878,6 +6251,126 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T20:24:49+00:00",
           "listed_median": "$0.12",
           "average_sale_price": 0.09
+        }
+      ]
+    },
+    {
+      "product_id": "643799",
+      "name": "Donquixote Rosinante (061) (Alternate Art) - Legacy of the Master (OP12)",
+      "url": "https://www.tcgplayer.com/product/643799?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643799_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP12-061",
+        "Color": "Purple Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Donquixote Pirates Navy",
+        "Attribute": "Special"
+      },
+      "listed_median": "$40.66",
+      "average_sale_price": 35.39,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:55:45+00:00",
+      "recent_sales": [
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$36.98"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$35.99"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$32.00"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$35.99"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$35.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:55:45+00:00",
+          "listed_median": "$40.66",
+          "average_sale_price": 35.39
+        }
+      ]
+    },
+    {
+      "product_id": "629170",
+      "name": "Donquixote Rosinante (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629170?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629170_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP05-022",
+        "Color": "Blue Green",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Donquixote Pirates Navy",
+        "Attribute": "Special"
+      },
+      "listed_median": "$3,500.00",
+      "average_sale_price": 776.0,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:12:03+00:00",
+      "recent_sales": [
+        {
+          "date": "7/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,100.00"
+        },
+        {
+          "date": "6/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$999.99"
+        },
+        {
+          "date": "6/6/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$850.00"
+        },
+        {
+          "date": "5/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$129.99"
+        },
+        {
+          "date": "5/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$800.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:12:03+00:00",
+          "listed_median": "$3,500.00",
+          "average_sale_price": 776.0
         }
       ]
     },
@@ -1943,6 +6436,181 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712640",
+      "name": "Dorry - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712640?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712640_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-085",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "5000",
+        "Subtype(s)": "Giant Elbaph Giant Pirates",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.45",
+      "average_sale_price": 0.57,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:53:18+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.24"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.38"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.97"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.28"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.97"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:53:18+00:00",
+          "listed_median": "$0.45",
+          "average_sale_price": 0.57
+        }
+      ]
+    },
+    {
+      "product_id": "710762",
+      "name": "Dracule Mihawk (2026 PSA Magazine Promo) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/710762?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710762_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP14-020",
+        "Color": "Green",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "The Seven Warlords of the Sea",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$120.00",
+      "average_sale_price": 98.67,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:27:08+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$99.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$98.46"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$95.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$99.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:27:08+00:00",
+          "listed_median": "$120.00",
+          "average_sale_price": 98.67
+        }
+      ]
+    },
+    {
+      "product_id": "666525",
+      "name": "Dracule Mihawk - OP14-020 (Alternate Art) - The Azure Sea's Seven (OP14)",
+      "url": "https://www.tcgplayer.com/product/666525?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666525_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP14-020",
+        "Color": "Green",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "The Seven Warlords of the Sea",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$75.00",
+      "average_sale_price": 66.71,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:39:15+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$66.60"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$66.50"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$65.49"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$67.97"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$67.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:39:15+00:00",
+          "listed_median": "$75.00",
+          "average_sale_price": 66.71
+        }
+      ]
+    },
+    {
       "product_id": "696072",
       "name": "Dracule Mihawk - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696072?Language=English",
@@ -1993,6 +6661,498 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T20:34:26+00:00",
           "listed_median": "$0.13",
           "average_sale_price": 0.03
+        }
+      ]
+    },
+    {
+      "product_id": "579372",
+      "name": "Drum Kingdom (Championship 2024 Finalist Card Set) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/579372?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/579372_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP08-020",
+        "Color": "Red",
+        "Card Type": "Stage",
+        "Cost": "1",
+        "Subtype(s)": "Drum Kingdom"
+      },
+      "listed_median": "-",
+      "average_sale_price": 1799.0,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-26T18:20:10+00:00",
+      "recent_sales": [
+        {
+          "date": "6/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,799.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:20:10+00:00",
+          "listed_median": "-",
+          "average_sale_price": 1799.0
+        }
+      ]
+    },
+    {
+      "product_id": "622725",
+      "name": "Drum Kingdom (Championship 2024 Top Player Pack Vol. 2) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/622725?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/622725_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP08-020",
+        "Color": "Red",
+        "Card Type": "Stage",
+        "Cost": "1",
+        "Subtype(s)": "Drum Kingdom"
+      },
+      "listed_median": "$1,799.99",
+      "average_sale_price": 858.33,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T18:32:30+00:00",
+      "recent_sales": [
+        {
+          "date": "6/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,500.00"
+        },
+        {
+          "date": "5/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$999.99"
+        },
+        {
+          "date": "5/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$75.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:32:30+00:00",
+          "listed_median": "$1,799.99",
+          "average_sale_price": 858.33
+        }
+      ]
+    },
+    {
+      "product_id": "712638",
+      "name": "Drunken Dragon Bagua - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712638?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712638_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-078",
+        "Color": "Purple",
+        "Card Type": "Event",
+        "Cost": "2",
+        "Subtype(s)": "The Four Emperors Animal Kingdom Pirates"
+      },
+      "listed_median": "$0.23",
+      "average_sale_price": 0.13,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:52:02+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:52:02+00:00",
+          "listed_median": "$0.23",
+          "average_sale_price": 0.13
+        }
+      ]
+    },
+    {
+      "product_id": "483470",
+      "name": "Edward.Newgate (001) (Alternate Art) - Paramount War (OP02)",
+      "url": "https://www.tcgplayer.com/product/483470?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/483470_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP02-001",
+        "Color": "Red",
+        "Card Type": "Leader",
+        "Life": "6",
+        "Power": "6000",
+        "Subtype(s)": "The Four Emperors Whitebeard Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$113.00",
+      "average_sale_price": 100.41,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:25:50+00:00",
+      "recent_sales": [
+        {
+          "date": "8/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$98.00"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$101.05"
+        },
+        {
+          "date": "8/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$98.01"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$102.00"
+        },
+        {
+          "date": "8/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$103.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:25:50+00:00",
+          "listed_median": "$113.00",
+          "average_sale_price": 100.41
+        }
+      ]
+    },
+    {
+      "product_id": "705924",
+      "name": "Edward.Newgate (001) (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/705924?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/705924_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP17-001",
+        "Color": "Red",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "The Four Emperors Whitebeard Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$58.00",
+      "average_sale_price": 64.65,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T20:25:39+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$49.98"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$56.98"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$86.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:25:39+00:00",
+          "listed_median": "$58.00",
+          "average_sale_price": 64.65
+        }
+      ]
+    },
+    {
+      "product_id": "705925",
+      "name": "Edward.Newgate (001) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/705925?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/705925_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP17-001",
+        "Color": "Red",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "The Four Emperors Whitebeard Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$1.00",
+      "average_sale_price": 0.42,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:00:53+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.58"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.51"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.53"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:00:53+00:00",
+          "listed_median": "$1.00",
+          "average_sale_price": 0.42
+        }
+      ]
+    },
+    {
+      "product_id": "708077",
+      "name": "Edward.Newgate (005) (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/708077?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708077_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-005",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "The Four Emperors Whitebeard Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$54.99",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:19:30+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:19:30+00:00",
+          "listed_median": "$54.99",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "712083",
+      "name": "Edward.Newgate (005) (Manga) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712083?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712083_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-005",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "The Four Emperors Whitebeard Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$2,249.99",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:15:01+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:15:01+00:00",
+          "listed_median": "$2,249.99",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "711499",
+      "name": "Edward.Newgate (005) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/711499?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711499_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-005",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "The Four Emperors Whitebeard Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$6.23",
+      "average_sale_price": 5.4,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:49:50+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$5.59"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$4.92"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$5.20"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.40"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "LP Foil",
+          "quantity": "4",
+          "price": "$6.89"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:49:50+00:00",
+          "listed_median": "$6.23",
+          "average_sale_price": 5.4
+        }
+      ]
+    },
+    {
+      "product_id": "710858",
+      "name": "Edward.Newgate (040) (TR) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710858?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710858_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "TR",
+        "Number": "OP17-040",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "8000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$166.59",
+      "average_sale_price": 161.29,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T20:16:21+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$143.91"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$169.99"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$169.98"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:16:21+00:00",
+          "listed_median": "$166.59",
+          "average_sale_price": 161.29
         }
       ]
     },
@@ -2053,6 +7213,66 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T23:40:57+00:00",
           "listed_median": "$37.23",
           "average_sale_price": 29.96
+        }
+      ]
+    },
+    {
+      "product_id": "546699",
+      "name": "Edward.Newgate (Special Goods Set -Former Four Emperors-) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/546699?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/546699_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP02-001",
+        "Color": "Red",
+        "Card Type": "Leader",
+        "Life": "6",
+        "Power": "6000",
+        "Subtype(s)": "The Four Emperors Whitebeard Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$48.00",
+      "average_sale_price": 32.82,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:51:32+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$33.53"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$33.53"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$33.53"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$35.51"
+        },
+        {
+          "date": "7/30/26",
+          "condition": "DMG Foil",
+          "quantity": "1",
+          "price": "$27.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:51:32+00:00",
+          "listed_median": "$48.00",
+          "average_sale_price": 32.82
         }
       ]
     },
@@ -2294,6 +7514,981 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "483949",
+      "name": "Emporio.Ivankov (049) (Alternate Art) - Paramount War (OP02)",
+      "url": "https://www.tcgplayer.com/product/483949?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/483949_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP02-049",
+        "Color": "Blue",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Revolutionary Army Impel Down",
+        "Attribute": "Special"
+      },
+      "listed_median": "$44.00",
+      "average_sale_price": 40.38,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:54:23+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$40.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$39.88"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$39.00"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$38.04"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$44.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:54:23+00:00",
+          "listed_median": "$44.00",
+          "average_sale_price": 40.38
+        }
+      ]
+    },
+    {
+      "product_id": "527021",
+      "name": "Enel (098) (Alternate Art) - Awakening of the New Era (OP05)",
+      "url": "https://www.tcgplayer.com/product/527021?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/527021_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP05-098",
+        "Color": "Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Sky Island",
+        "Attribute": "Special"
+      },
+      "listed_median": "$41.67",
+      "average_sale_price": 34.2,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:57:06+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.01"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.00"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.01"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$33.99"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$35.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:57:06+00:00",
+          "listed_median": "$41.67",
+          "average_sale_price": 34.2
+        }
+      ]
+    },
+    {
+      "product_id": "685406",
+      "name": "Enel (OP15-058) (Alternate Art) - Adventure on Kami's Island (OP15-EB04)",
+      "url": "https://www.tcgplayer.com/product/685406?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685406_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP15-058",
+        "Color": "Purple",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Sky Island",
+        "Attribute": "Special"
+      },
+      "listed_median": "$36.73",
+      "average_sale_price": 28.2,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:26:22+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$30.55"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$28.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$27.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$26.56"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$27.89"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:10:38+00:00",
+          "listed_median": "$37.00",
+          "average_sale_price": 28.2
+        },
+        {
+          "scraped_at": "2026-08-27T00:26:22+00:00",
+          "listed_median": "$36.73",
+          "average_sale_price": 28.2
+        }
+      ]
+    },
+    {
+      "product_id": "629172",
+      "name": "Enel (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629172?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629172_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP05-098",
+        "Color": "Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Sky Island",
+        "Attribute": "Special"
+      },
+      "listed_median": "$1,600.00",
+      "average_sale_price": 689.19,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:13:58+00:00",
+      "recent_sales": [
+        {
+          "date": "7/15/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$900.00"
+        },
+        {
+          "date": "5/9/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$600.00"
+        },
+        {
+          "date": "5/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$299.99"
+        },
+        {
+          "date": "4/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$845.95"
+        },
+        {
+          "date": "4/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$800.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:13:58+00:00",
+          "listed_median": "$1,600.00",
+          "average_sale_price": 689.19
+        }
+      ]
+    },
+    {
+      "product_id": "415183",
+      "name": "Eustass\"Captain\"Kid (001) - Super Pre-Release Starter Deck 2: Worst Generation (ST-02 PRE)",
+      "url": "https://www.tcgplayer.com/product/415183?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/415183_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "ST02-001",
+        "Color": "Green",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Kid Pirates Supernovas",
+        "Attribute": "Special"
+      },
+      "listed_median": "$99.00",
+      "average_sale_price": 82.22,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:37:14+00:00",
+      "recent_sales": [
+        {
+          "date": "8/8/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$92.99"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$43.62"
+        },
+        {
+          "date": "7/8/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$118.98"
+        },
+        {
+          "date": "6/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$125.49"
+        },
+        {
+          "date": "6/26/26",
+          "condition": "HP Foil",
+          "quantity": "1",
+          "price": "$30.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:37:14+00:00",
+          "listed_median": "$99.00",
+          "average_sale_price": 82.22
+        }
+      ]
+    },
+    {
+      "product_id": "617148",
+      "name": "Eustass\"Captain\"Kid (099) (Parallel) - Royal Blood (OP10)",
+      "url": "https://www.tcgplayer.com/product/617148?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617148_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP10-099",
+        "Color": "Yellow",
+        "Card Type": "Leader",
+        "Power": "5000",
+        "Subtype(s)": "Kid Pirates Supernovas",
+        "Attribute": "Special"
+      },
+      "listed_median": "$41.34",
+      "average_sale_price": 37.23,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:56:25+00:00",
+      "recent_sales": [
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$38.38"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$38.48"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$37.59"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$36.49"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$35.21"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:56:25+00:00",
+          "listed_median": "$41.34",
+          "average_sale_price": 37.23
+        }
+      ]
+    },
+    {
+      "product_id": "712596",
+      "name": "Fossa - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712596?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712596_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-010",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "3000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.15,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T19:25:04+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:25:04+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.15
+        }
+      ]
+    },
+    {
+      "product_id": "545850",
+      "name": "Foxy (059) (Parallel) - 500 Years in the Future (OP07)",
+      "url": "https://www.tcgplayer.com/product/545850?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545850_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP07-059",
+        "Color": "Purple",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Foxy Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$37.16",
+      "average_sale_price": 29.64,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:28:24+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$27.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$27.29"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.90"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.99"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:12:40+00:00",
+          "listed_median": "$37.16",
+          "average_sale_price": 29.64
+        },
+        {
+          "scraped_at": "2026-08-27T00:28:24+00:00",
+          "listed_median": "$37.16",
+          "average_sale_price": 29.64
+        }
+      ]
+    },
+    {
+      "product_id": "629182",
+      "name": "Foxy (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629182?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629182_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP07-059",
+        "Color": "Purple",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Foxy Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$790.00",
+      "average_sale_price": 760.99,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:05:24+00:00",
+      "recent_sales": [
+        {
+          "date": "7/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$784.99"
+        },
+        {
+          "date": "6/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$794.98"
+        },
+        {
+          "date": "6/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$675.00"
+        },
+        {
+          "date": "6/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$750.00"
+        },
+        {
+          "date": "5/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$799.97"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:05:24+00:00",
+          "listed_median": "$790.00",
+          "average_sale_price": 760.99
+        }
+      ]
+    },
+    {
+      "product_id": "712644",
+      "name": "Franky - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712644?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712644_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-090",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "2000",
+        "Subtype(s)": "Elbaph Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.16,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:55:53+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:55:53+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.16
+        }
+      ]
+    },
+    {
+      "product_id": "712606",
+      "name": "Fugar - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712606?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712606_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-026",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "2000",
+        "Subtype(s)": "Red-Haired Pirates Allies",
+        "Counter+": "2000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.30",
+      "average_sale_price": 0.21,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:31:30+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.19"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.17"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.21"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.29"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:31:30+00:00",
+          "listed_median": "$0.30",
+          "average_sale_price": 0.21
+        }
+      ]
+    },
+    {
+      "product_id": "712661",
+      "name": "Fulgora - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712661?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712661_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-116",
+        "Color": "Yellow",
+        "Card Type": "Event",
+        "Cost": "1",
+        "Subtype(s)": "The Four Emperors Big Mom Pirates"
+      },
+      "listed_median": "$0.48",
+      "average_sale_price": 0.49,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:06:47+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.42"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.48"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.75"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.41"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.41"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:06:47+00:00",
+          "listed_median": "$0.48",
+          "average_sale_price": 0.49
+        }
+      ]
+    },
+    {
+      "product_id": "710614",
+      "name": "Fullalead - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710614?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710614_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-057",
+        "Color": "Blue",
+        "Card Type": "Stage",
+        "Cost": "1",
+        "Subtype(s)": "Rocks Pirates"
+      },
+      "listed_median": "$0.81",
+      "average_sale_price": 0.62,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:39:24+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.64"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.63"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.49"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.68"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.66"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:39:24+00:00",
+          "listed_median": "$0.81",
+          "average_sale_price": 0.62
+        }
+      ]
+    },
+    {
+      "product_id": "712700",
+      "name": "Fullalead - The World's Strongest Warriors Release Event Cards (OP17 RE)",
+      "url": "https://www.tcgplayer.com/product/712700?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712700_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-057",
+        "Color": "Blue",
+        "Card Type": "Stage",
+        "Cost": "1",
+        "Subtype(s)": "Rocks Pirates"
+      },
+      "listed_median": "$3.78",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:40:02+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:40:02+00:00",
+          "listed_median": "$3.78",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "712600",
+      "name": "Ga Ha Ha Ha!! - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712600?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712600_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-017",
+        "Color": "Red",
+        "Card Type": "Event",
+        "Cost": "1",
+        "Subtype(s)": "The Four Emperors Whitebeard Pirates"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.1,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:27:38+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:27:38+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.1
+        }
+      ]
+    },
+    {
+      "product_id": "712614",
+      "name": "Ganzui - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712614?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712614_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-043",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "7000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$0.42",
+      "average_sale_price": 0.31,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:36:37+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.35"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.29"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.29"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.29"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.35"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:36:37+00:00",
+          "listed_median": "$0.42",
+          "average_sale_price": 0.31
+        }
+      ]
+    },
+    {
+      "product_id": "629178",
+      "name": "Gecko Moria (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629178?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629178_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP06-080",
+        "Color": "Black",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "The Seven Warlords of the Sea Thriller Bark Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$950.24",
+      "average_sale_price": 105.29,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:04:46+00:00",
+      "recent_sales": [
+        {
+          "date": "6/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$100.00"
+        },
+        {
+          "date": "6/5/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$82.50"
+        },
+        {
+          "date": "6/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$75.00"
+        },
+        {
+          "date": "6/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$180.00"
+        },
+        {
+          "date": "5/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$88.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:04:46+00:00",
+          "listed_median": "$950.24",
+          "average_sale_price": 105.29
+        }
+      ]
+    },
+    {
       "product_id": "696087",
       "name": "Gecko Moria - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696087?Language=English",
@@ -2360,6 +8555,252 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712639",
+      "name": "Gerd - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712639?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712639_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-081",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "3000",
+        "Subtype(s)": "Giant Elbaph New Giant Pirates",
+        "Counter+": "2000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.87",
+      "average_sale_price": 0.81,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:09:15+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.91"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.88"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.87"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.81"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.75"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.88"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.75"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:52:40+00:00",
+          "listed_median": "$0.87",
+          "average_sale_price": 0.81
+        },
+        {
+          "scraped_at": "2026-08-26T22:09:15+00:00",
+          "listed_median": "$0.87",
+          "average_sale_price": 0.81
+        }
+      ]
+    },
+    {
+      "product_id": "711513",
+      "name": "Gloriosa (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/711513?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711513_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-046",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "1000",
+        "Subtype(s)": "Amazon Lily Rocks Pirates",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$40.54",
+      "average_sale_price": 46.98,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:29:29+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$39.94"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$39.97"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$49.99"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$39.99"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$64.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:29:29+00:00",
+          "listed_median": "$40.54",
+          "average_sale_price": 46.98
+        }
+      ]
+    },
+    {
+      "product_id": "710541",
+      "name": "Gloriosa - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710541?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710541_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-046",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "1000",
+        "Subtype(s)": "Amazon Lily Rocks Pirates",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$5.00",
+      "average_sale_price": 3.44,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:51:07+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$3.81"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$3.61"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$3.67"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3.30"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.80"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:51:07+00:00",
+          "listed_median": "$5.00",
+          "average_sale_price": 3.44
+        }
+      ]
+    },
+    {
+      "product_id": "712121",
+      "name": "Gol.D.Roger (P-107) (SP) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712121?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712121_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-107",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "8",
+        "Power": "10000",
+        "Subtype(s)": "Roger Pirates King of the Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$445.00",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:13:44+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:13:44+00:00",
+          "listed_median": "$445.00",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
       "product_id": "696026",
       "name": "Gum-Gum Hammer Rifle - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696026?Language=English",
@@ -2418,6 +8859,52 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712650",
+      "name": "Gum-Gum Kong Gun - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712650?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712650_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-098",
+        "Color": "Black",
+        "Card Type": "Event",
+        "Cost": "1",
+        "Subtype(s)": "Elbaph The Four Emperors Straw Hat Crew"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.16,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:59:44+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:59:44+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.16
+        }
+      ]
+    },
+    {
       "product_id": "696025",
       "name": "Gum-Gum Twin Jet Pistol - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696025?Language=English",
@@ -2472,6 +8959,115 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T19:54:42+00:00",
           "listed_median": "$0.11",
           "average_sale_price": 0.05
+        }
+      ]
+    },
+    {
+      "product_id": "712643",
+      "name": "Hajrudin (Pandaman Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712643?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712643_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-088",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "8000",
+        "Subtype(s)": "Giant New Giant Pirates Elbaph",
+        "Counter+": "2000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$4.27",
+      "average_sale_price": 2.52,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:50:28+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.80"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.75"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$3.40"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$3.34"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.33"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:55:14+00:00",
+          "listed_median": "$4.44",
+          "average_sale_price": 2.83
+        },
+        {
+          "scraped_at": "2026-08-26T21:50:28+00:00",
+          "listed_median": "$4.27",
+          "average_sale_price": 2.52
+        }
+      ]
+    },
+    {
+      "product_id": "712642",
+      "name": "Hajrudin - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712642?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712642_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-088",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "8000",
+        "Subtype(s)": "Giant Elbaph New Giant Pirates",
+        "Counter+": "2000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.1,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:54:36+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:54:36+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.1
         }
       ]
     },
@@ -2539,6 +9135,125 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "544550",
+      "name": "Hannyabal (Alternate Art) - Extra Booster: Memorial Collection (EB-01)",
+      "url": "https://www.tcgplayer.com/product/544550?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544550_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "EB01-021",
+        "Color": "Blue Purple",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Impel Down",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$32.19",
+      "average_sale_price": 24.52,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:22:52+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$23.00"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$26.40"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$24.60"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$24.59"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$24.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:07:05+00:00",
+          "listed_median": "$32.19",
+          "average_sale_price": 24.52
+        },
+        {
+          "scraped_at": "2026-08-27T00:22:52+00:00",
+          "listed_median": "$32.19",
+          "average_sale_price": 24.52
+        }
+      ]
+    },
+    {
+      "product_id": "629087",
+      "name": "Hannyabal (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629087?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629087_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "EB01-021",
+        "Color": "Blue Purple",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Impel Down",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$500.00",
+      "average_sale_price": 254.38,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:08:02+00:00",
+      "recent_sales": [
+        {
+          "date": "6/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$129.95"
+        },
+        {
+          "date": "6/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$70.00"
+        },
+        {
+          "date": "5/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$500.00"
+        },
+        {
+          "date": "5/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$71.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:08:02+00:00",
+          "listed_median": "$500.00",
+          "average_sale_price": 254.38
+        }
+      ]
+    },
+    {
       "product_id": "696060",
       "name": "Hannyabal - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696060?Language=English",
@@ -2596,6 +9311,551 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T20:26:44+00:00",
           "listed_median": "$0.10",
           "average_sale_price": 0.02
+        }
+      ]
+    },
+    {
+      "product_id": "712595",
+      "name": "Haruta - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712595?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712595_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-009",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.48",
+      "average_sale_price": 0.44,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:24:25+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.45"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.43"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.42"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:24:25+00:00",
+          "listed_median": "$0.48",
+          "average_sale_price": 0.44
+        }
+      ]
+    },
+    {
+      "product_id": "629174",
+      "name": "Hody Jones (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629174?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629174_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP06-020",
+        "Color": "Green",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Fish-Man New Fish-Man Pirates",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$700.00",
+      "average_sale_price": 383.99,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:08:41+00:00",
+      "recent_sales": [
+        {
+          "date": "6/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$700.00"
+        },
+        {
+          "date": "5/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$499.98"
+        },
+        {
+          "date": "5/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$69.99"
+        },
+        {
+          "date": "5/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$599.99"
+        },
+        {
+          "date": "5/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$50.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:08:41+00:00",
+          "listed_median": "$700.00",
+          "average_sale_price": 383.99
+        }
+      ]
+    },
+    {
+      "product_id": "708076",
+      "name": "Hongo - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/708076?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708076_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-029",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "4000",
+        "Subtype(s)": "Red-Haired Pirates",
+        "Counter+": "2000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.92",
+      "average_sale_price": 0.68,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:32:19+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.67"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.65"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.76"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.64"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:07:19+00:00",
+          "listed_median": "$0.92",
+          "average_sale_price": 0.68
+        },
+        {
+          "scraped_at": "2026-08-26T22:32:19+00:00",
+          "listed_median": "$0.92",
+          "average_sale_price": 0.68
+        }
+      ]
+    },
+    {
+      "product_id": "708398",
+      "name": "Howling Gab - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/708398?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708398_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-024",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "8",
+        "Power": "8000",
+        "Subtype(s)": "Red-Haired Pirates",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.1,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:34:54+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "5",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:34:54+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.1
+        }
+      ]
+    },
+    {
+      "product_id": "712681",
+      "name": "Howling Gab - The World's Strongest Warriors Release Event Cards (OP17 RE)",
+      "url": "https://www.tcgplayer.com/product/712681?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/image-missing.svg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-024",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "8",
+        "Power": "8000",
+        "Subtype(s)": "Red-Haired Pirates",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$3.25",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:35:32+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:35:32+00:00",
+          "listed_median": "$3.25",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "712602",
+      "name": "I Don't Have Time to Chat with Snot-Nosed Brats - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712602?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712602_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-019",
+        "Color": "Red",
+        "Card Type": "Event",
+        "Cost": "1",
+        "Subtype(s)": "The Four Emperors Whitebeard Pirates"
+      },
+      "listed_median": "$0.95",
+      "average_sale_price": 0.76,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:28:55+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.69"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.68"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.71"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.71"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:28:55+00:00",
+          "listed_median": "$0.95",
+          "average_sale_price": 0.76
+        }
+      ]
+    },
+    {
+      "product_id": "712611",
+      "name": "I Think He's Seen an Ugly Future... - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712611?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712611_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-038",
+        "Color": "Green",
+        "Card Type": "Event",
+        "Cost": "0",
+        "Subtype(s)": "Red-Haired Pirates"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.16,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:34:42+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "8",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:34:42+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.16
+        }
+      ]
+    },
+    {
+      "product_id": "712649",
+      "name": "I'll Feed on This Rage and Use It to Bring the World to Ruin!!! - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712649?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712649_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-097",
+        "Color": "Black",
+        "Card Type": "Event",
+        "Cost": "1",
+        "Subtype(s)": "Giant Elbaph"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.1,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:59:06+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:59:06+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.1
+        }
+      ]
+    },
+    {
+      "product_id": "712648",
+      "name": "I'm Luffy!! The Man Who Will Be King of the Pirates!! - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712648?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712648_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-096",
+        "Color": "Black",
+        "Card Type": "Event",
+        "Cost": "1",
+        "Subtype(s)": "Elbaph The Four Emperors Straw Hat Crew"
+      },
+      "listed_median": "$0.91",
+      "average_sale_price": 0.81,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:58:27+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.81"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.79"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.81"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.81"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:58:27+00:00",
+          "listed_median": "$0.91",
+          "average_sale_price": 0.81
+        }
+      ]
+    },
+    {
+      "product_id": "533883",
+      "name": "I'm invincible - Starter Deck 11: Uta (ST-11)",
+      "url": "https://www.tcgplayer.com/product/533883?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/533883_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "ST11-005",
+        "Color": "Green",
+        "Card Type": "Event",
+        "Cost": "3",
+        "Subtype(s)": "FILM Music"
+      },
+      "listed_median": "$0.24",
+      "average_sale_price": 0.16,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:01:31+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.35"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.11"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.14"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:01:31+00:00",
+          "listed_median": "$0.24",
+          "average_sale_price": 0.16
         }
       ]
     },
@@ -2659,6 +9919,70 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T22:18:06+00:00",
           "listed_median": "$0.53",
           "average_sale_price": 0.47
+        }
+      ]
+    },
+    {
+      "product_id": "498297",
+      "name": "Iceburg (Alternate Art) - Pillars of Strength (OP03)",
+      "url": "https://www.tcgplayer.com/product/498297?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/498297_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP03-058",
+        "Color": "Purple",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$33.99",
+      "average_sale_price": 31.02,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:22:09+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$32.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$30.38"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$31.60"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$30.59"
+        },
+        {
+          "date": "8/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$30.53"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:06:23+00:00",
+          "listed_median": "$33.99",
+          "average_sale_price": 31.02
+        },
+        {
+          "scraped_at": "2026-08-27T00:22:09+00:00",
+          "listed_median": "$33.99",
+          "average_sale_price": 31.02
         }
       ]
     },
@@ -2781,6 +10105,110 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "705921",
+      "name": "Inuarashi & Nekomamushi - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/705921?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/705921_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-004",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "2000",
+        "Subtype(s)": "Land of Wano Minks Whitebeard Pirates",
+        "Counter+": "2000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.52",
+      "average_sale_price": 0.24,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:55:46+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.22"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.23"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.29"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:55:46+00:00",
+          "listed_median": "$0.52",
+          "average_sale_price": 0.24
+        }
+      ]
+    },
+    {
+      "product_id": "712667",
+      "name": "Inuarashi & Nekomamushi - The World's Strongest Warriors Release Event Cards (OP17 RE)",
+      "url": "https://www.tcgplayer.com/product/712667?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712667_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-004",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "2000",
+        "Subtype(s)": "Land of Wano Minks Whitebeard Pirates",
+        "Counter+": "2000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$5.79",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:56:24+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:56:24+00:00",
+          "listed_median": "$5.79",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
       "product_id": "695987",
       "name": "Izo - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/695987?Language=English",
@@ -2842,6 +10270,186 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "708075",
+      "name": "Izo - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/708075?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708075_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-003",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "6000",
+        "Subtype(s)": "Land of Wano Whitebeard Pirates",
+        "Attribute": "Ranged"
+      },
+      "listed_median": "$0.71",
+      "average_sale_price": 0.59,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:31:40+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.51"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.37"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.48"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.88"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.70"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:31:40+00:00",
+          "listed_median": "$0.71",
+          "average_sale_price": 0.59
+        }
+      ]
+    },
+    {
+      "product_id": "712631",
+      "name": "Jack - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712631?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712631_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-069",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "9",
+        "Power": "10000",
+        "Subtype(s)": "Fish-Man Animal Kingdom Pirates",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.46",
+      "average_sale_price": 0.42,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:47:33+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.40"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.39"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.42"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.40"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.48"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:47:33+00:00",
+          "listed_median": "$0.46",
+          "average_sale_price": 0.42
+        }
+      ]
+    },
+    {
+      "product_id": "708782",
+      "name": "Jaguar.D.Saul - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/708782?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708782_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-089",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "6000",
+        "Subtype(s)": "Giant Former Navy Elbaph",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1.41",
+      "average_sale_price": 1.29,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:02:10+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$1.26"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$1.24"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$1.36"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$1.36"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.24"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:02:10+00:00",
+          "listed_median": "$1.41",
+          "average_sale_price": 1.29
+        }
+      ]
+    },
+    {
       "product_id": "696089",
       "name": "Jesus Burgess - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696089?Language=English",
@@ -2897,6 +10505,259 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T22:23:14+00:00",
           "listed_median": "$0.14",
           "average_sale_price": 0.04
+        }
+      ]
+    },
+    {
+      "product_id": "545800",
+      "name": "Jewelry Bonney (019) (Parallel) - 500 Years in the Future (OP07)",
+      "url": "https://www.tcgplayer.com/product/545800?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545800_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP07-019",
+        "Color": "Green",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Bonney Pirates Supernovas",
+        "Attribute": "Special"
+      },
+      "listed_median": "$49.99",
+      "average_sale_price": 41.28,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:52:59+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$41.19"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$43.45"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$38.00"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$41.91"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$41.85"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:52:59+00:00",
+          "listed_median": "$49.99",
+          "average_sale_price": 41.28
+        }
+      ]
+    },
+    {
+      "product_id": "685296",
+      "name": "Jewelry Bonney (EB04-001) (Alternate Art) - Adventure on Kami's Island (OP15-EB04)",
+      "url": "https://www.tcgplayer.com/product/685296?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685296_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "EB04-001",
+        "Color": "Red Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Bonney Pirates Egghead",
+        "Attribute": "Special"
+      },
+      "listed_median": "$45.75",
+      "average_sale_price": 38.65,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:55:03+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$39.25"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$38.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$39.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$38.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:55:03+00:00",
+          "listed_median": "$45.75",
+          "average_sale_price": 38.65
+        }
+      ]
+    },
+    {
+      "product_id": "646730",
+      "name": "Jewelry Bonney (Offline Regional Champion Card Set 2025 Vol.2) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/646730?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/646730_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-085",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Bonney Pirates Supernovas",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "-",
+      "average_sale_price": 1499.99,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-26T18:25:20+00:00",
+      "recent_sales": [
+        {
+          "date": "5/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,499.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:25:20+00:00",
+          "listed_median": "-",
+          "average_sale_price": 1499.99
+        }
+      ]
+    },
+    {
+      "product_id": "629180",
+      "name": "Jewelry Bonney (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629180?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629180_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP07-019",
+        "Color": "Green",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Bonney Pirates Supernovas",
+        "Attribute": "Special"
+      },
+      "listed_median": "$1,500.00",
+      "average_sale_price": 519.1,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:02:47+00:00",
+      "recent_sales": [
+        {
+          "date": "8/20/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$500.00"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$535.50"
+        },
+        {
+          "date": "6/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$150.00"
+        },
+        {
+          "date": "5/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$160.00"
+        },
+        {
+          "date": "5/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,250.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:02:47+00:00",
+          "listed_median": "$1,500.00",
+          "average_sale_price": 519.1
+        }
+      ]
+    },
+    {
+      "product_id": "692134",
+      "name": "Jewelry Bonney (Treasure Cup May 2026) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/692134?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692134_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP13-108",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "9",
+        "Power": "10000",
+        "Subtype(s)": "Bonney Pirates Egghead",
+        "Attribute": "Special"
+      },
+      "listed_median": "$2,500.00",
+      "average_sale_price": 1624.37,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-26T18:16:56+00:00",
+      "recent_sales": [
+        {
+          "date": "8/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,048.73"
+        },
+        {
+          "date": "8/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,200.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:16:56+00:00",
+          "listed_median": "$2,500.00",
+          "average_sale_price": 1624.37
         }
       ]
     },
@@ -3017,6 +10878,165 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712620",
+      "name": "Jinbe (051) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712620?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712620_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-051",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "8000",
+        "Subtype(s)": "Fish-Man Impel Down The Sun Pirates",
+        "Counter+": "2000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.1,
+      "recent_sales_count": 4,
+      "last_scraped": "2026-08-26T19:40:28+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:40:28+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.1
+        }
+      ]
+    },
+    {
+      "product_id": "707119",
+      "name": "Jinbe (083) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707119?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707119_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-083",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "2000",
+        "Subtype(s)": "Fish-Man Straw Hat Crew Elbaph",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.69",
+      "average_sale_price": 0.63,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:46:28+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.63"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.65"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.64"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.65"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.59"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:46:28+00:00",
+          "listed_median": "$0.69",
+          "average_sale_price": 0.63
+        }
+      ]
+    },
+    {
+      "product_id": "712716",
+      "name": "Jinbe (083) - The World's Strongest Warriors Release Event Cards (OP17 RE)",
+      "url": "https://www.tcgplayer.com/product/712716?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712716_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-083",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "2000",
+        "Subtype(s)": "Fish-Man Straw Hat Crew Elbaph",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$5.00",
+      "average_sale_price": 7.49,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-26T22:47:06+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$4.99"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$9.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:47:06+00:00",
+          "listed_median": "$5.00",
+          "average_sale_price": 7.49
+        }
+      ]
+    },
+    {
       "product_id": "695991",
       "name": "Jozu - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/695991?Language=English",
@@ -3073,6 +11093,880 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T23:03:56+00:00",
           "listed_median": "$0.15",
           "average_sale_price": 0.01
+        }
+      ]
+    },
+    {
+      "product_id": "712594",
+      "name": "Jozu - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712594?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712594_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-008",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "8000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.83",
+      "average_sale_price": 0.49,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:23:47+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.42"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.53"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.52"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.49"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:23:47+00:00",
+          "listed_median": "$0.83",
+          "average_sale_price": 0.49
+        }
+      ]
+    },
+    {
+      "product_id": "422935",
+      "name": "Kaido (001) - Super Pre-Release Starter Deck 4: Animal Kingdom Pirates (ST-04 PRE)",
+      "url": "https://www.tcgplayer.com/product/422935?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/422935_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "ST04-001",
+        "Color": "Purple",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Animal Kingdom Pirates The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$71.28",
+      "average_sale_price": 56.27,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:33:52+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$50.20"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$50.46"
+        },
+        {
+          "date": "7/6/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$66.99"
+        },
+        {
+          "date": "7/16/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$59.73"
+        },
+        {
+          "date": "7/12/26",
+          "condition": "MP Foil",
+          "quantity": "1",
+          "price": "$53.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:33:52+00:00",
+          "listed_median": "$71.28",
+          "average_sale_price": 56.27
+        }
+      ]
+    },
+    {
+      "product_id": "712613",
+      "name": "Kaido (042) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712613?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712613_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-042",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "6000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.83",
+      "average_sale_price": 0.75,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:35:59+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.70"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.67"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.94"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.67"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.75"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:35:59+00:00",
+          "listed_median": "$0.83",
+          "average_sale_price": 0.75
+        }
+      ]
+    },
+    {
+      "product_id": "707118",
+      "name": "Kaido (058) (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707118?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707118_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP17-058",
+        "Color": "Purple",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Animal Kingdom Pirates The Four Emperors",
+        "Attribute": "Special"
+      },
+      "listed_median": "$115.61",
+      "average_sale_price": 114.91,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:18:16+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$112.78"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$111.81"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$110.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$109.99"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$129.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:18:16+00:00",
+          "listed_median": "$115.61",
+          "average_sale_price": 114.91
+        }
+      ]
+    },
+    {
+      "product_id": "707117",
+      "name": "Kaido (058) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707117?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707117_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP17-058",
+        "Color": "Purple",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Animal Kingdom Pirates The Four Emperors",
+        "Attribute": "Special"
+      },
+      "listed_median": "$0.73",
+      "average_sale_price": 0.54,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:20:50+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.56"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.54"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.51"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:20:50+00:00",
+          "listed_median": "$0.73",
+          "average_sale_price": 0.54
+        }
+      ]
+    },
+    {
+      "product_id": "454587",
+      "name": "Kaido (061) (Parallel) - Romance Dawn (OP01)",
+      "url": "https://www.tcgplayer.com/product/454587?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454587_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP01-061",
+        "Color": "Blue Purple",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Animal Kingdom Pirates The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$137.39",
+      "average_sale_price": 125.46,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:20:30+00:00",
+      "recent_sales": [
+        {
+          "date": "8/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$126.32"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$125.99"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$124.99"
+        },
+        {
+          "date": "8/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$125.00"
+        },
+        {
+          "date": "8/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$125.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:20:30+00:00",
+          "listed_median": "$137.39",
+          "average_sale_price": 125.46
+        }
+      ]
+    },
+    {
+      "product_id": "707135",
+      "name": "Kaido (062) (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707135?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707135_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-062",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Animal Kingdom Pirates The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$35.28",
+      "average_sale_price": 25.1,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:31:24+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$25.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$26.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$23.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$26.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$22.51"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:31:24+00:00",
+          "listed_median": "$35.28",
+          "average_sale_price": 25.1
+        }
+      ]
+    },
+    {
+      "product_id": "712090",
+      "name": "Kaido (062) (Manga) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712090?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712090_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-062",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Animal Kingdom Pirates The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$2,000.00",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:20:46+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:20:46+00:00",
+          "listed_median": "$2,000.00",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "712091",
+      "name": "Kaido (062) (Super Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712091?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712091_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-062",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Animal Kingdom Pirates The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$539.99",
+      "average_sale_price": 376.35,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:15:43+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$345.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$449.98"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$390.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$350.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$346.76"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:15:43+00:00",
+          "listed_median": "$539.99",
+          "average_sale_price": 376.35
+        }
+      ]
+    },
+    {
+      "product_id": "707133",
+      "name": "Kaido (062) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707133?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707133_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-062",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Animal Kingdom Pirates The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$4.98",
+      "average_sale_price": 3.25,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:52:23+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$3.51"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$3.51"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$2.97"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$3.51"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.75"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:52:23+00:00",
+          "listed_median": "$4.98",
+          "average_sale_price": 3.25
+        }
+      ]
+    },
+    {
+      "product_id": "712092",
+      "name": "Kaido (063) (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712092?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712092_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-063",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Animal Kingdom Pirates The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$35.04",
+      "average_sale_price": 32.85,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:22:54+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$30.89"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$33.97"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$35.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.98"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.43"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:22:54+00:00",
+          "listed_median": "$35.04",
+          "average_sale_price": 32.85
+        }
+      ]
+    },
+    {
+      "product_id": "710578",
+      "name": "Kaido (063) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710578?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710578_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-063",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Animal Kingdom Pirates The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$2.17",
+      "average_sale_price": 1.41,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:01:32+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$1.52"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$1.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$1.52"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$1.04"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:01:32+00:00",
+          "listed_median": "$2.17",
+          "average_sale_price": 1.41
+        }
+      ]
+    },
+    {
+      "product_id": "567115",
+      "name": "Kaido (Premium Card Collection -Leader Collection-) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/567115?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/567115_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "ST04-001",
+        "Color": "Purple",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Animal Kingdom Pirates The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$32.81",
+      "average_sale_price": 25.3,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:16:56+00:00",
+      "recent_sales": [
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.25"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$27.97"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.60"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$9.99"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.68"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:00:56+00:00",
+          "listed_median": "$32.81",
+          "average_sale_price": 25.3
+        },
+        {
+          "scraped_at": "2026-08-27T00:16:56+00:00",
+          "listed_median": "$32.81",
+          "average_sale_price": 25.3
+        }
+      ]
+    },
+    {
+      "product_id": "629190",
+      "name": "Kalgara (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629190?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629190_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP08-098",
+        "Color": "Yellow",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Sky Island Shandian Warrior Jaya",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$2,950.00",
+      "average_sale_price": 357.72,
+      "recent_sales_count": 4,
+      "last_scraped": "2026-08-26T23:02:09+00:00",
+      "recent_sales": [
+        {
+          "date": "6/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$300.00"
+        },
+        {
+          "date": "5/5/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$79.95"
+        },
+        {
+          "date": "5/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$599.99"
+        },
+        {
+          "date": "5/17/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$450.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:02:09+00:00",
+          "listed_median": "$2,950.00",
+          "average_sale_price": 357.72
+        }
+      ]
+    },
+    {
+      "product_id": "483629",
+      "name": "Kin'emon (Alternate Art) - Paramount War (OP02)",
+      "url": "https://www.tcgplayer.com/product/483629?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/483629_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP02-025",
+        "Color": "Green",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Land of Wano The Akazaya Nine",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$39.69",
+      "average_sale_price": 22.02,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:18:14+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$26.60"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$24.00"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$14.98"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.50"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$15.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:02:20+00:00",
+          "listed_median": "$39.69",
+          "average_sale_price": 22.02
+        },
+        {
+          "scraped_at": "2026-08-27T00:18:14+00:00",
+          "listed_median": "$39.69",
+          "average_sale_price": 22.02
         }
       ]
     },
@@ -3187,6 +12081,380 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T23:50:18+00:00",
           "listed_median": "$1.50",
           "average_sale_price": 0.97
+        }
+      ]
+    },
+    {
+      "product_id": "454623",
+      "name": "King (091) (Parallel) - Romance Dawn (OP01)",
+      "url": "https://www.tcgplayer.com/product/454623?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454623_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP01-091",
+        "Color": "Purple",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Animal Kingdom Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$90.05",
+      "average_sale_price": 65.68,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:28:27+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$63.00"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$63.75"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$65.74"
+        },
+        {
+          "date": "8/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$85.93"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "DMG Foil",
+          "quantity": "1",
+          "price": "$50.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:28:27+00:00",
+          "listed_median": "$90.05",
+          "average_sale_price": 65.68
+        }
+      ]
+    },
+    {
+      "product_id": "629188",
+      "name": "King (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629188?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629188_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP08-057",
+        "Color": "Purple Black",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Animal Kingdom Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "-",
+      "average_sale_price": 673.75,
+      "recent_sales_count": 4,
+      "last_scraped": "2026-08-26T19:14:36+00:00",
+      "recent_sales": [
+        {
+          "date": "5/6/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$95.00"
+        },
+        {
+          "date": "5/5/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,000.00"
+        },
+        {
+          "date": "5/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$599.99"
+        },
+        {
+          "date": "5/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,000.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:14:36+00:00",
+          "listed_median": "-",
+          "average_sale_price": 673.75
+        }
+      ]
+    },
+    {
+      "product_id": "712627",
+      "name": "King - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712627?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712627_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-064",
+        "Card Type": "Character",
+        "Subtype(s)": "Lunarian Animal Kingdom Pirates"
+      },
+      "listed_median": "$0.23",
+      "average_sale_price": 0.16,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:44:57+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.12"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:44:57+00:00",
+          "listed_median": "$0.23",
+          "average_sale_price": 0.16
+        }
+      ]
+    },
+    {
+      "product_id": "712593",
+      "name": "Kingdew (Pandaman Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712593?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712593_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-006",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "8000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Counter+": "2000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$7.93",
+      "average_sale_price": 4.89,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:47:18+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$6.36"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$6.41"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$5.67"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$4.68"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$4.10"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.60"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "5",
+          "price": "$7.68"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$7.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$7.68"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$5.67"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:23:09+00:00",
+          "listed_median": "$7.69",
+          "average_sale_price": 7.08
+        },
+        {
+          "scraped_at": "2026-08-26T21:47:18+00:00",
+          "listed_median": "$7.93",
+          "average_sale_price": 4.89
+        }
+      ]
+    },
+    {
+      "product_id": "712592",
+      "name": "Kingdew - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712592?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712592_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-006",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "8000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Counter+": "2000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.11,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:22:30+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.13"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:22:30+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.11
+        }
+      ]
+    },
+    {
+      "product_id": "632356",
+      "name": "Koby (001) (Alternate Art) - A Fist of Divine Speed (OP11)",
+      "url": "https://www.tcgplayer.com/product/632356?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632356_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP11-001",
+        "Color": "Red Black",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Navy SWORD",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$31.99",
+      "average_sale_price": 28.39,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:23:33+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$30.23"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.25"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$28.02"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$28.01"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$26.42"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:07:47+00:00",
+          "listed_median": "$31.78",
+          "average_sale_price": 28.39
+        },
+        {
+          "scraped_at": "2026-08-27T00:23:33+00:00",
+          "listed_median": "$31.99",
+          "average_sale_price": 28.39
         }
       ]
     },
@@ -3423,6 +12691,235 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "544524",
+      "name": "Kouzuki Oden (Alternate Art) - Extra Booster: Memorial Collection (EB-01)",
+      "url": "https://www.tcgplayer.com/product/544524?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544524_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "EB01-001",
+        "Color": "Green Red",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Land of Wano Kouzuki Clan",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$65.00",
+      "average_sale_price": 56.25,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:40:39+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$61.28"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$60.00"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$55.00"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$54.99"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$50.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:40:39+00:00",
+          "listed_median": "$65.00",
+          "average_sale_price": 56.25
+        }
+      ]
+    },
+    {
+      "product_id": "454552",
+      "name": "Kouzuki Oden (Parallel) - Romance Dawn (OP01)",
+      "url": "https://www.tcgplayer.com/product/454552?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454552_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP01-031",
+        "Color": "Green",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Land of Wano Kouzuki Clan",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$95.92",
+      "average_sale_price": 71.59,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:33:13+00:00",
+      "recent_sales": [
+        {
+          "date": "8/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$82.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$79.99"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$81.98"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$79.00"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:33:13+00:00",
+          "listed_median": "$95.92",
+          "average_sale_price": 71.59
+        }
+      ]
+    },
+    {
+      "product_id": "629086",
+      "name": "Kouzuki Oden (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629086?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629086_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "EB01-001",
+        "Color": "Green Red",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Land of Wano Kouzuki Clan",
+        "Attribute": "Slash"
+      },
+      "listed_median": "-",
+      "average_sale_price": 777.5,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:15:55+00:00",
+      "recent_sales": [
+        {
+          "date": "7/6/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$499.99"
+        },
+        {
+          "date": "5/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$937.50"
+        },
+        {
+          "date": "5/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$900.00"
+        },
+        {
+          "date": "5/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$750.00"
+        },
+        {
+          "date": "5/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$799.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:15:55+00:00",
+          "listed_median": "-",
+          "average_sale_price": 777.5
+        }
+      ]
+    },
+    {
+      "product_id": "712123",
+      "name": "Kouzuki Oden (ST32-002) (SP) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712123?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712123_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "ST32-002",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Land of Wano Kouzuki Clan",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$390.00",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:13:05+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:13:05+00:00",
+          "listed_median": "$390.00",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
       "product_id": "696067",
       "name": "Kouzuki Oden - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696067?Language=English",
@@ -3480,6 +12977,293 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T20:31:12+00:00",
           "listed_median": "$0.14",
           "average_sale_price": 0.05
+        }
+      ]
+    },
+    {
+      "product_id": "708065",
+      "name": "Kouzuki Oden - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/708065?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708065_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-007",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "8000",
+        "Subtype(s)": "Land of Wano Kouzuki Clan Whitebeard Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.75",
+      "average_sale_price": 0.59,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:32:58+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.60"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.58"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.56"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.45"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.78"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:32:58+00:00",
+          "listed_median": "$0.75",
+          "average_sale_price": 0.59
+        }
+      ]
+    },
+    {
+      "product_id": "712637",
+      "name": "Kundali Dragon Swarm - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712637?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712637_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-077",
+        "Color": "Purple",
+        "Card Type": "Event",
+        "Cost": "1",
+        "Subtype(s)": "The Four Emperors Animal Kingdom Pirates"
+      },
+      "listed_median": "$0.49",
+      "average_sale_price": 0.43,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:51:23+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.45"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.42"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.45"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.42"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:51:23+00:00",
+          "listed_median": "$0.49",
+          "average_sale_price": 0.43
+        }
+      ]
+    },
+    {
+      "product_id": "712629",
+      "name": "Kurozumi Kanjuro - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712629?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712629_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-067",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "3000",
+        "Subtype(s)": "Land of Wano Kurozumi Clan",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.24",
+      "average_sale_price": 0.43,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:46:15+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$1.58"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:46:15+00:00",
+          "listed_median": "$0.24",
+          "average_sale_price": 0.43
+        }
+      ]
+    },
+    {
+      "product_id": "712628",
+      "name": "Kurozumi Orochi - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712628?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712628_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-066",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "0",
+        "Subtype(s)": "Land of Wano Kurozumi Clan",
+        "Counter+": "1000",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$0.23",
+      "average_sale_price": 0.16,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:45:36+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:45:36+00:00",
+          "listed_median": "$0.23",
+          "average_sale_price": 0.16
+        }
+      ]
+    },
+    {
+      "product_id": "643773",
+      "name": "Kuzan (040) (Alternate Art) - Legacy of the Master (OP12)",
+      "url": "https://www.tcgplayer.com/product/643773?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643773_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP12-040",
+        "Color": "Blue",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Navy",
+        "Attribute": "Special"
+      },
+      "listed_median": "$28.00",
+      "average_sale_price": 24.42,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:29:42+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$25.33"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$24.81"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$23.98"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$23.99"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$23.98"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:13:58+00:00",
+          "listed_median": "$28.00",
+          "average_sale_price": 24.42
+        },
+        {
+          "scraped_at": "2026-08-27T00:29:42+00:00",
+          "listed_median": "$28.00",
+          "average_sale_price": 24.42
         }
       ]
     },
@@ -3640,6 +13424,240 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712617",
+      "name": "Kyo (Pandaman Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712617?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712617_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-045",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "4000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$12.96",
+      "average_sale_price": 12.45,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:28:03+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$12.98"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$12.98"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$12.02"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$12.81"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$11.47"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "5",
+          "price": "$12.96"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:38:33+00:00",
+          "listed_median": "$12.96",
+          "average_sale_price": 12.45
+        },
+        {
+          "scraped_at": "2026-08-26T21:28:03+00:00",
+          "listed_median": "$12.96",
+          "average_sale_price": 12.45
+        }
+      ]
+    },
+    {
+      "product_id": "712616",
+      "name": "Kyo - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712616?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712616_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-045",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "4000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.50",
+      "average_sale_price": 0.46,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:37:54+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.38"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.48"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.38"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.60"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.45"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:37:54+00:00",
+          "listed_median": "$0.50",
+          "average_sale_price": 0.46
+        }
+      ]
+    },
+    {
+      "product_id": "629088",
+      "name": "Kyros (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629088?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629088_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "EB01-040",
+        "Color": "Black Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Dressrosa",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$1,058.35",
+      "average_sale_price": 255.19,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:09:19+00:00",
+      "recent_sales": [
+        {
+          "date": "5/5/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$89.95"
+        },
+        {
+          "date": "5/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$498.99"
+        },
+        {
+          "date": "5/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$88.00"
+        },
+        {
+          "date": "5/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$499.00"
+        },
+        {
+          "date": "5/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$100.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:09:19+00:00",
+          "listed_median": "$1,058.35",
+          "average_sale_price": 255.19
+        }
+      ]
+    },
+    {
+      "product_id": "629758",
+      "name": "Laboon (Treasure Cup 2025) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/629758?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629758_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "EB01-048",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "Animal",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$2,499.00",
+      "average_sale_price": 1300.0,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-26T18:29:17+00:00",
+      "recent_sales": [
+        {
+          "date": "5/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,400.00"
+        },
+        {
+          "date": "5/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,200.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:29:17+00:00",
+          "listed_median": "$2,499.00",
+          "average_sale_price": 1300.0
+        }
+      ]
+    },
+    {
       "product_id": "696097",
       "name": "Laffitte - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696097?Language=English",
@@ -3702,6 +13720,166 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T22:28:27+00:00",
           "listed_median": "$0.11",
           "average_sale_price": 0.06
+        }
+      ]
+    },
+    {
+      "product_id": "712626",
+      "name": "Lead Performers (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712626?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712626_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-061",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "9",
+        "Power": "11000",
+        "Subtype(s)": "Fish-Man Animal Kingdom Pirates",
+        "Attribute": "Strike Special"
+      },
+      "listed_median": "$18.68",
+      "average_sale_price": 18.19,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:26:07+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$18.60"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$18.44"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$18.44"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$17.89"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$17.58"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:44:19+00:00",
+          "listed_median": "$18.68",
+          "average_sale_price": 18.19
+        },
+        {
+          "scraped_at": "2026-08-26T21:26:07+00:00",
+          "listed_median": "$18.68",
+          "average_sale_price": 18.19
+        }
+      ]
+    },
+    {
+      "product_id": "712625",
+      "name": "Lead Performers - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712625?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712625_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-061",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "9",
+        "Power": "11000",
+        "Subtype(s)": "Fish-Man Animal Kingdom Pirates",
+        "Attribute": "Strike Special"
+      },
+      "listed_median": "$0.91",
+      "average_sale_price": 0.77,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:08:37+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.81"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.81"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.75"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.65"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.85"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.81"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.96"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.91"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.81"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.65"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:43:41+00:00",
+          "listed_median": "$0.91",
+          "average_sale_price": 0.83
+        },
+        {
+          "scraped_at": "2026-08-26T22:08:37+00:00",
+          "listed_median": "$0.91",
+          "average_sale_price": 0.77
         }
       ]
     },
@@ -3815,6 +13993,67 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712608",
+      "name": "Limejuice - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712608?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712608_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-032",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "2000",
+        "Subtype(s)": "Red-Haired Pirates",
+        "Counter+": "2000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$0.78",
+      "average_sale_price": 0.65,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:32:46+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.65"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.64"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.68"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.67"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.63"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:32:46+00:00",
+          "listed_median": "$0.78",
+          "average_sale_price": 0.65
+        }
+      ]
+    },
+    {
       "product_id": "696000",
       "name": "LittleOars Jr. - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696000?Language=English",
@@ -3866,6 +14105,366 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T23:10:00+00:00",
           "listed_median": "$0.21",
           "average_sale_price": 0.18
+        }
+      ]
+    },
+    {
+      "product_id": "710586",
+      "name": "Loki (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710586?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710586_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP17-119",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "8000",
+        "Subtype(s)": "Giant Elbaph",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$99.99",
+      "average_sale_price": 98.99,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:19:33+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$99.96"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$99.98"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$105.00"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$90.00"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$100.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:19:33+00:00",
+          "listed_median": "$99.99",
+          "average_sale_price": 98.99
+        }
+      ]
+    },
+    {
+      "product_id": "710585",
+      "name": "Loki - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710585?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710585_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP17-119",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "8000",
+        "Subtype(s)": "Giant Elbaph",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$40.30",
+      "average_sale_price": 38.84,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:30:46+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$38.06"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$38.06"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$41.59"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$39.51"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$37.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:30:46+00:00",
+          "listed_median": "$40.30",
+          "average_sale_price": 38.84
+        }
+      ]
+    },
+    {
+      "product_id": "710616",
+      "name": "Lucky.Roux - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710616?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710616_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-033",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "Red-Haired Pirates",
+        "Counter+": "1000",
+        "Attribute": "Ranged"
+      },
+      "listed_median": "$0.90",
+      "average_sale_price": 0.74,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:37:28+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.88"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.75"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.74"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.69"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.62"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:37:28+00:00",
+          "listed_median": "$0.90",
+          "average_sale_price": 0.74
+        }
+      ]
+    },
+    {
+      "product_id": "685339",
+      "name": "Lucy (Alternate Art) - Adventure on Kami's Island (OP15-EB04)",
+      "url": "https://www.tcgplayer.com/product/685339?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685339_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP15-002",
+        "Color": "Blue Red",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Revolutionary Army Dressrosa",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$32.70",
+      "average_sale_price": 27.47,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:24:16+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$28.38"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$27.96"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$25.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$27.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:08:31+00:00",
+          "listed_median": "$32.70",
+          "average_sale_price": 27.47
+        },
+        {
+          "scraped_at": "2026-08-27T00:24:16+00:00",
+          "listed_median": "$32.70",
+          "average_sale_price": 27.47
+        }
+      ]
+    },
+    {
+      "product_id": "693257",
+      "name": "Luffy & Ace (Parallel) - Starter Deck EX: Luffy & Ace (ST-30)",
+      "url": "https://www.tcgplayer.com/product/693257?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693257_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "ST30-001",
+        "Color": "Green Red",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "6000",
+        "Subtype(s)": "Straw Hat Crew Whitebeard Pirates Impel Down",
+        "Attribute": "Special Strike"
+      },
+      "listed_median": "$79.49",
+      "average_sale_price": 67.81,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:38:35+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$67.60"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$67.59"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$67.98"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$67.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:38:35+00:00",
+          "listed_median": "$79.49",
+          "average_sale_price": 67.81
+        }
+      ]
+    },
+    {
+      "product_id": "484134",
+      "name": "Magellan (071) (Alternate Art) - Paramount War (OP02)",
+      "url": "https://www.tcgplayer.com/product/484134?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/484134_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP02-071",
+        "Color": "Purple",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "6000",
+        "Subtype(s)": "Impel Down",
+        "Attribute": "Special"
+      },
+      "listed_median": "$44.00",
+      "average_sale_price": 36.3,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:48:47+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$37.56"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$32.99"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$37.40"
+        },
+        {
+          "date": "8/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$37.57"
+        },
+        {
+          "date": "8/10/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$35.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:48:47+00:00",
+          "listed_median": "$44.00",
+          "average_sale_price": 36.3
         }
       ]
     },
@@ -4041,6 +14640,48 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "629186",
+      "name": "Marco (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629186?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629186_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP08-002",
+        "Color": "Blue Red",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$1,199.99",
+      "average_sale_price": 1499.99,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-26T19:05:37+00:00",
+      "recent_sales": [
+        {
+          "date": "6/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,200.00"
+        },
+        {
+          "date": "4/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,799.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:05:37+00:00",
+          "listed_median": "$1,199.99",
+          "average_sale_price": 1499.99
+        }
+      ]
+    },
+    {
       "product_id": "693827",
       "name": "Marco - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/693827?Language=English",
@@ -4097,6 +14738,67 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T23:41:37+00:00",
           "listed_median": "$0.20",
           "average_sale_price": 0.29
+        }
+      ]
+    },
+    {
+      "product_id": "708073",
+      "name": "Marco - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/708073?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708073_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-015",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$1.00",
+      "average_sale_price": 0.83,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:04:05+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.89"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.84"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.78"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.78"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.85"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:04:05+00:00",
+          "listed_median": "$1.00",
+          "average_sale_price": 0.83
         }
       ]
     },
@@ -4273,6 +14975,54 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "597035",
+      "name": "Marshall.D.Teach (093) (Manga) - Emperors in the New World (OP09)",
+      "url": "https://www.tcgplayer.com/product/597035?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/597035_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP09-093",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Blackbeard Pirates The Four Emperors",
+        "Attribute": "Special"
+      },
+      "listed_median": "$20,000.00",
+      "average_sale_price": 1565.32,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T18:18:51+00:00",
+      "recent_sales": [
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,000.99"
+        },
+        {
+          "date": "7/21/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,694.99"
+        },
+        {
+          "date": "6/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$999.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:18:51+00:00",
+          "listed_median": "$20,000.00",
+          "average_sale_price": 1565.32
+        }
+      ]
+    },
+    {
       "product_id": "695757",
       "name": "Marshall.D.Teach (119) (Alternate Art) - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/695757?Language=English",
@@ -4393,6 +15143,268 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "635472",
+      "name": "Marshall.D.Teach (English Version 2nd Anniversary Set) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/635472?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/635472_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP09-081",
+        "Color": "Black",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Blackbeard Pirates The Four Emperors",
+        "Attribute": "Special"
+      },
+      "listed_median": "$80.00",
+      "average_sale_price": 65.75,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:37:57+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$66.59"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$65.26"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$66.27"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$65.29"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$65.34"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:37:57+00:00",
+          "listed_median": "$80.00",
+          "average_sale_price": 65.75
+        }
+      ]
+    },
+    {
+      "product_id": "646573",
+      "name": "Marshall.D.Teach (SP) (Gold) - Legacy of the Master (OP12)",
+      "url": "https://www.tcgplayer.com/product/646573?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/646573_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP09-093",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Blackbeard Pirates The Four Emperors",
+        "Attribute": "Special"
+      },
+      "listed_median": "$1,398.66",
+      "average_sale_price": 1846.5,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:19:31+00:00",
+      "recent_sales": [
+        {
+          "date": "8/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,300.00"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,899.99"
+        },
+        {
+          "date": "7/28/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,399.94"
+        },
+        {
+          "date": "7/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,792.56"
+        },
+        {
+          "date": "5/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,840.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:19:31+00:00",
+          "listed_median": "$1,398.66",
+          "average_sale_price": 1846.5
+        }
+      ]
+    },
+    {
+      "product_id": "646572",
+      "name": "Marshall.D.Teach (SP) (Silver) - Legacy of the Master (OP12)",
+      "url": "https://www.tcgplayer.com/product/646572?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/646572_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP09-093",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Blackbeard Pirates The Four Emperors",
+        "Attribute": "Special"
+      },
+      "listed_median": "$1,199.98",
+      "average_sale_price": 1199.99,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-26T18:33:46+00:00",
+      "recent_sales": [
+        {
+          "date": "5/5/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,199.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:33:46+00:00",
+          "listed_median": "$1,199.98",
+          "average_sale_price": 1199.99
+        }
+      ]
+    },
+    {
+      "product_id": "707128",
+      "name": "Marshall.D.Teach (ST27-005) (SP) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707128?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707128_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "ST27-005",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "8000",
+        "Subtype(s)": "Blackbeard Pirates The Four Emperors",
+        "Attribute": "Special"
+      },
+      "listed_median": "$656.50",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:17:35+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:17:35+00:00",
+          "listed_median": "$656.50",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "712662",
+      "name": "Maser Saber - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712662?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712662_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-117",
+        "Color": "Yellow",
+        "Card Type": "Event",
+        "Cost": "1",
+        "Subtype(s)": "The Four Emperors Big Mom Pirates"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.16,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:07:27+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.13"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.16"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.16"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:07:27+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.16
+        }
+      ]
+    },
+    {
       "product_id": "695998",
       "name": "McGuy - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/695998?Language=English",
@@ -4449,6 +15461,120 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T23:08:37+00:00",
           "listed_median": "$0.15",
           "average_sale_price": 0.07
+        }
+      ]
+    },
+    {
+      "product_id": "710539",
+      "name": "Miss Buckingham Stussy (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710539?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710539_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-054",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "5000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$33.00",
+      "average_sale_price": 28.77,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:23:32+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$28.91"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$28.23"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.49"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$27.21"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$29.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:23:32+00:00",
+          "listed_median": "$33.00",
+          "average_sale_price": 28.77
+        }
+      ]
+    },
+    {
+      "product_id": "712089",
+      "name": "Miss Buckingham Stussy - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712089?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712089_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-054",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "5000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$0.83",
+      "average_sale_price": 0.76,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:10:32+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.72"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.85"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.76"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.76"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:10:32+00:00",
+          "listed_median": "$0.83",
+          "average_sale_price": 0.76
         }
       ]
     },
@@ -4685,6 +15811,156 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "629179",
+      "name": "Monkey.D.Dragon (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629179?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629179_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP07-001",
+        "Color": "Red",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Revolutionary Army",
+        "Attribute": "Special"
+      },
+      "listed_median": "$4,949.98",
+      "average_sale_price": 1020.0,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:06:54+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,100.00"
+        },
+        {
+          "date": "5/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$999.99"
+        },
+        {
+          "date": "5/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,000.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:06:54+00:00",
+          "listed_median": "$4,949.98",
+          "average_sale_price": 1020.0
+        }
+      ]
+    },
+    {
+      "product_id": "483627",
+      "name": "Monkey.D.Garp (002) (Alternate Art) - Paramount War (OP02)",
+      "url": "https://www.tcgplayer.com/product/483627?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/483627_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP02-002",
+        "Color": "Red Black",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Navy",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$121.99",
+      "average_sale_price": 114.58,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:22:28+00:00",
+      "recent_sales": [
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$116.99"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$114.00"
+        },
+        {
+          "date": "8/1/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$116.90"
+        },
+        {
+          "date": "7/29/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$108.13"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:22:28+00:00",
+          "listed_median": "$121.99",
+          "average_sale_price": 114.58
+        }
+      ]
+    },
+    {
+      "product_id": "712118",
+      "name": "Monkey.D.Garp (OP12-056) (SP) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712118?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712118_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP12-056",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "8",
+        "Power": "8000",
+        "Subtype(s)": "Navy",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$245.25",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:15:39+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:15:39+00:00",
+          "listed_median": "$245.25",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
       "product_id": "696062",
       "name": "Monkey.D.Garp - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696062?Language=English",
@@ -4742,6 +16018,594 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T20:28:00+00:00",
           "listed_median": "$0.15",
           "average_sale_price": 0.09
+        }
+      ]
+    },
+    {
+      "product_id": "657251",
+      "name": "Monkey.D.Luffy (001) (Alternate Art) - Carrying On His Will (OP13)",
+      "url": "https://www.tcgplayer.com/product/657251?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657251_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP13-001",
+        "Color": "Green Red",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$70.00",
+      "average_sale_price": 51.8,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:41:19+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$53.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$52.69"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$56.20"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$52.69"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$43.43"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:41:19+00:00",
+          "listed_median": "$70.00",
+          "average_sale_price": 51.8
+        }
+      ]
+    },
+    {
+      "product_id": "671547",
+      "name": "Monkey.D.Luffy (001) (Parallel) - Starter Deck 29: Egghead (ST-29)",
+      "url": "https://www.tcgplayer.com/product/671547?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671547_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "ST29-001",
+        "Color": "Yellow",
+        "Card Type": "Leader",
+        "Life": "6",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors Egghead",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$33.85",
+      "average_sale_price": 27.68,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:27:42+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$27.69"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$27.95"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$27.75"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$27.50"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$27.50"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:12:00+00:00",
+          "listed_median": "$33.85",
+          "average_sale_price": 27.68
+        },
+        {
+          "scraped_at": "2026-08-27T00:27:42+00:00",
+          "listed_median": "$33.85",
+          "average_sale_price": 27.68
+        }
+      ]
+    },
+    {
+      "product_id": "615565",
+      "name": "Monkey.D.Luffy (001) (Parallel) - Starter Deck EX: Gear 5 (ST-21)",
+      "url": "https://www.tcgplayer.com/product/615565?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/615565_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "ST21-001",
+        "Color": "Red",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$117.67",
+      "average_sale_price": 93.98,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:23:47+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$89.99"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$95.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$94.99"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$99.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:23:47+00:00",
+          "listed_median": "$117.67",
+          "average_sale_price": 93.98
+        }
+      ]
+    },
+    {
+      "product_id": "288228",
+      "name": "Monkey.D.Luffy (001) - Starter Deck 1: Straw Hat Crew (ST-01)",
+      "url": "https://www.tcgplayer.com/product/288228?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/288228_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Disclaimer: This card has been re-printed with new errata'd text as part of the Revision Pack cards series. This product page is for the original, pre-errata print of this card.": "up to",
+        "Rarity": "L",
+        "Number": "ST01-001",
+        "Color": "Red",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$48.62",
+      "average_sale_price": 43.17,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:47:20+00:00",
+      "recent_sales": [
+        {
+          "date": "8/23/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$37.85"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$69.00"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$37.99"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$37.00"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$33.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:47:20+00:00",
+          "listed_median": "$48.62",
+          "average_sale_price": 43.17
+        }
+      ]
+    },
+    {
+      "product_id": "412113",
+      "name": "Monkey.D.Luffy (001) - Super Pre-Release Starter Deck 1: Straw Hat Crew (ST-01 PRE)",
+      "url": "https://www.tcgplayer.com/product/412113?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/412113_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "ST01-001",
+        "Color": "Red",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1,063.06",
+      "average_sale_price": 488.26,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:04:20+00:00",
+      "recent_sales": [
+        {
+          "date": "8/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,350.00"
+        },
+        {
+          "date": "8/12/26",
+          "condition": "DMG Foil",
+          "quantity": "1",
+          "price": "$200.00"
+        },
+        {
+          "date": "7/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$247.98"
+        },
+        {
+          "date": "7/21/26",
+          "condition": "MP Foil",
+          "quantity": "1",
+          "price": "$395.32"
+        },
+        {
+          "date": "7/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$247.98"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:04:20+00:00",
+          "listed_median": "$1,063.06",
+          "average_sale_price": 488.26
+        }
+      ]
+    },
+    {
+      "product_id": "453506",
+      "name": "Monkey.D.Luffy (003) (Parallel) - Romance Dawn (OP01)",
+      "url": "https://www.tcgplayer.com/product/453506?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/453506_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP01-003",
+        "Color": "Green Red",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1,454.48",
+      "average_sale_price": 1484.67,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:04:59+00:00",
+      "recent_sales": [
+        {
+          "date": "8/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,474.90"
+        },
+        {
+          "date": "8/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,550.00"
+        },
+        {
+          "date": "7/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$198.45"
+        },
+        {
+          "date": "6/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,499.99"
+        },
+        {
+          "date": "6/15/26",
+          "condition": "MP Foil",
+          "quantity": "1",
+          "price": "$2,700.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:04:59+00:00",
+          "listed_median": "$1,454.48",
+          "average_sale_price": 1484.67
+        }
+      ]
+    },
+    {
+      "product_id": "543624",
+      "name": "Monkey.D.Luffy (003) (Parallel) - Ultra Deck: The Three Brothers (ST-13)",
+      "url": "https://www.tcgplayer.com/product/543624?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/543624_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "ST13-003",
+        "Color": "Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$55.10",
+      "average_sale_price": 45.19,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:44:38+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$43.98"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$43.98"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$44.00"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$44.99"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$48.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:44:38+00:00",
+          "listed_median": "$55.10",
+          "average_sale_price": 45.19
+        }
+      ]
+    },
+    {
+      "product_id": "629101",
+      "name": "Monkey.D.Luffy (010) (Alternate Art) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629101?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629101_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "EB02-010",
+        "Color": "Green Purple",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1,412.98",
+      "average_sale_price": 1236.26,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:03:03+00:00",
+      "recent_sales": [
+        {
+          "date": "7/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,299.99"
+        },
+        {
+          "date": "7/21/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$841.64"
+        },
+        {
+          "date": "7/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,294.99"
+        },
+        {
+          "date": "6/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$944.71"
+        },
+        {
+          "date": "6/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,799.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:03:03+00:00",
+          "listed_median": "$1,412.98",
+          "average_sale_price": 1236.26
+        }
+      ]
+    },
+    {
+      "product_id": "641620",
+      "name": "Monkey.D.Luffy (010) (Dodgers x ONE PIECE) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/641620?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/641620_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "EB02-010",
+        "Color": "Green Purple",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$2,449.99",
+      "average_sale_price": 1964.44,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T17:56:25+00:00",
+      "recent_sales": [
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$500.00"
+        },
+        {
+          "date": "8/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,322.21"
+        },
+        {
+          "date": "7/29/26",
+          "condition": "DMG Foil",
+          "quantity": "1",
+          "price": "$1,800.00"
+        },
+        {
+          "date": "7/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,599.99"
+        },
+        {
+          "date": "6/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,599.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T17:56:25+00:00",
+          "listed_median": "$2,449.99",
+          "average_sale_price": 1964.44
+        }
+      ]
+    },
+    {
+      "product_id": "529850",
+      "name": "Monkey.D.Luffy (012) (Alternate Art) (Gold-Stamped Signature) - Awakening of the New Era (OP05)",
+      "url": "https://www.tcgplayer.com/product/529850?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/529850_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "ST01-012",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$15,700.00",
+      "average_sale_price": 10566.66,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T18:04:44+00:00",
+      "recent_sales": [
+        {
+          "date": "6/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$16,999.99"
+        },
+        {
+          "date": "5/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4,750.00"
+        },
+        {
+          "date": "5/5/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$9,950.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:04:44+00:00",
+          "listed_median": "$15,700.00",
+          "average_sale_price": 10566.66
         }
       ]
     },
@@ -4865,6 +16729,55 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712607",
+      "name": "Monkey.D.Luffy (030) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712607?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712607_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-030",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "East Blue Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.1,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:32:08+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "5",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.11"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:32:08+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.1
+        }
+      ]
+    },
+    {
       "product_id": "696020",
       "name": "Monkey.D.Luffy (034) (Alternate Art) - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696020?Language=English",
@@ -4975,6 +16888,191 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "632404",
+      "name": "Monkey.D.Luffy (040) (Alternate Art) - A Fist of Divine Speed (OP11)",
+      "url": "https://www.tcgplayer.com/product/632404?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632404_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP11-040",
+        "Color": "Blue Purple",
+        "Card Type": "Leader",
+        "Life": "3",
+        "Power": "6000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$69.83",
+      "average_sale_price": 53.81,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:43:59+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$59.88"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$32.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$56.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$59.90"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$61.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:43:59+00:00",
+          "listed_median": "$69.83",
+          "average_sale_price": 53.81
+        }
+      ]
+    },
+    {
+      "product_id": "546710",
+      "name": "Monkey.D.Luffy (047) (Premium Card Collection -Live Action Edition-) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/546710?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/546710_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-047",
+        "Color": "Blue",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$32.00",
+      "average_sale_price": 28.91,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:20:13+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$31.12"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "MP Foil",
+          "quantity": "1",
+          "price": "$24.00"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$31.12"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$28.88"
+        },
+        {
+          "date": "8/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.44"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:04:18+00:00",
+          "listed_median": "$32.00",
+          "average_sale_price": 28.91
+        },
+        {
+          "scraped_at": "2026-08-27T00:20:13+00:00",
+          "listed_median": "$32.00",
+          "average_sale_price": 28.91
+        }
+      ]
+    },
+    {
+      "product_id": "518694",
+      "name": "Monkey.D.Luffy (047) (Sealed Battle Kit Vol. 1) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/518694?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/518694_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-047",
+        "Color": "Blue",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$110.00",
+      "average_sale_price": 86.84,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:25:08+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$107.20"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$104.95"
+        },
+        {
+          "date": "8/12/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$69.00"
+        },
+        {
+          "date": "8/10/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$82.01"
+        },
+        {
+          "date": "8/10/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$71.04"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:25:08+00:00",
+          "listed_median": "$110.00",
+          "average_sale_price": 86.84
+        }
+      ]
+    },
+    {
       "product_id": "696038",
       "name": "Monkey.D.Luffy (052) - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696038?Language=English",
@@ -5026,6 +17124,443 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T20:12:32+00:00",
           "listed_median": "$0.16",
           "average_sale_price": 0.11
+        }
+      ]
+    },
+    {
+      "product_id": "527014",
+      "name": "Monkey.D.Luffy (060) (Alternate Art) - Awakening of the New Era (OP05)",
+      "url": "https://www.tcgplayer.com/product/527014?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/527014_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP05-060",
+        "Color": "Purple",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$124.99",
+      "average_sale_price": 93.68,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:21:47+00:00",
+      "recent_sales": [
+        {
+          "date": "8/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$48.99"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$95.00"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$100.29"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$100.12"
+        },
+        {
+          "date": "8/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$123.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:21:47+00:00",
+          "listed_median": "$124.99",
+          "average_sale_price": 93.68
+        }
+      ]
+    },
+    {
+      "product_id": "629167",
+      "name": "Monkey.D.Luffy (061) (Manga) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629167?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629167_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "EB02-061",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "7000",
+        "Subtype(s)": "Straw Hat Crew Water Seven",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$6,800.00",
+      "average_sale_price": 4664.6,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:02:50+00:00",
+      "recent_sales": [
+        {
+          "date": "8/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3,500.00"
+        },
+        {
+          "date": "7/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5,199.00"
+        },
+        {
+          "date": "7/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4,925.00"
+        },
+        {
+          "date": "7/1/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5,200.00"
+        },
+        {
+          "date": "6/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4,499.01"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:02:50+00:00",
+          "listed_median": "$6,800.00",
+          "average_sale_price": 4664.6
+        }
+      ]
+    },
+    {
+      "product_id": "596997",
+      "name": "Monkey.D.Luffy (061) (Parallel) - Emperors in the New World (OP09)",
+      "url": "https://www.tcgplayer.com/product/596997?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/596997_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP09-061",
+        "Color": "Purple Black",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$144.13",
+      "average_sale_price": 99.31,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:21:09+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$97.80"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$99.68"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$99.69"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$99.68"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:21:09+00:00",
+          "listed_median": "$144.13",
+          "average_sale_price": 99.31
+        }
+      ]
+    },
+    {
+      "product_id": "707124",
+      "name": "Monkey.D.Luffy (079) (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707124?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707124_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP17-079",
+        "Color": "Blue",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors Elbaph",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$120.00",
+      "average_sale_price": 114.5,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:19:12+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$110.25"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$114.90"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$114.40"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$113.00"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$130.00"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$119.97"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:16:59+00:00",
+          "listed_median": "$130.00",
+          "average_sale_price": 118.45
+        },
+        {
+          "scraped_at": "2026-08-26T23:19:12+00:00",
+          "listed_median": "$120.00",
+          "average_sale_price": 114.5
+        }
+      ]
+    },
+    {
+      "product_id": "712114",
+      "name": "Monkey.D.Luffy (079) (Super Leader Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712114?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712114_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP17-079",
+        "Color": "Blue",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors Elbaph",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$3,990.00",
+      "average_sale_price": 2500.0,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-26T18:12:25+00:00",
+      "recent_sales": [
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,500.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:12:25+00:00",
+          "listed_median": "$3,990.00",
+          "average_sale_price": 2500.0
+        }
+      ]
+    },
+    {
+      "product_id": "707123",
+      "name": "Monkey.D.Luffy (079) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707123?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707123_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP17-079",
+        "Color": "Blue",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors Elbaph",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.75",
+      "average_sale_price": 0.57,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:20:11+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.66"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.55"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.54"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:20:11+00:00",
+          "listed_median": "$0.75",
+          "average_sale_price": 0.57
+        }
+      ]
+    },
+    {
+      "product_id": "710862",
+      "name": "Monkey.D.Luffy (093) (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710862?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710862_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-093",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "8",
+        "Power": "8000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors Elbaph",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$78.01",
+      "average_sale_price": 68.39,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:24:22+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$68.40"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$68.39"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$68.38"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:24:22+00:00",
+          "listed_median": "$78.01",
+          "average_sale_price": 68.39
+        }
+      ]
+    },
+    {
+      "product_id": "710861",
+      "name": "Monkey.D.Luffy (093) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710861?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710861_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-093",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "8",
+        "Power": "8000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors Elbaph",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$7.97",
+      "average_sale_price": 6.94,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:48:35+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$7.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$6.71"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "20",
+          "price": "$6.97"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$7.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$7.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:48:35+00:00",
+          "listed_median": "$7.97",
+          "average_sale_price": 6.94
         }
       ]
     },
@@ -5091,6 +17626,440 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "632499",
+      "name": "Monkey.D.Luffy (118) (Manga) - A Fist of Divine Speed (OP11)",
+      "url": "https://www.tcgplayer.com/product/632499?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632499_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP11-118",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "8",
+        "Power": "8000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1,737.50",
+      "average_sale_price": 1025.0,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:30:36+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,300.00"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$999.99"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$850.00"
+        },
+        {
+          "date": "7/31/26",
+          "condition": "MP Foil",
+          "quantity": "1",
+          "price": "$675.00"
+        },
+        {
+          "date": "7/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,299.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:30:36+00:00",
+          "listed_median": "$1,737.50",
+          "average_sale_price": 1025.0
+        }
+      ]
+    },
+    {
+      "product_id": "657402",
+      "name": "Monkey.D.Luffy (118) (Super Alternate Art) - Carrying On His Will (OP13)",
+      "url": "https://www.tcgplayer.com/product/657402?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657402_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP13-118",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "7000",
+        "Subtype(s)": "Straw Hat Crew Supernovas Fish-Man Island",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$3,649.50",
+      "average_sale_price": 2053.36,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:15:02+00:00",
+      "recent_sales": [
+        {
+          "date": "7/7/26",
+          "condition": "MP Foil",
+          "quantity": "1",
+          "price": "$1,650.00"
+        },
+        {
+          "date": "7/3/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$2,100.41"
+        },
+        {
+          "date": "7/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,116.43"
+        },
+        {
+          "date": "6/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,199.99"
+        },
+        {
+          "date": "6/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,199.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:15:02+00:00",
+          "listed_median": "$3,649.50",
+          "average_sale_price": 2053.36
+        }
+      ]
+    },
+    {
+      "product_id": "597068",
+      "name": "Monkey.D.Luffy (119) (Manga) - Emperors in the New World (OP09)",
+      "url": "https://www.tcgplayer.com/product/597068?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/597068_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP09-119",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "9",
+        "Power": "10000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "-",
+      "average_sale_price": 2450.0,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-26T18:11:47+00:00",
+      "recent_sales": [
+        {
+          "date": "6/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,400.00"
+        },
+        {
+          "date": "5/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3,500.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:11:47+00:00",
+          "listed_median": "-",
+          "average_sale_price": 2450.0
+        }
+      ]
+    },
+    {
+      "product_id": "632504",
+      "name": "Monkey.D.Luffy (119) (SP) (Gold) - A Fist of Divine Speed (OP11)",
+      "url": "https://www.tcgplayer.com/product/632504?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632504_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP05-119",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$49,999.98",
+      "average_sale_price": 13000.0,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-26T17:58:23+00:00",
+      "recent_sales": [
+        {
+          "date": "8/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$13,000.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T17:58:23+00:00",
+          "listed_median": "$49,999.98",
+          "average_sale_price": 13000.0
+        }
+      ]
+    },
+    {
+      "product_id": "632503",
+      "name": "Monkey.D.Luffy (119) (SP) - A Fist of Divine Speed (OP11)",
+      "url": "https://www.tcgplayer.com/product/632503?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632503_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP05-119",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$10,000.00",
+      "average_sale_price": 5062.48,
+      "recent_sales_count": 4,
+      "last_scraped": "2026-08-26T18:02:12+00:00",
+      "recent_sales": [
+        {
+          "date": "6/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$6,999.98"
+        },
+        {
+          "date": "6/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4,249.99"
+        },
+        {
+          "date": "6/14/26",
+          "condition": "HP Foil",
+          "quantity": "1",
+          "price": "$3,000.00"
+        },
+        {
+          "date": "5/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5,999.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:02:12+00:00",
+          "listed_median": "$10,000.00",
+          "average_sale_price": 5062.48
+        }
+      ]
+    },
+    {
+      "product_id": "600711",
+      "name": "Monkey.D.Luffy (2nd Anniversary Tournament) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/600711?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/600711_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "ST13-003",
+        "Color": "Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$134.00",
+      "average_sale_price": 82.37,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:19:51+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$90.97"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$90.97"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$90.00"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$94.90"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "DMG Foil",
+          "quantity": "2",
+          "price": "$45.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:19:51+00:00",
+          "listed_median": "$134.00",
+          "average_sale_price": 82.37
+        }
+      ]
+    },
+    {
+      "product_id": "712743",
+      "name": "Monkey.D.Luffy (4th Anniversary) (Winner) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/712743?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712743_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-110",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "9000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors Elbaph",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$468.71",
+      "average_sale_price": 371.87,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T17:54:29+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$450.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "6",
+          "price": "$360.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$358.30"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$350.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$341.03"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T17:54:29+00:00",
+          "listed_median": "$468.71",
+          "average_sale_price": 371.87
+        }
+      ]
+    },
+    {
+      "product_id": "712742",
+      "name": "Monkey.D.Luffy (4th Anniversary) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/712742?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712742_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-110",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "9000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors Elbaph",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$29.99",
+      "average_sale_price": 20.4,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T17:55:08+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$22.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$21.47"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$19.01"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$20.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$19.01"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T17:55:08+00:00",
+          "listed_median": "$29.99",
+          "average_sale_price": 20.4
+        }
+      ]
+    },
+    {
       "product_id": "693420",
       "name": "Monkey.D.Luffy (Alternate Art) - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/693420?Language=English",
@@ -5151,6 +18120,922 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "624989",
+      "name": "Monkey.D.Luffy (BVB x One Piece Campaign) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/624989?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/624989_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "ST13-003",
+        "Color": "Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1,101.37",
+      "average_sale_price": 1082.8,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:15:16+00:00",
+      "recent_sales": [
+        {
+          "date": "8/5/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$744.99"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$820.00"
+        },
+        {
+          "date": "8/1/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$900.00"
+        },
+        {
+          "date": "6/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,299.00"
+        },
+        {
+          "date": "6/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,650.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:15:16+00:00",
+          "listed_median": "$1,101.37",
+          "average_sale_price": 1082.8
+        }
+      ]
+    },
+    {
+      "product_id": "710857",
+      "name": "Monkey.D.Luffy (EB04-061) (SP) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710857?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710857_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "EB04-061",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors Egghead",
+        "Attribute": "Strike"
+      },
+      "listed_median": "-",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:18:51+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:18:51+00:00",
+          "listed_median": "-",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "557283",
+      "name": "Monkey.D.Luffy (English Version 1st Anniversary Set) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/557283?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/557283_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "ST10-006",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "11000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1,325.00",
+      "average_sale_price": 1166.89,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:28:39+00:00",
+      "recent_sales": [
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,100.00"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,199.67"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,189.79"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,185.00"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,159.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:28:39+00:00",
+          "listed_median": "$1,325.00",
+          "average_sale_price": 1166.89
+        }
+      ]
+    },
+    {
+      "product_id": "635473",
+      "name": "Monkey.D.Luffy (English Version 2nd Anniversary Set) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/635473?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/635473_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP09-061",
+        "Color": "Purple Black",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$500.49",
+      "average_sale_price": 475.66,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:03:27+00:00",
+      "recent_sales": [
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "5",
+          "price": "$494.67"
+        },
+        {
+          "date": "7/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$245.12"
+        },
+        {
+          "date": "7/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$544.00"
+        },
+        {
+          "date": "7/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$545.00"
+        },
+        {
+          "date": "7/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$549.49"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:03:27+00:00",
+          "listed_median": "$500.49",
+          "average_sale_price": 475.66
+        }
+      ]
+    },
+    {
+      "product_id": "710696",
+      "name": "Monkey.D.Luffy (English Version 3rd Anniversary Set) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/710696?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710696_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP13-001",
+        "Color": "Green Red",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$450.00",
+      "average_sale_price": 336.58,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:07:23+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$345.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$340.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$339.95"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$329.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$328.96"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:07:23+00:00",
+          "listed_median": "$450.00",
+          "average_sale_price": 336.58
+        }
+      ]
+    },
+    {
+      "product_id": "523785",
+      "name": "Monkey.D.Luffy (Gift Collection 2023) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/523785?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/523785_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-001",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "7000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$139.99",
+      "average_sale_price": 101.23,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T17:55:47+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$99.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$102.64"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$98.50"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$100.00"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$105.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T17:55:47+00:00",
+          "listed_median": "$139.99",
+          "average_sale_price": 101.23
+        }
+      ]
+    },
+    {
+      "product_id": "518691",
+      "name": "Monkey.D.Luffy (Leader Pack) (Sealed Battle 2023 Vol. 1) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/518691?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/518691_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Color": "Blue Green Purple Red Black Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$28.26",
+      "average_sale_price": 21.99,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:25:39+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "10",
+          "price": "$20.93"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$20.92"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$21.92"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$25.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:09:53+00:00",
+          "listed_median": "$28.26",
+          "average_sale_price": 21.99
+        },
+        {
+          "scraped_at": "2026-08-27T00:25:39+00:00",
+          "listed_median": "$28.26",
+          "average_sale_price": 21.99
+        }
+      ]
+    },
+    {
+      "product_id": "587963",
+      "name": "Monkey.D.Luffy (OP05-119) (Manga) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/587963?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/587963_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP05-119",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$7,499.98",
+      "average_sale_price": 5000.0,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-26T18:03:28+00:00",
+      "recent_sales": [
+        {
+          "date": "5/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5,000.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:03:28+00:00",
+          "listed_median": "$7,499.98",
+          "average_sale_price": 5000.0
+        }
+      ]
+    },
+    {
+      "product_id": "685453",
+      "name": "Monkey.D.Luffy (OP15-098) (Alternate Art) - Adventure on Kami's Island (OP15-EB04)",
+      "url": "https://www.tcgplayer.com/product/685453?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685453_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP15-098",
+        "Color": "Yellow",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Sky Island",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$99.03",
+      "average_sale_price": 81.95,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:31:14+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$85.87"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$83.95"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$74.93"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$85.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$80.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:31:14+00:00",
+          "listed_median": "$99.03",
+          "average_sale_price": 81.95
+        }
+      ]
+    },
+    {
+      "product_id": "694713",
+      "name": "Monkey.D.Luffy (Official Playmat Limited Edition Vol.5) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/694713?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/694713_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "EB02-010",
+        "Color": "Green Purple",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$745.00",
+      "average_sale_price": 678.45,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:16:35+00:00",
+      "recent_sales": [
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$652.60"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$736.00"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$695.95"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$655.00"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$652.69"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:16:35+00:00",
+          "listed_median": "$745.00",
+          "average_sale_price": 678.45
+        }
+      ]
+    },
+    {
+      "product_id": "557296",
+      "name": "Monkey.D.Luffy (PSA Magazine) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/557296?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/557296_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP05-060",
+        "Color": "Purple",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$471.98",
+      "average_sale_price": 387.0,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:06:44+00:00",
+      "recent_sales": [
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$359.00"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$379.99"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$395.99"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$400.00"
+        },
+        {
+          "date": "7/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$400.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:06:44+00:00",
+          "listed_median": "$471.98",
+          "average_sale_price": 387.0
+        }
+      ]
+    },
+    {
+      "product_id": "566952",
+      "name": "Monkey.D.Luffy (Premium Card Collection -Leader Collection-) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/566952?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/566952_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "ST13-003",
+        "Color": "Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$181.31",
+      "average_sale_price": 153.88,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:13:19+00:00",
+      "recent_sales": [
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$154.98"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$153.99"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$153.00"
+        },
+        {
+          "date": "8/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$153.72"
+        },
+        {
+          "date": "8/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$153.72"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:13:19+00:00",
+          "listed_median": "$181.31",
+          "average_sale_price": 153.88
+        }
+      ]
+    },
+    {
+      "product_id": "681873",
+      "name": "Monkey.D.Luffy (Red Bull Double Don!!) (Winner) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/681873?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/681873_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "PRB02-005",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "-",
+      "average_sale_price": 8898.99,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-26T18:00:17+00:00",
+      "recent_sales": [
+        {
+          "date": "6/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$8,898.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:00:17+00:00",
+          "listed_median": "-",
+          "average_sale_price": 8898.99
+        }
+      ]
+    },
+    {
+      "product_id": "629171",
+      "name": "Monkey.D.Luffy (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629171?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629171_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP05-060",
+        "Color": "Purple",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "-",
+      "average_sale_price": 4999.99,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-26T18:05:59+00:00",
+      "recent_sales": [
+        {
+          "date": "6/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4,999.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:05:59+00:00",
+          "listed_median": "-",
+          "average_sale_price": 4999.99
+        }
+      ]
+    },
+    {
+      "product_id": "712122",
+      "name": "Monkey.D.Luffy (ST31-004) (SP) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712122?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712122_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "ST31-004",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "9000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1,324.18",
+      "average_sale_price": 1225.0,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-26T18:33:08+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,225.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:33:08+00:00",
+          "listed_median": "$1,324.18",
+          "average_sale_price": 1225.0
+        }
+      ]
+    },
+    {
+      "product_id": "649772",
+      "name": "Monkey.D.Luffy (Sound Loader - Luffy Edition 2025) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/649772?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649772_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "EB02-010",
+        "Color": "Green Purple",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$39.99",
+      "average_sale_price": 31.86,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:21:31+00:00",
+      "recent_sales": [
+        {
+          "date": "8/22/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$33.59"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$33.59"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM",
+          "quantity": "27",
+          "price": "$32.06"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM",
+          "quantity": "11",
+          "price": "$35.00"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$25.07"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:05:39+00:00",
+          "listed_median": "$39.99",
+          "average_sale_price": 31.86
+        },
+        {
+          "scraped_at": "2026-08-27T00:21:31+00:00",
+          "listed_median": "$39.99",
+          "average_sale_price": 31.86
+        }
+      ]
+    },
+    {
+      "product_id": "503023",
+      "name": "Monkey.D.Luffy (Store Championship Trophy Card) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/503023?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/503023_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-001",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "7000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$3,499.01",
+      "average_sale_price": 1235.98,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:24:42+00:00",
+      "recent_sales": [
+        {
+          "date": "7/3/26",
+          "condition": "DMG Foil",
+          "quantity": "1",
+          "price": "$1,239.99"
+        },
+        {
+          "date": "7/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$239.99"
+        },
+        {
+          "date": "7/15/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,349.95"
+        },
+        {
+          "date": "7/14/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,349.98"
+        },
+        {
+          "date": "6/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,000.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:24:42+00:00",
+          "listed_median": "$3,499.01",
+          "average_sale_price": 1235.98
+        }
+      ]
+    },
+    {
       "product_id": "696119",
       "name": "Monkey.D.Luffy - OP13-001 (Ichiban Kuji Exclusive) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/696119?Language=English",
@@ -5166,10 +19051,10 @@ const TCG_DATA = {
         "Subtype(s)": "Straw Hat Crew Supernovas",
         "Attribute": "Strike"
       },
-      "listed_median": "$200.50",
+      "listed_median": "$210.20",
       "average_sale_price": 146.52,
       "recent_sales_count": 5,
-      "last_scraped": "2026-08-25T22:16:07+00:00",
+      "last_scraped": "2026-08-26T23:12:00+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -5207,6 +19092,71 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T22:16:07+00:00",
           "listed_median": "$200.50",
           "average_sale_price": 146.52
+        },
+        {
+          "scraped_at": "2026-08-26T23:12:00+00:00",
+          "listed_median": "$210.20",
+          "average_sale_price": 146.52
+        }
+      ]
+    },
+    {
+      "product_id": "661704",
+      "name": "Monkey.D.Luffy - ST21-014 (3rd Anniversary Treasure Campaign Pack) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/661704?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/661704_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "ST21-014",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$2,124.99",
+      "average_sale_price": 2104.24,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:21:30+00:00",
+      "recent_sales": [
+        {
+          "date": "8/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,720.22"
+        },
+        {
+          "date": "7/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,201.00"
+        },
+        {
+          "date": "7/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,199.99"
+        },
+        {
+          "date": "7/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,200.00"
+        },
+        {
+          "date": "6/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,199.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:21:30+00:00",
+          "listed_median": "$2,124.99",
+          "average_sale_price": 2104.24
         }
       ]
     },
@@ -5805,6 +19755,474 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712604",
+      "name": "Nami (023) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712604?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712604_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-023",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "1000",
+        "Subtype(s)": "East Blue Straw Hat Crew",
+        "Counter+": "2000",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$0.52",
+      "average_sale_price": 0.48,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:30:12+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.46"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.53"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.48"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.43"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:30:12+00:00",
+          "listed_median": "$0.52",
+          "average_sale_price": 0.48
+        }
+      ]
+    },
+    {
+      "product_id": "498254",
+      "name": "Nami (040) (Alternate Art) - Pillars of Strength (OP03)",
+      "url": "https://www.tcgplayer.com/product/498254?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/498254_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP03-040",
+        "Color": "Blue",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$299.97",
+      "average_sale_price": 245.46,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:10:41+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$250.00"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$243.40"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$240.00"
+        },
+        {
+          "date": "8/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$246.97"
+        },
+        {
+          "date": "8/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$246.92"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:10:41+00:00",
+          "listed_median": "$299.97",
+          "average_sale_price": 245.46
+        }
+      ]
+    },
+    {
+      "product_id": "632406",
+      "name": "Nami (041) (Alternate Art) - A Fist of Divine Speed (OP11)",
+      "url": "https://www.tcgplayer.com/product/632406?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632406_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP11-041",
+        "Card Type": "Leader",
+        "Subtype(s)": "Straw Hat Crew"
+      },
+      "listed_median": "$83.76",
+      "average_sale_price": 64.79,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:34:34+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$64.99"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$64.00"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$60.00"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$69.96"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:34:34+00:00",
+          "listed_median": "$83.76",
+          "average_sale_price": 64.79
+        }
+      ]
+    },
+    {
+      "product_id": "672827",
+      "name": "Nami (053) (SP) - Extra Booster: One Piece Heroines Edition (EB-03-04)",
+      "url": "https://www.tcgplayer.com/product/672827?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672827_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "EB03-053",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$1,400.00",
+      "average_sale_price": 1130.73,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:29:58+00:00",
+      "recent_sales": [
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$465.12"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,248.55"
+        },
+        {
+          "date": "7/26/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,200.00"
+        },
+        {
+          "date": "7/22/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,200.00"
+        },
+        {
+          "date": "7/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,540.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:29:58+00:00",
+          "listed_median": "$1,400.00",
+          "average_sale_price": 1130.73
+        }
+      ]
+    },
+    {
+      "product_id": "712641",
+      "name": "Nami (086) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712641?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712641_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-086",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "2000",
+        "Subtype(s)": "Elbaph Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$0.60",
+      "average_sale_price": 0.71,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:53:57+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.54"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.57"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.46"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:53:57+00:00",
+          "listed_median": "$0.60",
+          "average_sale_price": 0.71
+        }
+      ]
+    },
+    {
+      "product_id": "619216",
+      "name": "Nami (Championship 25-26 Regionals Season 1) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/619216?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/619216_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP09-050",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "1000",
+        "Subtype(s)": "East Blue",
+        "Counter+": "1000",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$2,599.01",
+      "average_sale_price": 1069.69,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:18:13+00:00",
+      "recent_sales": [
+        {
+          "date": "7/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,700.00"
+        },
+        {
+          "date": "7/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$399.99"
+        },
+        {
+          "date": "7/1/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,220.55"
+        },
+        {
+          "date": "6/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$12.95"
+        },
+        {
+          "date": "6/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$14.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:18:13+00:00",
+          "listed_median": "$2,599.01",
+          "average_sale_price": 1069.69
+        }
+      ]
+    },
+    {
+      "product_id": "587966",
+      "name": "Nami (OP01-016) (Manga) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/587966?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/587966_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP01-016",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "2000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Counter+": "2000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$2,250.45",
+      "average_sale_price": 1470.41,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:17:35+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,900.00"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$800.00"
+        },
+        {
+          "date": "7/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,012.04"
+        },
+        {
+          "date": "7/13/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,889.99"
+        },
+        {
+          "date": "7/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$750.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:17:35+00:00",
+          "listed_median": "$2,250.45",
+          "average_sale_price": 1470.41
+        }
+      ]
+    },
+    {
+      "product_id": "675637",
+      "name": "Nami (Whole Cake Island Arc) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/675637?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675637_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP11-041",
+        "Color": "Blue Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Special"
+      },
+      "listed_median": "$1,197.00",
+      "average_sale_price": 925.99,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:11:24+00:00",
+      "recent_sales": [
+        {
+          "date": "8/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,197.95"
+        },
+        {
+          "date": "8/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$899.99"
+        },
+        {
+          "date": "6/6/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$794.00"
+        },
+        {
+          "date": "6/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$888.00"
+        },
+        {
+          "date": "6/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$850.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:11:24+00:00",
+          "listed_median": "$1,197.00",
+          "average_sale_price": 925.99
+        }
+      ]
+    },
+    {
       "product_id": "696074",
       "name": "Nami - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696074?Language=English",
@@ -5927,6 +20345,305 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "510774",
+      "name": "Nefeltari Vivi (001) (Alternate Art) - Kingdoms of Intrigue (OP04)",
+      "url": "https://www.tcgplayer.com/product/510774?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/510774_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP04-001",
+        "Color": "Blue Red",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Alabasta",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$142.24",
+      "average_sale_price": 125.01,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:15:55+00:00",
+      "recent_sales": [
+        {
+          "date": "8/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$135.00"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$120.00"
+        },
+        {
+          "date": "8/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$140.00"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$130.07"
+        },
+        {
+          "date": "8/12/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$100.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:15:55+00:00",
+          "listed_median": "$142.24",
+          "average_sale_price": 125.01
+        }
+      ]
+    },
+    {
+      "product_id": "533882",
+      "name": "New Genesis - Starter Deck 11: Uta (ST-11)",
+      "url": "https://www.tcgplayer.com/product/533882?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/533882_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "ST11-004",
+        "Color": "Green",
+        "Card Type": "Event",
+        "Cost": "1",
+        "Subtype(s)": "FILM Music"
+      },
+      "listed_median": "$0.50",
+      "average_sale_price": 0.29,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:00:11+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.41"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.30"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:00:11+00:00",
+          "listed_median": "$0.50",
+          "average_sale_price": 0.29
+        }
+      ]
+    },
+    {
+      "product_id": "672828",
+      "name": "Nico Robin (055) (SP) - Extra Booster: One Piece Heroines Edition (EB-03-04)",
+      "url": "https://www.tcgplayer.com/product/672828?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672828_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "EB03-055",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "8000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1,450.00",
+      "average_sale_price": 1468.0,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:26:39+00:00",
+      "recent_sales": [
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,449.99"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,550.00"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,425.00"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,415.01"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,499.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:26:39+00:00",
+          "listed_median": "$1,450.00",
+          "average_sale_price": 1468.0
+        }
+      ]
+    },
+    {
+      "product_id": "596999",
+      "name": "Nico Robin (062) (Parallel) - Emperors in the New World (OP09)",
+      "url": "https://www.tcgplayer.com/product/596999?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/596999_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP09-062",
+        "Color": "Purple Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$138.50",
+      "average_sale_price": 102.45,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:26:30+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$99.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$37.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$139.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$122.27"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$115.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:26:30+00:00",
+          "listed_median": "$138.50",
+          "average_sale_price": 102.45
+        }
+      ]
+    },
+    {
+      "product_id": "712115",
+      "name": "Nico Robin (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712115?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712115_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-087",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "2000",
+        "Subtype(s)": "Straw Hat Crew Elbaph",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$61.58",
+      "average_sale_price": 61.15,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:26:18+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$61.50"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$62.87"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$60.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$61.40"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$60.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:26:18+00:00",
+          "listed_median": "$61.58",
+          "average_sale_price": 61.15
+        }
+      ]
+    },
+    {
       "product_id": "696075",
       "name": "Nico Robin - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696075?Language=English",
@@ -5978,6 +20695,116 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T20:36:22+00:00",
           "listed_median": "$0.25",
           "average_sale_price": 0.22
+        }
+      ]
+    },
+    {
+      "product_id": "708399",
+      "name": "Nico Robin - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/708399?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708399_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-087",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "2000",
+        "Subtype(s)": "Straw Hat Crew Elbaph",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1.39",
+      "average_sale_price": 0.99,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:03:27+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.81"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.79"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$1.41"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.30"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$0.65"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:03:27+00:00",
+          "listed_median": "$1.39",
+          "average_sale_price": 0.99
+        }
+      ]
+    },
+    {
+      "product_id": "649664",
+      "name": "O-Nami (CS 25-26 Event Pack Finalist Ver.) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/649664?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649664_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP06-101",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "3000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "-",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T18:22:46+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:22:46+00:00",
+          "listed_median": "-",
+          "average_sale_price": 0.0
         }
       ]
     },
@@ -6094,6 +20921,120 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T20:30:34+00:00",
           "listed_median": "$0.15",
           "average_sale_price": 0.07
+        }
+      ]
+    },
+    {
+      "product_id": "541044",
+      "name": "Perona (021) (Alternate Art) - Wings of the Captain (OP06)",
+      "url": "https://www.tcgplayer.com/product/541044?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541044_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP06-021",
+        "Color": "Green Black",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Thriller Bark Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$68.23",
+      "average_sale_price": 55.48,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:45:19+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$55.76"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$54.92"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$56.12"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$55.14"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$55.45"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:45:19+00:00",
+          "listed_median": "$68.23",
+          "average_sale_price": 55.48
+        }
+      ]
+    },
+    {
+      "product_id": "629175",
+      "name": "Perona (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629175?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629175_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP06-021",
+        "Color": "Green Black",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Thriller Bark Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$7,500.00",
+      "average_sale_price": 749.99,
+      "recent_sales_count": 4,
+      "last_scraped": "2026-08-26T19:02:24+00:00",
+      "recent_sales": [
+        {
+          "date": "8/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$499.99"
+        },
+        {
+          "date": "6/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,199.99"
+        },
+        {
+          "date": "6/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$399.99"
+        },
+        {
+          "date": "5/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$899.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:02:24+00:00",
+          "listed_median": "$7,500.00",
+          "average_sale_price": 749.99
         }
       ]
     },
@@ -6450,6 +21391,288 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "600709",
+      "name": "Portgas.D.Ace (2nd Anniversary Tournament) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/600709?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/600709_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "ST13-002",
+        "Color": "Blue Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$47.98",
+      "average_sale_price": 37.24,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:45:59+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$39.99"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$44.54"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$38.99"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$40.00"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$22.67"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:45:59+00:00",
+          "listed_median": "$47.98",
+          "average_sale_price": 37.24
+        }
+      ]
+    },
+    {
+      "product_id": "497934",
+      "name": "Portgas.D.Ace (Alternate Art) - Pillars of Strength (OP03)",
+      "url": "https://www.tcgplayer.com/product/497934?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/497934_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP03-001",
+        "Color": "Red",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$93.79",
+      "average_sale_price": 77.18,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:32:32+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$79.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$81.46"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$82.45"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$78.00"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$65.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:32:32+00:00",
+          "listed_median": "$93.79",
+          "average_sale_price": 77.18
+        }
+      ]
+    },
+    {
+      "product_id": "710694",
+      "name": "Portgas.D.Ace (English Version 3rd Anniversary Set) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/710694?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710694_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP13-002",
+        "Color": "Blue Red",
+        "Card Type": "Leader",
+        "Life": "3",
+        "Power": "6000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$190.00",
+      "average_sale_price": 163.21,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:13:57+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$149.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$161.98"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$165.00"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$177.09"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:13:57+00:00",
+          "listed_median": "$190.00",
+          "average_sale_price": 163.21
+        }
+      ]
+    },
+    {
+      "product_id": "485862",
+      "name": "Portgas.D.Ace (Parallel) (Manga) (Alternate Art) - Paramount War (OP02)",
+      "url": "https://www.tcgplayer.com/product/485862?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/485862_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP02-013",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "7000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "-",
+      "average_sale_price": 963.64,
+      "recent_sales_count": 4,
+      "last_scraped": "2026-08-26T18:13:42+00:00",
+      "recent_sales": [
+        {
+          "date": "8/14/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$54.56"
+        },
+        {
+          "date": "5/5/26",
+          "condition": "DMG Foil",
+          "quantity": "1",
+          "price": "$1,200.00"
+        },
+        {
+          "date": "5/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$900.00"
+        },
+        {
+          "date": "5/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,700.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:13:42+00:00",
+          "listed_median": "-",
+          "average_sale_price": 963.64
+        }
+      ]
+    },
+    {
+      "product_id": "566953",
+      "name": "Portgas.D.Ace (Premium Card Collection -Leader Collection-) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/566953?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/566953_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "ST13-002",
+        "Color": "Blue Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$56.40",
+      "average_sale_price": 37.64,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:41:58+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$35.50"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.99"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$37.51"
+        },
+        {
+          "date": "8/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$44.68"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:41:58+00:00",
+          "listed_median": "$56.40",
+          "average_sale_price": 37.64
+        }
+      ]
+    },
+    {
       "product_id": "695508",
       "name": "Portgas.D.Ace (SP) - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/695508?Language=English",
@@ -6507,6 +21730,228 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T23:58:27+00:00",
           "listed_median": "$184.54",
           "average_sale_price": 164.15
+        }
+      ]
+    },
+    {
+      "product_id": "630009",
+      "name": "Portgas.D.Ace (Serial Numbered) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/630009?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/630009_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP07-119",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "10000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "-",
+      "average_sale_price": 9950.0,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-26T17:59:01+00:00",
+      "recent_sales": [
+        {
+          "date": "7/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$9,950.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T17:59:01+00:00",
+          "listed_median": "-",
+          "average_sale_price": 9950.0
+        }
+      ]
+    },
+    {
+      "product_id": "710938",
+      "name": "Portgas.D.Ace (Sound Loader Ace and Sabo Edition 2026) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/710938?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710938_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP13-002",
+        "Color": "Blue Red",
+        "Card Type": "Leader",
+        "Life": "3",
+        "Power": "6000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$32.27",
+      "average_sale_price": 34.45,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:16:15+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$32.27"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.99"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.99"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$35.00"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$35.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:00:15+00:00",
+          "listed_median": "$32.27",
+          "average_sale_price": 34.45
+        },
+        {
+          "scraped_at": "2026-08-27T00:16:15+00:00",
+          "listed_median": "$32.27",
+          "average_sale_price": 34.45
+        }
+      ]
+    },
+    {
+      "product_id": "504483",
+      "name": "Portgas.D.Ace (Special Goods Set -Ace/Sabo/Luffy-) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/504483?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/504483_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP03-001",
+        "Color": "Red",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$48.49",
+      "average_sale_price": 35.23,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:57:45+00:00",
+      "recent_sales": [
+        {
+          "date": "8/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$35.62"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.00"
+        },
+        {
+          "date": "7/31/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$34.99"
+        },
+        {
+          "date": "7/14/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$34.99"
+        },
+        {
+          "date": "7/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$41.55"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:57:45+00:00",
+          "listed_median": "$48.49",
+          "average_sale_price": 35.23
+        }
+      ]
+    },
+    {
+      "product_id": "708780",
+      "name": "Portgas.D.Ace - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/708780?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708780_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-013",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "6000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$2.21",
+      "average_sale_price": 0.8,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:51:45+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.26"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$1.08"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.75"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.74"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$1.17"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:51:45+00:00",
+          "listed_median": "$2.21",
+          "average_sale_price": 0.8
         }
       ]
     },
@@ -6572,6 +22017,145 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "708066",
+      "name": "Queen - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/708066?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708066_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-065",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "9",
+        "Power": "10000",
+        "Subtype(s)": "Animal Kingdom Pirates",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.54",
+      "average_sale_price": 0.46,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:42:36+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.42"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.60"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:42:36+00:00",
+          "listed_median": "$0.54",
+          "average_sale_price": 0.46
+        }
+      ]
+    },
+    {
+      "product_id": "712703",
+      "name": "Queen - The World's Strongest Warriors Release Event Cards (OP17 RE)",
+      "url": "https://www.tcgplayer.com/product/712703?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712703_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-065",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "9",
+        "Power": "10000",
+        "Subtype(s)": "Animal Kingdom Pirates",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$20.00",
+      "average_sale_price": 24.39,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-26T22:43:15+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$25.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$23.78"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:43:15+00:00",
+          "listed_median": "$20.00",
+          "average_sale_price": 24.39
+        }
+      ]
+    },
+    {
+      "product_id": "712599",
+      "name": "Rakuyo - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712599?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712599_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-016",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "2000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Counter+": "2000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.50",
+      "average_sale_price": 0.44,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:27:00+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.45"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.43"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.42"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.43"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:27:00+00:00",
+          "listed_median": "$0.50",
+          "average_sale_price": 0.44
+        }
+      ]
+    },
+    {
       "product_id": "695999",
       "name": "Ramba - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/695999?Language=English",
@@ -6628,6 +22212,549 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T23:09:20+00:00",
           "listed_median": "$0.10",
           "average_sale_price": 0.03
+        }
+      ]
+    },
+    {
+      "product_id": "510994",
+      "name": "Rebecca (039) (Alternate Art) - Kingdoms of Intrigue (OP04)",
+      "url": "https://www.tcgplayer.com/product/510994?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/510994_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP04-039",
+        "Color": "Blue Black",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Dressrosa",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$50.25",
+      "average_sale_price": 42.75,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:48:03+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$42.93"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$42.93"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$42.95"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$41.96"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$42.98"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:48:03+00:00",
+          "listed_median": "$50.25",
+          "average_sale_price": 42.75
+        }
+      ]
+    },
+    {
+      "product_id": "584366",
+      "name": "Rebecca (October Championship 2024 Online Regional) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/584366?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/584366_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP05-091",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "0",
+        "Subtype(s)": "Dressrosa",
+        "Counter+": "1000",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$12,750.00",
+      "average_sale_price": 6000.0,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-26T18:00:56+00:00",
+      "recent_sales": [
+        {
+          "date": "7/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$8,000.00"
+        },
+        {
+          "date": "6/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4,000.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:00:56+00:00",
+          "listed_median": "$12,750.00",
+          "average_sale_price": 6000.0
+        }
+      ]
+    },
+    {
+      "product_id": "498486",
+      "name": "Rob Lucci (076) (Alternate Art) - Pillars of Strength (OP03)",
+      "url": "https://www.tcgplayer.com/product/498486?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/498486_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP03-076",
+        "Color": "Black",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$36.12",
+      "average_sale_price": 31.81,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:18:55+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$31.15"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.99"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$30.93"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$30.98"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$30.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:03:00+00:00",
+          "listed_median": "$36.12",
+          "average_sale_price": 31.81
+        },
+        {
+          "scraped_at": "2026-08-27T00:18:55+00:00",
+          "listed_median": "$36.12",
+          "average_sale_price": 31.81
+        }
+      ]
+    },
+    {
+      "product_id": "629183",
+      "name": "Rob Lucci (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629183?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629183_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP07-079",
+        "Color": "Black",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "CP0",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$860.66",
+      "average_sale_price": 1124.99,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-26T19:06:16+00:00",
+      "recent_sales": [
+        {
+          "date": "5/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$750.00"
+        },
+        {
+          "date": "4/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,499.97"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:06:16+00:00",
+          "listed_median": "$860.66",
+          "average_sale_price": 1124.99
+        }
+      ]
+    },
+    {
+      "product_id": "712624",
+      "name": "Rocks Pirates - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712624?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712624_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-056",
+        "Color": "Blue",
+        "Card Type": "Event",
+        "Cost": "0",
+        "Subtype(s)": "Rocks Pirates"
+      },
+      "listed_median": "$0.69",
+      "average_sale_price": 0.68,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:43:02+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.57"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.57"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.75"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.69"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.81"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:43:02+00:00",
+          "listed_median": "$0.69",
+          "average_sale_price": 0.68
+        }
+      ]
+    },
+    {
+      "product_id": "710591",
+      "name": "Rocks.D.Xebec (039) (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710591?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710591_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP17-039",
+        "Color": "Blue",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$112.99",
+      "average_sale_price": 112.36,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:17:37+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$112.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$111.96"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$111.95"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$112.96"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:17:37+00:00",
+          "listed_median": "$112.99",
+          "average_sale_price": 112.36
+        }
+      ]
+    },
+    {
+      "product_id": "712086",
+      "name": "Rocks.D.Xebec (039) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712086?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712086_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP17-039",
+        "Color": "Blue",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$2.92",
+      "average_sale_price": 2.08,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:53:41+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.87"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.89"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.65"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:53:41+00:00",
+          "listed_median": "$2.92",
+          "average_sale_price": 2.08
+        }
+      ]
+    },
+    {
+      "product_id": "709837",
+      "name": "Rocks.D.Xebec (118) (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/709837?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709837_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP17-118",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$91.00",
+      "average_sale_price": 93.38,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:21:28+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$90.97"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$92.98"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$95.00"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$95.00"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$92.97"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:21:28+00:00",
+          "listed_median": "$91.00",
+          "average_sale_price": 93.38
+        }
+      ]
+    },
+    {
+      "product_id": "712117",
+      "name": "Rocks.D.Xebec (118) (Super Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712117?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712117_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP17-118",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$8,000.00",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:20:08+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:20:08+00:00",
+          "listed_median": "$8,000.00",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "709836",
+      "name": "Rocks.D.Xebec (118) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/709836?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709836_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP17-118",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$41.54",
+      "average_sale_price": 36.86,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:22:15+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$36.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$38.08"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$37.21"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$36.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$36.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:22:15+00:00",
+          "listed_median": "$41.54",
+          "average_sale_price": 36.86
         }
       ]
     },
@@ -6693,6 +22820,291 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "707122",
+      "name": "Rockstar - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707122?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707122_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-034",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Red-Haired Pirates",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.49",
+      "average_sale_price": 0.26,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:38:07+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.40"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.22"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.21"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:38:07+00:00",
+          "listed_median": "$0.49",
+          "average_sale_price": 0.26
+        }
+      ]
+    },
+    {
+      "product_id": "712686",
+      "name": "Rockstar - The World's Strongest Warriors Release Event Cards (OP17 RE)",
+      "url": "https://www.tcgplayer.com/product/712686?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712686_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-034",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Red-Haired Pirates",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$15.89",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:38:45+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:38:45+00:00",
+          "listed_median": "$15.89",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "712647",
+      "name": "Rodo - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712647?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712647_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-094",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "2000",
+        "Subtype(s)": "Giant Elbaph New Giant Pirates",
+        "Counter+": "2000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.44",
+      "average_sale_price": 0.36,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:57:48+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.39"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.28"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.39"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.39"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.34"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:57:48+00:00",
+          "listed_median": "$0.44",
+          "average_sale_price": 0.36
+        }
+      ]
+    },
+    {
+      "product_id": "454513",
+      "name": "Roronoa Zoro (001) (Parallel) - Romance Dawn (OP01)",
+      "url": "https://www.tcgplayer.com/product/454513?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454513_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP01-001",
+        "Color": "Red",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$797.50",
+      "average_sale_price": 792.0,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:18:31+00:00",
+      "recent_sales": [
+        {
+          "date": "8/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$900.00"
+        },
+        {
+          "date": "8/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$780.00"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$700.00"
+        },
+        {
+          "date": "8/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$800.00"
+        },
+        {
+          "date": "8/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$780.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:18:31+00:00",
+          "listed_median": "$797.50",
+          "average_sale_price": 792.0
+        }
+      ]
+    },
+    {
+      "product_id": "643748",
+      "name": "Roronoa Zoro (020) (Alternate Art) - Legacy of the Master (OP12)",
+      "url": "https://www.tcgplayer.com/product/643748?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643748_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP12-020",
+        "Color": "Green",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$74.93",
+      "average_sale_price": 53.96,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:42:37+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$55.13"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$54.15"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$53.25"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$54.01"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$53.24"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:42:37+00:00",
+          "listed_median": "$74.93",
+          "average_sale_price": 53.96
+        }
+      ]
+    },
+    {
       "product_id": "696021",
       "name": "Roronoa Zoro (035) - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696021?Language=English",
@@ -6753,6 +23165,61 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712609",
+      "name": "Roronoa Zoro (035) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712609?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712609_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-035",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "8000",
+        "Subtype(s)": "East Blue Straw Hat Crew",
+        "Counter+": "2000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.1,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:33:25+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "8",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:33:25+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.1
+        }
+      ]
+    },
+    {
       "product_id": "696039",
       "name": "Roronoa Zoro (053) - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696039?Language=English",
@@ -6803,6 +23270,916 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T20:13:10+00:00",
           "listed_median": "$0.13",
           "average_sale_price": 0.07
+        }
+      ]
+    },
+    {
+      "product_id": "710617",
+      "name": "Roronoa Zoro (095) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710617?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710617_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-095",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "2000",
+        "Subtype(s)": "Straw Hat Crew Elbaph",
+        "Counter+": "2000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.64",
+      "average_sale_price": 0.57,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:47:45+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "6",
+          "price": "$0.55"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.62"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.57"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.54"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.59"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:47:45+00:00",
+          "listed_median": "$0.64",
+          "average_sale_price": 0.57
+        }
+      ]
+    },
+    {
+      "product_id": "712725",
+      "name": "Roronoa Zoro (095) - The World's Strongest Warriors Release Event Cards (OP17 RE)",
+      "url": "https://www.tcgplayer.com/product/712725?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/image-missing.svg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-095",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "2000",
+        "Subtype(s)": "Straw Hat Crew Elbaph",
+        "Counter+": "2000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$15.70",
+      "average_sale_price": 15.49,
+      "recent_sales_count": 4,
+      "last_scraped": "2026-08-26T22:48:23+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$9.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$12.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$19.98"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$19.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:48:23+00:00",
+          "listed_median": "$15.70",
+          "average_sale_price": 15.49
+        }
+      ]
+    },
+    {
+      "product_id": "541660",
+      "name": "Roronoa Zoro (Alternate Art) (Manga) - Wings of the Captain (OP06)",
+      "url": "https://www.tcgplayer.com/product/541660?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541660_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP06-118",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "9",
+        "Power": "9000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$30,000.00",
+      "average_sale_price": 2469.8,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:13:03+00:00",
+      "recent_sales": [
+        {
+          "date": "8/6/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3,100.00"
+        },
+        {
+          "date": "6/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,499.00"
+        },
+        {
+          "date": "6/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3,000.00"
+        },
+        {
+          "date": "6/11/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,950.00"
+        },
+        {
+          "date": "5/18/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,800.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:13:03+00:00",
+          "listed_median": "$30,000.00",
+          "average_sale_price": 2469.8
+        }
+      ]
+    },
+    {
+      "product_id": "619217",
+      "name": "Roronoa Zoro (Championship 25-26 Regionals Season 1) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/619217?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/619217_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP09-076",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$8,000.00",
+      "average_sale_price": 166.98,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:04:06+00:00",
+      "recent_sales": [
+        {
+          "date": "8/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$249.99"
+        },
+        {
+          "date": "6/6/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$110.00"
+        },
+        {
+          "date": "6/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$105.00"
+        },
+        {
+          "date": "6/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$249.95"
+        },
+        {
+          "date": "6/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$119.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:04:06+00:00",
+          "listed_median": "$8,000.00",
+          "average_sale_price": 166.98
+        }
+      ]
+    },
+    {
+      "product_id": "705991",
+      "name": "Roronoa Zoro (EB04-007) (SP) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/705991?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/705991_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "EB04-007",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "9000",
+        "Subtype(s)": "Straw Hat Crew Egghead",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$850.00",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:12:27+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:12:27+00:00",
+          "listed_median": "$850.00",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "685303",
+      "name": "Roronoa Zoro (EB04-007) - Adventure on Kami's Island (OP15-EB04)",
+      "url": "https://www.tcgplayer.com/product/685303?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685303_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "EB04-007",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "9000",
+        "Subtype(s)": "Straw Hat Crew Egghead",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$17.73",
+      "average_sale_price": 15.62,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T17:57:45+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$16.98"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$15.58"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$15.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$15.46"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$14.59"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T17:57:45+00:00",
+          "listed_median": "$17.73",
+          "average_sale_price": 15.62
+        }
+      ]
+    },
+    {
+      "product_id": "587964",
+      "name": "Roronoa Zoro (Manga) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/587964?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/587964_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP06-118",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "9",
+        "Power": "9000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$3,000.00",
+      "average_sale_price": 2111.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T18:16:18+00:00",
+      "recent_sales": [
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,258.00"
+        },
+        {
+          "date": "7/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,200.00"
+        },
+        {
+          "date": "5/21/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,875.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:16:18+00:00",
+          "listed_median": "$3,000.00",
+          "average_sale_price": 2111.0
+        }
+      ]
+    },
+    {
+      "product_id": "485262",
+      "name": "Roronoa Zoro - OP01-001 (Alternate Art) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/485262?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/485262_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "OP01-001",
+        "Color": "Red",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$143.44",
+      "average_sale_price": 129.99,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:17:14+00:00",
+      "recent_sales": [
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$136.00"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$138.00"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$140.95"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$110.00"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$125.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:17:14+00:00",
+          "listed_median": "$143.44",
+          "average_sale_price": 129.99
+        }
+      ]
+    },
+    {
+      "product_id": "657221",
+      "name": "Roronoa Zoro - OP12-020 (Official Playmat Limited Edition Vol.4) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/657221?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657221_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP12-020",
+        "Color": "Green",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$650.00",
+      "average_sale_price": 633.38,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:04:08+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$615.00"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$185.00"
+        },
+        {
+          "date": "7/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$716.90"
+        },
+        {
+          "date": "7/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$750.00"
+        },
+        {
+          "date": "6/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$899.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:04:08+00:00",
+          "listed_median": "$650.00",
+          "average_sale_price": 633.38
+        }
+      ]
+    },
+    {
+      "product_id": "657257",
+      "name": "Sabo (004) (Alternate Art) - Carrying On His Will (OP13)",
+      "url": "https://www.tcgplayer.com/product/657257?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657257_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP13-004",
+        "Color": "Red Black",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Revolutionary Army Dressrosa",
+        "Attribute": "Special"
+      },
+      "listed_median": "$54.99",
+      "average_sale_price": 43.74,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:49:26+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$44.98"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$43.25"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$43.48"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$42.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:49:26+00:00",
+          "listed_median": "$54.99",
+          "average_sale_price": 43.74
+        }
+      ]
+    },
+    {
+      "product_id": "657411",
+      "name": "Sabo (120) (Red Super Alternate Art) - Carrying On His Will (OP13)",
+      "url": "https://www.tcgplayer.com/product/657411?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657411_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP13-120",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "7000",
+        "Subtype(s)": "Revolutionary Army Dressrosa",
+        "Attribute": "Special"
+      },
+      "listed_median": "$4,549.99",
+      "average_sale_price": 4800.0,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-26T18:05:22+00:00",
+      "recent_sales": [
+        {
+          "date": "6/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4,800.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:05:22+00:00",
+          "listed_median": "$4,549.99",
+          "average_sale_price": 4800.0
+        }
+      ]
+    },
+    {
+      "product_id": "600707",
+      "name": "Sabo (2nd Anniversary Tournament) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/600707?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/600707_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "ST13-001",
+        "Color": "Red Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Revolutionary Army Dressrosa",
+        "Attribute": "Special"
+      },
+      "listed_median": "$34.60",
+      "average_sale_price": 25.53,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:19:35+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$26.98"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$28.99"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$27.72"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$28.00"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$15.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:03:39+00:00",
+          "listed_median": "$34.60",
+          "average_sale_price": 25.53
+        },
+        {
+          "scraped_at": "2026-08-27T00:19:35+00:00",
+          "listed_median": "$34.60",
+          "average_sale_price": 25.53
+        }
+      ]
+    },
+    {
+      "product_id": "710697",
+      "name": "Sabo (English Version 3rd Anniversary Set) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/710697?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710697_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP13-004",
+        "Color": "Red Black",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Revolutionary Army Dressrosa",
+        "Attribute": "Special"
+      },
+      "listed_median": "$300.00",
+      "average_sale_price": 234.39,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:11:18+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$270.00"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$239.99"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$225.00"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$218.95"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$218.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:11:18+00:00",
+          "listed_median": "$300.00",
+          "average_sale_price": 234.39
+        }
+      ]
+    },
+    {
+      "product_id": "567114",
+      "name": "Sabo (Premium Card Collection -Leader Collection-) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/567114?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/567114_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "ST13-001",
+        "Color": "Red Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Revolutionary Army Dressrosa",
+        "Attribute": "Special"
+      },
+      "listed_median": "$26.74",
+      "average_sale_price": 20.07,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:29:03+00:00",
+      "recent_sales": [
+        {
+          "date": "8/5/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$23.37"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$17.00"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$18.99"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$20.30"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$20.68"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:13:19+00:00",
+          "listed_median": "$26.74",
+          "average_sale_price": 20.07
+        },
+        {
+          "scraped_at": "2026-08-27T00:29:03+00:00",
+          "listed_median": "$26.74",
+          "average_sale_price": 20.07
+        }
+      ]
+    },
+    {
+      "product_id": "629168",
+      "name": "Sabo (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629168?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629168_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP05-001",
+        "Color": "Red Black",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Revolutionary Army",
+        "Attribute": "Special"
+      },
+      "listed_median": "$1,500.34",
+      "average_sale_price": 778.33,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T19:01:46+00:00",
+      "recent_sales": [
+        {
+          "date": "5/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$849.99"
+        },
+        {
+          "date": "5/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,400.00"
+        },
+        {
+          "date": "4/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$85.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:35:02+00:00",
+          "listed_median": "$1,500.34",
+          "average_sale_price": 778.33
+        },
+        {
+          "scraped_at": "2026-08-26T19:01:46+00:00",
+          "listed_median": "$1,500.34",
+          "average_sale_price": 778.33
+        }
+      ]
+    },
+    {
+      "product_id": "710937",
+      "name": "Sabo (Sound Loader Ace and Sabo Edition 2026) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/710937?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710937_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP13-004",
+        "Color": "Red Black",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Revolutionary Army Dressrosa",
+        "Attribute": "Special"
+      },
+      "listed_median": "$31.27",
+      "average_sale_price": 31.64,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:20:51+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$31.27"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$30.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.96"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.99"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$32.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:04:59+00:00",
+          "listed_median": "$31.27",
+          "average_sale_price": 31.64
+        },
+        {
+          "scraped_at": "2026-08-27T00:20:51+00:00",
+          "listed_median": "$31.27",
+          "average_sale_price": 31.64
         }
       ]
     },
@@ -6867,6 +24244,186 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "483628",
+      "name": "Sanji (Alternate Art) - Paramount War (OP02)",
+      "url": "https://www.tcgplayer.com/product/483628?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/483628_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP02-026",
+        "Color": "Blue Green",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$160.00",
+      "average_sale_price": 121.72,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:15:16+00:00",
+      "recent_sales": [
+        {
+          "date": "8/5/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$160.00"
+        },
+        {
+          "date": "8/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$35.00"
+        },
+        {
+          "date": "7/28/26",
+          "condition": "DMG Foil",
+          "quantity": "1",
+          "price": "$91.42"
+        },
+        {
+          "date": "7/27/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$154.51"
+        },
+        {
+          "date": "7/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$167.68"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:15:16+00:00",
+          "listed_median": "$160.00",
+          "average_sale_price": 121.72
+        }
+      ]
+    },
+    {
+      "product_id": "586608",
+      "name": "Sanji (PRB01-001) (Alternate Art) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/586608?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586608_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "PRB01-001",
+        "Color": "Red",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$123.82",
+      "average_sale_price": 106.73,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:24:29+00:00",
+      "recent_sales": [
+        {
+          "date": "8/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$114.00"
+        },
+        {
+          "date": "8/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$88.27"
+        },
+        {
+          "date": "8/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$113.61"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$111.99"
+        },
+        {
+          "date": "8/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$105.78"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:24:29+00:00",
+          "listed_median": "$123.82",
+          "average_sale_price": 106.73
+        }
+      ]
+    },
+    {
+      "product_id": "654637",
+      "name": "Sanji - OP06-119 (Manga) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/654637?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654637_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP06-119",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "9",
+        "Power": "9000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$2,975.00",
+      "average_sale_price": 2128.62,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:14:23+00:00",
+      "recent_sales": [
+        {
+          "date": "8/9/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$2,000.00"
+        },
+        {
+          "date": "7/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,265.97"
+        },
+        {
+          "date": "7/10/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,994.99"
+        },
+        {
+          "date": "6/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,200.00"
+        },
+        {
+          "date": "6/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,182.16"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:14:23+00:00",
+          "listed_median": "$2,975.00",
+          "average_sale_price": 2128.62
+        }
+      ]
+    },
+    {
       "product_id": "696069",
       "name": "Sanji - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696069?Language=English",
@@ -6924,6 +24481,67 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T20:32:30+00:00",
           "listed_median": "$0.15",
           "average_sale_price": 0.07
+        }
+      ]
+    },
+    {
+      "product_id": "707316",
+      "name": "Sanji - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707316?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707316_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-082",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "2000",
+        "Subtype(s)": "Straw Hat Crew Elbaph",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.92",
+      "average_sale_price": 0.9,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:07:58+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.97"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.86"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.81"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.97"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.88"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:07:58+00:00",
+          "listed_median": "$0.92",
+          "average_sale_price": 0.9
         }
       ]
     },
@@ -6990,6 +24608,152 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T22:22:36+00:00",
           "listed_median": "$0.20",
           "average_sale_price": 0.3
+        }
+      ]
+    },
+    {
+      "product_id": "712630",
+      "name": "Sasaki - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712630?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712630_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-068",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "4000",
+        "Subtype(s)": "Animal Kingdom Pirates",
+        "Counter+": "2000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.1,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:46:54+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:46:54+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.1
+        }
+      ]
+    },
+    {
+      "product_id": "712633",
+      "name": "Scratchmen Apoo (Pandaman Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712633?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712633_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-070",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "7000",
+        "Subtype(s)": "Animal Kingdom Pirates On-Air Pirates",
+        "Counter+": "2000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$7.58",
+      "average_sale_price": 6.97,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:47:57+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$6.98"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$6.97"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$6.97"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:48:49+00:00",
+          "listed_median": "$7.63",
+          "average_sale_price": 6.97
+        },
+        {
+          "scraped_at": "2026-08-26T21:47:57+00:00",
+          "listed_median": "$7.58",
+          "average_sale_price": 6.97
+        }
+      ]
+    },
+    {
+      "product_id": "712632",
+      "name": "Scratchmen Apoo - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712632?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712632_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-070",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "7000",
+        "Subtype(s)": "On-Air Pirates Animal Kingdom Pirates",
+        "Counter+": "2000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.13,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:48:11+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:48:11+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.13
         }
       ]
     },
@@ -7169,6 +24933,714 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "596920",
+      "name": "Shanks (001) (Parallel) - Emperors in the New World (OP09)",
+      "url": "https://www.tcgplayer.com/product/596920?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/596920_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP09-001",
+        "Color": "Red",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "The Four Emperors Red-Haired Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$49.95",
+      "average_sale_price": 38.84,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:50:48+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$38.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$36.99"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$40.00"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$39.19"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:50:48+00:00",
+          "listed_median": "$49.95",
+          "average_sale_price": 38.84
+        }
+      ]
+    },
+    {
+      "product_id": "596925",
+      "name": "Shanks (004) (Manga) - Emperors in the New World (OP09)",
+      "url": "https://www.tcgplayer.com/product/596925?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/596925_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP09-004",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "The Four Emperors Red-Haired Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$2,499.99",
+      "average_sale_price": 1647.99,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:20:49+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,699.99"
+        },
+        {
+          "date": "7/5/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,499.99"
+        },
+        {
+          "date": "7/14/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,449.99"
+        },
+        {
+          "date": "6/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,795.00"
+        },
+        {
+          "date": "5/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,795.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:20:49+00:00",
+          "listed_median": "$2,499.99",
+          "average_sale_price": 1647.99
+        }
+      ]
+    },
+    {
+      "product_id": "705923",
+      "name": "Shanks (020) (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/705923?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/705923_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP17-020",
+        "Color": "Green",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "The Four Emperors Red-Haired Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$61.06",
+      "average_sale_price": 44.99,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:28:12+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$44.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$44.98"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:28:12+00:00",
+          "listed_median": "$61.06",
+          "average_sale_price": 44.99
+        }
+      ]
+    },
+    {
+      "product_id": "705922",
+      "name": "Shanks (020) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/705922?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/705922_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP17-020",
+        "Color": "Green",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "The Four Emperors Red-Haired Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.91",
+      "average_sale_price": 0.61,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:06:41+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.92"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.71"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.47"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.48"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:06:41+00:00",
+          "listed_median": "$0.91",
+          "average_sale_price": 0.61
+        }
+      ]
+    },
+    {
+      "product_id": "707121",
+      "name": "Shanks (022) (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707121?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707121_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-022",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "The Four Emperors Red-Haired Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$74.00",
+      "average_sale_price": 78.19,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T20:25:01+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$74.99"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$73.00"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$86.57"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:25:01+00:00",
+          "listed_median": "$74.00",
+          "average_sale_price": 78.19
+        }
+      ]
+    },
+    {
+      "product_id": "712084",
+      "name": "Shanks (022) (Manga) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712084?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712084_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-022",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "The Four Emperors Red-Haired Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$2,299.99",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:16:17+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:16:17+00:00",
+          "listed_median": "$2,299.99",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "707120",
+      "name": "Shanks (022) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707120?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707120_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-022",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "The Four Emperors Red-Haired Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$9.76",
+      "average_sale_price": 8.96,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:46:39+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$8.91"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$8.88"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$9.10"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$9.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$8.89"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:46:39+00:00",
+          "listed_median": "$9.76",
+          "average_sale_price": 8.96
+        }
+      ]
+    },
+    {
+      "product_id": "643883",
+      "name": "Shanks (2025 PSA Magazine Promo) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/643883?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643883_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP09-001",
+        "Color": "Red",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "The Four Emperors Red-Haired Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$152.90",
+      "average_sale_price": 119.09,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:16:34+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$116.48"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$115.00"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$119.99"
+        },
+        {
+          "date": "8/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$122.00"
+        },
+        {
+          "date": "8/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$121.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:16:34+00:00",
+          "listed_median": "$152.90",
+          "average_sale_price": 119.09
+        }
+      ]
+    },
+    {
+      "product_id": "646743",
+      "name": "Shanks (Championship 25-26 Offline Regionals Season 2) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/646743?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/646743_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP09-004",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "The Four Emperors Red-Haired Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "-",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T18:07:17+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:07:17+00:00",
+          "listed_median": "-",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "635471",
+      "name": "Shanks (English Version 2nd Anniversary Set) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/635471?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/635471_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP09-001",
+        "Color": "Red",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "The Four Emperors Red-Haired Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$142.37",
+      "average_sale_price": 131.08,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:17:54+00:00",
+      "recent_sales": [
+        {
+          "date": "8/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$133.47"
+        },
+        {
+          "date": "8/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$133.47"
+        },
+        {
+          "date": "8/6/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$133.47"
+        },
+        {
+          "date": "8/3/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$129.99"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$124.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:17:54+00:00",
+          "listed_median": "$142.37",
+          "average_sale_price": 131.08
+        }
+      ]
+    },
+    {
+      "product_id": "587708",
+      "name": "Shanks (Manga) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/587708?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/587708_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP01-120",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "9",
+        "Power": "10000",
+        "Subtype(s)": "The Four Emperors Red-Haired Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$26,550.00",
+      "average_sale_price": 1250.0,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-26T18:31:52+00:00",
+      "recent_sales": [
+        {
+          "date": "7/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,250.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:31:52+00:00",
+          "listed_median": "$26,550.00",
+          "average_sale_price": 1250.0
+        }
+      ]
+    },
+    {
+      "product_id": "712119",
+      "name": "Shanks (OP13-028) (SP) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712119?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712119_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP13-028",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "FILM The Four Emperors Red-Haired Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$773.01",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:18:13+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:18:13+00:00",
+          "listed_median": "$773.01",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "454666",
+      "name": "Shanks (Parallel) (Manga) (Alternate Art) - Romance Dawn (OP01)",
+      "url": "https://www.tcgplayer.com/product/454666?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454666_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP01-120",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "9",
+        "Power": "10000",
+        "Subtype(s)": "The Four Emperors Red-Haired Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$3,998.00",
+      "average_sale_price": 3999.47,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-26T18:07:55+00:00",
+      "recent_sales": [
+        {
+          "date": "6/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3,999.47"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:07:55+00:00",
+          "listed_median": "$3,998.00",
+          "average_sale_price": 3999.47
+        }
+      ]
+    },
+    {
+      "product_id": "657442",
+      "name": "Shanks - OP09-004 (SP) (Gold) - Carrying On His Will (OP13)",
+      "url": "https://www.tcgplayer.com/product/657442?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657442_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP09-004",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "The Four Emperors Red-Haired Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$1,732.50",
+      "average_sale_price": 1443.99,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:25:59+00:00",
+      "recent_sales": [
+        {
+          "date": "7/6/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,450.00"
+        },
+        {
+          "date": "6/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,600.00"
+        },
+        {
+          "date": "5/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,504.99"
+        },
+        {
+          "date": "5/19/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,159.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:25:59+00:00",
+          "listed_median": "$1,732.50",
+          "average_sale_price": 1443.99
+        }
+      ]
+    },
+    {
       "product_id": "695990",
       "name": "Shanks - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/695990?Language=English",
@@ -7226,6 +25698,156 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T23:03:17+00:00",
           "listed_median": "$0.14",
           "average_sale_price": 0.04
+        }
+      ]
+    },
+    {
+      "product_id": "712618",
+      "name": "Shiki (047) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712618?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712618_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-047",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "9",
+        "Power": "10000",
+        "Subtype(s)": "FILM Impel Down Golden Lion Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.1,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:39:11+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:39:11+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.1
+        }
+      ]
+    },
+    {
+      "product_id": "712087",
+      "name": "Shiki (048) (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712087?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712087_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-048",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "9000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$43.10",
+      "average_sale_price": 46.99,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-26T20:28:50+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$46.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:28:50+00:00",
+          "listed_median": "$43.10",
+          "average_sale_price": 46.99
+        }
+      ]
+    },
+    {
+      "product_id": "710542",
+      "name": "Shiki (048) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710542?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710542_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-048",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "9000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$5.47",
+      "average_sale_price": 3.06,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:53:02+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$2.05"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$3.97"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$3.77"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.75"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:53:02+00:00",
+          "listed_median": "$5.47",
+          "average_sale_price": 3.06
         }
       ]
     },
@@ -7476,6 +26098,115 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712120",
+      "name": "Silvers Rayleigh (OP14-108) (SP) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712120?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712120_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP14-108",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "6000",
+        "Subtype(s)": "Former Roger Pirates",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$274.99",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:14:23+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:14:23+00:00",
+          "listed_median": "$274.99",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "484476",
+      "name": "Smoker (093) (Alternate Art) - Paramount War (OP02)",
+      "url": "https://www.tcgplayer.com/product/484476?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/484476_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP02-093",
+        "Color": "Black",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "Navy",
+        "Attribute": "Special"
+      },
+      "listed_median": "$90.49",
+      "average_sale_price": 69.58,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:30:34+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$84.81"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$25.00"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$83.45"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$77.98"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$76.67"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:30:34+00:00",
+          "listed_median": "$90.49",
+          "average_sale_price": 69.58
+        }
+      ]
+    },
+    {
       "product_id": "696014",
       "name": "Smoker - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696014?Language=English",
@@ -7658,6 +26389,237 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712619",
+      "name": "Streusen (050) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712619?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712619_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-050",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "2000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.17,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:39:50+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.13"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:39:50+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.17
+        }
+      ]
+    },
+    {
+      "product_id": "712659",
+      "name": "Streusen (113) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712659?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712659_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-113",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "2000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "2000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.85",
+      "average_sale_price": 0.84,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T20:05:31+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.90"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.85"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.88"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.74"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "LP Foil",
+          "quantity": "2",
+          "price": "$0.82"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:05:31+00:00",
+          "listed_median": "$0.85",
+          "average_sale_price": 0.84
+        }
+      ]
+    },
+    {
+      "product_id": "712116",
+      "name": "Sweet 3 Generals (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712116?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712116_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-114",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "4000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Slash Strike"
+      },
+      "listed_median": "$28.99",
+      "average_sale_price": 29.93,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:24:11+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$26.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.91"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$30.89"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$30.89"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$31.98"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:24:11+00:00",
+          "listed_median": "$28.99",
+          "average_sale_price": 29.93
+        }
+      ]
+    },
+    {
+      "product_id": "709105",
+      "name": "Sweet 3 Generals - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/709105?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709105_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-114",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "4000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Slash Strike"
+      },
+      "listed_median": "$1.16",
+      "average_sale_price": 0.83,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:04:45+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$1.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.70"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.06"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:04:45+00:00",
+          "listed_median": "$1.16",
+          "average_sale_price": 0.83
+        }
+      ]
+    },
+    {
       "product_id": "695117",
       "name": "Tashigi (SP) - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/695117?Language=English",
@@ -7780,6 +26742,64 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712601",
+      "name": "The Power to Destroy the World - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712601?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712601_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-018",
+        "Color": "Red",
+        "Card Type": "Event",
+        "Cost": "1",
+        "Subtype(s)": "The Four Emperors Whitebeard Pirates"
+      },
+      "listed_median": "$0.46",
+      "average_sale_price": 0.35,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:28:17+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.34"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.33"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.24"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.50"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "12",
+          "price": "$0.33"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:28:17+00:00",
+          "listed_median": "$0.46",
+          "average_sale_price": 0.35
+        }
+      ]
+    },
+    {
       "product_id": "696046",
       "name": "The Prisoners Are Rioting!! - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696046?Language=English",
@@ -7896,6 +26916,287 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712623",
+      "name": "There's No Authority in the World That Lasts Forever!!! - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712623?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712623_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-055",
+        "Color": "Blue",
+        "Card Type": "Event",
+        "Cost": "0",
+        "Subtype(s)": "Rocks Pirates"
+      },
+      "listed_median": "$1.00",
+      "average_sale_price": 0.88,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:05:24+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.93"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.65"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$1.12"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.92"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.90"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.75"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.97"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.03"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.90"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.65"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:42:24+00:00",
+          "listed_median": "$1.00",
+          "average_sale_price": 0.89
+        },
+        {
+          "scraped_at": "2026-08-26T22:05:24+00:00",
+          "listed_median": "$1.00",
+          "average_sale_price": 0.88
+        }
+      ]
+    },
+    {
+      "product_id": "558022",
+      "name": "Tony Tony.Chopper (001) (Parallel) - Two Legends (OP08)",
+      "url": "https://www.tcgplayer.com/product/558022?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558022_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP08-001",
+        "Color": "Green Red",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Animal Straw Hat Crew Drum Kingdom",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$89.99",
+      "average_sale_price": 72.53,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:29:10+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$84.95"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$83.42"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$83.41"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$44.88"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$65.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:29:10+00:00",
+          "listed_median": "$89.99",
+          "average_sale_price": 72.53
+        }
+      ]
+    },
+    {
+      "product_id": "544532",
+      "name": "Tony Tony.Chopper (Alternate Art) (Manga) - Extra Booster: Memorial Collection (EB-01)",
+      "url": "https://www.tcgplayer.com/product/544532?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544532_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "EB01-006",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "4000",
+        "Subtype(s)": "Animal Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$5,200.00",
+      "average_sale_price": 3750.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T18:09:12+00:00",
+      "recent_sales": [
+        {
+          "date": "6/4/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$3,000.00"
+        },
+        {
+          "date": "6/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,999.99"
+        },
+        {
+          "date": "4/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5,250.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:09:12+00:00",
+          "listed_median": "$5,200.00",
+          "average_sale_price": 3750.0
+        }
+      ]
+    },
+    {
+      "product_id": "587962",
+      "name": "Tony Tony.Chopper (EB01-006) (Manga) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/587962?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/587962_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "EB01-006",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "4000",
+        "Subtype(s)": "Animal Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$50,000.99",
+      "average_sale_price": 3000.0,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-26T18:10:29+00:00",
+      "recent_sales": [
+        {
+          "date": "7/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3,000.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:10:29+00:00",
+          "listed_median": "$50,000.99",
+          "average_sale_price": 3000.0
+        }
+      ]
+    },
+    {
+      "product_id": "629185",
+      "name": "Tony Tony.Chopper (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629185?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629185_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP08-001",
+        "Color": "Green Red",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Animal Straw Hat Crew Drum Kingdom",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$4,849.90",
+      "average_sale_price": 6835.93,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-26T18:09:51+00:00",
+      "recent_sales": [
+        {
+          "date": "5/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$6,904.20"
+        },
+        {
+          "date": "5/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$6,767.67"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:09:51+00:00",
+          "listed_median": "$4,849.90",
+          "average_sale_price": 6835.93
+        }
+      ]
+    },
+    {
       "product_id": "696073",
       "name": "Tony Tony.Chopper - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696073?Language=English",
@@ -7953,6 +27254,191 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T20:35:04+00:00",
           "listed_median": "$0.15",
           "average_sale_price": 0.09
+        }
+      ]
+    },
+    {
+      "product_id": "708392",
+      "name": "Tony Tony.Chopper - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/708392?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708392_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-084",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "2000",
+        "Subtype(s)": "Animal Straw Hat Crew Elbaph",
+        "Counter+": "2000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1.38",
+      "average_sale_price": 1.25,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:02:48+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$1.19"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$1.17"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$1.36"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$1.36"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$1.16"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:02:48+00:00",
+          "listed_median": "$1.38",
+          "average_sale_price": 1.25
+        }
+      ]
+    },
+    {
+      "product_id": "454514",
+      "name": "Trafalgar Law (002) (Parallel) - Romance Dawn (OP01)",
+      "url": "https://www.tcgplayer.com/product/454514?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454514_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP01-002",
+        "Color": "Green Red",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Heart Pirates Supernovas",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$491.67",
+      "average_sale_price": 352.54,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:06:05+00:00",
+      "recent_sales": [
+        {
+          "date": "8/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$600.00"
+        },
+        {
+          "date": "7/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$95.00"
+        },
+        {
+          "date": "7/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$491.70"
+        },
+        {
+          "date": "7/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$496.00"
+        },
+        {
+          "date": "6/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$80.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:06:05+00:00",
+          "listed_median": "$491.67",
+          "average_sale_price": 352.54
+        }
+      ]
+    },
+    {
+      "product_id": "617058",
+      "name": "Trafalgar Law (022) (Parallel) - Royal Blood (OP10)",
+      "url": "https://www.tcgplayer.com/product/617058?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617058_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP10-022",
+        "Color": "Green Yellow",
+        "Card Type": "Leader",
+        "Power": "5000",
+        "Subtype(s)": "Heart Pirates Supernovas Dressrosa",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$29.99",
+      "average_sale_price": 25.68,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:27:03+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$25.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$28.37"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$26.48"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$24.90"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$23.65"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:11:21+00:00",
+          "listed_median": "$29.99",
+          "average_sale_price": 25.68
+        },
+        {
+          "scraped_at": "2026-08-27T00:27:03+00:00",
+          "listed_median": "$29.99",
+          "average_sale_price": 25.68
         }
       ]
     },
@@ -8072,6 +27558,97 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "527019",
+      "name": "Trafalgar Law (069) (Alternate Art) (Manga) - Awakening of the New Era (OP05)",
+      "url": "https://www.tcgplayer.com/product/527019?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/527019_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP05-069",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "5000",
+        "Subtype(s)": "Heart Pirates",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$2,100.00",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T18:24:04+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:24:04+00:00",
+          "listed_median": "$2,100.00",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "539207",
+      "name": "Trafalgar Law - ST10-010 - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/539207?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/539207_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "ST10-010",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "Heart Pirates",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$3,200.00",
+      "average_sale_price": 1251.96,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-26T18:31:14+00:00",
+      "recent_sales": [
+        {
+          "date": "5/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3.92"
+        },
+        {
+          "date": "5/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,500.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:31:14+00:00",
+          "listed_median": "$3,200.00",
+          "average_sale_price": 1251.96
+        }
+      ]
+    },
+    {
       "product_id": "696055",
       "name": "Tsuru - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696055?Language=English",
@@ -8133,6 +27710,187 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "708395",
+      "name": "Ulti & Page One - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/708395?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708395_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-060",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "6000",
+        "Subtype(s)": "Animal Kingdom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.72",
+      "average_sale_price": 0.66,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:41:58+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.59"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.53"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.66"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.76"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.74"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:41:58+00:00",
+          "listed_median": "$0.72",
+          "average_sale_price": 0.66
+        }
+      ]
+    },
+    {
+      "product_id": "711427",
+      "name": "Usopp (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/711427?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711427_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-080",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "2000",
+        "Subtype(s)": "Straw Hat Crew Elbaph",
+        "Counter+": "1000",
+        "Attribute": "Ranged"
+      },
+      "listed_median": "$22.14",
+      "average_sale_price": 21.22,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:25:29+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$20.26"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$20.26"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$21.87"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$21.85"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$21.88"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:25:29+00:00",
+          "listed_median": "$22.14",
+          "average_sale_price": 21.22
+        }
+      ]
+    },
+    {
+      "product_id": "647759",
+      "name": "Usopp (Official Playmat -Limited Edition Vol. 3-) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/647759?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/647759_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP10-042",
+        "Color": "Blue Black",
+        "Card Type": "Leader",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Dressrosa",
+        "Attribute": "Ranged"
+      },
+      "listed_median": "$203.55",
+      "average_sale_price": 215.69,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:14:36+00:00",
+      "recent_sales": [
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$194.97"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$179.99"
+        },
+        {
+          "date": "7/6/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$159.99"
+        },
+        {
+          "date": "7/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$193.56"
+        },
+        {
+          "date": "7/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$349.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:14:36+00:00",
+          "listed_median": "$203.55",
+          "average_sale_price": 215.69
+        }
+      ]
+    },
+    {
       "product_id": "696030",
       "name": "Usopp - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696030?Language=English",
@@ -8190,6 +27948,321 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T19:58:03+00:00",
           "listed_median": "$0.15",
           "average_sale_price": 0.08
+        }
+      ]
+    },
+    {
+      "product_id": "711426",
+      "name": "Usopp - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/711426?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711426_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-080",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "2000",
+        "Subtype(s)": "Straw Hat Crew Elbaph",
+        "Counter+": "1000",
+        "Attribute": "Ranged"
+      },
+      "listed_median": "$2.97",
+      "average_sale_price": 1.45,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:57:41+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$1.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$1.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$1.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:57:41+00:00",
+          "listed_median": "$2.97",
+          "average_sale_price": 1.45
+        }
+      ]
+    },
+    {
+      "product_id": "533879",
+      "name": "Uta (001) - Starter Deck 11: Uta (ST-11)",
+      "url": "https://www.tcgplayer.com/product/533879?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/533879_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "ST11-001",
+        "Color": "Green",
+        "Card Type": "Leader",
+        "Life": "5",
+        "Power": "5000",
+        "Subtype(s)": "FILM",
+        "Attribute": "Special"
+      },
+      "listed_median": "$4.90",
+      "average_sale_price": 4.15,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:58:49+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.00"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.97"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3.15"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3.14"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.49"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:58:49+00:00",
+          "listed_median": "$4.90",
+          "average_sale_price": 4.15
+        }
+      ]
+    },
+    {
+      "product_id": "533880",
+      "name": "Uta (002) - Starter Deck 11: Uta (ST-11)",
+      "url": "https://www.tcgplayer.com/product/533880?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/533880_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "ST11-002",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "4000",
+        "Subtype(s)": "FILM",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$1.53",
+      "average_sale_price": 1.26,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:59:33+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.38"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.80"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$1.99"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.15"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:59:33+00:00",
+          "listed_median": "$1.53",
+          "average_sale_price": 1.26
+        }
+      ]
+    },
+    {
+      "product_id": "539285",
+      "name": "Uta (Alternate Art) - Wings of the Captain (OP06)",
+      "url": "https://www.tcgplayer.com/product/539285?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/539285_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP06-001",
+        "Color": "Purple Red",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "FILM",
+        "Attribute": "Special"
+      },
+      "listed_median": "$40.04",
+      "average_sale_price": 35.18,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:58:25+00:00",
+      "recent_sales": [
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$33.00"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$32.00"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$31.99"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$36.98"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$41.94"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:58:25+00:00",
+          "listed_median": "$40.04",
+          "average_sale_price": 35.18
+        }
+      ]
+    },
+    {
+      "product_id": "629173",
+      "name": "Uta (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629173?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629173_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP06-001",
+        "Color": "Purple Red",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "FILM",
+        "Attribute": "Special"
+      },
+      "listed_median": "$2,788.92",
+      "average_sale_price": 925.0,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-26T19:07:32+00:00",
+      "recent_sales": [
+        {
+          "date": "5/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$999.99"
+        },
+        {
+          "date": "4/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$850.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:07:32+00:00",
+          "listed_median": "$2,788.92",
+          "average_sale_price": 925.0
+        }
+      ]
+    },
+    {
+      "product_id": "615310",
+      "name": "Uta (Treasure Cup 2025) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/615310?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/615310_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP09-002",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "2000",
+        "Subtype(s)": "FILM",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "-",
+      "average_sale_price": 700.0,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-26T17:59:39+00:00",
+      "recent_sales": [
+        {
+          "date": "6/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$700.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T17:59:39+00:00",
+          "listed_median": "-",
+          "average_sale_price": 700.0
         }
       ]
     },
@@ -8326,6 +28399,283 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "545894",
+      "name": "Vegapunk (Parallel) - 500 Years in the Future (OP07)",
+      "url": "https://www.tcgplayer.com/product/545894?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545894_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP07-097",
+        "Color": "Yellow",
+        "Card Type": "Leader",
+        "Life": "2",
+        "Power": "5000",
+        "Subtype(s)": "Scientist Egghead",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$43.00",
+      "average_sale_price": 41.84,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:52:16+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$42.36"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$41.37"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$41.14"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$42.00"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$42.35"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:52:16+00:00",
+          "listed_median": "$43.00",
+          "average_sale_price": 41.84
+        }
+      ]
+    },
+    {
+      "product_id": "629184",
+      "name": "Vegapunk (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629184?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629184_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP07-097",
+        "Color": "Yellow",
+        "Card Type": "Leader",
+        "Life": "2",
+        "Power": "5000",
+        "Subtype(s)": "Scientist Egghead",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "-",
+      "average_sale_price": 260.74,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:12:41+00:00",
+      "recent_sales": [
+        {
+          "date": "6/25/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$110.00"
+        },
+        {
+          "date": "5/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$998.68"
+        },
+        {
+          "date": "5/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$65.00"
+        },
+        {
+          "date": "5/5/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$65.00"
+        },
+        {
+          "date": "4/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$65.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:12:41+00:00",
+          "listed_median": "-",
+          "average_sale_price": 260.74
+        }
+      ]
+    },
+    {
+      "product_id": "541007",
+      "name": "Vinsmoke Reiju (042) (Alternate Art) - Wings of the Captain (OP06)",
+      "url": "https://www.tcgplayer.com/product/541007?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541007_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP06-042",
+        "Color": "Blue Purple",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "The Vinsmoke Family GERMA 66",
+        "Attribute": "Special"
+      },
+      "listed_median": "$39.35",
+      "average_sale_price": 33.54,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:59:07+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$33.95"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.33"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.00"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.33"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$31.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:59:07+00:00",
+          "listed_median": "$39.35",
+          "average_sale_price": 33.54
+        }
+      ]
+    },
+    {
+      "product_id": "629177",
+      "name": "Vinsmoke Reiju (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629177?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629177_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP06-042",
+        "Color": "Blue Purple",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "The Vinsmoke Family GERMA 66",
+        "Attribute": "Special"
+      },
+      "listed_median": "$1,364.99",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T19:13:20+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:13:20+00:00",
+          "listed_median": "$1,364.99",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "590990",
+      "name": "Vinsmoke Reiju (Treasure Cup 2024) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/590990?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/590990_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP06-069",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "The Vinsmoke Family GERMA 66",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "-",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T18:11:08+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:11:08+00:00",
+          "listed_median": "-",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
       "product_id": "695996",
       "name": "Vista (TR) - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/695996?Language=English",
@@ -8434,6 +28784,66 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712612",
+      "name": "Wang Zhi - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712612?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712612_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-041",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "6000",
+        "Subtype(s)": "Rocks Pirates",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$0.39",
+      "average_sale_price": 0.31,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:35:20+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.28"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.29"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.30"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.28"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.38"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:35:20+00:00",
+          "listed_median": "$0.39",
+          "average_sale_price": 0.31
+        }
+      ]
+    },
+    {
       "product_id": "696047",
       "name": "We'll Change This Mission from Sneaky to Flashy! - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696047?Language=English",
@@ -8488,6 +28898,318 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T20:18:20+00:00",
           "listed_median": "$0.15",
           "average_sale_price": 0.06
+        }
+      ]
+    },
+    {
+      "product_id": "712598",
+      "name": "Whitey Bay - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712598?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712598_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-014",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "1000",
+        "Subtype(s)": "Whitebeard Pirates Allies",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.20",
+      "average_sale_price": 0.1,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:26:22+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.11"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "12",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:26:22+00:00",
+          "listed_median": "$0.20",
+          "average_sale_price": 0.1
+        }
+      ]
+    },
+    {
+      "product_id": "707131",
+      "name": "Who's.Who - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/707131?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707131_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-071",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "3000",
+        "Subtype(s)": "Animal Kingdom Pirates Former CP9",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.34",
+      "average_sale_price": 0.19,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:43:54+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.19"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.18"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "8",
+          "price": "$0.18"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.17"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.23"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:43:54+00:00",
+          "listed_median": "$0.34",
+          "average_sale_price": 0.19
+        }
+      ]
+    },
+    {
+      "product_id": "712709",
+      "name": "Who's.Who - The World's Strongest Warriors Release Event Cards (OP17 RE)",
+      "url": "https://www.tcgplayer.com/product/712709?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712709_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-071",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "3000",
+        "Subtype(s)": "Animal Kingdom Pirates Former CP9",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$3.51",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-26T22:44:32+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:44:32+00:00",
+          "listed_median": "$3.51",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
+      "product_id": "712610",
+      "name": "Withdraw Now and Allow Me to Save Face - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712610?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712610_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "UC",
+        "Number": "OP17-036",
+        "Color": "Green",
+        "Card Type": "Event",
+        "Cost": "1",
+        "Subtype(s)": "The Four Emperors Red-Haired Pirates"
+      },
+      "listed_median": "$0.35",
+      "average_sale_price": 0.32,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:34:04+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.35"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.30"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.30"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:34:04+00:00",
+          "listed_median": "$0.35",
+          "average_sale_price": 0.32
+        }
+      ]
+    },
+    {
+      "product_id": "712636",
+      "name": "Wo Ro Ro Ro Ro... I Think I've Sobered Up - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712636?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712636_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-076",
+        "Color": "Purple",
+        "Card Type": "Event",
+        "Cost": "0",
+        "Subtype(s)": "The Four Emperors Animal Kingdom Pirates"
+      },
+      "listed_median": "$0.79",
+      "average_sale_price": 0.61,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:50:45+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.60"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.63"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.60"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.62"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:50:45+00:00",
+          "listed_median": "$0.79",
+          "average_sale_price": 0.61
+        }
+      ]
+    },
+    {
+      "product_id": "712635",
+      "name": "X.Drake - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712635?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712635_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "C",
+        "Number": "OP17-075",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "2000",
+        "Subtype(s)": "Navy Drake Pirates Animal Kingdom Pirates",
+        "Counter+": "2000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$0.25",
+      "average_sale_price": 0.1,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:50:07+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.10"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.12"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:50:07+00:00",
+          "listed_median": "$0.25",
+          "average_sale_price": 0.1
         }
       ]
     },
@@ -8837,6 +29559,400 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "539490",
+      "name": "Yamato (Alternate Art) - Wings of the Captain (OP06)",
+      "url": "https://www.tcgplayer.com/product/539490?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/539490_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP06-022",
+        "Color": "Green Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Land of Wano",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$79.92",
+      "average_sale_price": 66.78,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T23:36:35+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$74.99"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$69.99"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$68.68"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$70.30"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$49.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T23:36:35+00:00",
+          "listed_median": "$79.92",
+          "average_sale_price": 66.78
+        }
+      ]
+    },
+    {
+      "product_id": "708067",
+      "name": "Yamato (OP16-098) (SP) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/708067?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708067_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP16-098",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "5000",
+        "Subtype(s)": "Land of Wano",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$503.50",
+      "average_sale_price": 506.01,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-26T20:15:05+00:00",
+      "recent_sales": [
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$522.02"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$490.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T20:15:05+00:00",
+          "listed_median": "$503.50",
+          "average_sale_price": 506.01
+        }
+      ]
+    },
+    {
+      "product_id": "629176",
+      "name": "Yamato (SP) - Extra Booster: Anime 25th Collection (EB-02)",
+      "url": "https://www.tcgplayer.com/product/629176?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629176_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP06-022",
+        "Color": "Green Yellow",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Land of Wano",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1,650.00",
+      "average_sale_price": 1066.33,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T19:03:41+00:00",
+      "recent_sales": [
+        {
+          "date": "6/30/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1,300.00"
+        },
+        {
+          "date": "5/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,149.99"
+        },
+        {
+          "date": "5/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,125.00"
+        },
+        {
+          "date": "5/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,015.00"
+        },
+        {
+          "date": "5/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$741.67"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T19:03:41+00:00",
+          "listed_median": "$1,650.00",
+          "average_sale_price": 1066.33
+        }
+      ]
+    },
+    {
+      "product_id": "692137",
+      "name": "Yamato (Serial Numbered) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/692137?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692137_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "EB02-006",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "7000",
+        "Subtype(s)": "Land of Wano",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$40,000.00",
+      "average_sale_price": 4239.99,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T18:06:37+00:00",
+      "recent_sales": [
+        {
+          "date": "7/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4,499.95"
+        },
+        {
+          "date": "5/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4,200.00"
+        },
+        {
+          "date": "5/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4,250.00"
+        },
+        {
+          "date": "5/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4,250.00"
+        },
+        {
+          "date": "5/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4,000.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T18:06:37+00:00",
+          "listed_median": "$40,000.00",
+          "average_sale_price": 4239.99
+        }
+      ]
+    },
+    {
+      "product_id": "710615",
+      "name": "Yamato - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710615?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710615_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "R",
+        "Number": "OP17-074",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "1000",
+        "Subtype(s)": "Land of Wano",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1.60",
+      "average_sale_price": 1.36,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T22:00:15+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$1.42"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$1.39"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$1.29"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$1.39"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "12",
+          "price": "$1.30"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T22:00:15+00:00",
+          "listed_median": "$1.60",
+          "average_sale_price": 1.36
+        }
+      ]
+    },
+    {
+      "product_id": "711423",
+      "name": "Yasopp (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/711423?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711423_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-031",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Red-Haired Pirates",
+        "Counter+": "1000",
+        "Attribute": "Ranged"
+      },
+      "listed_median": "$21.98",
+      "average_sale_price": 15.61,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:26:46+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$15.98"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$16.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$15.08"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$15.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:26:46+00:00",
+          "listed_median": "$21.98",
+          "average_sale_price": 15.61
+        }
+      ]
+    },
+    {
+      "product_id": "711422",
+      "name": "Yasopp - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/711422?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711422_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SR",
+        "Number": "OP17-031",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Red-Haired Pirates",
+        "Counter+": "1000",
+        "Attribute": "Ranged"
+      },
+      "listed_median": "$1.96",
+      "average_sale_price": 1.1,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-26T21:59:36+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$1.83"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$1.08"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$1.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-26T21:59:36+00:00",
+          "listed_median": "$1.96",
+          "average_sale_price": 1.1
+        }
+      ]
+    },
+    {
       "product_id": "696049",
       "name": "Younger Brother Marine - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696049?Language=English",
@@ -9020,6 +30136,71 @@ const TCG_DATA = {
           "scraped_at": "2026-08-25T22:29:43+00:00",
           "listed_median": "$0.25",
           "average_sale_price": 0.29
+        }
+      ]
+    },
+    {
+      "product_id": "484314",
+      "name": "Zephyr (Alternate Art) - Paramount War (OP02)",
+      "url": "https://www.tcgplayer.com/product/484314?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/484314_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "L",
+        "Number": "OP02-072",
+        "Color": "Purple",
+        "Card Type": "Leader",
+        "Life": "4",
+        "Power": "5000",
+        "Subtype(s)": "Film Neo Navy",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$50.00",
+      "average_sale_price": 34.33,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-27T00:17:35+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$38.00"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$35.00"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$33.76"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$32.77"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$32.13"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-27T00:01:40+00:00",
+          "listed_median": "$50.00",
+          "average_sale_price": 34.33
+        },
+        {
+          "scraped_at": "2026-08-27T00:17:35+00:00",
+          "listed_median": "$50.00",
+          "average_sale_price": 34.33
         }
       ]
     }

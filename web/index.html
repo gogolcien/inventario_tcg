@@ -173,6 +173,36 @@
   }
   #colEmpty { padding: 40px 0; text-align: center; color: var(--muted); }
 
+  /* Herramientas */
+  .tool-card {
+    background: var(--panel); border: 1px solid var(--border);
+    border-radius: 10px; padding: 18px; margin-bottom: 18px;
+  }
+  .tool-card h3 { margin: 0 0 6px; font-size: 15px; }
+  .tool-desc { color: var(--muted); font-size: 13px; margin: 0 0 12px; }
+  .tool-desc code { background: var(--panel2); padding: 2px 5px; border-radius: 4px; }
+  .tool-row { display: flex; gap: 10px; flex-wrap: wrap; align-items: flex-end; }
+  .tool-row input[type="text"], .tool-row input[type="number"] { width: auto; min-width: 140px; }
+  .tool-row label { display: flex; flex-direction: column; gap: 4px; font-size: 12px; color: var(--muted); }
+  .cmd-box {
+    background: var(--panel2); padding: 10px 12px; border-radius: 6px;
+    overflow-x: auto; font-size: 13px; user-select: all; margin-top: 12px;
+  }
+  .cmd-copy { margin-top: 8px; }
+  button.btn.run { background: var(--up); color: #06240f; font-weight: 600; }
+  button.btn.run:disabled { opacity: .5; cursor: wait; }
+  .tool-status { font-size: 13px; margin-top: 10px; min-height: 18px; }
+  .tool-status.running { color: var(--accent); }
+  .tool-status.ok { color: var(--up); }
+  .tool-status.err { color: var(--down); }
+  .server-note {
+    font-size: 13px; padding: 10px 14px; border-radius: 8px; margin-bottom: 18px;
+    border: 1px solid var(--border); color: var(--muted);
+  }
+  .server-note code { background: var(--panel2); padding: 2px 5px; border-radius: 4px; }
+  .server-note.online { border-color: var(--up); color: var(--up); }
+  .server-note.offline { border-color: var(--down); color: var(--down); }
+
   /* Modal de detalle */
   #overlay {
     display: none;
@@ -220,6 +250,7 @@
 <nav class="tabs">
   <button id="tabCatalogo" class="active">Catálogo</button>
   <button id="tabColeccion">Colección</button>
+  <button id="tabHerramientas">Herramientas</button>
 </nav>
 
 <!-- Vista: Catalogo -->
@@ -292,6 +323,60 @@
       </thead>
       <tbody id="colBody"></tbody>
     </table>
+
+  </div>
+</div>
+
+<!-- Vista: Herramientas -->
+<div id="viewHerramientas" class="view">
+  <div class="col-wrap">
+
+    <div class="server-note" id="serverNote">Comprobando si <code>server.py</code> está corriendo...</div>
+
+
+    <div class="tool-card">
+      <h3>Scrapear IDs específicos</h3>
+      <p class="tool-desc">Ej: <code>python details.py 629168 629167</code> — extrae uno o varios productos por su ID.</p>
+      <div class="tool-row">
+        <input type="text" id="toolIds" placeholder="IDs separados por espacio, ej: 629168 629167 693417">
+        <button class="btn" id="toolIdsGen">Generar comando</button>
+        <button class="btn run" id="toolIdsRun">▶ Ejecutar ahora</button>
+      </div>
+      <div class="tool-status" id="toolIdsStatus"></div>
+      <pre id="toolIdsCmd" class="cmd-box" style="display:none;"></pre>
+      <button class="btn secondary cmd-copy" id="toolIdsCopy" style="display:none;">Copiar comando</button>
+    </div>
+
+    <div class="tool-card">
+      <h3>Escanear rango de IDs</h3>
+      <p class="tool-desc">Ej: <code>python details.py --range 696007 696100 "One Piece Card Game"</code> — recorre un rango de IDs y guarda solo los que coincidan con la categoría (opcional).</p>
+      <div class="tool-row">
+        <label>Inicio<input type="number" id="toolRangeStart" placeholder="696007"></label>
+        <label>Cantidad de registros hacia adelante<input type="number" id="toolRangeCount" placeholder="94"></label>
+        <label>Categoría (opcional)<input type="text" id="toolRangeCategory" placeholder="One Piece Card Game"></label>
+        <button class="btn" id="toolRangeGen">Generar comando</button>
+        <button class="btn run" id="toolRangeRun">▶ Ejecutar ahora</button>
+      </div>
+      <div class="tool-desc" id="toolRangePreview"></div>
+      <div class="tool-status" id="toolRangeStatus"></div>
+      <pre id="toolRangeCmd" class="cmd-box" style="display:none;"></pre>
+      <button class="btn secondary cmd-copy" id="toolRangeCopy" style="display:none;">Copiar comando</button>
+    </div>
+
+    <div class="tool-card">
+      <h3>Verificar rango de números</h3>
+      <p class="tool-desc">Ej: <code>python tcgplayer_db.py check-range OP16 1 119</code> — revisa qué números de carta (ej. OP16-001 a OP16-119) faltan en la base.</p>
+      <div class="tool-row">
+        <label>Prefijo<input type="text" id="toolCheckPrefix" placeholder="OP16"></label>
+        <label>Desde<input type="number" id="toolCheckStart" placeholder="1"></label>
+        <label>Hasta<input type="number" id="toolCheckEnd" placeholder="119"></label>
+        <button class="btn" id="toolCheckGen">Generar comando</button>
+        <button class="btn run" id="toolCheckRun">▶ Ejecutar ahora</button>
+      </div>
+      <div class="tool-status" id="toolCheckStatus"></div>
+      <pre id="toolCheckCmd" class="cmd-box" style="display:none;"></pre>
+      <button class="btn secondary cmd-copy" id="toolCheckCopy" style="display:none;">Copiar comando</button>
+    </div>
 
   </div>
 </div>

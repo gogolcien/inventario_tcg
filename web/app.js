@@ -51,19 +51,23 @@ function updateMeta() {
 // ---------------------------------------------------------------------------
 const $tabCatalogo = document.getElementById("tabCatalogo");
 const $tabColeccion = document.getElementById("tabColeccion");
+const $tabHerramientas = document.getElementById("tabHerramientas");
 const $viewCatalogo = document.getElementById("viewCatalogo");
 const $viewColeccion = document.getElementById("viewColeccion");
+const $viewHerramientas = document.getElementById("viewHerramientas");
 
 function showTab(tab) {
-  const isCat = tab === "catalogo";
-  $tabCatalogo.classList.toggle("active", isCat);
-  $tabColeccion.classList.toggle("active", !isCat);
-  $viewCatalogo.classList.toggle("active", isCat);
-  $viewColeccion.classList.toggle("active", !isCat);
-  if (!isCat) renderCollection();
+  $tabCatalogo.classList.toggle("active", tab === "catalogo");
+  $tabColeccion.classList.toggle("active", tab === "coleccion");
+  $tabHerramientas.classList.toggle("active", tab === "herramientas");
+  $viewCatalogo.classList.toggle("active", tab === "catalogo");
+  $viewColeccion.classList.toggle("active", tab === "coleccion");
+  $viewHerramientas.classList.toggle("active", tab === "herramientas");
+  if (tab === "coleccion") renderCollection();
 }
 $tabCatalogo.addEventListener("click", () => showTab("catalogo"));
 $tabColeccion.addEventListener("click", () => showTab("coleccion"));
+$tabHerramientas.addEventListener("click", () => showTab("herramientas"));
 
 // ---------------------------------------------------------------------------
 // Catalogo (grid)
@@ -354,6 +358,191 @@ $copyCommand.addEventListener("click", () => {
     $copyCommand.textContent = "¡Copiado!";
     setTimeout(() => { $copyCommand.textContent = "Copiar comando"; }, 1500);
   });
+});
+
+// ---------------------------------------------------------------------------
+// Herramientas: generadores de comando (no ejecutan nada -- la pagina es
+// estatica y no tiene backend. Solo arman el comando exacto para copiar y
+// correr en la terminal, reutilizando los modos que ya tiene details.py)
+// ---------------------------------------------------------------------------
+function setupCommandTool(genBtnId, copyBtnId, cmdBoxId, buildFn) {
+  const $gen = document.getElementById(genBtnId);
+  const $copy = document.getElementById(copyBtnId);
+  const $box = document.getElementById(cmdBoxId);
+
+  $gen.addEventListener("click", () => {
+    const cmd = buildFn();
+    if (cmd === null) return; // buildFn ya mostro el error (alert)
+    $box.textContent = cmd;
+    $box.style.display = "block";
+    $copy.style.display = "inline-block";
+    $copy.textContent = "Copiar comando";
+  });
+
+  $copy.addEventListener("click", () => {
+    navigator.clipboard.writeText($box.textContent).then(() => {
+      $copy.textContent = "¡Copiado!";
+      setTimeout(() => { $copy.textContent = "Copiar comando"; }, 1500);
+    });
+  });
+}
+
+// 1) IDs especificos -> python details.py <id1> <id2> ...
+setupCommandTool("toolIdsGen", "toolIdsCopy", "toolIdsCmd", () => {
+  const raw = document.getElementById("toolIds").value.trim();
+  if (!raw) { alert("Ingresá al menos un ID."); return null; }
+  const ids = raw.split(/[\s,]+/).filter(Boolean);
+  return `python details.py ${ids.join(" ")}`;
+});
+
+// 2) Rango -> python details.py --range <inicio> <fin> "<categoria>"
+const $toolRangeStart = document.getElementById("toolRangeStart");
+const $toolRangeCount = document.getElementById("toolRangeCount");
+const $toolRangePreview = document.getElementById("toolRangePreview");
+
+function updateRangePreview() {
+  const start = parseInt($toolRangeStart.value, 10);
+  const count = parseInt($toolRangeCount.value, 10);
+  if (!isNaN(start) && !isNaN(count) && count > 0) {
+    const end = start + count - 1;
+    $toolRangePreview.textContent = `Esto va a recorrer desde ${start} hasta ${end} (${count} IDs).`;
+  } else {
+    $toolRangePreview.textContent = "";
+  }
+}
+$toolRangeStart.addEventListener("input", updateRangePreview);
+$toolRangeCount.addEventListener("input", updateRangePreview);
+
+setupCommandTool("toolRangeGen", "toolRangeCopy", "toolRangeCmd", () => {
+  const start = parseInt($toolRangeStart.value, 10);
+  const count = parseInt($toolRangeCount.value, 10);
+  if (isNaN(start) || isNaN(count) || count <= 0) {
+    alert("Completá 'Inicio' y 'Cantidad de registros hacia adelante' (mayor a 0).");
+    return null;
+  }
+  const end = start + count - 1;
+  const category = document.getElementById("toolRangeCategory").value.trim();
+  return category
+    ? `python details.py --range ${start} ${end} "${category}"`
+    : `python details.py --range ${start} ${end}`;
+});
+
+// 3) Verificar rango de numeros -> python tcgplayer_db.py check-range <prefijo> <desde> <hasta>
+setupCommandTool("toolCheckGen", "toolCheckCopy", "toolCheckCmd", () => {
+  const prefix = document.getElementById("toolCheckPrefix").value.trim();
+  const start = parseInt(document.getElementById("toolCheckStart").value, 10);
+  const end = parseInt(document.getElementById("toolCheckEnd").value, 10);
+  if (!prefix || isNaN(start) || isNaN(end)) {
+    alert("Completá prefijo, 'Desde' y 'Hasta'.");
+    return null;
+  }
+  return `python tcgplayer_db.py check-range ${prefix} ${start} ${end}`;
+});
+
+// ---------------------------------------------------------------------------
+// Ejecucion real via server.py (fetch al servidor local). Si el servidor
+// no esta corriendo (pagina abierta con doble-click, sin server.py), los
+// botones "Ejecutar ahora" muestran un error explicando que hace falta
+// levantarlo -- las cajas de "Generar comando" siguen funcionando igual.
+// ---------------------------------------------------------------------------
+const API_BASE = "http://localhost:8000";
+let serverOnline = false;
+
+async function checkServer() {
+  const $note = document.getElementById("serverNote");
+  try {
+    const res = await fetch(`${API_BASE}/data.js`, { method: "GET" });
+    serverOnline = res.ok;
+  } catch (e) {
+    serverOnline = false;
+  }
+  if (serverOnline) {
+    $note.textContent = "✔ server.py detectado — los botones \"Ejecutar ahora\" van a correr los scripts de verdad.";
+    $note.className = "server-note online";
+  } else {
+    $note.textContent = "server.py no está corriendo. Los botones \"Ejecutar ahora\" no van a funcionar hasta que lo inicies (python server.py) y abras esta página como http://localhost:8000 en vez de abrir el archivo directo. Mientras tanto podés usar \"Generar comando\" y correrlo vos a mano.";
+    $note.className = "server-note offline";
+  }
+}
+checkServer();
+
+function setupRunTool(runBtnId, statusId, buildPayload, endpoint, onSuccess) {
+  const $run = document.getElementById(runBtnId);
+  const $status = document.getElementById(statusId);
+
+  $run.addEventListener("click", async () => {
+    const payload = buildPayload();
+    if (payload === null) return; // buildPayload ya mostro el error
+
+    if (!serverOnline) {
+      $status.className = "tool-status err";
+      $status.textContent = "server.py no está corriendo. Iniciálo con `python server.py` y abrí http://localhost:8000.";
+      return;
+    }
+
+    $run.disabled = true;
+    $status.className = "tool-status running";
+    $status.textContent = "Ejecutando... esto puede tardar bastante según la cantidad de productos. No cierres esta pestaña.";
+
+    try {
+      const res = await fetch(`${API_BASE}${endpoint}`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error || `Error ${res.status}`);
+
+      $status.className = "tool-status ok";
+      onSuccess(data, $status);
+    } catch (e) {
+      $status.className = "tool-status err";
+      $status.textContent = `Error: ${e.message}`;
+    } finally {
+      $run.disabled = false;
+    }
+  });
+}
+
+setupRunTool("toolIdsRun", "toolIdsStatus", () => {
+  const raw = document.getElementById("toolIds").value.trim();
+  if (!raw) { alert("Ingresá al menos un ID."); return null; }
+  return { ids: raw.split(/[\s,]+/).filter(Boolean) };
+}, "/api/scrape-ids", (data, $status) => {
+  $status.textContent = `Listo, ${data.count} producto(s) procesados. Recargando página en 2s...`;
+  setTimeout(() => location.reload(), 2000);
+});
+
+setupRunTool("toolRangeRun", "toolRangeStatus", () => {
+  const start = parseInt(document.getElementById("toolRangeStart").value, 10);
+  const count = parseInt(document.getElementById("toolRangeCount").value, 10);
+  if (isNaN(start) || isNaN(count) || count <= 0) {
+    alert("Completá 'Inicio' y 'Cantidad de registros hacia adelante' (mayor a 0).");
+    return null;
+  }
+  const end = start + count - 1;
+  const category = document.getElementById("toolRangeCategory").value.trim();
+  return { start, end, category: category || undefined };
+}, "/api/scrape-range", (data, $status) => {
+  $status.textContent = "Listo. Recargando página en 2s...";
+  setTimeout(() => location.reload(), 2000);
+});
+
+setupRunTool("toolCheckRun", "toolCheckStatus", () => {
+  const prefix = document.getElementById("toolCheckPrefix").value.trim();
+  const start = parseInt(document.getElementById("toolCheckStart").value, 10);
+  const end = parseInt(document.getElementById("toolCheckEnd").value, 10);
+  if (!prefix || isNaN(start) || isNaN(end)) {
+    alert("Completá prefijo, 'Desde' y 'Hasta'.");
+    return null;
+  }
+  return { prefix, start, end };
+}, "/api/check-range", (data, $status) => {
+  if (!data.missing.length) {
+    $status.textContent = "✔ No falta ningún número en ese rango.";
+  } else {
+    $status.textContent = `Faltan ${data.missing.length}: ${data.missing.join(", ")}`;
+  }
 });
 
 // ---------------------------------------------------------------------------
