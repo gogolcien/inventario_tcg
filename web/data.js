@@ -1,7 +1,7 @@
 // Archivo generado automaticamente -- no editar a mano.
 // Se regenera cada vez que corres details.py
 const TCG_DATA = {
-  "generated_at": "2026-08-28T00:05:18+00:00",
+  "generated_at": "2026-08-28T17:06:38+00:00",
   "products": [
     {
       "product_id": "696064",
@@ -7503,6 +7503,114 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "711420",
+      "name": "DON!! Card (Alternate Art) (Rocks) (Special Foil) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/711420?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711420_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$83.82",
+      "average_sale_price": 59.32,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:40:42+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$64.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$60.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$59.01"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$58.61"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$55.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:40:42+00:00",
+          "listed_median": "$83.82",
+          "average_sale_price": 59.32
+        }
+      ]
+    },
+    {
+      "product_id": "587954",
+      "name": "DON!! Card (Big Mom) (Gold) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/587954?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/587954_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$170.00",
+      "average_sale_price": 75.36,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:45:03+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$38.95"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$38.95"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$94.90"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$84.00"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$120.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:45:03+00:00",
+          "listed_median": "$170.00",
+          "average_sale_price": 75.36
+        }
+      ]
+    },
+    {
       "product_id": "677571",
       "name": "DON!! Card (Boa Hancock) (Gold) - Extra Booster: One Piece Heroines Edition (EB-03-04)",
       "url": "https://www.tcgplayer.com/product/677571?Language=English",
@@ -7661,6 +7769,114 @@ const TCG_DATA = {
           "scraped_at": "2026-08-28T00:04:39+00:00",
           "listed_median": "$102.61",
           "average_sale_price": 89.66
+        }
+      ]
+    },
+    {
+      "product_id": "655131",
+      "name": "DON!! Card (Buggy) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655131?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655131_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$127.99",
+      "average_sale_price": 91.87,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:37:27+00:00",
+      "recent_sales": [
+        {
+          "date": "7/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$98.00"
+        },
+        {
+          "date": "7/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$95.00"
+        },
+        {
+          "date": "7/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$88.99"
+        },
+        {
+          "date": "7/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$89.98"
+        },
+        {
+          "date": "7/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$87.40"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:37:27+00:00",
+          "listed_median": "$127.99",
+          "average_sale_price": 91.87
+        }
+      ]
+    },
+    {
+      "product_id": "655138",
+      "name": "DON!! Card (Carrot) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655138?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655138_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$69.70",
+      "average_sale_price": 54.74,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:47:00+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$61.50"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$46.95"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$62.48"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$61.50"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$41.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:47:00+00:00",
+          "listed_median": "$69.70",
+          "average_sale_price": 54.74
         }
       ]
     },
@@ -7827,6 +8043,60 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655115",
+      "name": "DON!! Card (Dragon) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655115?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655115_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$57.00",
+      "average_sale_price": 42.9,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T17:05:58+00:00",
+      "recent_sales": [
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$24.99"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$46.74"
+        },
+        {
+          "date": "7/31/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$46.39"
+        },
+        {
+          "date": "7/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$50.00"
+        },
+        {
+          "date": "7/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$46.39"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T17:05:58+00:00",
+          "listed_median": "$57.00",
+          "average_sale_price": 42.9
+        }
+      ]
+    },
+    {
       "product_id": "702306",
       "name": "DON!! Card (Elbaph Luffy) (May Treasure Cup 2026) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/702306?Language=English",
@@ -7911,6 +8181,60 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "586557",
+      "name": "DON!! Card (Eustass \"Captain\" Kid) (Gold) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/586557?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586557_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$228.80",
+      "average_sale_price": 89.69,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:40:03+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$110.69"
+        },
+        {
+          "date": "7/31/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$77.74"
+        },
+        {
+          "date": "7/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$40.00"
+        },
+        {
+          "date": "7/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$110.00"
+        },
+        {
+          "date": "7/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$110.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:40:03+00:00",
+          "listed_median": "$228.80",
+          "average_sale_price": 89.69
+        }
+      ]
+    },
+    {
       "product_id": "655896",
       "name": "DON!! Card (Gear 4 Luffy) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655896?Language=English",
@@ -7961,6 +8285,60 @@ const TCG_DATA = {
           "scraped_at": "2026-08-28T00:02:43+00:00",
           "listed_median": "$124.99",
           "average_sale_price": 115.68
+        }
+      ]
+    },
+    {
+      "product_id": "586885",
+      "name": "DON!! Card (Gecko Moria) (Gold) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/586885?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586885_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$94.99",
+      "average_sale_price": 81.25,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:36:08+00:00",
+      "recent_sales": [
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$89.98"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$89.39"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$88.99"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$88.88"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$48.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:36:08+00:00",
+          "listed_median": "$94.99",
+          "average_sale_price": 81.25
         }
       ]
     },
@@ -8019,6 +8397,114 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "586887",
+      "name": "DON!! Card (Iceberg) (Gold) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/586887?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586887_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$90.00",
+      "average_sale_price": 57.63,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T17:02:05+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$75.00"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$29.95"
+        },
+        {
+          "date": "8/1/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.95"
+        },
+        {
+          "date": "7/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$85.00"
+        },
+        {
+          "date": "7/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$68.26"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T17:02:05+00:00",
+          "listed_median": "$90.00",
+          "average_sale_price": 57.63
+        }
+      ]
+    },
+    {
+      "product_id": "586191",
+      "name": "DON!! Card (Ivankov) (Gold) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/586191?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586191_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$102.95",
+      "average_sale_price": 56.82,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T17:05:19+00:00",
+      "recent_sales": [
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$102.95"
+        },
+        {
+          "date": "7/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$24.95"
+        },
+        {
+          "date": "7/5/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$60.00"
+        },
+        {
+          "date": "7/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$48.40"
+        },
+        {
+          "date": "6/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$47.82"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T17:05:19+00:00",
+          "listed_median": "$102.95",
+          "average_sale_price": 56.82
+        }
+      ]
+    },
+    {
       "product_id": "586552",
       "name": "DON!! Card (Kaido) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586552?Language=English",
@@ -8069,6 +8555,173 @@ const TCG_DATA = {
           "scraped_at": "2026-08-27T23:59:26+00:00",
           "listed_median": "$900.89",
           "average_sale_price": 164.4
+        }
+      ]
+    },
+    {
+      "product_id": "655740",
+      "name": "DON!! Card (Kalgara) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655740?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655740_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$69.38",
+      "average_sale_price": 63.13,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T17:00:47+00:00",
+      "recent_sales": [
+        {
+          "date": "8/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$66.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$56.64"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$55.00"
+        },
+        {
+          "date": "7/31/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$68.01"
+        },
+        {
+          "date": "7/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$69.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T17:00:47+00:00",
+          "listed_median": "$69.38",
+          "average_sale_price": 63.13
+        }
+      ]
+    },
+    {
+      "product_id": "586481",
+      "name": "DON!! Card (Katakuri) (Gold) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/586481?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586481_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$100.00",
+      "average_sale_price": 77.21,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:35:29+00:00",
+      "recent_sales": [
+        {
+          "date": "8/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$76.95"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$100.22"
+        },
+        {
+          "date": "7/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$56.95"
+        },
+        {
+          "date": "7/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$56.95"
+        },
+        {
+          "date": "7/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$94.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:35:29+00:00",
+          "listed_median": "$100.00",
+          "average_sale_price": 77.21
+        }
+      ]
+    },
+    {
+      "product_id": "655129",
+      "name": "DON!! Card (Koby) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655129?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655129_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$63.50",
+      "average_sale_price": 40.24,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:51:29+00:00",
+      "recent_sales": [
+        {
+          "date": "8/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$41.42"
+        },
+        {
+          "date": "8/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$35.44"
+        },
+        {
+          "date": "8/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$38.40"
+        },
+        {
+          "date": "8/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$41.95"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$44.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:49:40+00:00",
+          "listed_median": "$63.50",
+          "average_sale_price": 40.24
+        },
+        {
+          "scraped_at": "2026-08-28T16:51:29+00:00",
+          "listed_median": "$63.50",
+          "average_sale_price": 40.24
         }
       ]
     },
@@ -8157,6 +8810,168 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "586482",
+      "name": "DON!! Card (Magellan) (Gold) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/586482?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586482_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$60.00",
+      "average_sale_price": 43.53,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T17:01:26+00:00",
+      "recent_sales": [
+        {
+          "date": "8/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$24.95"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$61.71"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$54.99"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$50.00"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$26.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T17:01:26+00:00",
+          "listed_median": "$60.00",
+          "average_sale_price": 43.53
+        }
+      ]
+    },
+    {
+      "product_id": "655111",
+      "name": "DON!! Card (Marco) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655111?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655111_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$76.11",
+      "average_sale_price": 67.66,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:45:42+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$71.02"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$69.72"
+        },
+        {
+          "date": "8/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$72.60"
+        },
+        {
+          "date": "8/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$39.95"
+        },
+        {
+          "date": "8/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$85.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:45:42+00:00",
+          "listed_median": "$76.11",
+          "average_sale_price": 67.66
+        }
+      ]
+    },
+    {
+      "product_id": "677559",
+      "name": "DON!! Card (Nami) (Gold) - Extra Booster: One Piece Heroines Edition (EB-03-04)",
+      "url": "https://www.tcgplayer.com/product/677559?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/677559_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$84.45",
+      "average_sale_price": 71.48,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:38:06+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$55.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$55.00"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$83.00"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$82.40"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$82.01"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:38:06+00:00",
+          "listed_median": "$84.45",
+          "average_sale_price": 71.48
+        }
+      ]
+    },
+    {
       "product_id": "655899",
       "name": "DON!! Card (Nami) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655899?Language=English",
@@ -8207,6 +9022,114 @@ const TCG_DATA = {
           "scraped_at": "2026-08-27T23:50:48+00:00",
           "listed_median": "$352.49",
           "average_sale_price": 166.99
+        }
+      ]
+    },
+    {
+      "product_id": "677569",
+      "name": "DON!! Card (Nico Robin) (Gold) - Extra Booster: One Piece Heroines Edition (EB-03-04)",
+      "url": "https://www.tcgplayer.com/product/677569?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/677569_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$78.20",
+      "average_sale_price": 69.2,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:44:23+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$69.42"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$69.31"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$69.27"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$69.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$69.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:44:23+00:00",
+          "listed_median": "$78.20",
+          "average_sale_price": 69.2
+        }
+      ]
+    },
+    {
+      "product_id": "586202",
+      "name": "DON!! Card (Oden) (Gold) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/586202?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586202_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$81.93",
+      "average_sale_price": 54.4,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T17:04:01+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$38.00"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$68.99"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$75.00"
+        },
+        {
+          "date": "7/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$60.00"
+        },
+        {
+          "date": "7/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T17:04:01+00:00",
+          "listed_median": "$81.93",
+          "average_sale_price": 54.4
         }
       ]
     },
@@ -8373,6 +9296,222 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "483169",
+      "name": "DON!! Card (Pink) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/483169?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/483169_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$55.45",
+      "average_sale_price": 32.45,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:48:22+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$49.72"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$20.42"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$20.42"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$20.00"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$51.69"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:48:22+00:00",
+          "listed_median": "$55.45",
+          "average_sale_price": 32.45
+        }
+      ]
+    },
+    {
+      "product_id": "655141",
+      "name": "DON!! Card (Pudding) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655141?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655141_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$91.51",
+      "average_sale_price": 104.08,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:36:47+00:00",
+      "recent_sales": [
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$49.72"
+        },
+        {
+          "date": "7/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$139.99"
+        },
+        {
+          "date": "7/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$49.72"
+        },
+        {
+          "date": "7/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$150.00"
+        },
+        {
+          "date": "7/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$130.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:36:47+00:00",
+          "listed_median": "$91.51",
+          "average_sale_price": 104.08
+        }
+      ]
+    },
+    {
+      "product_id": "482240",
+      "name": "DON!! Card (Purple) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/482240?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/482240_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$48.36",
+      "average_sale_price": 30.96,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T17:02:44+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$40.30"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$23.90"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$23.90"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$24.00"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$42.69"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T17:02:44+00:00",
+          "listed_median": "$48.36",
+          "average_sale_price": 30.96
+        }
+      ]
+    },
+    {
+      "product_id": "587399",
+      "name": "DON!! Card (Queen) (Gold) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/587399?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/587399_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$51.00",
+      "average_sale_price": 42.4,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T17:06:38+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$46.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$28.93"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$49.99"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$39.10"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$46.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T17:06:38+00:00",
+          "listed_median": "$51.00",
+          "average_sale_price": 42.4
+        }
+      ]
+    },
+    {
       "product_id": "586550",
       "name": "DON!! Card (Rebecca) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586550?Language=English",
@@ -8477,6 +9616,114 @@ const TCG_DATA = {
           "scraped_at": "2026-08-27T23:47:36+00:00",
           "listed_median": "$244.79",
           "average_sale_price": 219.79
+        }
+      ]
+    },
+    {
+      "product_id": "482237",
+      "name": "DON!! Card (Red) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/482237?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/482237_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$68.92",
+      "average_sale_price": 44.36,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:49:01+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$74.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$58.49"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$15.40"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$15.40"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$58.51"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:49:01+00:00",
+          "listed_median": "$68.92",
+          "average_sale_price": 44.36
+        }
+      ]
+    },
+    {
+      "product_id": "587573",
+      "name": "DON!! Card (Reiju) (Gold) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/587573?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/587573_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$82.70",
+      "average_sale_price": 67.82,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:43:43+00:00",
+      "recent_sales": [
+        {
+          "date": "8/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$80.43"
+        },
+        {
+          "date": "8/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$38.95"
+        },
+        {
+          "date": "8/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$73.56"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$76.16"
+        },
+        {
+          "date": "7/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$70.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:43:43+00:00",
+          "listed_median": "$82.70",
+          "average_sale_price": 67.82
         }
       ]
     },
@@ -8643,6 +9890,108 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "586188",
+      "name": "DON!! Card (Sakazuki) (Gold) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/586188?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586188_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$140.82",
+      "average_sale_price": 86.75,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:39:24+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$37.83"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$99.99"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$95.95"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$100.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:39:24+00:00",
+          "listed_median": "$140.82",
+          "average_sale_price": 86.75
+        }
+      ]
+    },
+    {
+      "product_id": "655915",
+      "name": "DON!! Card (Sanji) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655915?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655915_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$72.00",
+      "average_sale_price": 49.37,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:47:43+00:00",
+      "recent_sales": [
+        {
+          "date": "8/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$61.00"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$22.00"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$65.99"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$38.95"
+        },
+        {
+          "date": "8/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$58.90"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:47:43+00:00",
+          "listed_median": "$72.00",
+          "average_sale_price": 49.37
+        }
+      ]
+    },
+    {
       "product_id": "655124",
       "name": "DON!! Card (Shanks) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655124?Language=English",
@@ -8693,6 +10042,114 @@ const TCG_DATA = {
           "scraped_at": "2026-08-27T23:55:26+00:00",
           "listed_median": "$221.60",
           "average_sale_price": 177.43
+        }
+      ]
+    },
+    {
+      "product_id": "655132",
+      "name": "DON!! Card (Smoker) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655132?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655132_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$74.98",
+      "average_sale_price": 55.69,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T17:04:41+00:00",
+      "recent_sales": [
+        {
+          "date": "8/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$55.99"
+        },
+        {
+          "date": "8/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$68.75"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$47.74"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$46.74"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$59.21"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T17:04:41+00:00",
+          "listed_median": "$74.98",
+          "average_sale_price": 55.69
+        }
+      ]
+    },
+    {
+      "product_id": "655516",
+      "name": "DON!! Card (Sugar) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655516?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655516_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$51.87",
+      "average_sale_price": 35.98,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T17:03:22+00:00",
+      "recent_sales": [
+        {
+          "date": "8/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$45.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$24.95"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$42.99"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$36.00"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T17:03:22+00:00",
+          "listed_median": "$51.87",
+          "average_sale_price": 35.98
         }
       ]
     },
@@ -8751,6 +10208,60 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "483170",
+      "name": "DON!! Card (Teal) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/483170?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/483170_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$65.00",
+      "average_sale_price": 26.58,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:46:21+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$49.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$11.48"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$48.43"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$11.48"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "9",
+          "price": "$11.50"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:46:21+00:00",
+          "listed_median": "$65.00",
+          "average_sale_price": 26.58
+        }
+      ]
+    },
+    {
       "product_id": "586723",
       "name": "DON!! Card (Trafalgar Law) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586723?Language=English",
@@ -8795,6 +10306,60 @@ const TCG_DATA = {
           "scraped_at": "2026-08-27T23:46:16+00:00",
           "listed_median": "$582.48",
           "average_sale_price": 297.97
+        }
+      ]
+    },
+    {
+      "product_id": "655911",
+      "name": "DON!! Card (Usopp) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655911?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655911_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$93.47",
+      "average_sale_price": 65.68,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:38:45+00:00",
+      "recent_sales": [
+        {
+          "date": "8/9/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$79.20"
+        },
+        {
+          "date": "8/7/26",
+          "condition": "NM Foil",
+          "quantity": "9",
+          "price": "$44.99"
+        },
+        {
+          "date": "8/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$43.97"
+        },
+        {
+          "date": "8/6/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$75.25"
+        },
+        {
+          "date": "8/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$85.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:38:45+00:00",
+          "listed_median": "$93.47",
+          "average_sale_price": 65.68
         }
       ]
     },
@@ -8849,6 +10414,60 @@ const TCG_DATA = {
           "scraped_at": "2026-08-27T23:54:06+00:00",
           "listed_median": "$254.49",
           "average_sale_price": 121.79
+        }
+      ]
+    },
+    {
+      "product_id": "587955",
+      "name": "DON!! Card (Whitebeard) (Gold) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/587955?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/587955_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$99.00",
+      "average_sale_price": 68.78,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T16:41:22+00:00",
+      "recent_sales": [
+        {
+          "date": "8/12/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$94.00"
+        },
+        {
+          "date": "7/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$54.99"
+        },
+        {
+          "date": "7/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$99.99"
+        },
+        {
+          "date": "7/13/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$46.99"
+        },
+        {
+          "date": "7/13/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$47.94"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T16:41:22+00:00",
+          "listed_median": "$99.00",
+          "average_sale_price": 68.78
         }
       ]
     },
