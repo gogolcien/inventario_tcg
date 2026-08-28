@@ -66,6 +66,7 @@ def init_db(db_path=DEFAULT_DB_PATH):
     for ddl in (
         "ALTER TABLE products ADD COLUMN image_url TEXT",
         "ALTER TABLE products ADD COLUMN category TEXT",
+        "ALTER TABLE products ADD COLUMN first_seen TEXT",
     ):
         try:
             cur.execute(ddl)
@@ -97,6 +98,18 @@ def init_db(db_path=DEFAULT_DB_PATH):
         )
     """)
 
+    # Rellena 'first_seen' para productos que ya existian antes de agregar
+    # esta columna: usamos el scrape mas viejo registrado en price_history
+    # como mejor estimacion de "cuando se agrego" ese producto a la base.
+    cur.execute("""
+        UPDATE products
+        SET first_seen = COALESCE(
+            (SELECT MIN(scraped_at) FROM price_history WHERE price_history.product_id = products.product_id),
+            last_scraped
+        )
+        WHERE first_seen IS NULL
+    """)
+
     conn.commit()
     return conn
 
@@ -121,8 +134,8 @@ def save_product_data(conn, data):
 
     cur.execute("""
         INSERT INTO products (product_id, name, url, image_url, category, attributes, listed_median,
-                               average_sale_price, recent_sales_count, last_scraped)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                               average_sale_price, recent_sales_count, last_scraped, first_seen)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ON CONFLICT(product_id) DO UPDATE SET
             name=excluded.name,
             url=excluded.url,
@@ -143,6 +156,7 @@ def save_product_data(conn, data):
         data.get("listed_median"),
         data.get("average_sale_price"),
         data.get("recent_sales_count"),
+        now,
         now,
     ))
 
@@ -172,13 +186,13 @@ def export_web_data(conn, out_path="web/data.js"):
 
     rows = conn.execute("""
         SELECT product_id, name, url, image_url, category, attributes,
-               listed_median, average_sale_price, recent_sales_count, last_scraped
+               listed_median, average_sale_price, recent_sales_count, last_scraped, first_seen
         FROM products ORDER BY name
     """).fetchall()
 
     products = []
     for (product_id, name, url, image_url, category, attributes_json,
-         listed_median, average_sale_price, recent_sales_count, last_scraped) in rows:
+         listed_median, average_sale_price, recent_sales_count, last_scraped, first_seen) in rows:
 
         attributes = json.loads(attributes_json) if attributes_json else {}
 
@@ -211,6 +225,7 @@ def export_web_data(conn, out_path="web/data.js"):
             "average_sale_price": average_sale_price,
             "recent_sales_count": recent_sales_count,
             "last_scraped": last_scraped,
+            "first_seen": first_seen or (price_history[0]["scraped_at"] if price_history else last_scraped),
             "recent_sales": recent_sales,
             "price_history": price_history,
         })

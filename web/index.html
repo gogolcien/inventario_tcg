@@ -85,7 +85,7 @@
 
   #grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     gap: 16px;
     padding: 20px 24px;
   }
@@ -125,19 +125,82 @@
   }
   .add-row input[type="text"] { min-width: 260px; }
   .add-row input[type="number"] { width: 90px; }
-  #suggestions { position: relative; }
-  #suggestions input[type="text"] { width: 100%; }
-  #suggestionsList {
+  .suggest-wrap { position: relative; }
+  .suggest-wrap input[type="text"] { width: 100%; }
+  .suggest-dropdown {
     position: absolute; top: 100%; left: 0; right: 0;
     background: var(--panel2); border: 1px solid var(--border);
-    border-radius: 6px; margin-top: 4px; max-height: 220px; overflow-y: auto;
+    border-radius: 6px; margin-top: 4px; max-height: 320px; overflow-y: auto;
     z-index: 5; display: none;
   }
-  #suggestionsList div {
-    padding: 8px 10px; cursor: pointer; font-size: 13px;
-    display: flex; justify-content: space-between; gap: 10px;
+  .suggest-item {
+    padding: 6px 10px; cursor: pointer; font-size: 13px;
+    display: flex; align-items: center; gap: 10px;
   }
-  #suggestionsList div:hover { background: var(--accent); }
+  .suggest-item:hover { background: var(--accent); }
+  .suggest-item img {
+    width: 32px; height: 44px; object-fit: cover; border-radius: 4px;
+    background: #000; flex-shrink: 0;
+  }
+  .suggest-item .info { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+  .suggest-item .info .name { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .suggest-item .info .sub { font-size: 11px; color: var(--muted); }
+  .suggest-item .price { color: var(--muted); font-size: 12px; white-space: nowrap; flex-shrink: 0; }
+
+  .filters-row {
+    display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
+    margin-bottom: 16px;
+  }
+  .filters-row .flabel { font-size: 12px; color: var(--muted); }
+
+  .col-selector {
+    display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
+    margin-bottom: 16px;
+  }
+  .col-selector select#colSelect { min-width: 220px; font-weight: 600; }
+  .col-selector .btn.small { padding: 6px 12px; font-size: 13px; }
+  .col-selector .btn.danger { background: transparent; border: 1px solid var(--down); color: var(--down); }
+  .col-selector .btn.danger:hover { background: rgba(248,113,113,.1); }
+
+  #colGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(182px, 1fr));
+    gap: 20px;
+  }
+  .colcard {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+  .colcard img {
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    object-fit: cover;
+    background: #000;
+    display: block;
+  }
+  .colcard .body { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 6px; flex: 1; }
+  .colcard .name { font-size: 15px; font-weight: 700; line-height: 1.3; }
+  .colcard .sub { font-size: 12px; color: var(--muted); margin-bottom: 4px; }
+  .colcard .info-row {
+    display: flex; justify-content: space-between; align-items: center;
+    font-size: 13px; padding: 5px 0; border-top: 1px solid var(--border);
+  }
+  .colcard .info-row .k { color: var(--muted); }
+  .colcard .info-row .v { font-weight: 600; }
+  .colcard .info-row.qtyRow input.qty {
+    width: 55px; padding: 4px 6px; text-align: center;
+  }
+  .colcard .median-row .v { color: var(--accent); font-weight: 700; }
+  .colcard .rm-btn {
+    margin-top: 10px; background: none; border: 1px solid var(--border);
+    color: var(--down); border-radius: 6px; padding: 6px 10px;
+    font-size: 12px; cursor: pointer; align-self: flex-start;
+  }
+  .colcard .rm-btn:hover { background: rgba(248,113,113,.1); border-color: var(--down); }
 
   .totals {
     display: grid;
@@ -256,13 +319,20 @@
 <!-- Vista: Catalogo -->
 <div id="viewCatalogo" class="view active">
   <div class="controls">
-    <input type="text" id="search" placeholder="Buscar por nombre, número, rareza...">
+    <div class="suggest-wrap" id="catSuggestWrap" style="flex:1; min-width:220px;">
+      <input type="text" id="search" placeholder="Buscar por nombre, número, rareza...">
+      <div id="catSuggestionsList" class="suggest-dropdown"></div>
+    </div>
+    <select id="filterExpansion"><option value="">Expansión: Todas</option></select>
+    <select id="filterColor"><option value="">Color: Todos</option></select>
+    <select id="filterCardType"><option value="">Tipo de carta: Todos</option></select>
     <select id="sortBy">
+      <option value="added" selected>Ordenar: Último agregado</option>
       <option value="number">Ordenar: Número (ej. OP16-077)</option>
       <option value="name">Ordenar: Nombre</option>
       <option value="median_desc">Precio (mayor a menor)</option>
       <option value="median_asc">Precio (menor a mayor)</option>
-      <option value="recent">Actualizado recientemente</option>
+      <option value="recent">Ordenar: Actualizado recientemente</option>
     </select>
   </div>
   <div id="grid"></div>
@@ -273,10 +343,17 @@
 <div id="viewColeccion" class="view">
   <div class="col-wrap">
 
+    <div class="col-selector">
+      <select id="colSelect"></select>
+      <button class="btn secondary small" id="colNewBtn">+ Nueva colección</button>
+      <button class="btn secondary small" id="colRenameBtn">✏ Renombrar</button>
+      <button class="btn danger small" id="colDeleteBtn">🗑 Eliminar colección</button>
+    </div>
+
     <div class="add-row">
-      <div id="suggestions" style="flex:1; min-width:260px;">
+      <div id="suggestions" class="suggest-wrap" style="flex:1; min-width:260px;">
         <input type="text" id="colSearch" placeholder="Buscar carta para agregar a tu colección...">
-        <div id="suggestionsList"></div>
+        <div id="suggestionsList" class="suggest-dropdown"></div>
       </div>
       <button class="btn" id="addToCollection">Agregar</button>
     </div>
@@ -308,21 +385,15 @@
       <button class="btn secondary" id="copyCommand">Copiar comando</button>
     </div>
 
+    <div class="filters-row">
+      <span class="flabel">Filtrar tu colección:</span>
+      <select id="colFilterExpansion"><option value="">Expansión: Todas</option></select>
+      <select id="colFilterColor"><option value="">Color: Todos</option></select>
+      <select id="colFilterCardType"><option value="">Tipo de carta: Todos</option></select>
+    </div>
+
     <div id="colEmpty">Tu colección está vacía. Buscá una carta arriba para agregarla.</div>
-    <table class="col-table" id="colTable" style="display:none;">
-      <thead>
-        <tr>
-          <th>Carta</th>
-          <th>Cant.</th>
-          <th>Listed Median</th>
-          <th title="Promedio de las hasta 5 ventas más recientes registradas para esta carta.">Ventas Recientes</th>
-          <th>Subtotal (Median)</th>
-          <th title="Cantidad × promedio de las hasta 5 ventas más recientes registradas.">Subtotal (Ventas Recientes)</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody id="colBody"></tbody>
-    </table>
+    <div id="colGrid" style="display:none;"></div>
 
   </div>
 </div>

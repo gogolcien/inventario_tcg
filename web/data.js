@@ -1,7 +1,7 @@
 // Archivo generado automaticamente -- no editar a mano.
 // Se regenera cada vez que corres details.py
 const TCG_DATA = {
-  "generated_at": "2026-08-28T17:06:38+00:00",
+  "generated_at": "2026-08-28T23:56:37+00:00",
   "products": [
     {
       "product_id": "696064",
@@ -21,6 +21,7 @@ const TCG_DATA = {
       "average_sale_price": 0.09,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:29:16+00:00",
+      "first_seen": "2026-08-25T20:29:16+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -81,6 +82,7 @@ const TCG_DATA = {
       "average_sale_price": 19.63,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:04:57+00:00",
+      "first_seen": "2026-08-27T19:04:57+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -135,6 +137,7 @@ const TCG_DATA = {
       "average_sale_price": 2.82,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:51:40+00:00",
+      "first_seen": "2026-08-27T19:54:12+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -207,6 +210,7 @@ const TCG_DATA = {
       "average_sale_price": 0.05,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:27:37+00:00",
+      "first_seen": "2026-08-25T19:27:37+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -261,6 +265,7 @@ const TCG_DATA = {
       "average_sale_price": 0.3,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:40:41+00:00",
+      "first_seen": "2026-08-26T22:40:41+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -321,6 +326,7 @@ const TCG_DATA = {
       "average_sale_price": 2.49,
       "recent_sales_count": 2,
       "last_scraped": "2026-08-26T22:41:20+00:00",
+      "first_seen": "2026-08-26T22:41:20+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -361,6 +367,7 @@ const TCG_DATA = {
       "average_sale_price": 115.66,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:18:55+00:00",
+      "first_seen": "2026-08-26T20:18:55+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -419,6 +426,7 @@ const TCG_DATA = {
       "average_sale_price": 40.37,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:53:39+00:00",
+      "first_seen": "2026-08-26T23:53:39+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -473,6 +481,7 @@ const TCG_DATA = {
       "average_sale_price": 0.21,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:41:58+00:00",
+      "first_seen": "2026-08-27T22:41:58+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -528,6 +537,7 @@ const TCG_DATA = {
       "average_sale_price": 0.05,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T18:29:45+00:00",
+      "first_seen": "2026-08-25T18:29:45+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -588,6 +598,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:21:52+00:00",
+      "first_seen": "2026-08-26T19:21:52+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -649,6 +660,7 @@ const TCG_DATA = {
       "average_sale_price": 0.07,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:20:02+00:00",
+      "first_seen": "2026-08-25T21:53:08+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -712,6 +724,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:00:50+00:00",
+      "first_seen": "2026-08-26T23:00:50+00:00",
       "recent_sales": [
         {
           "date": "8/8/26",
@@ -772,6 +785,7 @@ const TCG_DATA = {
       "average_sale_price": 0.14,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:41:45+00:00",
+      "first_seen": "2026-08-26T19:41:45+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -827,6 +841,7 @@ const TCG_DATA = {
       "average_sale_price": 0.05,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:37:00+00:00",
+      "first_seen": "2026-08-25T20:37:00+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -888,6 +903,7 @@ const TCG_DATA = {
       "average_sale_price": 72.66,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:59:07+00:00",
+      "first_seen": "2026-08-25T23:59:07+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -949,6 +965,7 @@ const TCG_DATA = {
       "average_sale_price": 1.15,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:58:58+00:00",
+      "first_seen": "2026-08-26T19:49:28+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -1020,6 +1037,7 @@ const TCG_DATA = {
       "average_sale_price": 22.68,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:02:14+00:00",
+      "first_seen": "2026-08-27T19:02:14+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -1074,6 +1092,7 @@ const TCG_DATA = {
       "average_sale_price": 0.18,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:45:19+00:00",
+      "first_seen": "2026-08-27T22:45:19+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -1134,6 +1153,7 @@ const TCG_DATA = {
       "average_sale_price": 731.79,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:17:52+00:00",
+      "first_seen": "2026-08-26T19:17:52+00:00",
       "recent_sales": [
         {
           "date": "8/23/26",
@@ -1194,6 +1214,7 @@ const TCG_DATA = {
       "average_sale_price": 0.05,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:26:06+00:00",
+      "first_seen": "2026-08-25T20:26:06+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -1249,6 +1270,7 @@ const TCG_DATA = {
       "average_sale_price": 27.94,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:24:51+00:00",
+      "first_seen": "2026-08-26T21:24:51+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -1310,6 +1332,7 @@ const TCG_DATA = {
       "average_sale_price": 0.18,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:07:59+00:00",
+      "first_seen": "2026-08-25T23:07:59+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -1368,6 +1391,7 @@ const TCG_DATA = {
       "average_sale_price": 0.02,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:31:01+00:00",
+      "first_seen": "2026-08-25T22:04:19+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -1434,6 +1458,7 @@ const TCG_DATA = {
       "average_sale_price": 0.34,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:45:11+00:00",
+      "first_seen": "2026-08-26T22:45:11+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -1495,6 +1520,7 @@ const TCG_DATA = {
       "average_sale_price": 7.0,
       "recent_sales_count": 2,
       "last_scraped": "2026-08-26T22:45:50+00:00",
+      "first_seen": "2026-08-26T22:45:50+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -1535,6 +1561,7 @@ const TCG_DATA = {
       "average_sale_price": 0.05,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:29:05+00:00",
+      "first_seen": "2026-08-25T22:02:23+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -1601,6 +1628,7 @@ const TCG_DATA = {
       "average_sale_price": 0.13,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:25:43+00:00",
+      "first_seen": "2026-08-26T19:25:43+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -1656,6 +1684,7 @@ const TCG_DATA = {
       "average_sale_price": 0.3,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:33:37+00:00",
+      "first_seen": "2026-08-26T22:33:37+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -1717,6 +1746,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:34:15+00:00",
+      "first_seen": "2026-08-26T22:34:15+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -1765,6 +1795,7 @@ const TCG_DATA = {
       "average_sale_price": 111.66,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:23:07+00:00",
+      "first_seen": "2026-08-26T23:23:07+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -1825,6 +1856,7 @@ const TCG_DATA = {
       "average_sale_price": 0.23,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:26:57+00:00",
+      "first_seen": "2026-08-27T22:26:57+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -1885,6 +1917,7 @@ const TCG_DATA = {
       "average_sale_price": 1911.66,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:15:40+00:00",
+      "first_seen": "2026-08-26T18:15:40+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -1946,6 +1979,7 @@ const TCG_DATA = {
       "average_sale_price": 0.06,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:27:08+00:00",
+      "first_seen": "2026-08-25T22:00:26+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -2011,6 +2045,7 @@ const TCG_DATA = {
       "average_sale_price": 159.98,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:12:39+00:00",
+      "first_seen": "2026-08-26T23:12:39+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -2071,6 +2106,7 @@ const TCG_DATA = {
       "average_sale_price": 31.66,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:43:37+00:00",
+      "first_seen": "2026-08-25T23:43:37+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -2125,6 +2161,7 @@ const TCG_DATA = {
       "average_sale_price": 3999.95,
       "recent_sales_count": 1,
       "last_scraped": "2026-08-26T18:08:34+00:00",
+      "first_seen": "2026-08-26T18:08:34+00:00",
       "recent_sales": [
         {
           "date": "5/14/26",
@@ -2161,6 +2198,7 @@ const TCG_DATA = {
       "average_sale_price": 5084.84,
       "recent_sales_count": 2,
       "last_scraped": "2026-08-26T18:01:34+00:00",
+      "first_seen": "2026-08-26T18:01:34+00:00",
       "recent_sales": [
         {
           "date": "5/20/26",
@@ -2203,6 +2241,7 @@ const TCG_DATA = {
       "average_sale_price": 1622.26,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:27:57+00:00",
+      "first_seen": "2026-08-26T18:27:57+00:00",
       "recent_sales": [
         {
           "date": "8/6/26",
@@ -2263,6 +2302,7 @@ const TCG_DATA = {
       "average_sale_price": 96.59,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:27:48+00:00",
+      "first_seen": "2026-08-26T23:27:48+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -2323,6 +2363,7 @@ const TCG_DATA = {
       "average_sale_price": 0.24,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:37:55+00:00",
+      "first_seen": "2026-08-27T22:37:55+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -2383,6 +2424,7 @@ const TCG_DATA = {
       "average_sale_price": 0.62,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:42:57+00:00",
+      "first_seen": "2026-08-25T23:42:57+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -2444,6 +2486,7 @@ const TCG_DATA = {
       "average_sale_price": 0.07,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:27:48+00:00",
+      "first_seen": "2026-08-25T22:01:06+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -2509,6 +2552,7 @@ const TCG_DATA = {
       "average_sale_price": 0.11,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:26:29+00:00",
+      "first_seen": "2026-08-25T21:59:44+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -2575,6 +2619,7 @@ const TCG_DATA = {
       "average_sale_price": 0.23,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:36:11+00:00",
+      "first_seen": "2026-08-26T22:36:11+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -2630,6 +2675,7 @@ const TCG_DATA = {
       "average_sale_price": 4.1,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:36:50+00:00",
+      "first_seen": "2026-08-26T22:36:50+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -2659,6 +2705,55 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "509465",
+      "name": "Borsalino (Championship 2023) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/509465?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/509465_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "OP02-114",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "Navy",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$1,875.00",
+      "average_sale_price": 1049.47,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-28T23:27:17+00:00",
+      "first_seen": "2026-08-28T23:26:38+00:00",
+      "recent_sales": [
+        {
+          "date": "6/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$999.95"
+        },
+        {
+          "date": "6/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,099.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:26:38+00:00",
+          "listed_median": "$1,875.00",
+          "average_sale_price": 1049.47
+        },
+        {
+          "scraped_at": "2026-08-28T23:27:17+00:00",
+          "listed_median": "$1,875.00",
+          "average_sale_price": 1049.47
+        }
+      ]
+    },
+    {
       "product_id": "696108",
       "name": "Borsalino (Manga) - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696108?Language=English",
@@ -2678,6 +2773,7 @@ const TCG_DATA = {
       "average_sale_price": 996.4,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:08:58+00:00",
+      "first_seen": "2026-08-25T22:08:58+00:00",
       "recent_sales": [
         {
           "date": "8/9/26",
@@ -2739,6 +2835,7 @@ const TCG_DATA = {
       "average_sale_price": 0.42,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:57:10+00:00",
+      "first_seen": "2026-08-26T19:57:10+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -2799,6 +2896,7 @@ const TCG_DATA = {
       "average_sale_price": 61.01,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:39:56+00:00",
+      "first_seen": "2026-08-26T23:39:56+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -2859,6 +2957,7 @@ const TCG_DATA = {
       "average_sale_price": 0.06,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:30:28+00:00",
+      "first_seen": "2026-08-27T23:30:28+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -2914,6 +3013,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:56:31+00:00",
+      "first_seen": "2026-08-26T19:56:31+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -2963,6 +3063,7 @@ const TCG_DATA = {
       "average_sale_price": 0.04,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:28:54+00:00",
+      "first_seen": "2026-08-25T19:28:54+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -3023,6 +3124,7 @@ const TCG_DATA = {
       "average_sale_price": 19.2,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:16:34+00:00",
+      "first_seen": "2026-08-25T19:56:39+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -3123,6 +3225,7 @@ const TCG_DATA = {
       "average_sale_price": 0.09,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:55:59+00:00",
+      "first_seen": "2026-08-25T19:55:59+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -3183,6 +3286,7 @@ const TCG_DATA = {
       "average_sale_price": 26.95,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:30:25+00:00",
+      "first_seen": "2026-08-27T00:14:41+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -3248,6 +3352,7 @@ const TCG_DATA = {
       "average_sale_price": 0.22,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:04:37+00:00",
+      "first_seen": "2026-08-27T23:04:37+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -3309,6 +3414,7 @@ const TCG_DATA = {
       "average_sale_price": 6.77,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:44:17+00:00",
+      "first_seen": "2026-08-25T23:44:17+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -3370,6 +3476,7 @@ const TCG_DATA = {
       "average_sale_price": 0.5,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:44:58+00:00",
+      "first_seen": "2026-08-25T23:44:58+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -3430,6 +3537,7 @@ const TCG_DATA = {
       "average_sale_price": 2025.0,
       "recent_sales_count": 2,
       "last_scraped": "2026-08-26T18:22:08+00:00",
+      "first_seen": "2026-08-26T18:22:08+00:00",
       "recent_sales": [
         {
           "date": "5/24/26",
@@ -3472,6 +3580,7 @@ const TCG_DATA = {
       "average_sale_price": 66.57,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:35:16+00:00",
+      "first_seen": "2026-08-26T23:35:16+00:00",
       "recent_sales": [
         {
           "date": "8/23/26",
@@ -3532,6 +3641,7 @@ const TCG_DATA = {
       "average_sale_price": 1.38,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:03:20+00:00",
+      "first_seen": "2026-08-27T22:03:20+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -3588,11 +3698,42 @@ const TCG_DATA = {
         "Subtype(s)": "The Four Emperors Cross Guild",
         "Attribute": "Slash"
       },
-      "listed_median": "$525.00",
-      "average_sale_price": 0.0,
-      "recent_sales_count": 3,
-      "last_scraped": "2026-08-26T22:16:56+00:00",
+      "listed_median": "$335.63",
+      "average_sale_price": 279.87,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:44:45+00:00",
+      "first_seen": "2026-08-26T22:16:56+00:00",
       "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$300.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$275.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$274.89"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$274.88"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$274.59"
+        },
         {
           "date": "12/12/12",
           "condition": "NM Japanese",
@@ -3617,6 +3758,11 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T22:16:56+00:00",
           "listed_median": "$525.00",
           "average_sale_price": 0.0
+        },
+        {
+          "scraped_at": "2026-08-28T23:44:45+00:00",
+          "listed_median": "$335.63",
+          "average_sale_price": 279.87
         }
       ]
     },
@@ -3640,6 +3786,7 @@ const TCG_DATA = {
       "average_sale_price": 1590.72,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:23:25+00:00",
+      "first_seen": "2026-08-26T18:23:25+00:00",
       "recent_sales": [
         {
           "date": "7/6/26",
@@ -3701,6 +3848,7 @@ const TCG_DATA = {
       "average_sale_price": 9.29,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:28:42+00:00",
+      "first_seen": "2026-08-26T19:30:51+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -3761,6 +3909,7 @@ const TCG_DATA = {
       "average_sale_price": 0.64,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:31:03+00:00",
+      "first_seen": "2026-08-27T00:15:20+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -3827,6 +3976,7 @@ const TCG_DATA = {
       "average_sale_price": 0.03,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:24:20+00:00",
+      "first_seen": "2026-08-25T19:24:20+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -3886,6 +4036,7 @@ const TCG_DATA = {
       "average_sale_price": 10.06,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:28:40+00:00",
+      "first_seen": "2026-08-27T19:32:47+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -3950,6 +4101,7 @@ const TCG_DATA = {
       "average_sale_price": 0.13,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:24:52+00:00",
+      "first_seen": "2026-08-27T23:24:52+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -4011,6 +4163,7 @@ const TCG_DATA = {
       "average_sale_price": 0.11,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:00:24+00:00",
+      "first_seen": "2026-08-26T20:00:24+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -4069,6 +4222,7 @@ const TCG_DATA = {
       "average_sale_price": 0.04,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:17:03+00:00",
+      "first_seen": "2026-08-25T20:17:03+00:00",
       "recent_sales": [
         {
           "date": "8/23/26",
@@ -4129,6 +4283,7 @@ const TCG_DATA = {
       "average_sale_price": 0.34,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:37:16+00:00",
+      "first_seen": "2026-08-26T19:37:16+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -4190,6 +4345,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T20:01:03+00:00",
+      "first_seen": "2026-08-26T20:01:03+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -4238,6 +4394,7 @@ const TCG_DATA = {
       "average_sale_price": 18.59,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:11:48+00:00",
+      "first_seen": "2026-08-27T19:11:48+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -4292,6 +4449,7 @@ const TCG_DATA = {
       "average_sale_price": 0.19,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:44:37+00:00",
+      "first_seen": "2026-08-27T22:44:37+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -4321,6 +4479,44 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "649668",
+      "name": "Carrot (CS 25-26 Event Pack Finalist Ver.) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/649668?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649668_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-070",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "2000",
+        "Subtype(s)": "Minks",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "-",
+      "average_sale_price": 474.0,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-28T23:34:00+00:00",
+      "first_seen": "2026-08-28T23:34:00+00:00",
+      "recent_sales": [
+        {
+          "date": "7/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$474.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:34:00+00:00",
+          "listed_median": "-",
+          "average_sale_price": 474.0
+        }
+      ]
+    },
+    {
       "product_id": "629187",
       "name": "Carrot (SP) - Extra Booster: Anime 25th Collection (EB-02)",
       "url": "https://www.tcgplayer.com/product/629187?Language=English",
@@ -4340,6 +4536,7 @@ const TCG_DATA = {
       "average_sale_price": 519.38,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:17:13+00:00",
+      "first_seen": "2026-08-26T19:17:13+00:00",
       "recent_sales": [
         {
           "date": "6/28/26",
@@ -4401,6 +4598,7 @@ const TCG_DATA = {
       "average_sale_price": 0.33,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:21:18+00:00",
+      "first_seen": "2026-08-25T21:54:28+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -4466,6 +4664,7 @@ const TCG_DATA = {
       "average_sale_price": 52.56,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T00:01:44+00:00",
+      "first_seen": "2026-08-26T00:01:44+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -4527,6 +4726,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T20:03:36+00:00",
+      "first_seen": "2026-08-26T20:03:36+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -4576,6 +4776,7 @@ const TCG_DATA = {
       "average_sale_price": 0.39,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:51:35+00:00",
+      "first_seen": "2026-08-26T22:51:35+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -4637,6 +4838,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:52:13+00:00",
+      "first_seen": "2026-08-26T22:52:13+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -4686,6 +4888,7 @@ const TCG_DATA = {
       "average_sale_price": 0.71,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:50:19+00:00",
+      "first_seen": "2026-08-26T22:50:19+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -4741,6 +4944,7 @@ const TCG_DATA = {
       "average_sale_price": 10.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:50:57+00:00",
+      "first_seen": "2026-08-26T22:50:57+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -4802,6 +5006,7 @@ const TCG_DATA = {
       "average_sale_price": 12.44,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:27:24+00:00",
+      "first_seen": "2026-08-26T20:02:58+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -4886,6 +5091,7 @@ const TCG_DATA = {
       "average_sale_price": 0.81,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:09:54+00:00",
+      "first_seen": "2026-08-26T20:02:19+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -4969,6 +5175,7 @@ const TCG_DATA = {
       "average_sale_price": 35.23,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:50:09+00:00",
+      "first_seen": "2026-08-26T23:50:09+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -5029,6 +5236,7 @@ const TCG_DATA = {
       "average_sale_price": 0.21,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:01:53+00:00",
+      "first_seen": "2026-08-27T23:01:53+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -5088,6 +5296,7 @@ const TCG_DATA = {
       "average_sale_price": 78.28,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:29:54+00:00",
+      "first_seen": "2026-08-26T23:29:54+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -5148,6 +5357,7 @@ const TCG_DATA = {
       "average_sale_price": 0.33,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:28:20+00:00",
+      "first_seen": "2026-08-27T22:28:20+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -5208,6 +5418,7 @@ const TCG_DATA = {
       "average_sale_price": 1.35,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:04:00+00:00",
+      "first_seen": "2026-08-27T22:04:00+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -5262,6 +5473,7 @@ const TCG_DATA = {
       "average_sale_price": 1.07,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:08:03+00:00",
+      "first_seen": "2026-08-27T22:08:03+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -5322,6 +5534,7 @@ const TCG_DATA = {
       "average_sale_price": 100.82,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T00:01:03+00:00",
+      "first_seen": "2026-08-26T00:01:03+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -5383,6 +5596,7 @@ const TCG_DATA = {
       "average_sale_price": 0.73,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:49:02+00:00",
+      "first_seen": "2026-08-26T22:49:02+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -5444,6 +5658,7 @@ const TCG_DATA = {
       "average_sale_price": 10.6,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:49:41+00:00",
+      "first_seen": "2026-08-26T22:49:41+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -5504,6 +5719,7 @@ const TCG_DATA = {
       "average_sale_price": 49.33,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:27:33+00:00",
+      "first_seen": "2026-08-26T20:27:33+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -5564,6 +5780,7 @@ const TCG_DATA = {
       "average_sale_price": 0.93,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:06:02+00:00",
+      "first_seen": "2026-08-26T22:06:02+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -5623,6 +5840,7 @@ const TCG_DATA = {
       "average_sale_price": 27.79,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:24:59+00:00",
+      "first_seen": "2026-08-27T00:09:13+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -5688,6 +5906,7 @@ const TCG_DATA = {
       "average_sale_price": 0.18,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:01:11+00:00",
+      "first_seen": "2026-08-27T23:01:11+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -5747,6 +5966,7 @@ const TCG_DATA = {
       "average_sale_price": 58.77,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:26:56+00:00",
+      "first_seen": "2026-08-26T20:26:56+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -5806,6 +6026,7 @@ const TCG_DATA = {
       "average_sale_price": 0.62,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:11:11+00:00",
+      "first_seen": "2026-08-26T22:11:11+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -5866,6 +6087,7 @@ const TCG_DATA = {
       "average_sale_price": 36.4,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:30:07+00:00",
+      "first_seen": "2026-08-26T20:30:07+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -5926,6 +6148,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:11:49+00:00",
+      "first_seen": "2026-08-26T22:11:49+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -5974,6 +6197,7 @@ const TCG_DATA = {
       "average_sale_price": 5.58,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:49:14+00:00",
+      "first_seen": "2026-08-26T21:49:14+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -6028,6 +6252,7 @@ const TCG_DATA = {
       "average_sale_price": 15.39,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T17:57:03+00:00",
+      "first_seen": "2026-08-26T17:57:03+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -6088,6 +6313,7 @@ const TCG_DATA = {
       "average_sale_price": 2.6,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:49:01+00:00",
+      "first_seen": "2026-08-27T19:51:29+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -6154,6 +6380,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T20:04:52+00:00",
+      "first_seen": "2026-08-26T20:04:52+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -6203,6 +6430,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T20:01:41+00:00",
+      "first_seen": "2026-08-26T20:01:41+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -6252,6 +6480,7 @@ const TCG_DATA = {
       "average_sale_price": 0.13,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:04:14+00:00",
+      "first_seen": "2026-08-26T20:04:14+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -6294,6 +6523,7 @@ const TCG_DATA = {
       "average_sale_price": 75.19,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:43:20+00:00",
+      "first_seen": "2026-08-26T23:43:20+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -6354,6 +6584,7 @@ const TCG_DATA = {
       "average_sale_price": 0.21,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:54:26+00:00",
+      "first_seen": "2026-08-27T22:54:26+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -6414,6 +6645,7 @@ const TCG_DATA = {
       "average_sale_price": 677.0,
       "recent_sales_count": 2,
       "last_scraped": "2026-08-26T19:01:08+00:00",
+      "first_seen": "2026-08-26T18:34:25+00:00",
       "recent_sales": [
         {
           "date": "5/3/26",
@@ -6462,6 +6694,7 @@ const TCG_DATA = {
       "average_sale_price": 2.35,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:58:20+00:00",
+      "first_seen": "2026-08-26T21:58:20+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -6523,6 +6756,7 @@ const TCG_DATA = {
       "average_sale_price": 0.51,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:52:51+00:00",
+      "first_seen": "2026-08-26T22:52:51+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -6578,6 +6812,7 @@ const TCG_DATA = {
       "average_sale_price": 5.4,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:53:30+00:00",
+      "first_seen": "2026-08-26T22:53:30+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -6632,6 +6867,7 @@ const TCG_DATA = {
       "average_sale_price": 0.54,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:15:25+00:00",
+      "first_seen": "2026-08-27T22:15:25+00:00",
       "recent_sales": [
         {
           "date": "8/9/26",
@@ -6693,6 +6929,7 @@ const TCG_DATA = {
       "average_sale_price": 1.55,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:59:04+00:00",
+      "first_seen": "2026-08-27T20:01:34+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -6758,6 +6995,7 @@ const TCG_DATA = {
       "average_sale_price": 83.41,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:31:53+00:00",
+      "first_seen": "2026-08-26T23:31:53+00:00",
       "recent_sales": [
         {
           "date": "7/31/26",
@@ -6818,6 +7056,7 @@ const TCG_DATA = {
       "average_sale_price": 48.34,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:46:39+00:00",
+      "first_seen": "2026-08-26T23:46:39+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -6872,6 +7111,7 @@ const TCG_DATA = {
       "average_sale_price": 0.13,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:17:31+00:00",
+      "first_seen": "2026-08-27T23:17:31+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -6932,6 +7172,7 @@ const TCG_DATA = {
       "average_sale_price": 135.6,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:18:34+00:00",
+      "first_seen": "2026-08-26T23:18:34+00:00",
       "recent_sales": [
         {
           "date": "8/6/26",
@@ -6992,6 +7233,7 @@ const TCG_DATA = {
       "average_sale_price": 0.38,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:22:56+00:00",
+      "first_seen": "2026-08-27T22:22:56+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -7052,6 +7294,7 @@ const TCG_DATA = {
       "average_sale_price": 14.33,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:07:00+00:00",
+      "first_seen": "2026-08-27T19:07:00+00:00",
       "recent_sales": [
         {
           "date": "8/23/26",
@@ -7112,6 +7355,7 @@ const TCG_DATA = {
       "average_sale_price": 25.66,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T18:58:48+00:00",
+      "first_seen": "2026-08-27T18:58:48+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -7172,6 +7416,7 @@ const TCG_DATA = {
       "average_sale_price": 0.18,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:56:28+00:00",
+      "first_seen": "2026-08-27T22:56:28+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -7228,10 +7473,11 @@ const TCG_DATA = {
         "Subtype(s)": "Baroque Works The Seven Warlords of the Sea",
         "Attribute": "Special"
       },
-      "listed_median": "$1,499.99",
+      "listed_median": "$1,460.00",
       "average_sale_price": 1329.79,
       "recent_sales_count": 5,
-      "last_scraped": "2026-08-26T18:27:18+00:00",
+      "last_scraped": "2026-08-28T23:25:59+00:00",
+      "first_seen": "2026-08-26T18:27:18+00:00",
       "recent_sales": [
         {
           "date": "8/5/26",
@@ -7269,6 +7515,11 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T18:27:18+00:00",
           "listed_median": "$1,499.99",
           "average_sale_price": 1329.79
+        },
+        {
+          "scraped_at": "2026-08-28T23:25:59+00:00",
+          "listed_median": "$1,460.00",
+          "average_sale_price": 1329.79
         }
       ]
     },
@@ -7292,6 +7543,7 @@ const TCG_DATA = {
       "average_sale_price": 0.21,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:59:20+00:00",
+      "first_seen": "2026-08-25T19:59:20+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -7353,6 +7605,7 @@ const TCG_DATA = {
       "average_sale_price": 0.31,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:29:34+00:00",
+      "first_seen": "2026-08-26T19:29:34+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -7414,6 +7667,7 @@ const TCG_DATA = {
       "average_sale_price": 0.06,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:01:59+00:00",
+      "first_seen": "2026-08-25T23:01:59+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -7449,6 +7703,226 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "651174",
+      "name": "DON!! Card (2Y) (Double Pack Set Vol. 8) - Legacy of the Master (OP12)",
+      "url": "https://www.tcgplayer.com/product/651174?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/651174_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$3.50",
+      "average_sale_price": 1.99,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:15:21+00:00",
+      "first_seen": "2026-08-28T22:15:21+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.75"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$2.76"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$1.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3.50"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$0.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:15:21+00:00",
+          "listed_median": "$3.50",
+          "average_sale_price": 1.99
+        }
+      ]
+    },
+    {
+      "product_id": "600706",
+      "name": "DON!! Card (2nd Anniversary Tournament) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/600706?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/600706_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$5.00",
+      "average_sale_price": 3.17,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:09:53+00:00",
+      "first_seen": "2026-08-28T22:09:53+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$3.50"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.65"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$2.98"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "DMG",
+          "quantity": "1",
+          "price": "$2.73"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:09:53+00:00",
+          "listed_median": "$5.00",
+          "average_sale_price": 3.17
+        }
+      ]
+    },
+    {
+      "product_id": "544805",
+      "name": "DON!! Card (3D Text) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/544805?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544805_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$27.50",
+      "average_sale_price": 8.21,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:03:13+00:00",
+      "first_seen": "2026-08-28T19:03:13+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$4.10"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$12.00"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$8.19"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$6.78"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$9.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:03:13+00:00",
+          "listed_median": "$27.50",
+          "average_sale_price": 8.21
+        }
+      ]
+    },
+    {
+      "product_id": "651175",
+      "name": "DON!! Card (3D) (Double Pack Set Vol. 8) - Legacy of the Master (OP12)",
+      "url": "https://www.tcgplayer.com/product/651175?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/651175_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$2.50",
+      "average_sale_price": 2.23,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:20:33+00:00",
+      "first_seen": "2026-08-28T22:20:33+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$3.07"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.36"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.25"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.50"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:20:33+00:00",
+          "listed_median": "$2.50",
+          "average_sale_price": 2.23
+        }
+      ]
+    },
+    {
       "product_id": "587957",
       "name": "DON!! Card (Ace) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/587957?Language=English",
@@ -7462,6 +7936,7 @@ const TCG_DATA = {
       "average_sale_price": 264.93,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:48:54+00:00",
+      "first_seen": "2026-08-27T23:48:54+00:00",
       "recent_sales": [
         {
           "date": "8/7/26",
@@ -7503,6 +7978,324 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "620149",
+      "name": "DON!! Card (Ace) (Special DON!! Set Vol. 2) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/620149?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/620149_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$6.16",
+      "average_sale_price": 5.0,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:39:47+00:00",
+      "first_seen": "2026-08-28T19:39:47+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$4.56"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.15"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.40"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$5.76"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "LP Foil",
+          "quantity": "5",
+          "price": "$5.15"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:39:47+00:00",
+          "listed_median": "$6.16",
+          "average_sale_price": 5.0
+        }
+      ]
+    },
+    {
+      "product_id": "593801",
+      "name": "DON!! Card (Ace) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593801?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593801_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$4.60",
+      "average_sale_price": 7.91,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:49:53+00:00",
+      "first_seen": "2026-08-28T19:49:53+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "8",
+          "price": "$14.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$13.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.82"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.50"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.27"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:49:53+00:00",
+          "listed_median": "$4.60",
+          "average_sale_price": 7.91
+        }
+      ]
+    },
+    {
+      "product_id": "698314",
+      "name": "DON!! Card (Alternate Art) (Gold) - The Time of Battle (OP16)",
+      "url": "https://www.tcgplayer.com/product/698314?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/698314_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$5.00",
+      "average_sale_price": 3.49,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:50:33+00:00",
+      "first_seen": "2026-08-28T19:50:33+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "9",
+          "price": "$3.39"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3.92"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3.39"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3.36"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:50:33+00:00",
+          "listed_median": "$5.00",
+          "average_sale_price": 3.49
+        }
+      ]
+    },
+    {
+      "product_id": "710859",
+      "name": "DON!! Card (Alternate Art) (Gold) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710859?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710859_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$12.94",
+      "average_sale_price": 10.39,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T18:52:52+00:00",
+      "first_seen": "2026-08-28T18:52:52+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$9.99"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$9.98"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$9.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$11.99"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$10.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T18:52:52+00:00",
+          "listed_median": "$12.94",
+          "average_sale_price": 10.39
+        }
+      ]
+    },
+    {
+      "product_id": "710860",
+      "name": "DON!! Card (Alternate Art) (Luffy and Loki) (Gold) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/710860?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710860_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$22.58",
+      "average_sale_price": 17.72,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T18:48:58+00:00",
+      "first_seen": "2026-08-28T18:48:58+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$19.99"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$18.65"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$15.73"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$14.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T18:48:58+00:00",
+          "listed_median": "$22.58",
+          "average_sale_price": 17.72
+        }
+      ]
+    },
+    {
+      "product_id": "712748",
+      "name": "DON!! Card (Alternate Art) (Luffy and Loki) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712748?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712748_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.62",
+      "average_sale_price": 1.47,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:40:26+00:00",
+      "first_seen": "2026-08-28T22:40:26+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "6",
+          "price": "$1.99"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "6",
+          "price": "$1.75"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$1.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.59"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:40:26+00:00",
+          "listed_median": "$1.62",
+          "average_sale_price": 1.47
+        }
+      ]
+    },
+    {
       "product_id": "711420",
       "name": "DON!! Card (Alternate Art) (Rocks) (Special Foil) - The World's Strongest Warriors (OP17)",
       "url": "https://www.tcgplayer.com/product/711420?Language=English",
@@ -7516,6 +8309,7 @@ const TCG_DATA = {
       "average_sale_price": 59.32,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:40:42+00:00",
+      "first_seen": "2026-08-28T16:40:42+00:00",
       "recent_sales": [
         {
           "date": "8/28/26",
@@ -7557,6 +8351,819 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "712749",
+      "name": "DON!! Card (Alternate Art) (Rocks) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712749?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712749_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.97",
+      "average_sale_price": 2.07,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:35:38+00:00",
+      "first_seen": "2026-08-28T22:35:38+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "8",
+          "price": "$2.99"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "7",
+          "price": "$1.40"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.99"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.50"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.45"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:35:38+00:00",
+          "listed_median": "$1.97",
+          "average_sale_price": 2.07
+        }
+      ]
+    },
+    {
+      "product_id": "711421",
+      "name": "DON!! Card (Alternate Art) (The Four Emperors) (Gold) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/711421?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711421_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$17.84",
+      "average_sale_price": 13.76,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T18:51:34+00:00",
+      "first_seen": "2026-08-28T18:51:34+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$14.28"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$14.16"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$13.95"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$13.94"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$12.49"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T18:51:34+00:00",
+          "listed_median": "$17.84",
+          "average_sale_price": 13.76
+        }
+      ]
+    },
+    {
+      "product_id": "712750",
+      "name": "DON!! Card (Alternate Art) (The Four Emperors) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712750?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712750_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.00",
+      "average_sale_price": 0.42,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:56:41+00:00",
+      "first_seen": "2026-08-28T22:56:41+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "6",
+          "price": "$0.49"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.49"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.48"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.32"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.33"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:56:41+00:00",
+          "listed_median": "$1.00",
+          "average_sale_price": 0.42
+        }
+      ]
+    },
+    {
+      "product_id": "555894",
+      "name": "DON!! Card (Alternate Art) - 500 Years in the Future (OP07)",
+      "url": "https://www.tcgplayer.com/product/555894?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/555894_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.69",
+      "average_sale_price": 0.65,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:54:14+00:00",
+      "first_seen": "2026-08-28T22:54:14+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.60"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.74"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP Foil",
+          "quantity": "7",
+          "price": "$0.47"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$0.47"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:54:14+00:00",
+          "listed_median": "$0.69",
+          "average_sale_price": 0.65
+        }
+      ]
+    },
+    {
+      "product_id": "636742",
+      "name": "DON!! Card (Alternate Art) - A Fist of Divine Speed (OP11)",
+      "url": "https://www.tcgplayer.com/product/636742?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/636742_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.44",
+      "average_sale_price": 0.35,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:10:21+00:00",
+      "first_seen": "2026-08-28T23:10:21+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.35"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP Foil",
+          "quantity": "10",
+          "price": "$0.37"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.42"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.26"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP Foil",
+          "quantity": "10",
+          "price": "$0.37"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:10:21+00:00",
+          "listed_median": "$0.44",
+          "average_sale_price": 0.35
+        }
+      ]
+    },
+    {
+      "product_id": "529792",
+      "name": "DON!! Card (Alternate Art) - Awakening of the New Era (OP05)",
+      "url": "https://www.tcgplayer.com/product/529792?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/529792_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.00",
+      "average_sale_price": 1.17,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:45:18+00:00",
+      "first_seen": "2026-08-28T22:45:18+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "9",
+          "price": "$0.85"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.99"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "5",
+          "price": "$1.02"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:45:18+00:00",
+          "listed_median": "$1.00",
+          "average_sale_price": 1.17
+        }
+      ]
+    },
+    {
+      "product_id": "604246",
+      "name": "DON!! Card (Alternate Art) - Emperors in the New World (OP09)",
+      "url": "https://www.tcgplayer.com/product/604246?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/604246_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.51",
+      "average_sale_price": 0.53,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:06:43+00:00",
+      "first_seen": "2026-08-28T23:06:43+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.53"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "10",
+          "price": "$0.50"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.74"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.33"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:06:43+00:00",
+          "listed_median": "$0.51",
+          "average_sale_price": 0.53
+        }
+      ]
+    },
+    {
+      "product_id": "517476",
+      "name": "DON!! Card (Alternate Art) - Kingdoms of Intrigue (OP04)",
+      "url": "https://www.tcgplayer.com/product/517476?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/517476_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.96",
+      "average_sale_price": 0.47,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:02:05+00:00",
+      "first_seen": "2026-08-28T23:02:05+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$0.49"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "9",
+          "price": "$0.30"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.71"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.57"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.30"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:02:05+00:00",
+          "listed_median": "$0.96",
+          "average_sale_price": 0.47
+        }
+      ]
+    },
+    {
+      "product_id": "646574",
+      "name": "DON!! Card (Alternate Art) - Legacy of the Master (OP12)",
+      "url": "https://www.tcgplayer.com/product/646574?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/646574_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.30",
+      "average_sale_price": 0.24,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:14:18+00:00",
+      "first_seen": "2026-08-28T23:14:18+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.20"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "10",
+          "price": "$0.29"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.24"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$0.20"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:14:18+00:00",
+          "listed_median": "$0.30",
+          "average_sale_price": 0.24
+        }
+      ]
+    },
+    {
+      "product_id": "498519",
+      "name": "DON!! Card (Alternate Art) - Pillars of Strength (OP03)",
+      "url": "https://www.tcgplayer.com/product/498519?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/498519_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.70",
+      "average_sale_price": 1.06,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:39:06+00:00",
+      "first_seen": "2026-08-28T22:39:06+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.60"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.95"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.94"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$0.88"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:39:06+00:00",
+          "listed_median": "$1.70",
+          "average_sale_price": 1.06
+        }
+      ]
+    },
+    {
+      "product_id": "624357",
+      "name": "DON!! Card (Alternate Art) - Royal Blood (OP10)",
+      "url": "https://www.tcgplayer.com/product/624357?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/624357_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.51",
+      "average_sale_price": 0.55,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:04:41+00:00",
+      "first_seen": "2026-08-28T23:04:41+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.49"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.43"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.81"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.61"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.39"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:04:41+00:00",
+          "listed_median": "$0.51",
+          "average_sale_price": 0.55
+        }
+      ]
+    },
+    {
+      "product_id": "698313",
+      "name": "DON!! Card (Alternate Art) - The Time of Battle (OP16)",
+      "url": "https://www.tcgplayer.com/product/698313?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/698313_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.41",
+      "average_sale_price": 0.24,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:15:39+00:00",
+      "first_seen": "2026-08-28T23:15:39+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "9",
+          "price": "$0.22"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.26"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "10",
+          "price": "$0.22"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.24"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:15:39+00:00",
+          "listed_median": "$0.41",
+          "average_sale_price": 0.24
+        }
+      ]
+    },
+    {
+      "product_id": "712747",
+      "name": "DON!! Card (Alternate Art) - The World's Strongest Warriors (OP17)",
+      "url": "https://www.tcgplayer.com/product/712747?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712747_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.00",
+      "average_sale_price": 0.52,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:51:31+00:00",
+      "first_seen": "2026-08-28T22:51:31+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.89"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.49"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "10",
+          "price": "$0.49"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.48"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:51:31+00:00",
+          "listed_median": "$1.00",
+          "average_sale_price": 0.52
+        }
+      ]
+    },
+    {
+      "product_id": "577568",
+      "name": "DON!! Card (Alternate Art) - Two Legends (OP08)",
+      "url": "https://www.tcgplayer.com/product/577568?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/577568_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.44",
+      "average_sale_price": 0.4,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:11:41+00:00",
+      "first_seen": "2026-08-28T23:11:41+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.30"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.79"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.50"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.18"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$0.24"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:11:41+00:00",
+          "listed_median": "$0.44",
+          "average_sale_price": 0.4
+        }
+      ]
+    },
+    {
+      "product_id": "541671",
+      "name": "DON!! Card (Alternate Art) - Wings of the Captain (OP06)",
+      "url": "https://www.tcgplayer.com/product/541671?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541671_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.74",
+      "average_sale_price": 0.93,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:59:21+00:00",
+      "first_seen": "2026-08-28T22:59:21+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$0.67"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.43"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.79"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP Foil",
+          "quantity": "4",
+          "price": "$0.75"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:59:21+00:00",
+          "listed_median": "$0.74",
+          "average_sale_price": 0.93
+        }
+      ]
+    },
+    {
       "product_id": "587954",
       "name": "DON!! Card (Big Mom) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/587954?Language=English",
@@ -7570,6 +9177,7 @@ const TCG_DATA = {
       "average_sale_price": 75.36,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:45:03+00:00",
+      "first_seen": "2026-08-28T16:45:03+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -7611,6 +9219,281 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593802",
+      "name": "DON!! Card (Big Mom) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593802?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593802_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.61",
+      "average_sale_price": 2.38,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:36:19+00:00",
+      "first_seen": "2026-08-28T22:36:19+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "10",
+          "price": "$3.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$3.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$2.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.40"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:36:19+00:00",
+          "listed_median": "$1.61",
+          "average_sale_price": 2.38
+        }
+      ]
+    },
+    {
+      "product_id": "517478",
+      "name": "DON!! Card (Black & White) (Special DON!! Card Pack) - Kingdoms of Intrigue (OP04)",
+      "url": "https://www.tcgplayer.com/product/517478?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/517478_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$5.16",
+      "average_sale_price": 4.51,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:41:49+00:00",
+      "first_seen": "2026-08-28T19:41:49+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "7",
+          "price": "$4.70"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$4.95"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$4.83"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$4.04"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$4.01"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:41:49+00:00",
+          "listed_median": "$5.16",
+          "average_sale_price": 4.51
+        }
+      ]
+    },
+    {
+      "product_id": "623626",
+      "name": "DON!! Card (Black and Gold) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/623626?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/623626_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$17.94",
+      "average_sale_price": 14.91,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T18:50:55+00:00",
+      "first_seen": "2026-08-28T18:50:55+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$16.61"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$14.44"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$16.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$15.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$12.50"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T18:50:55+00:00",
+          "listed_median": "$17.94",
+          "average_sale_price": 14.91
+        }
+      ]
+    },
+    {
+      "product_id": "605126",
+      "name": "DON!! Card (Blackbeard) (Double Pack Set Vol. 6) - Emperors in the New World (OP09)",
+      "url": "https://www.tcgplayer.com/product/605126?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/605126_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$6.23",
+      "average_sale_price": 5.57,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:36:24+00:00",
+      "first_seen": "2026-08-28T19:36:24+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$5.93"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.93"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$5.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "LP Foil",
+          "quantity": "8",
+          "price": "$5.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:36:24+00:00",
+          "listed_median": "$6.23",
+          "average_sale_price": 5.57
+        }
+      ]
+    },
+    {
+      "product_id": "557078",
+      "name": "DON!! Card (Boa Hancock) (Double Pack Set Vol. 4) - 500 Years in the Future (OP07)",
+      "url": "https://www.tcgplayer.com/product/557078?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/557078_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$14.00",
+      "average_sale_price": 11.46,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T18:58:28+00:00",
+      "first_seen": "2026-08-28T18:58:28+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$11.32"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$11.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$11.53"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$11.25"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$11.21"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T18:58:28+00:00",
+          "listed_median": "$14.00",
+          "average_sale_price": 11.46
+        }
+      ]
+    },
+    {
       "product_id": "677571",
       "name": "DON!! Card (Boa Hancock) (Gold) - Extra Booster: One Piece Heroines Edition (EB-03-04)",
       "url": "https://www.tcgplayer.com/product/677571?Language=English",
@@ -7624,6 +9507,7 @@ const TCG_DATA = {
       "average_sale_price": 87.6,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T00:03:22+00:00",
+      "first_seen": "2026-08-28T00:03:22+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -7678,6 +9562,7 @@ const TCG_DATA = {
       "average_sale_price": 102.18,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:53:28+00:00",
+      "first_seen": "2026-08-27T23:53:28+00:00",
       "recent_sales": [
         {
           "date": "8/9/26",
@@ -7719,6 +9604,116 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "677570",
+      "name": "DON!! Card (Boa Hancock) - Extra Booster: One Piece Heroines Edition (EB-03-04)",
+      "url": "https://www.tcgplayer.com/product/677570?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/677570_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$2.54",
+      "average_sale_price": 2.2,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:19:51+00:00",
+      "first_seen": "2026-08-28T22:19:51+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.48"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$2.45"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.85"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$2.14"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$2.10"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:19:51+00:00",
+          "listed_median": "$2.54",
+          "average_sale_price": 2.2
+        }
+      ]
+    },
+    {
+      "product_id": "655117",
+      "name": "DON!! Card (Boa Hancock) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655117?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655117_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$2.32",
+      "average_sale_price": 5.58,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:19:09+00:00",
+      "first_seen": "2026-08-28T22:19:09+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$11.38"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$10.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "5",
+          "price": "$2.20"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$2.34"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:19:09+00:00",
+          "listed_median": "$2.32",
+          "average_sale_price": 5.58
+        }
+      ]
+    },
+    {
       "product_id": "655112",
       "name": "DON!! Card (Bonney) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655112?Language=English",
@@ -7732,6 +9727,7 @@ const TCG_DATA = {
       "average_sale_price": 89.66,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T00:04:39+00:00",
+      "first_seen": "2026-08-28T00:04:39+00:00",
       "recent_sales": [
         {
           "date": "8/7/26",
@@ -7773,6 +9769,116 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655113",
+      "name": "DON!! Card (Bonney) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655113?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655113_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.51",
+      "average_sale_price": 1.78,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:38:25+00:00",
+      "first_seen": "2026-08-28T22:38:25+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$1.37"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$1.44"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3.77"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.17"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.17"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:38:25+00:00",
+          "listed_median": "$1.51",
+          "average_sale_price": 1.78
+        }
+      ]
+    },
+    {
+      "product_id": "605125",
+      "name": "DON!! Card (Buggy) (Double Pack Set Vol. 6) - Emperors in the New World (OP09)",
+      "url": "https://www.tcgplayer.com/product/605125?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/605125_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$3.50",
+      "average_sale_price": 2.86,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:11:57+00:00",
+      "first_seen": "2026-08-28T22:11:57+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$2.48"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$2.50"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$2.49"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.31"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$2.53"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:11:57+00:00",
+          "listed_median": "$3.50",
+          "average_sale_price": 2.86
+        }
+      ]
+    },
+    {
       "product_id": "655131",
       "name": "DON!! Card (Buggy) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655131?Language=English",
@@ -7786,6 +9892,7 @@ const TCG_DATA = {
       "average_sale_price": 91.87,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:37:27+00:00",
+      "first_seen": "2026-08-28T16:37:27+00:00",
       "recent_sales": [
         {
           "date": "7/29/26",
@@ -7827,6 +9934,171 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655130",
+      "name": "DON!! Card (Buggy) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655130?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655130_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.59",
+      "average_sale_price": 1.78,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:37:02+00:00",
+      "first_seen": "2026-08-28T22:37:02+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.11"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$1.09"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$2.49"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "10",
+          "price": "$2.50"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.70"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:37:02+00:00",
+          "listed_median": "$1.59",
+          "average_sale_price": 1.78
+        }
+      ]
+    },
+    {
+      "product_id": "655486",
+      "name": "DON!! Card (Caesar Clown) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655486?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655486_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$33.00",
+      "average_sale_price": 24.12,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T18:46:59+00:00",
+      "first_seen": "2026-08-28T18:46:59+00:00",
+      "recent_sales": [
+        {
+          "date": "8/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$23.00"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$26.00"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$23.00"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$24.31"
+        },
+        {
+          "date": "8/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$24.31"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T18:46:59+00:00",
+          "listed_median": "$33.00",
+          "average_sale_price": 24.12
+        }
+      ]
+    },
+    {
+      "product_id": "655485",
+      "name": "DON!! Card (Caesar Clown) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655485?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655485_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.40",
+      "average_sale_price": 0.35,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:11:01+00:00",
+      "first_seen": "2026-08-28T23:11:01+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$0.33"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$0.26"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.60"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.30"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:11:01+00:00",
+          "listed_median": "$0.40",
+          "average_sale_price": 0.35
+        }
+      ]
+    },
+    {
       "product_id": "655138",
       "name": "DON!! Card (Carrot) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655138?Language=English",
@@ -7840,6 +10112,7 @@ const TCG_DATA = {
       "average_sale_price": 54.74,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:47:00+00:00",
+      "first_seen": "2026-08-28T16:47:00+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -7881,6 +10154,104 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655139",
+      "name": "DON!! Card (Carrot) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655139?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655139_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.13",
+      "average_sale_price": 1.96,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:44:38+00:00",
+      "first_seen": "2026-08-28T22:44:38+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.08"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "10",
+          "price": "$1.27"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$0.82"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "10",
+          "price": "$1.75"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.88"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:44:38+00:00",
+          "listed_median": "$1.13",
+          "average_sale_price": 1.96
+        }
+      ]
+    },
+    {
+      "product_id": "619595",
+      "name": "DON!! Card (Championship 2024 World Final) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/619595?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/619595_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "-",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-28T23:17:16+00:00",
+      "first_seen": "2026-08-28T23:17:16+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:17:16+00:00",
+          "listed_median": "-",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
       "product_id": "655914",
       "name": "DON!! Card (Chopper) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655914?Language=English",
@@ -7894,6 +10265,7 @@ const TCG_DATA = {
       "average_sale_price": 166.54,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:56:06+00:00",
+      "first_seen": "2026-08-27T23:56:06+00:00",
       "recent_sales": [
         {
           "date": "8/15/26",
@@ -7935,6 +10307,165 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655913",
+      "name": "DON!! Card (Chopper) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655913?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655913_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$2.80",
+      "average_sale_price": 2.73,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:18:26+00:00",
+      "first_seen": "2026-08-28T22:18:26+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$2.75"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$2.75"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$1.85"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "10",
+          "price": "$4.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.31"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:18:26+00:00",
+          "listed_median": "$2.80",
+          "average_sale_price": 2.73
+        }
+      ]
+    },
+    {
+      "product_id": "517477",
+      "name": "DON!! Card (Color) (Special DON!! Card Pack) - Kingdoms of Intrigue (OP04)",
+      "url": "https://www.tcgplayer.com/product/517477?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/517477_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$7.08",
+      "average_sale_price": 6.28,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:35:43+00:00",
+      "first_seen": "2026-08-28T19:35:43+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.50"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$6.47"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$6.48"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$6.48"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:35:43+00:00",
+          "listed_median": "$7.08",
+          "average_sale_price": 6.28
+        }
+      ]
+    },
+    {
+      "product_id": "672738",
+      "name": "DON!! Card (Crocodile) (Double Pack Set Vol. 9) - The Azure Sea's Seven (OP14)",
+      "url": "https://www.tcgplayer.com/product/672738?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672738_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$2.42",
+      "average_sale_price": 1.62,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:28:07+00:00",
+      "first_seen": "2026-08-28T22:28:07+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "6",
+          "price": "$1.34"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$1.34"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.99"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP Foil",
+          "quantity": "2",
+          "price": "$1.59"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.84"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:28:07+00:00",
+          "listed_median": "$2.42",
+          "average_sale_price": 1.62
+        }
+      ]
+    },
+    {
       "product_id": "586553",
       "name": "DON!! Card (Crocodile) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586553?Language=English",
@@ -7948,6 +10479,7 @@ const TCG_DATA = {
       "average_sale_price": 83.69,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T00:05:17+00:00",
+      "first_seen": "2026-08-28T00:05:17+00:00",
       "recent_sales": [
         {
           "date": "8/22/26",
@@ -7989,6 +10521,116 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593803",
+      "name": "DON!! Card (Crocodile) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593803?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593803_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$2.70",
+      "average_sale_price": 3.0,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:21:56+00:00",
+      "first_seen": "2026-08-28T22:21:56+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$7.93"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.60"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.99"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.30"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$2.19"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:21:56+00:00",
+          "listed_median": "$2.70",
+          "average_sale_price": 3.0
+        }
+      ]
+    },
+    {
+      "product_id": "672736",
+      "name": "DON!! Card (Donquixote Doflamingo) (Double Pack Set Vol. 9) - The Azure Sea's Seven (OP14)",
+      "url": "https://www.tcgplayer.com/product/672736?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672736_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$2.50",
+      "average_sale_price": 1.64,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:28:49+00:00",
+      "first_seen": "2026-08-28T22:28:49+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$1.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.44"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.68"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$2.06"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:28:49+00:00",
+          "listed_median": "$2.50",
+          "average_sale_price": 1.64
+        }
+      ]
+    },
+    {
       "product_id": "587237",
       "name": "DON!! Card (Donquixote Doflamingo) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/587237?Language=English",
@@ -8002,6 +10644,7 @@ const TCG_DATA = {
       "average_sale_price": 268.5,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:52:48+00:00",
+      "first_seen": "2026-08-27T23:52:48+00:00",
       "recent_sales": [
         {
           "date": "8/23/26",
@@ -8043,6 +10686,330 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593804",
+      "name": "DON!! Card (Donquixote Doflamingo) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593804?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593804_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$2.50",
+      "average_sale_price": 1.75,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:24:39+00:00",
+      "first_seen": "2026-08-28T22:24:39+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.97"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.48"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.89"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.82"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.61"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:24:39+00:00",
+          "listed_median": "$2.50",
+          "average_sale_price": 1.75
+        }
+      ]
+    },
+    {
+      "product_id": "649750",
+      "name": "DON!! Card (Donquixote Rosinante) (Devil Fruits Collection Vol. 3) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/649750?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649750_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$8.33",
+      "average_sale_price": 5.9,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:31:52+00:00",
+      "first_seen": "2026-08-28T19:31:52+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "6",
+          "price": "$5.45"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$6.39"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$5.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$6.73"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.45"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:31:52+00:00",
+          "listed_median": "$8.33",
+          "average_sale_price": 5.9
+        }
+      ]
+    },
+    {
+      "product_id": "698316",
+      "name": "DON!! Card (Double Pack Set Vol. 11) (Impel Down) - The Time of Battle (OP16)",
+      "url": "https://www.tcgplayer.com/product/698316?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/698316_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.19",
+      "average_sale_price": 0.63,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:50:12+00:00",
+      "first_seen": "2026-08-28T22:50:12+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "10",
+          "price": "$0.63"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.77"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.59"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.58"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:50:12+00:00",
+          "listed_median": "$1.19",
+          "average_sale_price": 0.63
+        }
+      ]
+    },
+    {
+      "product_id": "698315",
+      "name": "DON!! Card (Double Pack Set Vol. 11) (Luffy and Ace) - The Time of Battle (OP16)",
+      "url": "https://www.tcgplayer.com/product/698315?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/698315_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$6.75",
+      "average_sale_price": 4.79,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:32:32+00:00",
+      "first_seen": "2026-08-28T19:32:32+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.75"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.74"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.71"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.02"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3.75"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:32:32+00:00",
+          "listed_median": "$6.75",
+          "average_sale_price": 4.79
+        }
+      ]
+    },
+    {
+      "product_id": "672186",
+      "name": "DON!! Card (Dracule Mihawk) (Gold) - The Azure Sea's Seven (OP14)",
+      "url": "https://www.tcgplayer.com/product/672186?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672186_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$27.00",
+      "average_sale_price": 22.01,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T18:48:19+00:00",
+      "first_seen": "2026-08-28T18:48:19+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$20.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$21.58"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$22.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$22.49"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$21.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T18:48:19+00:00",
+          "listed_median": "$27.00",
+          "average_sale_price": 22.01
+        }
+      ]
+    },
+    {
+      "product_id": "672185",
+      "name": "DON!! Card (Dracule Mihawk) - The Azure Sea's Seven (OP14)",
+      "url": "https://www.tcgplayer.com/product/672185?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672185_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.67",
+      "average_sale_price": 0.86,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:52:12+00:00",
+      "first_seen": "2026-08-28T22:52:12+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "8",
+          "price": "$0.79"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$1.45"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.25"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$0.35"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.45"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:52:12+00:00",
+          "listed_median": "$0.67",
+          "average_sale_price": 0.86
+        }
+      ]
+    },
+    {
       "product_id": "655115",
       "name": "DON!! Card (Dragon) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655115?Language=English",
@@ -8056,6 +11023,7 @@ const TCG_DATA = {
       "average_sale_price": 42.9,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T17:05:58+00:00",
+      "first_seen": "2026-08-28T17:05:58+00:00",
       "recent_sales": [
         {
           "date": "8/22/26",
@@ -8097,6 +11065,171 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655114",
+      "name": "DON!! Card (Dragon) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655114?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655114_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.60",
+      "average_sale_price": 0.55,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:57:20+00:00",
+      "first_seen": "2026-08-28T22:57:20+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "5",
+          "price": "$0.55"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.79"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.60"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.58"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:57:20+00:00",
+          "listed_median": "$0.60",
+          "average_sale_price": 0.55
+        }
+      ]
+    },
+    {
+      "product_id": "672190",
+      "name": "DON!! Card (Egghead) (Gold) - The Azure Sea's Seven (OP14)",
+      "url": "https://www.tcgplayer.com/product/672190?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672190_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$10.82",
+      "average_sale_price": 8.15,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:02:33+00:00",
+      "first_seen": "2026-08-28T19:02:33+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$8.12"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "6",
+          "price": "$8.24"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$8.13"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$8.13"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$8.13"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:02:33+00:00",
+          "listed_median": "$10.82",
+          "average_sale_price": 8.15
+        }
+      ]
+    },
+    {
+      "product_id": "672188",
+      "name": "DON!! Card (Egghead) - The Azure Sea's Seven (OP14)",
+      "url": "https://www.tcgplayer.com/product/672188?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672188_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.34",
+      "average_sale_price": 0.43,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:03:59+00:00",
+      "first_seen": "2026-08-28T23:03:59+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.40"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.30"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.74"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.30"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$0.40"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:03:59+00:00",
+          "listed_median": "$0.34",
+          "average_sale_price": 0.43
+        }
+      ]
+    },
+    {
       "product_id": "702306",
       "name": "DON!! Card (Elbaph Luffy) (May Treasure Cup 2026) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/702306?Language=English",
@@ -8110,6 +11243,7 @@ const TCG_DATA = {
       "average_sale_price": 129.39,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:49:31+00:00",
+      "first_seen": "2026-08-27T23:49:31+00:00",
       "recent_sales": [
         {
           "date": "8/8/26",
@@ -8164,6 +11298,7 @@ const TCG_DATA = {
       "average_sale_price": 139.0,
       "recent_sales_count": 1,
       "last_scraped": "2026-08-27T23:57:23+00:00",
+      "first_seen": "2026-08-27T23:57:23+00:00",
       "recent_sales": [
         {
           "date": "8/11/26",
@@ -8181,6 +11316,226 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "689810",
+      "name": "DON!! Card (Enel Lightning) (Double Pack Set Vol. 10) - Adventure on Kami's Island (OP15-EB04)",
+      "url": "https://www.tcgplayer.com/product/689810?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/689810_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$5.00",
+      "average_sale_price": 3.97,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:41:10+00:00",
+      "first_seen": "2026-08-28T19:41:10+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.50"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3.54"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.50"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.29"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:41:10+00:00",
+          "listed_median": "$5.00",
+          "average_sale_price": 3.97
+        }
+      ]
+    },
+    {
+      "product_id": "593805",
+      "name": "DON!! Card (Enel) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593805?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593805_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$4.00",
+      "average_sale_price": 2.96,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:52:32+00:00",
+      "first_seen": "2026-08-28T19:52:32+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$2.39"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "6",
+          "price": "$4.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.40"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.75"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:52:32+00:00",
+          "listed_median": "$4.00",
+          "average_sale_price": 2.96
+        }
+      ]
+    },
+    {
+      "product_id": "635475",
+      "name": "DON!! Card (English Version 2nd Anniversary Set) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/635475?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/635475_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$11.53",
+      "average_sale_price": 9.97,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T18:59:49+00:00",
+      "first_seen": "2026-08-28T18:59:49+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$9.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$10.14"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$9.97"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$9.96"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "10",
+          "price": "$10.79"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T18:59:49+00:00",
+          "listed_median": "$11.53",
+          "average_sale_price": 9.97
+        }
+      ]
+    },
+    {
+      "product_id": "711010",
+      "name": "DON!! Card (English Version 3rd Anniversary Set) (Ace, Luffy, Sabo) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/711010?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711010_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$13.22",
+      "average_sale_price": 11.15,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T18:59:08+00:00",
+      "first_seen": "2026-08-28T18:59:08+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$10.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$11.39"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$11.20"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$11.19"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$10.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T18:59:08+00:00",
+          "listed_median": "$13.22",
+          "average_sale_price": 11.15
+        }
+      ]
+    },
+    {
       "product_id": "586557",
       "name": "DON!! Card (Eustass \"Captain\" Kid) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586557?Language=English",
@@ -8194,6 +11549,7 @@ const TCG_DATA = {
       "average_sale_price": 89.69,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:40:03+00:00",
+      "first_seen": "2026-08-28T16:40:03+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -8235,6 +11591,165 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593806",
+      "name": "DON!! Card (Eustass \"Captain\" Kid) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593806?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593806_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.80",
+      "average_sale_price": 1.81,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:35:01+00:00",
+      "first_seen": "2026-08-28T22:35:01+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "7",
+          "price": "$2.75"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$2.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$1.55"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.20"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:35:01+00:00",
+          "listed_median": "$1.80",
+          "average_sale_price": 1.81
+        }
+      ]
+    },
+    {
+      "product_id": "655489",
+      "name": "DON!! Card (Foxy) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655489?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655489_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.61",
+      "average_sale_price": 0.53,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:56:02+00:00",
+      "first_seen": "2026-08-28T22:56:02+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.61"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.42"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.85"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$0.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:56:02+00:00",
+          "listed_median": "$0.61",
+          "average_sale_price": 0.53
+        }
+      ]
+    },
+    {
+      "product_id": "655119",
+      "name": "DON!! Card (GEAR5 Luffy) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655119?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655119_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.31",
+      "average_sale_price": 1.18,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:42:00+00:00",
+      "first_seen": "2026-08-28T22:42:00+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.99"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$1.12"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$1.50"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$1.24"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$1.05"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:42:00+00:00",
+          "listed_median": "$1.31",
+          "average_sale_price": 1.18
+        }
+      ]
+    },
+    {
       "product_id": "655896",
       "name": "DON!! Card (Gear 4 Luffy) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655896?Language=English",
@@ -8248,6 +11763,7 @@ const TCG_DATA = {
       "average_sale_price": 115.68,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T00:02:43+00:00",
+      "first_seen": "2026-08-28T00:02:43+00:00",
       "recent_sales": [
         {
           "date": "8/3/26",
@@ -8289,6 +11805,61 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655895",
+      "name": "DON!! Card (Gear 4 Luffy) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655895?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655895_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.71",
+      "average_sale_price": 1.0,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:50:52+00:00",
+      "first_seen": "2026-08-28T22:50:52+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.49"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.48"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.64"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.74"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.66"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:50:52+00:00",
+          "listed_median": "$0.71",
+          "average_sale_price": 1.0
+        }
+      ]
+    },
+    {
       "product_id": "586885",
       "name": "DON!! Card (Gecko Moria) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586885?Language=English",
@@ -8302,6 +11873,7 @@ const TCG_DATA = {
       "average_sale_price": 81.25,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:36:08+00:00",
+      "first_seen": "2026-08-28T16:36:08+00:00",
       "recent_sales": [
         {
           "date": "8/22/26",
@@ -8343,6 +11915,226 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593807",
+      "name": "DON!! Card (Gecko Moria) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593807?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593807_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$2.03",
+      "average_sale_price": 1.66,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:29:29+00:00",
+      "first_seen": "2026-08-28T22:29:29+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$1.75"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$1.74"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.45"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.99"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM",
+          "quantity": "10",
+          "price": "$1.35"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:29:29+00:00",
+          "listed_median": "$2.03",
+          "average_sale_price": 1.66
+        }
+      ]
+    },
+    {
+      "product_id": "660710",
+      "name": "DON!! Card (Gol.D.Roger) (Gold) - Carrying On His Will (OP13)",
+      "url": "https://www.tcgplayer.com/product/660710?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/660710_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$7.25",
+      "average_sale_price": 5.24,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:33:13+00:00",
+      "first_seen": "2026-08-28T19:33:13+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.60"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.56"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.53"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.50"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:33:13+00:00",
+          "listed_median": "$7.25",
+          "average_sale_price": 5.24
+        }
+      ]
+    },
+    {
+      "product_id": "660744",
+      "name": "DON!! Card (Gol.D.Roger) - Carrying On His Will (OP13)",
+      "url": "https://www.tcgplayer.com/product/660744?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/660744_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.33",
+      "average_sale_price": 0.57,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:13:00+00:00",
+      "first_seen": "2026-08-28T23:13:00+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "5",
+          "price": "$0.49"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "10",
+          "price": "$0.33"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.99"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.50"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$0.55"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:13:00+00:00",
+          "listed_median": "$0.33",
+          "average_sale_price": 0.57
+        }
+      ]
+    },
+    {
+      "product_id": "482236",
+      "name": "DON!! Card (Gold) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/482236?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/482236_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$8.25",
+      "average_sale_price": 5.99,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:29:09+00:00",
+      "first_seen": "2026-08-28T19:29:09+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "MP Foil",
+          "quantity": "1",
+          "price": "$4.33"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$6.25"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "10",
+          "price": "$6.25"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "10",
+          "price": "$6.60"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$6.50"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:29:09+00:00",
+          "listed_median": "$8.25",
+          "average_sale_price": 5.99
+        }
+      ]
+    },
+    {
       "product_id": "483167",
       "name": "DON!! Card (Green) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/483167?Language=English",
@@ -8356,6 +12148,7 @@ const TCG_DATA = {
       "average_sale_price": 57.99,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:56:45+00:00",
+      "first_seen": "2026-08-27T23:56:45+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -8397,6 +12190,116 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655125",
+      "name": "DON!! Card (Hannyabal) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655125?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655125_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.30",
+      "average_sale_price": 0.21,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:15:00+00:00",
+      "first_seen": "2026-08-28T23:15:00+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.15"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.05"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.30"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.29"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "5",
+          "price": "$0.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:15:00+00:00",
+          "listed_median": "$0.30",
+          "average_sale_price": 0.21
+        }
+      ]
+    },
+    {
+      "product_id": "593808",
+      "name": "DON!! Card (Hody Jones) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593808?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593808_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.64",
+      "average_sale_price": 0.73,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:58:40+00:00",
+      "first_seen": "2026-08-28T22:58:40+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.40"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "8",
+          "price": "$0.90"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.98"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.74"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.62"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:58:40+00:00",
+          "listed_median": "$0.64",
+          "average_sale_price": 0.73
+        }
+      ]
+    },
+    {
       "product_id": "586887",
       "name": "DON!! Card (Iceberg) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586887?Language=English",
@@ -8410,6 +12313,7 @@ const TCG_DATA = {
       "average_sale_price": 57.63,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T17:02:05+00:00",
+      "first_seen": "2026-08-28T17:02:05+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -8451,6 +12355,116 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593809",
+      "name": "DON!! Card (Iceberg) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593809?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593809_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.64",
+      "average_sale_price": 1.09,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:00:46+00:00",
+      "first_seen": "2026-08-28T23:00:46+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.64"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.74"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.43"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.63"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:00:46+00:00",
+          "listed_median": "$0.64",
+          "average_sale_price": 1.09
+        }
+      ]
+    },
+    {
+      "product_id": "542684",
+      "name": "DON!! Card (Ivankov & Sanji) (Double Pack Set Vol. 3) - Wings of the Captain (OP06)",
+      "url": "https://www.tcgplayer.com/product/542684?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/542684_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$2.00",
+      "average_sale_price": 1.89,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:24:00+00:00",
+      "first_seen": "2026-08-28T22:24:00+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.75"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1.80"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.98"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:24:00+00:00",
+          "listed_median": "$2.00",
+          "average_sale_price": 1.89
+        }
+      ]
+    },
+    {
       "product_id": "586191",
       "name": "DON!! Card (Ivankov) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586191?Language=English",
@@ -8464,6 +12478,7 @@ const TCG_DATA = {
       "average_sale_price": 56.82,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T17:05:19+00:00",
+      "first_seen": "2026-08-28T17:05:19+00:00",
       "recent_sales": [
         {
           "date": "8/16/26",
@@ -8505,6 +12520,171 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593810",
+      "name": "DON!! Card (Ivankov) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593810?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593810_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.64",
+      "average_sale_price": 0.83,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:58:00+00:00",
+      "first_seen": "2026-08-28T22:58:00+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.50"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.20"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.17"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.78"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.49"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:58:00+00:00",
+          "listed_median": "$0.64",
+          "average_sale_price": 0.83
+        }
+      ]
+    },
+    {
+      "product_id": "680489",
+      "name": "DON!! Card (Japanese Version 3rd Anniversary Set) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/680489?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680489_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$9.66",
+      "average_sale_price": 9.33,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:04:33+00:00",
+      "first_seen": "2026-08-28T19:04:33+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$10.73"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$8.97"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "10",
+          "price": "$8.97"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$8.97"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$8.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:04:33+00:00",
+          "listed_median": "$9.66",
+          "average_sale_price": 9.33
+        }
+      ]
+    },
+    {
+      "product_id": "655135",
+      "name": "DON!! Card (Jinbe) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655135?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655135_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.10",
+      "average_sale_price": 1.46,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:47:58+00:00",
+      "first_seen": "2026-08-28T22:47:58+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.75"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.75"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.07"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.87"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.87"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:47:58+00:00",
+          "listed_median": "$1.10",
+          "average_sale_price": 1.46
+        }
+      ]
+    },
+    {
       "product_id": "586552",
       "name": "DON!! Card (Kaido) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586552?Language=English",
@@ -8518,6 +12698,7 @@ const TCG_DATA = {
       "average_sale_price": 164.4,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:59:26+00:00",
+      "first_seen": "2026-08-27T23:59:26+00:00",
       "recent_sales": [
         {
           "date": "8/21/26",
@@ -8559,6 +12740,61 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593811",
+      "name": "DON!! Card (Kaido) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593811?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593811_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$4.13",
+      "average_sale_price": 3.41,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:54:40+00:00",
+      "first_seen": "2026-08-28T19:54:40+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$5.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$4.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.05"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:54:40+00:00",
+          "listed_median": "$4.13",
+          "average_sale_price": 3.41
+        }
+      ]
+    },
+    {
       "product_id": "655740",
       "name": "DON!! Card (Kalgara) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655740?Language=English",
@@ -8572,6 +12808,7 @@ const TCG_DATA = {
       "average_sale_price": 63.13,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T17:00:47+00:00",
+      "first_seen": "2026-08-28T17:00:47+00:00",
       "recent_sales": [
         {
           "date": "8/4/26",
@@ -8613,6 +12850,110 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655741",
+      "name": "DON!! Card (Kalgara) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655741?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655741_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.59",
+      "average_sale_price": 0.75,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:05:24+00:00",
+      "first_seen": "2026-08-28T23:05:24+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.75"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.71"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.52"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:05:24+00:00",
+          "listed_median": "$0.59",
+          "average_sale_price": 0.75
+        }
+      ]
+    },
+    {
+      "product_id": "636745",
+      "name": "DON!! Card (Katakuri) (Double Pack Set Vol. 7) - A Fist of Divine Speed (OP11)",
+      "url": "https://www.tcgplayer.com/product/636745?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/636745_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$6.50",
+      "average_sale_price": 3.7,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:30:31+00:00",
+      "first_seen": "2026-08-28T19:30:31+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$5.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "LP Foil",
+          "quantity": "8",
+          "price": "$2.51"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "LP Foil",
+          "quantity": "2",
+          "price": "$2.51"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:30:31+00:00",
+          "listed_median": "$6.50",
+          "average_sale_price": 3.7
+        }
+      ]
+    },
+    {
       "product_id": "586481",
       "name": "DON!! Card (Katakuri) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586481?Language=English",
@@ -8626,6 +12967,7 @@ const TCG_DATA = {
       "average_sale_price": 77.21,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:35:29+00:00",
+      "first_seen": "2026-08-28T16:35:29+00:00",
       "recent_sales": [
         {
           "date": "8/9/26",
@@ -8667,6 +13009,171 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593812",
+      "name": "DON!! Card (Katakuri) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593812?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593812_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$2.72",
+      "average_sale_price": 3.38,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:16:18+00:00",
+      "first_seen": "2026-08-28T22:16:18+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$7.94"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$4.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$1.58"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.40"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:16:18+00:00",
+          "listed_median": "$2.72",
+          "average_sale_price": 3.38
+        }
+      ]
+    },
+    {
+      "product_id": "593813",
+      "name": "DON!! Card (King) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593813?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593813_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.60",
+      "average_sale_price": 1.54,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:00:04+00:00",
+      "first_seen": "2026-08-28T23:00:04+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.68"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.10"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.66"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:00:04+00:00",
+          "listed_median": "$0.60",
+          "average_sale_price": 1.54
+        }
+      ]
+    },
+    {
+      "product_id": "636744",
+      "name": "DON!! Card (Koby) (Double Pack Set Vol. 7) - A Fist of Divine Speed (OP11)",
+      "url": "https://www.tcgplayer.com/product/636744?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/636744_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.95",
+      "average_sale_price": 1.44,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:39:48+00:00",
+      "first_seen": "2026-08-28T22:39:48+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.00"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.38"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.42"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.39"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:39:48+00:00",
+          "listed_median": "$1.95",
+          "average_sale_price": 1.44
+        }
+      ]
+    },
+    {
       "product_id": "655129",
       "name": "DON!! Card (Koby) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655129?Language=English",
@@ -8680,6 +13187,7 @@ const TCG_DATA = {
       "average_sale_price": 40.24,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:51:29+00:00",
+      "first_seen": "2026-08-28T16:49:40+00:00",
       "recent_sales": [
         {
           "date": "8/9/26",
@@ -8726,6 +13234,165 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655127",
+      "name": "DON!! Card (Koby) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655127?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655127_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.69",
+      "average_sale_price": 1.37,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:52:53+00:00",
+      "first_seen": "2026-08-28T22:52:53+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.85"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.69"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.21"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.88"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:52:53+00:00",
+          "listed_median": "$0.69",
+          "average_sale_price": 1.37
+        }
+      ]
+    },
+    {
+      "product_id": "655743",
+      "name": "DON!! Card (Kyros) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655743?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655743_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$27.30",
+      "average_sale_price": 24.06,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T18:47:37+00:00",
+      "first_seen": "2026-08-28T18:47:37+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$26.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$23.95"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$23.93"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$26.45"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "9",
+          "price": "$18.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T18:47:37+00:00",
+          "listed_median": "$27.30",
+          "average_sale_price": 24.06
+        }
+      ]
+    },
+    {
+      "product_id": "655742",
+      "name": "DON!! Card (Kyros) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655742?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655742_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.38",
+      "average_sale_price": 0.48,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:12:20+00:00",
+      "first_seen": "2026-08-28T23:12:20+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.33"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.74"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.79"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "LP",
+          "quantity": "10",
+          "price": "$0.29"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:12:20+00:00",
+          "listed_median": "$0.38",
+          "average_sale_price": 0.48
+        }
+      ]
+    },
+    {
       "product_id": "696699",
       "name": "DON!! Card (LA Dodgers 2026 Promo) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/696699?Language=English",
@@ -8739,6 +13406,7 @@ const TCG_DATA = {
       "average_sale_price": 816.4,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:44:55+00:00",
+      "first_seen": "2026-08-27T23:44:55+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -8768,6 +13436,165 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655482",
+      "name": "DON!! Card (Lim) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655482?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655482_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.55",
+      "average_sale_price": 0.81,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:06:03+00:00",
+      "first_seen": "2026-08-28T23:06:03+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.93"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "9",
+          "price": "$0.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.56"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.59"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.49"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:06:03+00:00",
+          "listed_median": "$0.55",
+          "average_sale_price": 0.81
+        }
+      ]
+    },
+    {
+      "product_id": "525667",
+      "name": "DON!! Card (Luffy vs. Crocodile) (Devil Fruits Collection Vol. 1) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/525667?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/525667_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$9.71",
+      "average_sale_price": 7.87,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:03:52+00:00",
+      "first_seen": "2026-08-28T19:03:52+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "MP Foil",
+          "quantity": "1",
+          "price": "$8.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$9.32"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$7.34"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$7.34"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$7.34"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:03:52+00:00",
+          "listed_median": "$9.71",
+          "average_sale_price": 7.87
+        }
+      ]
+    },
+    {
+      "product_id": "686651",
+      "name": "DON!! Card (Luffy) (Gold) - Adventure on Kami's Island (OP15-EB04)",
+      "url": "https://www.tcgplayer.com/product/686651?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/686651_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$8.19",
+      "average_sale_price": 6.19,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:29:49+00:00",
+      "first_seen": "2026-08-28T19:29:49+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "5",
+          "price": "$6.30"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$6.56"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$6.55"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:29:49+00:00",
+          "listed_median": "$8.19",
+          "average_sale_price": 6.19
+        }
+      ]
+    },
+    {
       "product_id": "587706",
       "name": "DON!! Card (Luffy) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/587706?Language=English",
@@ -8781,6 +13608,7 @@ const TCG_DATA = {
       "average_sale_price": 293.7,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:48:15+00:00",
+      "first_seen": "2026-08-27T23:48:15+00:00",
       "recent_sales": [
         {
           "date": "8/23/26",
@@ -8810,6 +13638,171 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "620151",
+      "name": "DON!! Card (Luffy) (Special DON!! Set Vol. 1) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/620151?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/620151_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$11.00",
+      "average_sale_price": 7.03,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:01:11+00:00",
+      "first_seen": "2026-08-28T19:01:11+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$7.21"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$7.20"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$6.51"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$6.22"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$8.01"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:01:11+00:00",
+          "listed_median": "$11.00",
+          "average_sale_price": 7.03
+        }
+      ]
+    },
+    {
+      "product_id": "686650",
+      "name": "DON!! Card (Luffy) - Adventure on Kami's Island (OP15-EB04)",
+      "url": "https://www.tcgplayer.com/product/686650?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/686650_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.32",
+      "average_sale_price": 0.31,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:13:39+00:00",
+      "first_seen": "2026-08-28T23:13:39+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$0.25"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.50"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.29"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.20"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$0.30"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:13:39+00:00",
+          "listed_median": "$0.32",
+          "average_sale_price": 0.31
+        }
+      ]
+    },
+    {
+      "product_id": "593814",
+      "name": "DON!! Card (Luffy) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593814?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593814_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$2.75",
+      "average_sale_price": 4.6,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:17:00+00:00",
+      "first_seen": "2026-08-28T22:17:00+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "10",
+          "price": "$3.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.64"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$11.40"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:17:00+00:00",
+          "listed_median": "$2.75",
+          "average_sale_price": 4.6
+        }
+      ]
+    },
+    {
       "product_id": "586482",
       "name": "DON!! Card (Magellan) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586482?Language=English",
@@ -8823,6 +13816,7 @@ const TCG_DATA = {
       "average_sale_price": 43.53,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T17:01:26+00:00",
+      "first_seen": "2026-08-28T17:01:26+00:00",
       "recent_sales": [
         {
           "date": "8/9/26",
@@ -8864,6 +13858,226 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593815",
+      "name": "DON!! Card (Magellan) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593815?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593815_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.60",
+      "average_sale_price": 1.09,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:03:17+00:00",
+      "first_seen": "2026-08-28T23:03:17+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.20"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.47"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.53"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.75"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.49"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:03:17+00:00",
+          "listed_median": "$0.60",
+          "average_sale_price": 1.09
+        }
+      ]
+    },
+    {
+      "product_id": "456059",
+      "name": "DON!! Card (Manga) (Alternate Art) - Romance Dawn (OP01)",
+      "url": "https://www.tcgplayer.com/product/456059?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/456059_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$12.90",
+      "average_sale_price": 9.4,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:00:31+00:00",
+      "first_seen": "2026-08-28T19:00:31+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$8.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$9.41"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$9.12"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP Foil",
+          "quantity": "2",
+          "price": "$11.49"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$8.97"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:00:31+00:00",
+          "listed_median": "$12.90",
+          "average_sale_price": 9.4
+        }
+      ]
+    },
+    {
+      "product_id": "530120",
+      "name": "DON!! Card (Manga) (Double Pack Set Volume 2) - Awakening of the New Era (OP05)",
+      "url": "https://www.tcgplayer.com/product/530120?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/530120_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$6.49",
+      "average_sale_price": 5.04,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:40:27+00:00",
+      "first_seen": "2026-08-28T19:40:27+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$5.50"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$5.32"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$4.50"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$5.50"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.36"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:40:27+00:00",
+          "listed_median": "$6.49",
+          "average_sale_price": 5.04
+        }
+      ]
+    },
+    {
+      "product_id": "482273",
+      "name": "DON!! Card (Manga) - Paramount War (OP02)",
+      "url": "https://www.tcgplayer.com/product/482273?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/482273_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$4.00",
+      "average_sale_price": 2.93,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:09:14+00:00",
+      "first_seen": "2026-08-28T22:09:14+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.99"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.75"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.24"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$3.39"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1.29"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:09:14+00:00",
+          "listed_median": "$4.00",
+          "average_sale_price": 2.93
+        }
+      ]
+    },
+    {
       "product_id": "655111",
       "name": "DON!! Card (Marco) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655111?Language=English",
@@ -8877,6 +14091,7 @@ const TCG_DATA = {
       "average_sale_price": 67.66,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:45:42+00:00",
+      "first_seen": "2026-08-28T16:45:42+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -8918,6 +14133,159 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655110",
+      "name": "DON!! Card (Marco) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655110?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655110_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.75",
+      "average_sale_price": 1.02,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:49:29+00:00",
+      "first_seen": "2026-08-28T22:49:29+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.67"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.39"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.54"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:49:29+00:00",
+          "listed_median": "$0.75",
+          "average_sale_price": 1.02
+        }
+      ]
+    },
+    {
+      "product_id": "542683",
+      "name": "DON!! Card (Mihawk & Zoro) (Double Pack Set Vol. 3) - Wings of the Captain (OP06)",
+      "url": "https://www.tcgplayer.com/product/542683?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/542683_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$5.85",
+      "average_sale_price": 5.1,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:34:33+00:00",
+      "first_seen": "2026-08-28T19:34:33+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.50"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.25"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.93"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.82"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:34:33+00:00",
+          "listed_median": "$5.85",
+          "average_sale_price": 5.1
+        }
+      ]
+    },
+    {
+      "product_id": "561656",
+      "name": "DON!! Card (Monkey.D.Luffy) (2023 World Championship Finals) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/561656?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/561656_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "-",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-28T23:16:18+00:00",
+      "first_seen": "2026-08-28T23:16:18+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:16:18+00:00",
+          "listed_median": "-",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
       "product_id": "677559",
       "name": "DON!! Card (Nami) (Gold) - Extra Booster: One Piece Heroines Edition (EB-03-04)",
       "url": "https://www.tcgplayer.com/product/677559?Language=English",
@@ -8931,6 +14299,7 @@ const TCG_DATA = {
       "average_sale_price": 71.48,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:38:06+00:00",
+      "first_seen": "2026-08-28T16:38:06+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -8985,6 +14354,7 @@ const TCG_DATA = {
       "average_sale_price": 166.99,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:50:48+00:00",
+      "first_seen": "2026-08-27T23:50:48+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -9026,6 +14396,116 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "677560",
+      "name": "DON!! Card (Nami) - Extra Booster: One Piece Heroines Edition (EB-03-04)",
+      "url": "https://www.tcgplayer.com/product/677560?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/677560_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$3.00",
+      "average_sale_price": 2.6,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:14:42+00:00",
+      "first_seen": "2026-08-28T22:14:42+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.94"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.82"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.76"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP Foil",
+          "quantity": "2",
+          "price": "$2.49"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$1.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:14:42+00:00",
+          "listed_median": "$3.00",
+          "average_sale_price": 2.6
+        }
+      ]
+    },
+    {
+      "product_id": "655898",
+      "name": "DON!! Card (Nami) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655898?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655898_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.75",
+      "average_sale_price": 2.52,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:37:43+00:00",
+      "first_seen": "2026-08-28T22:37:43+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$6.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.20"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "8",
+          "price": "$2.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$1.41"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:37:43+00:00",
+          "listed_median": "$1.75",
+          "average_sale_price": 2.52
+        }
+      ]
+    },
+    {
       "product_id": "677569",
       "name": "DON!! Card (Nico Robin) (Gold) - Extra Booster: One Piece Heroines Edition (EB-03-04)",
       "url": "https://www.tcgplayer.com/product/677569?Language=English",
@@ -9039,6 +14519,7 @@ const TCG_DATA = {
       "average_sale_price": 69.2,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:44:23+00:00",
+      "first_seen": "2026-08-28T16:44:23+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -9080,6 +14561,55 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "677568",
+      "name": "DON!! Card (Nico Robin) - Extra Booster: One Piece Heroines Edition (EB-03-04)",
+      "url": "https://www.tcgplayer.com/product/677568?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/677568_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$3.25",
+      "average_sale_price": 3.21,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:12:37+00:00",
+      "first_seen": "2026-08-28T22:12:37+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.49"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$3.09"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$3.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.97"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:12:37+00:00",
+          "listed_median": "$3.25",
+          "average_sale_price": 3.21
+        }
+      ]
+    },
+    {
       "product_id": "586202",
       "name": "DON!! Card (Oden) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586202?Language=English",
@@ -9093,6 +14623,7 @@ const TCG_DATA = {
       "average_sale_price": 54.4,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T17:04:01+00:00",
+      "first_seen": "2026-08-28T17:04:01+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -9134,6 +14665,61 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593816",
+      "name": "DON!! Card (Oden) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593816?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593816_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.75",
+      "average_sale_price": 0.71,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:54:55+00:00",
+      "first_seen": "2026-08-28T22:54:55+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.60"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP",
+          "quantity": "10",
+          "price": "$0.46"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "6",
+          "price": "$0.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$0.50"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "10",
+          "price": "$1.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:54:55+00:00",
+          "listed_median": "$0.75",
+          "average_sale_price": 0.71
+        }
+      ]
+    },
+    {
       "product_id": "620097",
       "name": "DON!! Card (One Piece Day Dallas 2025) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/620097?Language=English",
@@ -9147,6 +14733,7 @@ const TCG_DATA = {
       "average_sale_price": 365.36,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:46:56+00:00",
+      "first_seen": "2026-08-27T23:46:56+00:00",
       "recent_sales": [
         {
           "date": "8/14/26",
@@ -9188,6 +14775,61 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "649751",
+      "name": "DON!! Card (Op-Op Fruit) (Devil Fruits Collection Vol. 3) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/649751?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649751_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$6.62",
+      "average_sale_price": 6.08,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:31:12+00:00",
+      "first_seen": "2026-08-28T19:31:12+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$4.87"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$6.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$6.49"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "DMG Foil",
+          "quantity": "1",
+          "price": "$6.25"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$6.29"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:31:12+00:00",
+          "listed_median": "$6.62",
+          "average_sale_price": 6.08
+        }
+      ]
+    },
+    {
       "product_id": "483168",
       "name": "DON!! Card (Orange) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/483168?Language=English",
@@ -9201,6 +14843,7 @@ const TCG_DATA = {
       "average_sale_price": 43.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T00:02:04+00:00",
+      "first_seen": "2026-08-28T00:02:04+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -9255,6 +14898,7 @@ const TCG_DATA = {
       "average_sale_price": 221.83,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:50:09+00:00",
+      "first_seen": "2026-08-27T23:50:09+00:00",
       "recent_sales": [
         {
           "date": "8/6/26",
@@ -9296,6 +14940,61 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593817",
+      "name": "DON!! Card (Perona) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593817?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593817_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$3.77",
+      "average_sale_price": 5.06,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:53:15+00:00",
+      "first_seen": "2026-08-28T19:53:15+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "7",
+          "price": "$3.46"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$3.82"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.53"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$11.57"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.94"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:53:15+00:00",
+          "listed_median": "$3.77",
+          "average_sale_price": 5.06
+        }
+      ]
+    },
+    {
       "product_id": "483169",
       "name": "DON!! Card (Pink) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/483169?Language=English",
@@ -9309,6 +15008,7 @@ const TCG_DATA = {
       "average_sale_price": 32.45,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:48:22+00:00",
+      "first_seen": "2026-08-28T16:48:22+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -9350,6 +15050,61 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593448",
+      "name": "DON!! Card (Portgas.D.Ace) (Devil Fruits Collection Vol. 2) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/593448?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593448_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$13.49",
+      "average_sale_price": 9.79,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T18:52:13+00:00",
+      "first_seen": "2026-08-28T18:52:13+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$11.25"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$10.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "DMG Foil",
+          "quantity": "1",
+          "price": "$7.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$10.21"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$9.50"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T18:52:13+00:00",
+          "listed_median": "$13.49",
+          "average_sale_price": 9.79
+        }
+      ]
+    },
+    {
       "product_id": "655141",
       "name": "DON!! Card (Pudding) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655141?Language=English",
@@ -9363,6 +15118,7 @@ const TCG_DATA = {
       "average_sale_price": 104.08,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:36:47+00:00",
+      "first_seen": "2026-08-28T16:36:47+00:00",
       "recent_sales": [
         {
           "date": "8/14/26",
@@ -9404,6 +15160,55 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655140",
+      "name": "DON!! Card (Pudding) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655140?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655140_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.06",
+      "average_sale_price": 2.25,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:43:59+00:00",
+      "first_seen": "2026-08-28T22:43:59+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.76"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "10",
+          "price": "$2.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP",
+          "quantity": "5",
+          "price": "$0.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:43:59+00:00",
+          "listed_median": "$1.06",
+          "average_sale_price": 2.25
+        }
+      ]
+    },
+    {
       "product_id": "482240",
       "name": "DON!! Card (Purple) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/482240?Language=English",
@@ -9417,6 +15222,7 @@ const TCG_DATA = {
       "average_sale_price": 30.96,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T17:02:44+00:00",
+      "first_seen": "2026-08-28T17:02:44+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -9471,6 +15277,7 @@ const TCG_DATA = {
       "average_sale_price": 42.4,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T17:06:38+00:00",
+      "first_seen": "2026-08-28T17:06:38+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -9512,6 +15319,61 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593818",
+      "name": "DON!! Card (Queen) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593818?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593818_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.48",
+      "average_sale_price": 1.43,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:09:32+00:00",
+      "first_seen": "2026-08-28T23:09:32+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.53"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.15"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$0.49"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$3.97"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:09:32+00:00",
+          "listed_median": "$0.48",
+          "average_sale_price": 1.43
+        }
+      ]
+    },
+    {
       "product_id": "586550",
       "name": "DON!! Card (Rebecca) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586550?Language=English",
@@ -9525,6 +15387,7 @@ const TCG_DATA = {
       "average_sale_price": 102.05,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T00:04:01+00:00",
+      "first_seen": "2026-08-28T00:04:01+00:00",
       "recent_sales": [
         {
           "date": "8/5/26",
@@ -9566,6 +15429,61 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593819",
+      "name": "DON!! Card (Rebecca) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593819?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593819_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$2.12",
+      "average_sale_price": 1.74,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:26:03+00:00",
+      "first_seen": "2026-08-28T22:26:03+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.98"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.54"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$2.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$1.54"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "LP",
+          "quantity": "2",
+          "price": "$1.65"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:26:03+00:00",
+          "listed_median": "$2.12",
+          "average_sale_price": 1.74
+        }
+      ]
+    },
+    {
       "product_id": "681870",
       "name": "DON!! Card (Red Bull Double Don!!) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/681870?Language=English",
@@ -9579,6 +15497,7 @@ const TCG_DATA = {
       "average_sale_price": 219.79,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:47:36+00:00",
+      "first_seen": "2026-08-27T23:47:36+00:00",
       "recent_sales": [
         {
           "date": "8/7/26",
@@ -9633,6 +15552,7 @@ const TCG_DATA = {
       "average_sale_price": 44.36,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:49:01+00:00",
+      "first_seen": "2026-08-28T16:49:01+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -9687,6 +15607,7 @@ const TCG_DATA = {
       "average_sale_price": 67.82,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:43:43+00:00",
+      "first_seen": "2026-08-28T16:43:43+00:00",
       "recent_sales": [
         {
           "date": "8/9/26",
@@ -9728,6 +15649,159 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593820",
+      "name": "DON!! Card (Reiju) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593820?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593820_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.62",
+      "average_sale_price": 1.16,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:43:19+00:00",
+      "first_seen": "2026-08-28T22:43:19+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$1.25"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$1.21"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.12"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:43:19+00:00",
+          "listed_median": "$1.62",
+          "average_sale_price": 1.16
+        }
+      ]
+    },
+    {
+      "product_id": "593821",
+      "name": "DON!! Card (Rob Lucci) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593821?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593821_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.70",
+      "average_sale_price": 1.11,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:01:26+00:00",
+      "first_seen": "2026-08-28T23:01:26+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.50"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.34"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.09"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.62"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:01:26+00:00",
+          "listed_median": "$0.70",
+          "average_sale_price": 1.11
+        }
+      ]
+    },
+    {
+      "product_id": "655120",
+      "name": "DON!! Card (Rob Lucci) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655120?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655120_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.50",
+      "average_sale_price": 0.48,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:07:26+00:00",
+      "first_seen": "2026-08-28T23:07:26+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.35"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.98"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.51"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.35"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.20"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:07:26+00:00",
+          "listed_median": "$0.50",
+          "average_sale_price": 0.48
+        }
+      ]
+    },
+    {
       "product_id": "655918",
       "name": "DON!! Card (Robin) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655918?Language=English",
@@ -9741,6 +15815,7 @@ const TCG_DATA = {
       "average_sale_price": 134.85,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:54:47+00:00",
+      "first_seen": "2026-08-27T23:54:47+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -9782,6 +15857,61 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655917",
+      "name": "DON!! Card (Robin) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655917?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655917_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.96",
+      "average_sale_price": 1.95,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:27:24+00:00",
+      "first_seen": "2026-08-28T22:27:24+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$2.55"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "10",
+          "price": "$3.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.50"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.30"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$1.38"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:27:24+00:00",
+          "listed_median": "$1.96",
+          "average_sale_price": 1.95
+        }
+      ]
+    },
+    {
       "product_id": "587191",
       "name": "DON!! Card (Rosinante) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/587191?Language=English",
@@ -9795,6 +15925,7 @@ const TCG_DATA = {
       "average_sale_price": 170.02,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T00:01:25+00:00",
+      "first_seen": "2026-08-28T00:01:25+00:00",
       "recent_sales": [
         {
           "date": "8/3/26",
@@ -9836,6 +15967,110 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593822",
+      "name": "DON!! Card (Rosinante) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593822?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593822_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$2.19",
+      "average_sale_price": 1.84,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:22:37+00:00",
+      "first_seen": "2026-08-28T22:22:37+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$1.60"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.44"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "10",
+          "price": "$3.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.72"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.44"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:22:37+00:00",
+          "listed_median": "$2.19",
+          "average_sale_price": 1.84
+        }
+      ]
+    },
+    {
+      "product_id": "593449",
+      "name": "DON!! Card (Sabo) (Devil Fruits Collection Vol. 2) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/593449?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593449_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$7.91",
+      "average_sale_price": 7.22,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:28:27+00:00",
+      "first_seen": "2026-08-28T19:28:27+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$5.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "8",
+          "price": "$8.19"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$7.91"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$7.50"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:28:27+00:00",
+          "listed_median": "$7.91",
+          "average_sale_price": 7.22
+        }
+      ]
+    },
+    {
       "product_id": "586884",
       "name": "DON!! Card (Sabo) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586884?Language=English",
@@ -9849,6 +16084,7 @@ const TCG_DATA = {
       "average_sale_price": 167.0,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T00:00:43+00:00",
+      "first_seen": "2026-08-28T00:00:43+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -9890,6 +16126,116 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "620148",
+      "name": "DON!! Card (Sabo) (Special DON!! Set Vol. 3) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/620148?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/620148_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$7.00",
+      "average_sale_price": 4.78,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:33:53+00:00",
+      "first_seen": "2026-08-28T19:33:53+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "10",
+          "price": "$4.16"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.33"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.88"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.80"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.75"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:33:53+00:00",
+          "listed_median": "$7.00",
+          "average_sale_price": 4.78
+        }
+      ]
+    },
+    {
+      "product_id": "593823",
+      "name": "DON!! Card (Sabo) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593823?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593823_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$3.16",
+      "average_sale_price": 2.96,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:13:18+00:00",
+      "first_seen": "2026-08-28T22:13:18+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$3.10"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$2.71"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$3.62"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$2.86"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$2.50"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:13:18+00:00",
+          "listed_median": "$3.16",
+          "average_sale_price": 2.96
+        }
+      ]
+    },
+    {
       "product_id": "586188",
       "name": "DON!! Card (Sakazuki) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586188?Language=English",
@@ -9903,6 +16249,7 @@ const TCG_DATA = {
       "average_sale_price": 86.75,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:39:24+00:00",
+      "first_seen": "2026-08-28T16:39:24+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -9938,6 +16285,61 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593824",
+      "name": "DON!! Card (Sakazuki) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593824?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593824_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.96",
+      "average_sale_price": 2.49,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:30:09+00:00",
+      "first_seen": "2026-08-28T22:30:09+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.43"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$6.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$1.75"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.79"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.49"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:30:09+00:00",
+          "listed_median": "$1.96",
+          "average_sale_price": 2.49
+        }
+      ]
+    },
+    {
       "product_id": "655915",
       "name": "DON!! Card (Sanji) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655915?Language=English",
@@ -9951,6 +16353,7 @@ const TCG_DATA = {
       "average_sale_price": 49.37,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:47:43+00:00",
+      "first_seen": "2026-08-28T16:47:43+00:00",
       "recent_sales": [
         {
           "date": "8/9/26",
@@ -9992,6 +16395,61 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655916",
+      "name": "DON!! Card (Sanji) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655916?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655916_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.89",
+      "average_sale_price": 0.91,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:47:19+00:00",
+      "first_seen": "2026-08-28T22:47:19+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.50"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$0.54"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "9",
+          "price": "$1.25"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.73"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "LP",
+          "quantity": "6",
+          "price": "$0.54"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:47:19+00:00",
+          "listed_median": "$0.89",
+          "average_sale_price": 0.91
+        }
+      ]
+    },
+    {
       "product_id": "655124",
       "name": "DON!! Card (Shanks) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655124?Language=English",
@@ -10005,6 +16463,7 @@ const TCG_DATA = {
       "average_sale_price": 177.43,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:55:26+00:00",
+      "first_seen": "2026-08-27T23:55:26+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -10046,6 +16505,336 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655122",
+      "name": "DON!! Card (Shanks) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655122?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655122_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$3.88",
+      "average_sale_price": 5.88,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:10:33+00:00",
+      "first_seen": "2026-08-28T22:10:33+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$16.48"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.50"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.49"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.91"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:10:33+00:00",
+          "listed_median": "$3.88",
+          "average_sale_price": 5.88
+        }
+      ]
+    },
+    {
+      "product_id": "576484",
+      "name": "DON!! Card (Shattered) (Double Pack Set Vol. 5) - Two Legends (OP08)",
+      "url": "https://www.tcgplayer.com/product/576484?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/576484_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$3.69",
+      "average_sale_price": 2.87,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:14:00+00:00",
+      "first_seen": "2026-08-28T22:14:00+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "5",
+          "price": "$2.90"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$3.01"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.73"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.72"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:14:00+00:00",
+          "listed_median": "$3.69",
+          "average_sale_price": 2.87
+        }
+      ]
+    },
+    {
+      "product_id": "655513",
+      "name": "DON!! Card (Shirahoshi) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655513?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655513_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.94",
+      "average_sale_price": 0.67,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:48:50+00:00",
+      "first_seen": "2026-08-28T22:48:50+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$0.55"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.74"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.62"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.87"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.58"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:48:50+00:00",
+          "listed_median": "$0.94",
+          "average_sale_price": 0.67
+        }
+      ]
+    },
+    {
+      "product_id": "576485",
+      "name": "DON!! Card (Silhouette) (Double Pack Set Vol. 5) - Two Legends (OP08)",
+      "url": "https://www.tcgplayer.com/product/576485?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/576485_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$4.35",
+      "average_sale_price": 3.96,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:51:12+00:00",
+      "first_seen": "2026-08-28T19:51:12+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "7",
+          "price": "$3.80"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "10",
+          "price": "$3.62"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3.48"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$3.88"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:51:12+00:00",
+          "listed_median": "$4.35",
+          "average_sale_price": 3.96
+        }
+      ]
+    },
+    {
+      "product_id": "530119",
+      "name": "DON!! Card (Silhouette) (Double Pack Set Volume 2) - Awakening of the New Era (OP05)",
+      "url": "https://www.tcgplayer.com/product/530119?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/530119_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$5.00",
+      "average_sale_price": 4.81,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:39:08+00:00",
+      "first_seen": "2026-08-28T19:39:08+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.72"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$4.53"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.82"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:39:08+00:00",
+          "listed_median": "$5.00",
+          "average_sale_price": 4.81
+        }
+      ]
+    },
+    {
+      "product_id": "689811",
+      "name": "DON!! Card (Sky Island Map) (Double Pack Set Vol. 10) - Adventure on Kami's Island (OP15-EB04)",
+      "url": "https://www.tcgplayer.com/product/689811?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/689811_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.40",
+      "average_sale_price": 1.16,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:42:40+00:00",
+      "first_seen": "2026-08-28T22:42:40+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.25"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.89"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "8",
+          "price": "$1.20"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.25"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.20"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:42:40+00:00",
+          "listed_median": "$1.40",
+          "average_sale_price": 1.16
+        }
+      ]
+    },
+    {
       "product_id": "655132",
       "name": "DON!! Card (Smoker) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655132?Language=English",
@@ -10059,6 +16848,7 @@ const TCG_DATA = {
       "average_sale_price": 55.69,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T17:04:41+00:00",
+      "first_seen": "2026-08-28T17:04:41+00:00",
       "recent_sales": [
         {
           "date": "8/4/26",
@@ -10113,6 +16903,7 @@ const TCG_DATA = {
       "average_sale_price": 35.98,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T17:03:22+00:00",
+      "first_seen": "2026-08-28T17:03:22+00:00",
       "recent_sales": [
         {
           "date": "8/4/26",
@@ -10154,6 +16945,61 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655515",
+      "name": "DON!! Card (Sugar) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655515?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655515_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.52",
+      "average_sale_price": 0.71,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:08:08+00:00",
+      "first_seen": "2026-08-28T23:08:08+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.78"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.58"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.45"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.24"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:08:08+00:00",
+          "listed_median": "$0.52",
+          "average_sale_price": 0.71
+        }
+      ]
+    },
+    {
       "product_id": "655126",
       "name": "DON!! Card (Teach) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655126?Language=English",
@@ -10167,6 +17013,7 @@ const TCG_DATA = {
       "average_sale_price": 147.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T00:00:04+00:00",
+      "first_seen": "2026-08-28T00:00:04+00:00",
       "recent_sales": [
         {
           "date": "7/28/26",
@@ -10208,6 +17055,61 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655128",
+      "name": "DON!! Card (Teach) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655128?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655128_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$2.00",
+      "average_sale_price": 2.06,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:25:22+00:00",
+      "first_seen": "2026-08-28T22:25:22+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.50"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.30"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.73"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.25"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3.50"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:25:22+00:00",
+          "listed_median": "$2.00",
+          "average_sale_price": 2.06
+        }
+      ]
+    },
+    {
       "product_id": "483170",
       "name": "DON!! Card (Teal) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/483170?Language=English",
@@ -10221,6 +17123,7 @@ const TCG_DATA = {
       "average_sale_price": 26.58,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:46:21+00:00",
+      "first_seen": "2026-08-28T16:46:21+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -10262,6 +17165,228 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "624673",
+      "name": "DON!! Card (Tin Pack Set Vol. 1 -Gol.D.Roger-) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/624673?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/624673_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$2.34",
+      "average_sale_price": 2.08,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:26:44+00:00",
+      "first_seen": "2026-08-28T22:26:44+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$2.10"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.50"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "6",
+          "price": "$2.22"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$1.82"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.78"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:26:44+00:00",
+          "listed_median": "$2.34",
+          "average_sale_price": 2.08
+        }
+      ]
+    },
+    {
+      "product_id": "624674",
+      "name": "DON!! Card (Tin Pack Set Vol. 1 -Monkey.D.Luffy-) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/624674?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/624674_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$4.24",
+      "average_sale_price": 3.64,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:53:57+00:00",
+      "first_seen": "2026-08-28T19:53:57+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3.50"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3.48"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "10",
+          "price": "$4.24"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$3.96"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "DMG Foil",
+          "quantity": "1",
+          "price": "$3.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:53:57+00:00",
+          "listed_median": "$4.24",
+          "average_sale_price": 3.64
+        }
+      ]
+    },
+    {
+      "product_id": "483145",
+      "name": "DON!! Card (Tournament Pack Vol. 2) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/483145?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/483145_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$3.63",
+      "average_sale_price": 3.71,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:51:52+00:00",
+      "first_seen": "2026-08-28T19:51:52+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "10",
+          "price": "$2.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "10",
+          "price": "$3.30"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.30"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.00"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM",
+          "quantity": "6",
+          "price": "$5.98"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:51:52+00:00",
+          "listed_median": "$3.63",
+          "average_sale_price": 3.71
+        }
+      ]
+    },
+    {
+      "product_id": "483146",
+      "name": "DON!! Card (Tournament Pack Vol. 2) [Winner] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/483146?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/483146_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Color": "Red",
+        "Card Type": "DON!!",
+        "Subtype(s)": "Whitebeard Pirates"
+      },
+      "listed_median": "$23.51",
+      "average_sale_price": 14.34,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T18:50:15+00:00",
+      "first_seen": "2026-08-28T18:50:15+00:00",
+      "recent_sales": [
+        {
+          "date": "8/1/26",
+          "condition": "LP",
+          "quantity": "5",
+          "price": "$12.37"
+        },
+        {
+          "date": "8/1/26",
+          "condition": "LP",
+          "quantity": "3",
+          "price": "$11.95"
+        },
+        {
+          "date": "8/1/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$12.38"
+        },
+        {
+          "date": "8/1/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$12.35"
+        },
+        {
+          "date": "7/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$22.66"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T18:50:15+00:00",
+          "listed_median": "$23.51",
+          "average_sale_price": 14.34
+        }
+      ]
+    },
+    {
       "product_id": "586723",
       "name": "DON!! Card (Trafalgar Law) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586723?Language=English",
@@ -10275,6 +17400,7 @@ const TCG_DATA = {
       "average_sale_price": 297.97,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:46:16+00:00",
+      "first_seen": "2026-08-27T23:46:16+00:00",
       "recent_sales": [
         {
           "date": "8/23/26",
@@ -10310,6 +17436,116 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593825",
+      "name": "DON!! Card (Trafalgar Law) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593825?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593825_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$4.75",
+      "average_sale_price": 7.62,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:48:33+00:00",
+      "first_seen": "2026-08-28T19:48:33+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.20"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.19"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$14.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$13.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.71"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:48:33+00:00",
+          "listed_median": "$4.75",
+          "average_sale_price": 7.62
+        }
+      ]
+    },
+    {
+      "product_id": "557080",
+      "name": "DON!! Card (Trafalgar Law, Eustass Kid and Monkey.D.Luffy) (Double Pack Set Vol. 4) - 500 Years in the Future (OP07)",
+      "url": "https://www.tcgplayer.com/product/557080?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/557080_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$5.94",
+      "average_sale_price": 4.77,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:38:29+00:00",
+      "first_seen": "2026-08-28T19:38:29+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$5.15"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$3.49"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$5.24"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:38:29+00:00",
+          "listed_median": "$5.94",
+          "average_sale_price": 4.77
+        }
+      ]
+    },
+    {
       "product_id": "655911",
       "name": "DON!! Card (Usopp) (Gold) - Premium Booster -The Best- Vol. 2 (PRB-02)",
       "url": "https://www.tcgplayer.com/product/655911?Language=English",
@@ -10323,6 +17559,7 @@ const TCG_DATA = {
       "average_sale_price": 65.68,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:38:45+00:00",
+      "first_seen": "2026-08-28T16:38:45+00:00",
       "recent_sales": [
         {
           "date": "8/9/26",
@@ -10364,6 +17601,226 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "655912",
+      "name": "DON!! Card (Usopp) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655912?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655912_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.00",
+      "average_sale_price": 1.78,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:45:57+00:00",
+      "first_seen": "2026-08-28T22:45:57+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2.40"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.50"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.04"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$0.96"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:45:57+00:00",
+          "listed_median": "$1.00",
+          "average_sale_price": 1.78
+        }
+      ]
+    },
+    {
+      "product_id": "677566",
+      "name": "DON!! Card (Uta) - Extra Booster: One Piece Heroines Edition (EB-03-04)",
+      "url": "https://www.tcgplayer.com/product/677566?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/677566_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.49",
+      "average_sale_price": 1.49,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:41:05+00:00",
+      "first_seen": "2026-08-28T22:41:05+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$1.37"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$2.49"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP Foil",
+          "quantity": "2",
+          "price": "$1.36"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$1.25"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "DMG",
+          "quantity": "1",
+          "price": "$1.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:41:05+00:00",
+          "listed_median": "$1.49",
+          "average_sale_price": 1.49
+        }
+      ]
+    },
+    {
+      "product_id": "593826",
+      "name": "DON!! Card (Uta) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593826?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593826_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$2.41",
+      "average_sale_price": 2.89,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:21:14+00:00",
+      "first_seen": "2026-08-28T22:21:14+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$1.64"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.69"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.20"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$7.30"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.64"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:21:14+00:00",
+          "listed_median": "$2.41",
+          "average_sale_price": 2.89
+        }
+      ]
+    },
+    {
+      "product_id": "655480",
+      "name": "DON!! Card (Vegapunk) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655480?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655480_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.67",
+      "average_sale_price": 0.84,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:53:33+00:00",
+      "first_seen": "2026-08-28T22:53:33+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.79"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.55"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1.91"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.51"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$0.45"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:53:33+00:00",
+          "listed_median": "$0.67",
+          "average_sale_price": 0.84
+        }
+      ]
+    },
+    {
       "product_id": "586554",
       "name": "DON!! Card (Vivi) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586554?Language=English",
@@ -10377,6 +17834,7 @@ const TCG_DATA = {
       "average_sale_price": 121.79,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:54:06+00:00",
+      "first_seen": "2026-08-27T23:54:06+00:00",
       "recent_sales": [
         {
           "date": "8/4/26",
@@ -10418,6 +17876,61 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593827",
+      "name": "DON!! Card (Vivi) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593827?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593827_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$3.29",
+      "average_sale_price": 4.2,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:11:15+00:00",
+      "first_seen": "2026-08-28T22:11:15+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.75"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$8.75"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "5",
+          "price": "$3.25"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "6",
+          "price": "$3.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "5",
+          "price": "$3.25"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:11:15+00:00",
+          "listed_median": "$3.29",
+          "average_sale_price": 4.2
+        }
+      ]
+    },
+    {
       "product_id": "587955",
       "name": "DON!! Card (Whitebeard) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/587955?Language=English",
@@ -10431,6 +17944,7 @@ const TCG_DATA = {
       "average_sale_price": 68.78,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-28T16:41:22+00:00",
+      "first_seen": "2026-08-28T16:41:22+00:00",
       "recent_sales": [
         {
           "date": "8/12/26",
@@ -10472,6 +17986,61 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593828",
+      "name": "DON!! Card (Whitebeard) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593828?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593828_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$1.00",
+      "average_sale_price": 2.17,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:46:37+00:00",
+      "first_seen": "2026-08-28T22:46:37+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.49"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.60"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.60"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.49"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$0.66"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:46:37+00:00",
+          "listed_median": "$1.00",
+          "average_sale_price": 2.17
+        }
+      ]
+    },
+    {
       "product_id": "712745",
       "name": "DON!! Card (World United) (Luffy) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/712745?Language=English",
@@ -10485,6 +18054,7 @@ const TCG_DATA = {
       "average_sale_price": 18.17,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T17:38:23+00:00",
+      "first_seen": "2026-08-26T17:38:23+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -10539,6 +18109,7 @@ const TCG_DATA = {
       "average_sale_price": 18.2,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T17:39:09+00:00",
+      "first_seen": "2026-08-26T17:39:09+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -10593,6 +18164,7 @@ const TCG_DATA = {
       "average_sale_price": 106.27,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:58:02+00:00",
+      "first_seen": "2026-08-27T23:58:02+00:00",
       "recent_sales": [
         {
           "date": "8/7/26",
@@ -10647,6 +18219,7 @@ const TCG_DATA = {
       "average_sale_price": 190.0,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:52:09+00:00",
+      "first_seen": "2026-08-27T23:52:09+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -10688,6 +18261,222 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593829",
+      "name": "DON!! Card (Yamato) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593829?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593829_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$5.38",
+      "average_sale_price": 6.43,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:37:04+00:00",
+      "first_seen": "2026-08-28T19:37:04+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$15.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$3.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$4.65"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$4.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$3.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:37:04+00:00",
+          "listed_median": "$5.38",
+          "average_sale_price": 6.43
+        }
+      ]
+    },
+    {
+      "product_id": "655136",
+      "name": "DON!! Card (Yamato) - Premium Booster -The Best- Vol. 2 (PRB-02)",
+      "url": "https://www.tcgplayer.com/product/655136?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655136_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$4.00",
+      "average_sale_price": 2.83,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T22:17:43+00:00",
+      "first_seen": "2026-08-28T22:17:43+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$3.48"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$2.49"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.19"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T22:17:43+00:00",
+          "listed_median": "$4.00",
+          "average_sale_price": 2.83
+        }
+      ]
+    },
+    {
+      "product_id": "482238",
+      "name": "DON!! Card (Yellow) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/482238?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/482238_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Color": "Green",
+        "Card Type": "DON!!",
+        "Subtype(s)": "Barto Club Pirates Supernovas"
+      },
+      "listed_median": "$18.70",
+      "average_sale_price": 13.46,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T18:49:36+00:00",
+      "first_seen": "2026-08-28T18:49:36+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$18.86"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$7.20"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$16.36"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$7.20"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$17.69"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T18:49:36+00:00",
+          "listed_median": "$18.70",
+          "average_sale_price": 13.46
+        }
+      ]
+    },
+    {
+      "product_id": "525668",
+      "name": "DON!! Card (Young Luffy) (Devil Fruits Collection Vol. 1) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/525668?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/525668_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$9.81",
+      "average_sale_price": 8.3,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:01:51+00:00",
+      "first_seen": "2026-08-28T19:01:51+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$8.48"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$7.44"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$8.25"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$8.65"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$8.70"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:01:51+00:00",
+          "listed_median": "$9.81",
+          "average_sale_price": 8.3
+        }
+      ]
+    },
+    {
       "product_id": "587192",
       "name": "DON!! Card (Zoro) (Gold) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/587192?Language=English",
@@ -10701,6 +18490,7 @@ const TCG_DATA = {
       "average_sale_price": 765.79,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:45:36+00:00",
+      "first_seen": "2026-08-27T23:45:36+00:00",
       "recent_sales": [
         {
           "date": "7/8/26",
@@ -10742,6 +18532,171 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "593830",
+      "name": "DON!! Card (Zoro) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/593830?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593830_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$5.43",
+      "average_sale_price": 10.13,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:37:47+00:00",
+      "first_seen": "2026-08-28T19:37:47+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$29.97"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$5.75"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$5.29"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$4.81"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$4.83"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:37:47+00:00",
+          "listed_median": "$5.43",
+          "average_sale_price": 10.13
+        }
+      ]
+    },
+    {
+      "product_id": "434340",
+      "name": "DON!! Card - Super Pre-Release Starter Deck 1: Straw Hat Crew (ST-01 PRE)",
+      "url": "https://www.tcgplayer.com/product/434340?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/434340_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$3.82",
+      "average_sale_price": 2.46,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T19:49:14+00:00",
+      "first_seen": "2026-08-28T19:49:14+00:00",
+      "recent_sales": [
+        {
+          "date": "8/21/26",
+          "condition": "LP",
+          "quantity": "6",
+          "price": "$1.74"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "LP",
+          "quantity": "5",
+          "price": "$1.74"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.48"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$1.90"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$4.46"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T19:49:14+00:00",
+          "listed_median": "$3.82",
+          "average_sale_price": 2.46
+        }
+      ]
+    },
+    {
+      "product_id": "527633",
+      "name": "DON!! Card - Ultra Deck: The Three Captains (ST-10)",
+      "url": "https://www.tcgplayer.com/product/527633?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/527633_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "DON!!",
+        "Card Type": "DON!!"
+      },
+      "listed_median": "$0.75",
+      "average_sale_price": 0.39,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:08:50+00:00",
+      "first_seen": "2026-08-28T23:08:50+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "9",
+          "price": "$0.39"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$0.34"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "19",
+          "price": "$0.39"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$0.34"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "MP Foil",
+          "quantity": "8",
+          "price": "$0.50"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:08:50+00:00",
+          "listed_median": "$0.75",
+          "average_sale_price": 0.39
+        }
+      ]
+    },
+    {
       "product_id": "696092",
       "name": "Doc Q - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696092?Language=English",
@@ -10762,6 +18717,7 @@ const TCG_DATA = {
       "average_sale_price": 0.09,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:25:12+00:00",
+      "first_seen": "2026-08-25T21:58:25+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -10821,6 +18777,7 @@ const TCG_DATA = {
       "average_sale_price": 0.13,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:41:06+00:00",
+      "first_seen": "2026-08-26T19:41:06+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -10873,6 +18830,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T20:06:09+00:00",
+      "first_seen": "2026-08-26T20:06:09+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -10921,6 +18879,7 @@ const TCG_DATA = {
       "average_sale_price": 50.79,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:35:55+00:00",
+      "first_seen": "2026-08-26T23:35:55+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -10981,6 +18940,7 @@ const TCG_DATA = {
       "average_sale_price": 0.17,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:47:22+00:00",
+      "first_seen": "2026-08-27T22:47:22+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -11042,6 +19002,7 @@ const TCG_DATA = {
       "average_sale_price": 0.05,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:00:36+00:00",
+      "first_seen": "2026-08-25T20:00:36+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -11102,6 +19063,7 @@ const TCG_DATA = {
       "average_sale_price": 230.07,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:09:59+00:00",
+      "first_seen": "2026-08-26T23:09:59+00:00",
       "recent_sales": [
         {
           "date": "8/8/26",
@@ -11156,6 +19118,7 @@ const TCG_DATA = {
       "average_sale_price": 0.43,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:21:33+00:00",
+      "first_seen": "2026-08-27T22:21:33+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -11216,6 +19179,7 @@ const TCG_DATA = {
       "average_sale_price": 0.09,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:24:49+00:00",
+      "first_seen": "2026-08-25T20:24:49+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -11276,6 +19240,7 @@ const TCG_DATA = {
       "average_sale_price": 1.67,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:59:47+00:00",
+      "first_seen": "2026-08-27T20:02:16+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -11359,6 +19324,7 @@ const TCG_DATA = {
       "average_sale_price": 23.33,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:01:33+00:00",
+      "first_seen": "2026-08-27T19:01:33+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -11419,6 +19385,7 @@ const TCG_DATA = {
       "average_sale_price": 0.19,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:57:48+00:00",
+      "first_seen": "2026-08-27T22:57:48+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -11479,6 +19446,7 @@ const TCG_DATA = {
       "average_sale_price": 19.39,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:09:45+00:00",
+      "first_seen": "2026-08-27T19:09:45+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -11539,6 +19507,7 @@ const TCG_DATA = {
       "average_sale_price": 0.17,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:38:38+00:00",
+      "first_seen": "2026-08-27T22:38:38+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -11599,6 +19568,7 @@ const TCG_DATA = {
       "average_sale_price": 35.39,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:55:45+00:00",
+      "first_seen": "2026-08-26T23:55:45+00:00",
       "recent_sales": [
         {
           "date": "8/23/26",
@@ -11659,6 +19629,7 @@ const TCG_DATA = {
       "average_sale_price": 0.12,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:06:02+00:00",
+      "first_seen": "2026-08-27T23:06:02+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -11707,6 +19678,7 @@ const TCG_DATA = {
       "average_sale_price": 776.0,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:12:03+00:00",
+      "first_seen": "2026-08-26T19:12:03+00:00",
       "recent_sales": [
         {
           "date": "7/14/26",
@@ -11768,6 +19740,7 @@ const TCG_DATA = {
       "average_sale_price": 0.11,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:25:27+00:00",
+      "first_seen": "2026-08-25T20:25:27+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -11829,6 +19802,7 @@ const TCG_DATA = {
       "average_sale_price": 0.57,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:53:18+00:00",
+      "first_seen": "2026-08-26T19:53:18+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -11889,6 +19863,7 @@ const TCG_DATA = {
       "average_sale_price": 98.67,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:27:08+00:00",
+      "first_seen": "2026-08-26T23:27:08+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -11943,6 +19918,7 @@ const TCG_DATA = {
       "average_sale_price": 66.71,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:39:15+00:00",
+      "first_seen": "2026-08-26T23:39:15+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -12003,6 +19979,7 @@ const TCG_DATA = {
       "average_sale_price": 0.24,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:33:48+00:00",
+      "first_seen": "2026-08-27T22:33:48+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -12063,6 +20040,7 @@ const TCG_DATA = {
       "average_sale_price": 0.03,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:34:26+00:00",
+      "first_seen": "2026-08-25T20:34:26+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -12115,6 +20093,7 @@ const TCG_DATA = {
       "average_sale_price": 1799.0,
       "recent_sales_count": 1,
       "last_scraped": "2026-08-26T18:20:10+00:00",
+      "first_seen": "2026-08-26T18:20:10+00:00",
       "recent_sales": [
         {
           "date": "6/12/26",
@@ -12149,6 +20128,7 @@ const TCG_DATA = {
       "average_sale_price": 858.33,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T18:32:30+00:00",
+      "first_seen": "2026-08-26T18:32:30+00:00",
       "recent_sales": [
         {
           "date": "6/21/26",
@@ -12195,6 +20175,7 @@ const TCG_DATA = {
       "average_sale_price": 0.13,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:52:02+00:00",
+      "first_seen": "2026-08-26T19:52:02+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -12243,6 +20224,7 @@ const TCG_DATA = {
       "average_sale_price": 100.41,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:25:50+00:00",
+      "first_seen": "2026-08-26T23:25:50+00:00",
       "recent_sales": [
         {
           "date": "8/9/26",
@@ -12303,6 +20285,7 @@ const TCG_DATA = {
       "average_sale_price": 64.65,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T20:25:39+00:00",
+      "first_seen": "2026-08-26T20:25:39+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -12351,6 +20334,7 @@ const TCG_DATA = {
       "average_sale_price": 0.34,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:22:16+00:00",
+      "first_seen": "2026-08-27T22:22:16+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -12411,6 +20395,7 @@ const TCG_DATA = {
       "average_sale_price": 0.37,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:13:25+00:00",
+      "first_seen": "2026-08-26T22:00:53+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -12494,6 +20479,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:19:30+00:00",
+      "first_seen": "2026-08-26T22:19:30+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -12542,6 +20528,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:15:01+00:00",
+      "first_seen": "2026-08-26T22:15:01+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -12590,6 +20577,7 @@ const TCG_DATA = {
       "average_sale_price": 5.4,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:49:50+00:00",
+      "first_seen": "2026-08-26T21:49:50+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -12650,6 +20638,7 @@ const TCG_DATA = {
       "average_sale_price": 161.29,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T20:16:21+00:00",
+      "first_seen": "2026-08-26T20:16:21+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -12698,6 +20687,7 @@ const TCG_DATA = {
       "average_sale_price": 29.96,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:40:57+00:00",
+      "first_seen": "2026-08-25T23:40:57+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -12758,6 +20748,7 @@ const TCG_DATA = {
       "average_sale_price": 1.08,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:05:21+00:00",
+      "first_seen": "2026-08-27T22:05:21+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -12818,6 +20809,7 @@ const TCG_DATA = {
       "average_sale_price": 32.82,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:51:32+00:00",
+      "first_seen": "2026-08-26T23:51:32+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -12878,6 +20870,7 @@ const TCG_DATA = {
       "average_sale_price": 2.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:40:14+00:00",
+      "first_seen": "2026-08-25T23:40:14+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -12939,6 +20932,7 @@ const TCG_DATA = {
       "average_sale_price": 4.09,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:25:39+00:00",
+      "first_seen": "2026-08-25T19:25:39+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -13000,6 +20994,7 @@ const TCG_DATA = {
       "average_sale_price": 0.2,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:24:59+00:00",
+      "first_seen": "2026-08-25T19:24:59+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -13055,6 +21050,7 @@ const TCG_DATA = {
       "average_sale_price": 0.06,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:58:42+00:00",
+      "first_seen": "2026-08-25T19:58:42+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -13115,6 +21111,7 @@ const TCG_DATA = {
       "average_sale_price": 40.38,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:54:23+00:00",
+      "first_seen": "2026-08-26T23:54:23+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -13175,6 +21172,7 @@ const TCG_DATA = {
       "average_sale_price": 0.24,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:40:38+00:00",
+      "first_seen": "2026-08-27T22:40:38+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -13229,6 +21227,7 @@ const TCG_DATA = {
       "average_sale_price": 34.2,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:57:06+00:00",
+      "first_seen": "2026-08-26T23:57:06+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -13289,6 +21288,7 @@ const TCG_DATA = {
       "average_sale_price": 0.23,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:43:17+00:00",
+      "first_seen": "2026-08-27T22:43:17+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -13349,6 +21349,7 @@ const TCG_DATA = {
       "average_sale_price": 28.2,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:26:22+00:00",
+      "first_seen": "2026-08-27T00:10:38+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -13414,6 +21415,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:28:24+00:00",
+      "first_seen": "2026-08-27T23:28:24+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -13462,6 +21464,7 @@ const TCG_DATA = {
       "average_sale_price": 689.19,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:13:58+00:00",
+      "first_seen": "2026-08-26T19:13:58+00:00",
       "recent_sales": [
         {
           "date": "7/15/26",
@@ -13522,6 +21525,7 @@ const TCG_DATA = {
       "average_sale_price": 9.21,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:31:24+00:00",
+      "first_seen": "2026-08-27T19:35:32+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -13587,6 +21591,7 @@ const TCG_DATA = {
       "average_sale_price": 2.68,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:54:23+00:00",
+      "first_seen": "2026-08-27T19:56:56+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -13658,6 +21663,7 @@ const TCG_DATA = {
       "average_sale_price": 82.22,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:37:14+00:00",
+      "first_seen": "2026-08-26T23:37:14+00:00",
       "recent_sales": [
         {
           "date": "8/8/26",
@@ -13718,6 +21724,7 @@ const TCG_DATA = {
       "average_sale_price": 1.99,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:57:05+00:00",
+      "first_seen": "2026-08-27T19:59:40+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -13800,6 +21807,7 @@ const TCG_DATA = {
       "average_sale_price": 37.23,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:56:25+00:00",
+      "first_seen": "2026-08-26T23:56:25+00:00",
       "recent_sales": [
         {
           "date": "8/23/26",
@@ -13859,6 +21867,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:24:10+00:00",
+      "first_seen": "2026-08-27T23:24:10+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -13919,6 +21928,7 @@ const TCG_DATA = {
       "average_sale_price": 0.9,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:10:04+00:00",
+      "first_seen": "2026-08-27T22:10:04+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -13979,6 +21989,7 @@ const TCG_DATA = {
       "average_sale_price": 11.64,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:15:17+00:00",
+      "first_seen": "2026-08-27T19:19:14+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -14038,6 +22049,7 @@ const TCG_DATA = {
       "average_sale_price": 0.15,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T19:25:04+00:00",
+      "first_seen": "2026-08-26T19:25:04+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -14086,6 +22098,7 @@ const TCG_DATA = {
       "average_sale_price": 29.64,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:28:24+00:00",
+      "first_seen": "2026-08-27T00:12:40+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -14151,6 +22164,7 @@ const TCG_DATA = {
       "average_sale_price": 0.13,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:16:49+00:00",
+      "first_seen": "2026-08-27T23:16:49+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -14205,6 +22219,7 @@ const TCG_DATA = {
       "average_sale_price": 760.99,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:05:24+00:00",
+      "first_seen": "2026-08-26T23:05:24+00:00",
       "recent_sales": [
         {
           "date": "7/23/26",
@@ -14265,6 +22280,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-27T23:33:44+00:00",
+      "first_seen": "2026-08-27T23:33:44+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -14314,6 +22330,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:55:53+00:00",
+      "first_seen": "2026-08-26T19:55:53+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -14369,6 +22386,7 @@ const TCG_DATA = {
       "average_sale_price": 0.21,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:31:30+00:00",
+      "first_seen": "2026-08-26T19:31:30+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -14421,6 +22439,7 @@ const TCG_DATA = {
       "average_sale_price": 0.49,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:06:47+00:00",
+      "first_seen": "2026-08-26T20:06:47+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -14479,6 +22498,7 @@ const TCG_DATA = {
       "average_sale_price": 0.62,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:39:24+00:00",
+      "first_seen": "2026-08-26T22:39:24+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -14537,6 +22557,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:40:02+00:00",
+      "first_seen": "2026-08-26T22:40:02+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -14583,6 +22604,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:27:38+00:00",
+      "first_seen": "2026-08-26T19:27:38+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -14631,6 +22653,7 @@ const TCG_DATA = {
       "average_sale_price": 0.31,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:36:37+00:00",
+      "first_seen": "2026-08-26T19:36:37+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -14691,6 +22714,7 @@ const TCG_DATA = {
       "average_sale_price": 11.51,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:27:20+00:00",
+      "first_seen": "2026-08-27T19:31:29+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -14756,6 +22780,7 @@ const TCG_DATA = {
       "average_sale_price": 0.19,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:59:50+00:00",
+      "first_seen": "2026-08-27T22:59:50+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -14816,6 +22841,7 @@ const TCG_DATA = {
       "average_sale_price": 105.29,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:04:46+00:00",
+      "first_seen": "2026-08-26T23:04:46+00:00",
       "recent_sales": [
         {
           "date": "6/7/26",
@@ -14876,6 +22902,7 @@ const TCG_DATA = {
       "average_sale_price": 14.19,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:23:22+00:00",
+      "first_seen": "2026-08-27T19:27:25+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -14935,6 +22962,7 @@ const TCG_DATA = {
       "average_sale_price": 0.14,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:26:15+00:00",
+      "first_seen": "2026-08-27T23:26:15+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -14996,6 +23024,7 @@ const TCG_DATA = {
       "average_sale_price": 0.04,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:21:57+00:00",
+      "first_seen": "2026-08-25T21:55:08+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -15062,6 +23091,7 @@ const TCG_DATA = {
       "average_sale_price": 0.81,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:09:15+00:00",
+      "first_seen": "2026-08-26T19:52:40+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -15139,6 +23169,7 @@ const TCG_DATA = {
       "average_sale_price": 46.98,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:29:29+00:00",
+      "first_seen": "2026-08-26T20:29:29+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -15199,6 +23230,7 @@ const TCG_DATA = {
       "average_sale_price": 3.44,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:51:07+00:00",
+      "first_seen": "2026-08-26T21:51:07+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -15259,6 +23291,7 @@ const TCG_DATA = {
       "average_sale_price": 23.15,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:02:56+00:00",
+      "first_seen": "2026-08-27T19:02:56+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -15319,6 +23352,7 @@ const TCG_DATA = {
       "average_sale_price": 0.18,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:20:53+00:00",
+      "first_seen": "2026-08-27T23:20:53+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -15379,6 +23413,7 @@ const TCG_DATA = {
       "average_sale_price": 0.5,
       "recent_sales_count": 1,
       "last_scraped": "2026-08-27T22:16:03+00:00",
+      "first_seen": "2026-08-27T22:16:03+00:00",
       "recent_sales": [
         {
           "date": "7/26/26",
@@ -15415,6 +23450,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:13:44+00:00",
+      "first_seen": "2026-08-26T22:13:44+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -15461,6 +23497,7 @@ const TCG_DATA = {
       "average_sale_price": 0.08,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:55:21+00:00",
+      "first_seen": "2026-08-25T19:55:21+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -15519,6 +23556,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:59:44+00:00",
+      "first_seen": "2026-08-26T19:59:44+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -15565,6 +23603,7 @@ const TCG_DATA = {
       "average_sale_price": 0.05,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:54:42+00:00",
+      "first_seen": "2026-08-25T19:54:42+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -15626,6 +23665,7 @@ const TCG_DATA = {
       "average_sale_price": 2.52,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:50:28+00:00",
+      "first_seen": "2026-08-26T19:55:14+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -15692,6 +23732,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:54:36+00:00",
+      "first_seen": "2026-08-26T19:54:36+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -15732,6 +23773,7 @@ const TCG_DATA = {
       "average_sale_price": 0.06,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:18:44+00:00",
+      "first_seen": "2026-08-25T21:51:50+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -15797,6 +23839,7 @@ const TCG_DATA = {
       "average_sale_price": 24.52,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:22:52+00:00",
+      "first_seen": "2026-08-27T00:07:05+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -15862,6 +23905,7 @@ const TCG_DATA = {
       "average_sale_price": 254.38,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:08:02+00:00",
+      "first_seen": "2026-08-26T23:08:02+00:00",
       "recent_sales": [
         {
           "date": "6/25/26",
@@ -15916,6 +23960,7 @@ const TCG_DATA = {
       "average_sale_price": 0.17,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:03:13+00:00",
+      "first_seen": "2026-08-27T23:03:13+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -15977,6 +24022,7 @@ const TCG_DATA = {
       "average_sale_price": 0.02,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:26:44+00:00",
+      "first_seen": "2026-08-25T20:26:44+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -16038,6 +24084,7 @@ const TCG_DATA = {
       "average_sale_price": 0.44,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:24:25+00:00",
+      "first_seen": "2026-08-26T19:24:25+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -16086,6 +24133,7 @@ const TCG_DATA = {
       "average_sale_price": 8.57,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:32:43+00:00",
+      "first_seen": "2026-08-27T19:36:51+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -16151,6 +24199,7 @@ const TCG_DATA = {
       "average_sale_price": 0.15,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:18:12+00:00",
+      "first_seen": "2026-08-27T23:18:12+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -16211,6 +24260,7 @@ const TCG_DATA = {
       "average_sale_price": 383.99,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:08:41+00:00",
+      "first_seen": "2026-08-26T23:08:41+00:00",
       "recent_sales": [
         {
           "date": "6/15/26",
@@ -16272,6 +24322,7 @@ const TCG_DATA = {
       "average_sale_price": 0.68,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:32:19+00:00",
+      "first_seen": "2026-08-26T22:07:19+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -16332,6 +24383,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:34:54+00:00",
+      "first_seen": "2026-08-26T22:34:54+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -16387,6 +24439,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:35:32+00:00",
+      "first_seen": "2026-08-26T22:35:32+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -16433,6 +24486,7 @@ const TCG_DATA = {
       "average_sale_price": 0.76,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:28:55+00:00",
+      "first_seen": "2026-08-26T19:28:55+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -16491,6 +24545,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:34:42+00:00",
+      "first_seen": "2026-08-26T19:34:42+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -16543,6 +24598,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:59:06+00:00",
+      "first_seen": "2026-08-26T19:59:06+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -16595,6 +24651,7 @@ const TCG_DATA = {
       "average_sale_price": 0.81,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:58:27+00:00",
+      "first_seen": "2026-08-26T19:58:27+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -16647,6 +24704,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:01:31+00:00",
+      "first_seen": "2026-08-26T23:01:31+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -16705,6 +24763,7 @@ const TCG_DATA = {
       "average_sale_price": 0.47,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:18:06+00:00",
+      "first_seen": "2026-08-25T21:51:12+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -16769,6 +24828,7 @@ const TCG_DATA = {
       "average_sale_price": 31.02,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:22:09+00:00",
+      "first_seen": "2026-08-27T00:06:23+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -16834,6 +24894,7 @@ const TCG_DATA = {
       "average_sale_price": 0.19,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:53:46+00:00",
+      "first_seen": "2026-08-27T22:53:46+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -16891,6 +24952,7 @@ const TCG_DATA = {
       "average_sale_price": 0.19,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:11:56+00:00",
+      "first_seen": "2026-08-25T23:11:56+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -16949,6 +25011,7 @@ const TCG_DATA = {
       "average_sale_price": 21.68,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:03:35+00:00",
+      "first_seen": "2026-08-27T19:03:35+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -17001,6 +25064,7 @@ const TCG_DATA = {
       "average_sale_price": 0.19,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:11:55+00:00",
+      "first_seen": "2026-08-27T23:11:55+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -17056,6 +25120,7 @@ const TCG_DATA = {
       "average_sale_price": 0.04,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:23:41+00:00",
+      "first_seen": "2026-08-25T19:23:41+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -17117,6 +25182,7 @@ const TCG_DATA = {
       "average_sale_price": 0.24,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:55:46+00:00",
+      "first_seen": "2026-08-26T22:55:46+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -17172,6 +25238,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:56:24+00:00",
+      "first_seen": "2026-08-26T22:56:24+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -17220,6 +25287,7 @@ const TCG_DATA = {
       "average_sale_price": 18.5,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:13:58+00:00",
+      "first_seen": "2026-08-27T19:17:55+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -17285,6 +25353,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:18:54+00:00",
+      "first_seen": "2026-08-27T23:18:54+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -17340,6 +25409,7 @@ const TCG_DATA = {
       "average_sale_price": 0.06,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:01:19+00:00",
+      "first_seen": "2026-08-25T23:01:19+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -17400,6 +25470,7 @@ const TCG_DATA = {
       "average_sale_price": 0.59,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:31:40+00:00",
+      "first_seen": "2026-08-26T22:31:40+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -17460,6 +25531,7 @@ const TCG_DATA = {
       "average_sale_price": 0.42,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:47:33+00:00",
+      "first_seen": "2026-08-26T19:47:33+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -17520,6 +25592,7 @@ const TCG_DATA = {
       "average_sale_price": 1.29,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:02:10+00:00",
+      "first_seen": "2026-08-26T22:02:10+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -17580,6 +25653,7 @@ const TCG_DATA = {
       "average_sale_price": 0.04,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:23:14+00:00",
+      "first_seen": "2026-08-25T21:56:25+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -17639,6 +25713,7 @@ const TCG_DATA = {
       "average_sale_price": 41.28,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:52:59+00:00",
+      "first_seen": "2026-08-26T23:52:59+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -17699,6 +25774,7 @@ const TCG_DATA = {
       "average_sale_price": 0.17,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:48:01+00:00",
+      "first_seen": "2026-08-27T22:48:01+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -17759,6 +25835,7 @@ const TCG_DATA = {
       "average_sale_price": 13.29,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:24:04+00:00",
+      "first_seen": "2026-08-27T19:28:08+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -17842,6 +25919,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:02:32+00:00",
+      "first_seen": "2026-08-27T23:02:32+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -17883,6 +25961,68 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "658338",
+      "name": "Jewelry Bonney (CS 25-26 Regionals Textured Chase Promo) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/658338?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/658338_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-085",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Bonney Pirates Supernovas",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$189.99",
+      "average_sale_price": 201.97,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:53:18+00:00",
+      "first_seen": "2026-08-28T23:53:18+00:00",
+      "recent_sales": [
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$219.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$199.99"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$199.90"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$194.99"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$194.98"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:53:18+00:00",
+          "listed_median": "$189.99",
+          "average_sale_price": 201.97
+        }
+      ]
+    },
+    {
       "product_id": "685296",
       "name": "Jewelry Bonney (EB04-001) (Alternate Art) - Adventure on Kami's Island (OP15-EB04)",
       "url": "https://www.tcgplayer.com/product/685296?Language=English",
@@ -17902,6 +26042,7 @@ const TCG_DATA = {
       "average_sale_price": 38.65,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:55:03+00:00",
+      "first_seen": "2026-08-26T23:55:03+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -17956,6 +26097,7 @@ const TCG_DATA = {
       "average_sale_price": 0.15,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:48:41+00:00",
+      "first_seen": "2026-08-27T22:48:41+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -18016,6 +26158,7 @@ const TCG_DATA = {
       "average_sale_price": 1.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:06:42+00:00",
+      "first_seen": "2026-08-27T22:06:42+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -18076,7 +26219,8 @@ const TCG_DATA = {
       "listed_median": "-",
       "average_sale_price": 1499.99,
       "recent_sales_count": 1,
-      "last_scraped": "2026-08-26T18:25:20+00:00",
+      "last_scraped": "2026-08-28T23:25:19+00:00",
+      "first_seen": "2026-08-26T18:25:20+00:00",
       "recent_sales": [
         {
           "date": "5/26/26",
@@ -18090,6 +26234,61 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T18:25:20+00:00",
           "listed_median": "-",
           "average_sale_price": 1499.99
+        },
+        {
+          "scraped_at": "2026-08-28T23:25:19+00:00",
+          "listed_median": "-",
+          "average_sale_price": 1499.99
+        }
+      ]
+    },
+    {
+      "product_id": "649736",
+      "name": "Jewelry Bonney (Online Regional Finalist Card Set 2025 Vol.2) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/649736?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649736_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-085",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Bonney Pirates Supernovas",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "-",
+      "average_sale_price": 207.49,
+      "recent_sales_count": 4,
+      "last_scraped": "2026-08-28T23:50:43+00:00",
+      "first_seen": "2026-08-28T23:50:43+00:00",
+      "recent_sales": [
+        {
+          "date": "7/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$249.95"
+        },
+        {
+          "date": "7/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$225.00"
+        },
+        {
+          "date": "5/31/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$130.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:50:43+00:00",
+          "listed_median": "-",
+          "average_sale_price": 207.49
         }
       ]
     },
@@ -18113,6 +26312,7 @@ const TCG_DATA = {
       "average_sale_price": 519.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:02:47+00:00",
+      "first_seen": "2026-08-26T23:02:47+00:00",
       "recent_sales": [
         {
           "date": "8/20/26",
@@ -18173,6 +26373,7 @@ const TCG_DATA = {
       "average_sale_price": 1624.37,
       "recent_sales_count": 2,
       "last_scraped": "2026-08-26T18:16:56+00:00",
+      "first_seen": "2026-08-26T18:16:56+00:00",
       "recent_sales": [
         {
           "date": "8/7/26",
@@ -18215,6 +26416,7 @@ const TCG_DATA = {
       "average_sale_price": 8.91,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:32:04+00:00",
+      "first_seen": "2026-08-27T19:36:13+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -18274,6 +26476,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:14:00+00:00",
+      "first_seen": "2026-08-27T23:14:00+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -18335,6 +26538,7 @@ const TCG_DATA = {
       "average_sale_price": 0.08,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:26:18+00:00",
+      "first_seen": "2026-08-25T19:26:18+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -18390,6 +26594,7 @@ const TCG_DATA = {
       "average_sale_price": 0.05,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:59:58+00:00",
+      "first_seen": "2026-08-25T19:59:58+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -18451,6 +26656,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 4,
       "last_scraped": "2026-08-26T19:40:28+00:00",
+      "first_seen": "2026-08-26T19:40:28+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -18506,6 +26712,7 @@ const TCG_DATA = {
       "average_sale_price": 0.63,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:46:28+00:00",
+      "first_seen": "2026-08-26T22:46:28+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -18567,6 +26774,7 @@ const TCG_DATA = {
       "average_sale_price": 7.49,
       "recent_sales_count": 2,
       "last_scraped": "2026-08-26T22:47:06+00:00",
+      "first_seen": "2026-08-26T22:47:06+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -18590,6 +26798,56 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "580038",
+      "name": "Jinbe (CS 2024 Event Pack Finalist) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/580038?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/580038_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-063",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "Fish-Man",
+        "Counter+": "2000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$599.99",
+      "average_sale_price": 0.0,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-28T23:41:52+00:00",
+      "first_seen": "2026-08-28T23:41:52+00:00",
+      "recent_sales": [
+        {
+          "date": "12/12/12",
+          "condition": "NM Japanese",
+          "quantity": "2",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "MP",
+          "quantity": "1",
+          "price": "$0.00"
+        },
+        {
+          "date": "12/12/12",
+          "condition": "LP Foil",
+          "quantity": "3",
+          "price": "$0.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:41:52+00:00",
+          "listed_median": "$599.99",
+          "average_sale_price": 0.0
+        }
+      ]
+    },
+    {
       "product_id": "668569",
       "name": "Jinbe - OP14-040 (Alternate Art) - The Azure Sea's Seven (OP14)",
       "url": "https://www.tcgplayer.com/product/668569?Language=English",
@@ -18609,6 +26867,7 @@ const TCG_DATA = {
       "average_sale_price": 10.24,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:30:02+00:00",
+      "first_seen": "2026-08-27T19:34:09+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -18674,6 +26933,7 @@ const TCG_DATA = {
       "average_sale_price": 0.14,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:27:42+00:00",
+      "first_seen": "2026-08-27T23:27:42+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -18715,6 +26975,56 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "514044",
+      "name": "Jozu (Championship 2023) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/514044?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514044_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "OP02-008",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "4000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Counter+": "2000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$375.00",
+      "average_sale_price": 239.15,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-28T23:44:07+00:00",
+      "first_seen": "2026-08-28T23:44:07+00:00",
+      "recent_sales": [
+        {
+          "date": "7/7/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$312.48"
+        },
+        {
+          "date": "7/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$349.99"
+        },
+        {
+          "date": "6/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$54.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:44:07+00:00",
+          "listed_median": "$375.00",
+          "average_sale_price": 239.15
+        }
+      ]
+    },
+    {
       "product_id": "695991",
       "name": "Jozu - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/695991?Language=English",
@@ -18734,6 +27044,7 @@ const TCG_DATA = {
       "average_sale_price": 0.01,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:03:56+00:00",
+      "first_seen": "2026-08-25T23:03:56+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -18794,6 +27105,7 @@ const TCG_DATA = {
       "average_sale_price": 0.49,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:23:47+00:00",
+      "first_seen": "2026-08-26T19:23:47+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -18848,6 +27160,7 @@ const TCG_DATA = {
       "average_sale_price": 1.67,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:58:25+00:00",
+      "first_seen": "2026-08-27T20:00:56+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -18932,6 +27245,7 @@ const TCG_DATA = {
       "average_sale_price": 2.31,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:51:00+00:00",
+      "first_seen": "2026-08-27T19:53:33+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -18997,6 +27311,7 @@ const TCG_DATA = {
       "average_sale_price": 56.27,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:33:52+00:00",
+      "first_seen": "2026-08-26T23:33:52+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -19057,6 +27372,7 @@ const TCG_DATA = {
       "average_sale_price": 0.75,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:35:59+00:00",
+      "first_seen": "2026-08-26T19:35:59+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -19117,6 +27433,7 @@ const TCG_DATA = {
       "average_sale_price": 114.91,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:18:16+00:00",
+      "first_seen": "2026-08-26T20:18:16+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -19177,6 +27494,7 @@ const TCG_DATA = {
       "average_sale_price": 0.61,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:14:04+00:00",
+      "first_seen": "2026-08-26T20:20:50+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -19260,6 +27578,7 @@ const TCG_DATA = {
       "average_sale_price": 125.46,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:20:30+00:00",
+      "first_seen": "2026-08-26T23:20:30+00:00",
       "recent_sales": [
         {
           "date": "8/3/26",
@@ -19320,6 +27639,7 @@ const TCG_DATA = {
       "average_sale_price": 0.3,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:20:49+00:00",
+      "first_seen": "2026-08-27T22:20:49+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -19380,6 +27700,7 @@ const TCG_DATA = {
       "average_sale_price": 25.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:31:24+00:00",
+      "first_seen": "2026-08-26T20:31:24+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -19440,6 +27761,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:20:46+00:00",
+      "first_seen": "2026-08-26T22:20:46+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -19488,6 +27810,7 @@ const TCG_DATA = {
       "average_sale_price": 376.35,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:15:43+00:00",
+      "first_seen": "2026-08-26T20:15:43+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -19548,6 +27871,7 @@ const TCG_DATA = {
       "average_sale_price": 3.25,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:52:23+00:00",
+      "first_seen": "2026-08-26T21:52:23+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -19608,6 +27932,7 @@ const TCG_DATA = {
       "average_sale_price": 32.85,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:22:54+00:00",
+      "first_seen": "2026-08-26T21:22:54+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -19668,6 +27993,7 @@ const TCG_DATA = {
       "average_sale_price": 1.41,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:01:32+00:00",
+      "first_seen": "2026-08-26T22:01:32+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -19728,6 +28054,7 @@ const TCG_DATA = {
       "average_sale_price": 25.3,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:16:56+00:00",
+      "first_seen": "2026-08-27T00:00:56+00:00",
       "recent_sales": [
         {
           "date": "8/21/26",
@@ -19793,6 +28120,7 @@ const TCG_DATA = {
       "average_sale_price": 10.34,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:30:42+00:00",
+      "first_seen": "2026-08-27T19:34:50+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -19858,6 +28186,7 @@ const TCG_DATA = {
       "average_sale_price": 0.14,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:29:48+00:00",
+      "first_seen": "2026-08-27T23:29:48+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -19918,6 +28247,7 @@ const TCG_DATA = {
       "average_sale_price": 357.72,
       "recent_sales_count": 4,
       "last_scraped": "2026-08-26T23:02:09+00:00",
+      "first_seen": "2026-08-26T23:02:09+00:00",
       "recent_sales": [
         {
           "date": "6/22/26",
@@ -19972,6 +28302,7 @@ const TCG_DATA = {
       "average_sale_price": 22.02,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:18:14+00:00",
+      "first_seen": "2026-08-27T00:02:20+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -20037,6 +28368,7 @@ const TCG_DATA = {
       "average_sale_price": 11.5,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:49:38+00:00",
+      "first_seen": "2026-08-25T23:49:38+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -20097,6 +28429,7 @@ const TCG_DATA = {
       "average_sale_price": 0.2,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:42:38+00:00",
+      "first_seen": "2026-08-27T22:42:38+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -20157,6 +28490,7 @@ const TCG_DATA = {
       "average_sale_price": 0.97,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:50:18+00:00",
+      "first_seen": "2026-08-25T23:50:18+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -20211,6 +28545,7 @@ const TCG_DATA = {
       "average_sale_price": 17.07,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:15:56+00:00",
+      "first_seen": "2026-08-27T19:19:54+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -20276,6 +28611,7 @@ const TCG_DATA = {
       "average_sale_price": 0.21,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:15:26+00:00",
+      "first_seen": "2026-08-27T23:15:26+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -20336,6 +28672,7 @@ const TCG_DATA = {
       "average_sale_price": 65.68,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:28:27+00:00",
+      "first_seen": "2026-08-26T23:28:27+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -20396,6 +28733,7 @@ const TCG_DATA = {
       "average_sale_price": 0.27,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:23:35+00:00",
+      "first_seen": "2026-08-27T22:23:35+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -20456,6 +28794,7 @@ const TCG_DATA = {
       "average_sale_price": 673.75,
       "recent_sales_count": 4,
       "last_scraped": "2026-08-26T19:14:36+00:00",
+      "first_seen": "2026-08-26T19:14:36+00:00",
       "recent_sales": [
         {
           "date": "5/6/26",
@@ -20506,6 +28845,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:44:57+00:00",
+      "first_seen": "2026-08-26T19:44:57+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -20561,6 +28901,7 @@ const TCG_DATA = {
       "average_sale_price": 4.89,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:47:18+00:00",
+      "first_seen": "2026-08-26T19:23:09+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -20657,6 +28998,7 @@ const TCG_DATA = {
       "average_sale_price": 0.11,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:22:30+00:00",
+      "first_seen": "2026-08-26T19:22:30+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -20705,6 +29047,7 @@ const TCG_DATA = {
       "average_sale_price": 24.38,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:00:12+00:00",
+      "first_seen": "2026-08-27T19:00:12+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -20759,6 +29102,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:31:48+00:00",
+      "first_seen": "2026-08-27T23:31:48+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -20813,6 +29157,7 @@ const TCG_DATA = {
       "average_sale_price": 28.39,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:23:33+00:00",
+      "first_seen": "2026-08-27T00:07:47+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -20878,6 +29223,7 @@ const TCG_DATA = {
       "average_sale_price": 0.15,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:13:20+00:00",
+      "first_seen": "2026-08-27T23:13:20+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -20919,6 +29265,62 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "483179",
+      "name": "Koby (Offline Regional 2023) [Finalist] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/483179?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/483179_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "OP02-098",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "4000",
+        "Subtype(s)": "Navy",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$325.00",
+      "average_sale_price": 175.24,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:54:37+00:00",
+      "first_seen": "2026-08-28T23:54:37+00:00",
+      "recent_sales": [
+        {
+          "date": "6/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$164.55"
+        },
+        {
+          "date": "6/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$164.55"
+        },
+        {
+          "date": "6/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$163.56"
+        },
+        {
+          "date": "5/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$219.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:54:37+00:00",
+          "listed_median": "$325.00",
+          "average_sale_price": 175.24
+        }
+      ]
+    },
+    {
       "product_id": "696053",
       "name": "Koby - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696053?Language=English",
@@ -20939,6 +29341,7 @@ const TCG_DATA = {
       "average_sale_price": 0.14,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:22:13+00:00",
+      "first_seen": "2026-08-25T20:22:13+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -21000,6 +29403,7 @@ const TCG_DATA = {
       "average_sale_price": 0.21,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:31:51+00:00",
+      "first_seen": "2026-08-25T20:31:51+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -21055,6 +29459,7 @@ const TCG_DATA = {
       "average_sale_price": 11.53,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:51:38+00:00",
+      "first_seen": "2026-08-25T23:51:38+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -21116,6 +29521,7 @@ const TCG_DATA = {
       "average_sale_price": 0.23,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:50:58+00:00",
+      "first_seen": "2026-08-25T23:50:58+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -21151,6 +29557,56 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "580039",
+      "name": "Kouzuki Momonosuke (CS 2024 Event Pack Finalist) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/580039?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/580039_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-064",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "8000",
+        "Subtype(s)": "Land of Wano Kouzuki Clan",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$1,500.00",
+      "average_sale_price": 637.5,
+      "recent_sales_count": 4,
+      "last_scraped": "2026-08-28T23:32:06+00:00",
+      "first_seen": "2026-08-28T23:32:06+00:00",
+      "recent_sales": [
+        {
+          "date": "6/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$350.00"
+        },
+        {
+          "date": "6/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,500.00"
+        },
+        {
+          "date": "5/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$350.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:32:06+00:00",
+          "listed_median": "$1,500.00",
+          "average_sale_price": 637.5
+        }
+      ]
+    },
+    {
       "product_id": "544524",
       "name": "Kouzuki Oden (Alternate Art) - Extra Booster: Memorial Collection (EB-01)",
       "url": "https://www.tcgplayer.com/product/544524?Language=English",
@@ -21170,6 +29626,7 @@ const TCG_DATA = {
       "average_sale_price": 56.25,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:40:39+00:00",
+      "first_seen": "2026-08-26T23:40:39+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -21230,6 +29687,7 @@ const TCG_DATA = {
       "average_sale_price": 71.59,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:33:13+00:00",
+      "first_seen": "2026-08-26T23:33:13+00:00",
       "recent_sales": [
         {
           "date": "8/3/26",
@@ -21290,6 +29748,7 @@ const TCG_DATA = {
       "average_sale_price": 777.5,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:15:55+00:00",
+      "first_seen": "2026-08-26T19:15:55+00:00",
       "recent_sales": [
         {
           "date": "7/6/26",
@@ -21351,6 +29810,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:13:05+00:00",
+      "first_seen": "2026-08-26T22:13:05+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -21399,6 +29859,7 @@ const TCG_DATA = {
       "average_sale_price": 0.29,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:25:35+00:00",
+      "first_seen": "2026-08-27T22:25:35+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -21459,6 +29920,7 @@ const TCG_DATA = {
       "average_sale_price": 0.26,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:26:17+00:00",
+      "first_seen": "2026-08-27T22:26:17+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -21520,6 +29982,7 @@ const TCG_DATA = {
       "average_sale_price": 0.05,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:31:12+00:00",
+      "first_seen": "2026-08-25T20:31:12+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -21580,6 +30043,7 @@ const TCG_DATA = {
       "average_sale_price": 0.59,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:32:58+00:00",
+      "first_seen": "2026-08-26T22:32:58+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -21640,6 +30104,7 @@ const TCG_DATA = {
       "average_sale_price": 13.86,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:21:25+00:00",
+      "first_seen": "2026-08-27T19:25:27+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -21705,6 +30170,7 @@ const TCG_DATA = {
       "average_sale_price": 0.13,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:26:59+00:00",
+      "first_seen": "2026-08-27T23:26:59+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -21757,6 +30223,7 @@ const TCG_DATA = {
       "average_sale_price": 0.43,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:51:23+00:00",
+      "first_seen": "2026-08-26T19:51:23+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -21809,6 +30276,7 @@ const TCG_DATA = {
       "average_sale_price": 22.03,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T18:59:29+00:00",
+      "first_seen": "2026-08-27T18:59:29+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -21869,6 +30337,7 @@ const TCG_DATA = {
       "average_sale_price": 0.19,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:00:29+00:00",
+      "first_seen": "2026-08-27T23:00:29+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -21930,6 +30399,7 @@ const TCG_DATA = {
       "average_sale_price": 0.43,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:46:15+00:00",
+      "first_seen": "2026-08-26T19:46:15+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -21985,6 +30455,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:45:36+00:00",
+      "first_seen": "2026-08-26T19:45:36+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -22039,6 +30510,7 @@ const TCG_DATA = {
       "average_sale_price": 24.42,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:29:42+00:00",
+      "first_seen": "2026-08-27T00:13:58+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -22104,6 +30576,7 @@ const TCG_DATA = {
       "average_sale_price": 0.13,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:29:06+00:00",
+      "first_seen": "2026-08-27T23:29:06+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -22164,6 +30637,7 @@ const TCG_DATA = {
       "average_sale_price": 5.0,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:20:56+00:00",
+      "first_seen": "2026-08-25T20:20:56+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -22206,6 +30680,7 @@ const TCG_DATA = {
       "average_sale_price": 1067.33,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:21:34+00:00",
+      "first_seen": "2026-08-25T20:21:34+00:00",
       "recent_sales": [
         {
           "date": "8/4/26",
@@ -22260,6 +30735,7 @@ const TCG_DATA = {
       "average_sale_price": 0.92,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:09:26+00:00",
+      "first_seen": "2026-08-27T22:09:26+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -22320,6 +30796,7 @@ const TCG_DATA = {
       "average_sale_price": 0.15,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:20:16+00:00",
+      "first_seen": "2026-08-25T20:20:16+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -22380,6 +30857,7 @@ const TCG_DATA = {
       "average_sale_price": 12.45,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:28:03+00:00",
+      "first_seen": "2026-08-26T19:38:33+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -22451,6 +30929,7 @@ const TCG_DATA = {
       "average_sale_price": 0.46,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:37:54+00:00",
+      "first_seen": "2026-08-26T19:37:54+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -22511,6 +30990,7 @@ const TCG_DATA = {
       "average_sale_price": 19.48,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:09:03+00:00",
+      "first_seen": "2026-08-27T19:09:03+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -22565,6 +31045,7 @@ const TCG_DATA = {
       "average_sale_price": 255.19,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:09:19+00:00",
+      "first_seen": "2026-08-26T23:09:19+00:00",
       "recent_sales": [
         {
           "date": "5/5/26",
@@ -22625,6 +31106,7 @@ const TCG_DATA = {
       "average_sale_price": 0.14,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:10:30+00:00",
+      "first_seen": "2026-08-27T23:10:30+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -22680,6 +31162,7 @@ const TCG_DATA = {
       "average_sale_price": 1300.0,
       "recent_sales_count": 2,
       "last_scraped": "2026-08-26T18:29:17+00:00",
+      "first_seen": "2026-08-26T18:29:17+00:00",
       "recent_sales": [
         {
           "date": "5/14/26",
@@ -22723,6 +31206,7 @@ const TCG_DATA = {
       "average_sale_price": 0.06,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:28:27+00:00",
+      "first_seen": "2026-08-25T22:01:44+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -22788,6 +31272,7 @@ const TCG_DATA = {
       "average_sale_price": 18.19,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:26:07+00:00",
+      "first_seen": "2026-08-26T19:44:19+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -22853,6 +31338,7 @@ const TCG_DATA = {
       "average_sale_price": 0.77,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:08:37+00:00",
+      "first_seen": "2026-08-26T19:43:41+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -22946,6 +31432,7 @@ const TCG_DATA = {
       "average_sale_price": 0.06,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:54:02+00:00",
+      "first_seen": "2026-08-25T19:54:02+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -22997,6 +31484,7 @@ const TCG_DATA = {
       "average_sale_price": 0.03,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:11:18+00:00",
+      "first_seen": "2026-08-25T23:11:18+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -23057,6 +31545,7 @@ const TCG_DATA = {
       "average_sale_price": 8.02,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:33:22+00:00",
+      "first_seen": "2026-08-27T19:37:31+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -23122,6 +31611,7 @@ const TCG_DATA = {
       "average_sale_price": 0.2,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:22:48+00:00",
+      "first_seen": "2026-08-27T23:22:48+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -23163,6 +31653,44 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "659596",
+      "name": "Lim (CS 25-26 Event Pack Finalist Ver.) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/659596?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/659596_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-079",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "0",
+        "Subtype(s)": "ODYSSEY",
+        "Counter+": "1000",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$490.00",
+      "average_sale_price": 485.0,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-28T23:33:22+00:00",
+      "first_seen": "2026-08-28T23:33:22+00:00",
+      "recent_sales": [
+        {
+          "date": "5/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$485.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:33:22+00:00",
+          "listed_median": "$490.00",
+          "average_sale_price": 485.0
+        }
+      ]
+    },
+    {
       "product_id": "712608",
       "name": "Limejuice - The World's Strongest Warriors (OP17)",
       "url": "https://www.tcgplayer.com/product/712608?Language=English",
@@ -23183,6 +31711,7 @@ const TCG_DATA = {
       "average_sale_price": 0.65,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:32:46+00:00",
+      "first_seen": "2026-08-26T19:32:46+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -23244,6 +31773,7 @@ const TCG_DATA = {
       "average_sale_price": 0.18,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:10:00+00:00",
+      "first_seen": "2026-08-25T23:10:00+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -23298,6 +31828,7 @@ const TCG_DATA = {
       "average_sale_price": 98.99,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:19:33+00:00",
+      "first_seen": "2026-08-26T20:19:33+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -23358,6 +31889,7 @@ const TCG_DATA = {
       "average_sale_price": 38.84,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:30:46+00:00",
+      "first_seen": "2026-08-26T20:30:46+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -23419,6 +31951,7 @@ const TCG_DATA = {
       "average_sale_price": 0.74,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:37:28+00:00",
+      "first_seen": "2026-08-26T22:37:28+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -23479,6 +32012,7 @@ const TCG_DATA = {
       "average_sale_price": 27.47,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:24:16+00:00",
+      "first_seen": "2026-08-27T00:08:31+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -23544,6 +32078,7 @@ const TCG_DATA = {
       "average_sale_price": 0.14,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:11:12+00:00",
+      "first_seen": "2026-08-27T23:11:12+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -23598,6 +32133,7 @@ const TCG_DATA = {
       "average_sale_price": 67.81,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:38:35+00:00",
+      "first_seen": "2026-08-26T23:38:35+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -23652,6 +32188,7 @@ const TCG_DATA = {
       "average_sale_price": 4.34,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:44:16+00:00",
+      "first_seen": "2026-08-27T19:46:51+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -23717,6 +32254,7 @@ const TCG_DATA = {
       "average_sale_price": 36.3,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:48:47+00:00",
+      "first_seen": "2026-08-26T23:48:47+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -23777,6 +32315,7 @@ const TCG_DATA = {
       "average_sale_price": 0.26,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:24:15+00:00",
+      "first_seen": "2026-08-27T22:24:15+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -23831,6 +32370,7 @@ const TCG_DATA = {
       "average_sale_price": 0.06,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:27:22+00:00",
+      "first_seen": "2026-08-25T20:27:22+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -23883,6 +32423,7 @@ const TCG_DATA = {
       "average_sale_price": 0.02,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:19:23+00:00",
+      "first_seen": "2026-08-25T21:52:30+00:00",
       "recent_sales": [
         {
           "date": "8/23/26",
@@ -23942,6 +32483,7 @@ const TCG_DATA = {
       "average_sale_price": 11.13,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:42:17+00:00",
+      "first_seen": "2026-08-25T23:42:17+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -24002,6 +32544,7 @@ const TCG_DATA = {
       "average_sale_price": 13.51,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:24:42+00:00",
+      "first_seen": "2026-08-27T19:28:48+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -24067,6 +32610,7 @@ const TCG_DATA = {
       "average_sale_price": 1499.99,
       "recent_sales_count": 2,
       "last_scraped": "2026-08-26T19:05:37+00:00",
+      "first_seen": "2026-08-26T19:05:37+00:00",
       "recent_sales": [
         {
           "date": "6/20/26",
@@ -24109,6 +32653,7 @@ const TCG_DATA = {
       "average_sale_price": 0.29,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:41:37+00:00",
+      "first_seen": "2026-08-25T23:41:37+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -24170,6 +32715,7 @@ const TCG_DATA = {
       "average_sale_price": 0.83,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:04:05+00:00",
+      "first_seen": "2026-08-26T22:04:05+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -24230,6 +32776,7 @@ const TCG_DATA = {
       "average_sale_price": 0.15,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:58:30+00:00",
+      "first_seen": "2026-08-27T22:58:30+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -24288,6 +32835,7 @@ const TCG_DATA = {
       "average_sale_price": 0.08,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:29:55+00:00",
+      "first_seen": "2026-08-25T20:29:55+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -24342,6 +32890,7 @@ const TCG_DATA = {
       "average_sale_price": 19.89,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:06:19+00:00",
+      "first_seen": "2026-08-25T23:48:57+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -24437,6 +32986,7 @@ const TCG_DATA = {
       "average_sale_price": 0.12,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:31:06+00:00",
+      "first_seen": "2026-08-25T23:48:16+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -24508,6 +33058,7 @@ const TCG_DATA = {
       "average_sale_price": 22.8,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:04:17+00:00",
+      "first_seen": "2026-08-27T19:04:17+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -24568,6 +33119,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:03:54+00:00",
+      "first_seen": "2026-08-27T23:03:54+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -24628,6 +33180,7 @@ const TCG_DATA = {
       "average_sale_price": 1565.32,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T18:18:51+00:00",
+      "first_seen": "2026-08-26T18:18:51+00:00",
       "recent_sales": [
         {
           "date": "8/16/26",
@@ -24676,6 +33229,7 @@ const TCG_DATA = {
       "average_sale_price": 38.74,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:55:38+00:00",
+      "first_seen": "2026-08-25T23:55:38+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -24736,6 +33290,7 @@ const TCG_DATA = {
       "average_sale_price": 17.76,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:54:58+00:00",
+      "first_seen": "2026-08-25T23:54:58+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -24796,6 +33351,7 @@ const TCG_DATA = {
       "average_sale_price": 65.75,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:37:57+00:00",
+      "first_seen": "2026-08-26T23:37:57+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -24856,6 +33412,7 @@ const TCG_DATA = {
       "average_sale_price": 0.85,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:08:46+00:00",
+      "first_seen": "2026-08-27T22:08:46+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -24916,6 +33473,7 @@ const TCG_DATA = {
       "average_sale_price": 1846.5,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:19:31+00:00",
+      "first_seen": "2026-08-26T18:19:31+00:00",
       "recent_sales": [
         {
           "date": "8/8/26",
@@ -24976,6 +33534,7 @@ const TCG_DATA = {
       "average_sale_price": 1199.99,
       "recent_sales_count": 1,
       "last_scraped": "2026-08-26T18:33:46+00:00",
+      "first_seen": "2026-08-26T18:33:46+00:00",
       "recent_sales": [
         {
           "date": "5/5/26",
@@ -25012,6 +33571,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:17:35+00:00",
+      "first_seen": "2026-08-26T22:17:35+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -25058,6 +33618,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:07:27+00:00",
+      "first_seen": "2026-08-26T20:07:27+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -25118,6 +33679,7 @@ const TCG_DATA = {
       "average_sale_price": 0.07,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:08:37+00:00",
+      "first_seen": "2026-08-25T23:08:37+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -25178,6 +33740,7 @@ const TCG_DATA = {
       "average_sale_price": 28.77,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:23:32+00:00",
+      "first_seen": "2026-08-26T21:23:32+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -25238,6 +33801,7 @@ const TCG_DATA = {
       "average_sale_price": 0.76,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:10:32+00:00",
+      "first_seen": "2026-08-26T22:10:32+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -25293,6 +33857,7 @@ const TCG_DATA = {
       "average_sale_price": 0.08,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:11:13+00:00",
+      "first_seen": "2026-08-25T20:11:13+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -25351,6 +33916,7 @@ const TCG_DATA = {
       "average_sale_price": 18.8,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:13:17+00:00",
+      "first_seen": "2026-08-25T23:13:17+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -25403,6 +33969,7 @@ const TCG_DATA = {
       "average_sale_price": 0.3,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:12:36+00:00",
+      "first_seen": "2026-08-25T23:12:36+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -25464,6 +34031,7 @@ const TCG_DATA = {
       "average_sale_price": 0.04,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:11:51+00:00",
+      "first_seen": "2026-08-25T20:11:51+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -25524,6 +34092,7 @@ const TCG_DATA = {
       "average_sale_price": 20.33,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:08:21+00:00",
+      "first_seen": "2026-08-27T19:08:21+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -25584,6 +34153,7 @@ const TCG_DATA = {
       "average_sale_price": 0.14,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:12:38+00:00",
+      "first_seen": "2026-08-27T23:12:38+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -25644,6 +34214,7 @@ const TCG_DATA = {
       "average_sale_price": 1020.0,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:06:54+00:00",
+      "first_seen": "2026-08-26T19:06:54+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -25692,6 +34263,7 @@ const TCG_DATA = {
       "average_sale_price": 114.58,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:22:28+00:00",
+      "first_seen": "2026-08-26T23:22:28+00:00",
       "recent_sales": [
         {
           "date": "8/19/26",
@@ -25746,6 +34318,7 @@ const TCG_DATA = {
       "average_sale_price": 0.4,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:17:23+00:00",
+      "first_seen": "2026-08-27T22:17:23+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -25806,6 +34379,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:15:39+00:00",
+      "first_seen": "2026-08-26T22:15:39+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -25855,6 +34429,7 @@ const TCG_DATA = {
       "average_sale_price": 0.09,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:28:00+00:00",
+      "first_seen": "2026-08-25T20:28:00+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -25915,6 +34490,7 @@ const TCG_DATA = {
       "average_sale_price": 51.8,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:41:19+00:00",
+      "first_seen": "2026-08-26T23:41:19+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -25956,6 +34532,92 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "544771",
+      "name": "Monkey.D.Luffy (001) (Offline Regional 2024 Vol. 2) [Finalist] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/544771?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544771_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-001",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "7000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$820.00",
+      "average_sale_price": 746.67,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-28T23:30:49+00:00",
+      "first_seen": "2026-08-28T23:30:49+00:00",
+      "recent_sales": [
+        {
+          "date": "8/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$750.00"
+        },
+        {
+          "date": "5/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$750.00"
+        },
+        {
+          "date": "5/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$740.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:30:49+00:00",
+          "listed_median": "$820.00",
+          "average_sale_price": 746.67
+        }
+      ]
+    },
+    {
+      "product_id": "544774",
+      "name": "Monkey.D.Luffy (001) (Online Regional 2024 Vol. 2) [Finalist] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/544774?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544774_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-001",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "7000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1,000.00",
+      "average_sale_price": 599.99,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-28T23:31:27+00:00",
+      "first_seen": "2026-08-28T23:31:27+00:00",
+      "recent_sales": [
+        {
+          "date": "5/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$599.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:31:27+00:00",
+          "listed_median": "$1,000.00",
+          "average_sale_price": 599.99
+        }
+      ]
+    },
+    {
       "product_id": "671547",
       "name": "Monkey.D.Luffy (001) (Parallel) - Starter Deck 29: Egghead (ST-29)",
       "url": "https://www.tcgplayer.com/product/671547?Language=English",
@@ -25975,6 +34637,7 @@ const TCG_DATA = {
       "average_sale_price": 27.68,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:27:42+00:00",
+      "first_seen": "2026-08-27T00:12:00+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -26040,6 +34703,7 @@ const TCG_DATA = {
       "average_sale_price": 93.98,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:23:47+00:00",
+      "first_seen": "2026-08-26T23:23:47+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -26094,6 +34758,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:31:03+00:00",
+      "first_seen": "2026-08-27T22:31:03+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -26154,6 +34819,7 @@ const TCG_DATA = {
       "average_sale_price": 8.93,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:34:01+00:00",
+      "first_seen": "2026-08-27T19:38:10+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -26244,6 +34910,7 @@ const TCG_DATA = {
       "average_sale_price": 43.17,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:47:20+00:00",
+      "first_seen": "2026-08-26T23:47:20+00:00",
       "recent_sales": [
         {
           "date": "8/23/26",
@@ -26304,6 +34971,7 @@ const TCG_DATA = {
       "average_sale_price": 3.31,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:55:44+00:00",
+      "first_seen": "2026-08-27T19:58:19+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -26369,6 +35037,7 @@ const TCG_DATA = {
       "average_sale_price": 4.88,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:40:51+00:00",
+      "first_seen": "2026-08-27T19:43:32+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -26452,6 +35121,7 @@ const TCG_DATA = {
       "average_sale_price": 7.17,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:36:44+00:00",
+      "first_seen": "2026-08-27T19:40:54+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -26535,6 +35205,7 @@ const TCG_DATA = {
       "average_sale_price": 488.26,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:04:20+00:00",
+      "first_seen": "2026-08-26T19:04:20+00:00",
       "recent_sales": [
         {
           "date": "8/9/26",
@@ -26595,6 +35266,7 @@ const TCG_DATA = {
       "average_sale_price": 12.36,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:26:01+00:00",
+      "first_seen": "2026-08-27T19:30:07+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -26672,6 +35344,7 @@ const TCG_DATA = {
       "average_sale_price": 1484.67,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:04:59+00:00",
+      "first_seen": "2026-08-26T19:04:59+00:00",
       "recent_sales": [
         {
           "date": "8/8/26",
@@ -26732,6 +35405,7 @@ const TCG_DATA = {
       "average_sale_price": 45.19,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:44:38+00:00",
+      "first_seen": "2026-08-26T23:44:38+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -26792,6 +35466,7 @@ const TCG_DATA = {
       "average_sale_price": 15.66,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:14:37+00:00",
+      "first_seen": "2026-08-27T19:18:35+00:00",
       "recent_sales": [
         {
           "date": "8/3/26",
@@ -26857,6 +35532,7 @@ const TCG_DATA = {
       "average_sale_price": 5.84,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:34:41+00:00",
+      "first_seen": "2026-08-27T19:38:50+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -26916,6 +35592,7 @@ const TCG_DATA = {
       "average_sale_price": 5.19,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:38:43+00:00",
+      "first_seen": "2026-08-27T19:42:51+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -26980,6 +35657,68 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "525315",
+      "name": "Monkey.D.Luffy (007) (CS 2023 Celebration Pack) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/525315?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/525315_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-007",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$349.99",
+      "average_sale_price": 332.97,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:51:22+00:00",
+      "first_seen": "2026-08-28T23:51:22+00:00",
+      "recent_sales": [
+        {
+          "date": "8/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$294.99"
+        },
+        {
+          "date": "8/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$294.98"
+        },
+        {
+          "date": "8/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$294.88"
+        },
+        {
+          "date": "6/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$399.99"
+        },
+        {
+          "date": "6/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$380.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:51:22+00:00",
+          "listed_median": "$349.99",
+          "average_sale_price": 332.97
+        }
+      ]
+    },
+    {
       "product_id": "629101",
       "name": "Monkey.D.Luffy (010) (Alternate Art) - Extra Booster: Anime 25th Collection (EB-02)",
       "url": "https://www.tcgplayer.com/product/629101?Language=English",
@@ -26999,6 +35738,7 @@ const TCG_DATA = {
       "average_sale_price": 1236.26,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:03:03+00:00",
+      "first_seen": "2026-08-26T19:03:03+00:00",
       "recent_sales": [
         {
           "date": "7/25/26",
@@ -27059,6 +35799,7 @@ const TCG_DATA = {
       "average_sale_price": 1964.44,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T17:56:25+00:00",
+      "first_seen": "2026-08-26T17:56:25+00:00",
       "recent_sales": [
         {
           "date": "8/19/26",
@@ -27119,6 +35860,7 @@ const TCG_DATA = {
       "average_sale_price": 0.41,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:18:03+00:00",
+      "first_seen": "2026-08-27T22:18:03+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -27179,6 +35921,7 @@ const TCG_DATA = {
       "average_sale_price": 10566.66,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T18:04:44+00:00",
+      "first_seen": "2026-08-26T18:04:44+00:00",
       "recent_sales": [
         {
           "date": "6/14/26",
@@ -27227,6 +35970,7 @@ const TCG_DATA = {
       "average_sale_price": 46.34,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T18:24:11+00:00",
+      "first_seen": "2026-08-25T18:06:01+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -27286,6 +36030,7 @@ const TCG_DATA = {
       "average_sale_price": 0.12,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:55:47+00:00",
+      "first_seen": "2026-08-25T23:13:55+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -27376,6 +36121,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:32:08+00:00",
+      "first_seen": "2026-08-26T19:32:08+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -27425,6 +36171,7 @@ const TCG_DATA = {
       "average_sale_price": 7.79,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:30:52+00:00",
+      "first_seen": "2026-08-25T19:30:52+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -27474,6 +36221,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:30:12+00:00",
+      "first_seen": "2026-08-25T19:30:12+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -27534,6 +36282,7 @@ const TCG_DATA = {
       "average_sale_price": 53.81,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:43:59+00:00",
+      "first_seen": "2026-08-26T23:43:59+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -27594,6 +36343,7 @@ const TCG_DATA = {
       "average_sale_price": 0.22,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:30:23+00:00",
+      "first_seen": "2026-08-27T22:30:23+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -27635,6 +36385,174 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "520773",
+      "name": "Monkey.D.Luffy (041) (1st Anniversary Tournament) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/520773?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/520773_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-041",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1,482.50",
+      "average_sale_price": 108.5,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:32:44+00:00",
+      "first_seen": "2026-08-28T23:32:44+00:00",
+      "recent_sales": [
+        {
+          "date": "8/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$69.00"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "DMG Foil",
+          "quantity": "1",
+          "price": "$299.99"
+        },
+        {
+          "date": "7/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$69.49"
+        },
+        {
+          "date": "7/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$35.00"
+        },
+        {
+          "date": "7/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$69.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:32:44+00:00",
+          "listed_median": "$1,482.50",
+          "average_sale_price": 108.5
+        }
+      ]
+    },
+    {
+      "product_id": "532752",
+      "name": "Monkey.D.Luffy (041) (BANDAI CARD GAMES Fest 23-24 World Tour) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/532752?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/532752_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-041",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$224.78",
+      "average_sale_price": 204.99,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:48:45+00:00",
+      "first_seen": "2026-08-28T23:48:45+00:00",
+      "recent_sales": [
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$206.00"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$199.00"
+        },
+        {
+          "date": "8/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$209.98"
+        },
+        {
+          "date": "8/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$205.00"
+        },
+        {
+          "date": "8/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$204.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:48:45+00:00",
+          "listed_median": "$224.78",
+          "average_sale_price": 204.99
+        }
+      ]
+    },
+    {
+      "product_id": "544784",
+      "name": "Monkey.D.Luffy (041) (Offline Regional 2024 Vol. 2) [Finalist] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/544784?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544784_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-041",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1,250.00",
+      "average_sale_price": 746.47,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-28T23:28:33+00:00",
+      "first_seen": "2026-08-28T23:28:33+00:00",
+      "recent_sales": [
+        {
+          "date": "8/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,000.00"
+        },
+        {
+          "date": "5/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$492.94"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:28:33+00:00",
+          "listed_median": "$1,250.00",
+          "average_sale_price": 746.47
+        }
+      ]
+    },
+    {
       "product_id": "546710",
       "name": "Monkey.D.Luffy (047) (Premium Card Collection -Live Action Edition-) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/546710?Language=English",
@@ -27654,6 +36572,7 @@ const TCG_DATA = {
       "average_sale_price": 28.91,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:20:13+00:00",
+      "first_seen": "2026-08-27T00:04:18+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -27719,6 +36638,7 @@ const TCG_DATA = {
       "average_sale_price": 86.84,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:25:08+00:00",
+      "first_seen": "2026-08-26T23:25:08+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -27780,6 +36700,7 @@ const TCG_DATA = {
       "average_sale_price": 0.11,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:12:32+00:00",
+      "first_seen": "2026-08-25T20:12:32+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -27815,6 +36736,61 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "675303",
+      "name": "Monkey.D.Luffy (055) (College Basketball US Voyage) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/675303?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675303_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-055",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$324.25",
+      "average_sale_price": 240.99,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:43:09+00:00",
+      "first_seen": "2026-08-28T23:43:09+00:00",
+      "recent_sales": [
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$243.99"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$243.99"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$242.99"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$230.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:43:09+00:00",
+          "listed_median": "$324.25",
+          "average_sale_price": 240.99
+        }
+      ]
+    },
+    {
       "product_id": "527014",
       "name": "Monkey.D.Luffy (060) (Alternate Art) - Awakening of the New Era (OP05)",
       "url": "https://www.tcgplayer.com/product/527014?Language=English",
@@ -27834,6 +36810,7 @@ const TCG_DATA = {
       "average_sale_price": 93.68,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:21:47+00:00",
+      "first_seen": "2026-08-26T23:21:47+00:00",
       "recent_sales": [
         {
           "date": "8/9/26",
@@ -27894,6 +36871,7 @@ const TCG_DATA = {
       "average_sale_price": 0.53,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:14:45+00:00",
+      "first_seen": "2026-08-27T22:14:45+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -27954,6 +36932,7 @@ const TCG_DATA = {
       "average_sale_price": 4664.6,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:02:50+00:00",
+      "first_seen": "2026-08-26T18:02:50+00:00",
       "recent_sales": [
         {
           "date": "8/8/26",
@@ -28014,6 +36993,7 @@ const TCG_DATA = {
       "average_sale_price": 99.31,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:21:09+00:00",
+      "first_seen": "2026-08-26T23:21:09+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -28068,6 +37048,7 @@ const TCG_DATA = {
       "average_sale_price": 0.18,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:29:00+00:00",
+      "first_seen": "2026-08-27T22:29:00+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -28128,6 +37109,7 @@ const TCG_DATA = {
       "average_sale_price": 114.5,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:19:12+00:00",
+      "first_seen": "2026-08-26T20:16:59+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -28199,6 +37181,7 @@ const TCG_DATA = {
       "average_sale_price": 2500.0,
       "recent_sales_count": 1,
       "last_scraped": "2026-08-26T18:12:25+00:00",
+      "first_seen": "2026-08-26T18:12:25+00:00",
       "recent_sales": [
         {
           "date": "8/21/26",
@@ -28235,6 +37218,7 @@ const TCG_DATA = {
       "average_sale_price": 0.57,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:20:11+00:00",
+      "first_seen": "2026-08-26T20:20:11+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -28283,6 +37267,7 @@ const TCG_DATA = {
       "average_sale_price": 68.39,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:24:22+00:00",
+      "first_seen": "2026-08-26T20:24:22+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -28331,6 +37316,7 @@ const TCG_DATA = {
       "average_sale_price": 6.94,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:48:35+00:00",
+      "first_seen": "2026-08-26T21:48:35+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -28392,6 +37378,7 @@ const TCG_DATA = {
       "average_sale_price": 0.14,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:38:18+00:00",
+      "first_seen": "2026-08-25T20:38:18+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -28452,6 +37439,7 @@ const TCG_DATA = {
       "average_sale_price": 1025.0,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:30:36+00:00",
+      "first_seen": "2026-08-26T18:30:36+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -28512,6 +37500,7 @@ const TCG_DATA = {
       "average_sale_price": 2053.36,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:15:02+00:00",
+      "first_seen": "2026-08-26T18:15:02+00:00",
       "recent_sales": [
         {
           "date": "7/7/26",
@@ -28553,6 +37542,177 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "527026",
+      "name": "Monkey.D.Luffy (119) (Alternate Art) (Manga) - Awakening of the New Era (OP05)",
+      "url": "https://www.tcgplayer.com/product/527026?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/527026_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP05-119",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$30,000.00",
+      "average_sale_price": 8799.56,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-28T23:24:02+00:00",
+      "first_seen": "2026-08-28T23:24:02+00:00",
+      "recent_sales": [
+        {
+          "date": "7/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$8,699.69"
+        },
+        {
+          "date": "5/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$9,000.00"
+        },
+        {
+          "date": "5/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$8,699.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:24:02+00:00",
+          "listed_median": "$30,000.00",
+          "average_sale_price": 8799.56
+        }
+      ]
+    },
+    {
+      "product_id": "530122",
+      "name": "Monkey.D.Luffy (119) (Alternate Art) - Awakening of the New Era (OP05)",
+      "url": "https://www.tcgplayer.com/product/530122?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/530122_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP05-119",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$240.00",
+      "average_sale_price": 162.38,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:20:41+00:00",
+      "first_seen": "2026-08-28T23:20:41+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "LP Foil",
+          "quantity": "2",
+          "price": "$143.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$149.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$143.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$192.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$183.90"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:20:41+00:00",
+          "listed_median": "$240.00",
+          "average_sale_price": 162.38
+        }
+      ]
+    },
+    {
+      "product_id": "635479",
+      "name": "Monkey.D.Luffy (119) (English Version 2nd Anniversary Set) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/635479?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/635479_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP05-119",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$113.13",
+      "average_sale_price": 94.69,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:22:04+00:00",
+      "first_seen": "2026-08-28T23:22:04+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$97.27"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$103.94"
+        },
+        {
+          "date": "8/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$97.99"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "MP Foil",
+          "quantity": "1",
+          "price": "$70.00"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$104.27"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:22:04+00:00",
+          "listed_median": "$113.13",
+          "average_sale_price": 94.69
+        }
+      ]
+    },
+    {
       "product_id": "597068",
       "name": "Monkey.D.Luffy (119) (Manga) - Emperors in the New World (OP09)",
       "url": "https://www.tcgplayer.com/product/597068?Language=English",
@@ -28572,6 +37732,7 @@ const TCG_DATA = {
       "average_sale_price": 2450.0,
       "recent_sales_count": 2,
       "last_scraped": "2026-08-26T18:11:47+00:00",
+      "first_seen": "2026-08-26T18:11:47+00:00",
       "recent_sales": [
         {
           "date": "6/29/26",
@@ -28613,7 +37774,8 @@ const TCG_DATA = {
       "listed_median": "$49,999.98",
       "average_sale_price": 13000.0,
       "recent_sales_count": 1,
-      "last_scraped": "2026-08-26T17:58:23+00:00",
+      "last_scraped": "2026-08-28T23:17:54+00:00",
+      "first_seen": "2026-08-26T17:58:23+00:00",
       "recent_sales": [
         {
           "date": "8/4/26",
@@ -28625,6 +37787,11 @@ const TCG_DATA = {
       "price_history": [
         {
           "scraped_at": "2026-08-26T17:58:23+00:00",
+          "listed_median": "$49,999.98",
+          "average_sale_price": 13000.0
+        },
+        {
+          "scraped_at": "2026-08-28T23:17:54+00:00",
           "listed_median": "$49,999.98",
           "average_sale_price": 13000.0
         }
@@ -28649,7 +37816,8 @@ const TCG_DATA = {
       "listed_median": "$10,000.00",
       "average_sale_price": 5062.48,
       "recent_sales_count": 4,
-      "last_scraped": "2026-08-26T18:02:12+00:00",
+      "last_scraped": "2026-08-28T23:18:35+00:00",
+      "first_seen": "2026-08-26T18:02:12+00:00",
       "recent_sales": [
         {
           "date": "6/24/26",
@@ -28681,6 +37849,66 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T18:02:12+00:00",
           "listed_median": "$10,000.00",
           "average_sale_price": 5062.48
+        },
+        {
+          "scraped_at": "2026-08-28T23:18:35+00:00",
+          "listed_median": "$10,000.00",
+          "average_sale_price": 5062.48
+        }
+      ]
+    },
+    {
+      "product_id": "527024",
+      "name": "Monkey.D.Luffy (119) - Awakening of the New Era (OP05)",
+      "url": "https://www.tcgplayer.com/product/527024?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/527024_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP05-119",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$12.08",
+      "average_sale_price": 10.6,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:22:44+00:00",
+      "first_seen": "2026-08-28T23:22:44+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$11.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$10.99"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$10.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "LP Foil",
+          "quantity": "2",
+          "price": "$10.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:22:44+00:00",
+          "listed_median": "$12.08",
+          "average_sale_price": 10.6
         }
       ]
     },
@@ -28704,6 +37932,7 @@ const TCG_DATA = {
       "average_sale_price": 82.37,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:19:51+00:00",
+      "first_seen": "2026-08-26T23:19:51+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -28763,6 +37992,7 @@ const TCG_DATA = {
       "average_sale_price": 3.15,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:44:57+00:00",
+      "first_seen": "2026-08-27T19:47:31+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -28833,6 +38063,7 @@ const TCG_DATA = {
       "average_sale_price": 3.43,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:42:56+00:00",
+      "first_seen": "2026-08-27T19:45:33+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -28919,11 +38150,42 @@ const TCG_DATA = {
         "Counter+": "1000",
         "Attribute": "Strike"
       },
-      "listed_median": "$468.71",
-      "average_sale_price": 371.87,
+      "listed_median": "$380.54",
+      "average_sale_price": 339.48,
       "recent_sales_count": 5,
-      "last_scraped": "2026-08-26T17:54:29+00:00",
+      "last_scraped": "2026-08-28T23:37:54+00:00",
+      "first_seen": "2026-08-26T17:54:29+00:00",
       "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$351.40"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$345.00"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$325.99"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$325.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$350.00"
+        },
         {
           "date": "8/26/26",
           "condition": "NM Foil",
@@ -28960,6 +38222,11 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T17:54:29+00:00",
           "listed_median": "$468.71",
           "average_sale_price": 371.87
+        },
+        {
+          "scraped_at": "2026-08-28T23:37:54+00:00",
+          "listed_median": "$380.54",
+          "average_sale_price": 339.48
         }
       ]
     },
@@ -28984,6 +38251,7 @@ const TCG_DATA = {
       "average_sale_price": 20.4,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T17:55:08+00:00",
+      "first_seen": "2026-08-26T17:55:08+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -29025,6 +38293,67 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "509752",
+      "name": "Monkey.D.Luffy (Alternate Art) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/509752?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/509752_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-001",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "7000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$203.12",
+      "average_sale_price": 146.95,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:52:02+00:00",
+      "first_seen": "2026-08-28T23:52:02+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$135.00"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$155.00"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$139.75"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$160.00"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$145.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:52:02+00:00",
+          "listed_median": "$203.12",
+          "average_sale_price": 146.95
+        }
+      ]
+    },
+    {
       "product_id": "693420",
       "name": "Monkey.D.Luffy (Alternate Art) - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/693420?Language=English",
@@ -29044,6 +38373,7 @@ const TCG_DATA = {
       "average_sale_price": 36.52,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:21:26+00:00",
+      "first_seen": "2026-08-25T23:21:26+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -29104,6 +38434,7 @@ const TCG_DATA = {
       "average_sale_price": 1082.8,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:15:16+00:00",
+      "first_seen": "2026-08-26T19:15:16+00:00",
       "recent_sales": [
         {
           "date": "8/5/26",
@@ -29145,6 +38476,162 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "580056",
+      "name": "Monkey.D.Luffy (Bandai Card Games Fest 24-25) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/580056?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/580056_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-080",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "7",
+        "Power": "9000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors Egghead",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$232.28",
+      "average_sale_price": 169.41,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:47:27+00:00",
+      "first_seen": "2026-08-28T23:47:27+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$149.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$149.99"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$172.00"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$182.48"
+        },
+        {
+          "date": "8/13/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$192.60"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:47:27+00:00",
+          "listed_median": "$232.28",
+          "average_sale_price": 169.41
+        }
+      ]
+    },
+    {
+      "product_id": "525304",
+      "name": "Monkey.D.Luffy (CS 2023 Event Pack) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/525304?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/525304_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-033",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1,299.99",
+      "average_sale_price": 1893.94,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:27:55+00:00",
+      "first_seen": "2026-08-28T23:27:55+00:00",
+      "recent_sales": [
+        {
+          "date": "7/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$2,000.00"
+        },
+        {
+          "date": "6/6/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4,500.00"
+        },
+        {
+          "date": "5/29/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$969.69"
+        },
+        {
+          "date": "5/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$1,200.00"
+        },
+        {
+          "date": "5/1/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$800.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:27:55+00:00",
+          "listed_median": "$1,299.99",
+          "average_sale_price": 1893.94
+        }
+      ]
+    },
+    {
+      "product_id": "695310",
+      "name": "Monkey.D.Luffy (Certificate of our crew) (Oversized) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/695310?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695310_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "1/1000",
+        "Color": "Red"
+      },
+      "listed_median": "$2,800.00",
+      "average_sale_price": 300.09,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-28T23:41:13+00:00",
+      "first_seen": "2026-08-28T23:41:13+00:00",
+      "recent_sales": [
+        {
+          "date": "8/7/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$300.09"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:41:13+00:00",
+          "listed_median": "$2,800.00",
+          "average_sale_price": 300.09
+        }
+      ]
+    },
+    {
       "product_id": "710857",
       "name": "Monkey.D.Luffy (EB04-061) (SP) - The World's Strongest Warriors (OP17)",
       "url": "https://www.tcgplayer.com/product/710857?Language=English",
@@ -29164,6 +38651,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:18:51+00:00",
+      "first_seen": "2026-08-26T22:18:51+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -29212,6 +38700,7 @@ const TCG_DATA = {
       "average_sale_price": 1166.89,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:28:39+00:00",
+      "first_seen": "2026-08-26T18:28:39+00:00",
       "recent_sales": [
         {
           "date": "8/20/26",
@@ -29272,6 +38761,7 @@ const TCG_DATA = {
       "average_sale_price": 475.66,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:03:27+00:00",
+      "first_seen": "2026-08-26T23:03:27+00:00",
       "recent_sales": [
         {
           "date": "8/18/26",
@@ -29332,6 +38822,7 @@ const TCG_DATA = {
       "average_sale_price": 336.58,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:07:23+00:00",
+      "first_seen": "2026-08-26T23:07:23+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -29373,6 +38864,68 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "509463",
+      "name": "Monkey.D.Luffy (Event Pack Vol. 2) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/509463?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/509463_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-033",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$334.99",
+      "average_sale_price": 302.6,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:35:58+00:00",
+      "first_seen": "2026-08-28T23:35:58+00:00",
+      "recent_sales": [
+        {
+          "date": "8/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$420.00"
+        },
+        {
+          "date": "8/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$345.00"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$313.00"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$105.00"
+        },
+        {
+          "date": "8/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$330.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:35:58+00:00",
+          "listed_median": "$334.99",
+          "average_sale_price": 302.6
+        }
+      ]
+    },
+    {
       "product_id": "523785",
       "name": "Monkey.D.Luffy (Gift Collection 2023) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/523785?Language=English",
@@ -29392,6 +38945,7 @@ const TCG_DATA = {
       "average_sale_price": 101.23,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T17:55:47+00:00",
+      "first_seen": "2026-08-26T17:55:47+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -29451,6 +39005,7 @@ const TCG_DATA = {
       "average_sale_price": 9.83,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:22:04+00:00",
+      "first_seen": "2026-08-27T19:26:06+00:00",
       "recent_sales": [
         {
           "date": "8/8/26",
@@ -29515,6 +39070,7 @@ const TCG_DATA = {
       "average_sale_price": 21.99,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:25:39+00:00",
+      "first_seen": "2026-08-27T00:09:53+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -29574,6 +39130,7 @@ const TCG_DATA = {
       "average_sale_price": 3.4,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:46:59+00:00",
+      "first_seen": "2026-08-27T19:49:31+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -29638,6 +39195,67 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "586960",
+      "name": "Monkey.D.Luffy (OP05-119) (Alternate Art) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/586960?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586960_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP05-119",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$220.00",
+      "average_sale_price": 212.51,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:21:22+00:00",
+      "first_seen": "2026-08-28T23:21:22+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$84.00"
+        },
+        {
+          "date": "8/10/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$264.75"
+        },
+        {
+          "date": "7/5/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$180.00"
+        },
+        {
+          "date": "7/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$264.80"
+        },
+        {
+          "date": "7/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$268.98"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:21:22+00:00",
+          "listed_median": "$220.00",
+          "average_sale_price": 212.51
+        }
+      ]
+    },
+    {
       "product_id": "587963",
       "name": "Monkey.D.Luffy (OP05-119) (Manga) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/587963?Language=English",
@@ -29656,7 +39274,8 @@ const TCG_DATA = {
       "listed_median": "$7,499.98",
       "average_sale_price": 5000.0,
       "recent_sales_count": 1,
-      "last_scraped": "2026-08-26T18:03:28+00:00",
+      "last_scraped": "2026-08-28T23:19:13+00:00",
+      "first_seen": "2026-08-26T18:03:28+00:00",
       "recent_sales": [
         {
           "date": "5/12/26",
@@ -29670,6 +39289,72 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T18:03:28+00:00",
           "listed_median": "$7,499.98",
           "average_sale_price": 5000.0
+        },
+        {
+          "scraped_at": "2026-08-28T23:19:13+00:00",
+          "listed_median": "$7,499.98",
+          "average_sale_price": 5000.0
+        }
+      ]
+    },
+    {
+      "product_id": "594325",
+      "name": "Monkey.D.Luffy (OP05-119) (Reprint) - Premium Booster -The Best- (PRB-01)",
+      "url": "https://www.tcgplayer.com/product/594325?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/594325_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP05-119",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$11.00",
+      "average_sale_price": 8.5,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:23:23+00:00",
+      "first_seen": "2026-08-28T23:23:23+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$9.74"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$8.19"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$4.99"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$10.36"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$9.21"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:23:23+00:00",
+          "listed_median": "$11.00",
+          "average_sale_price": 8.5
         }
       ]
     },
@@ -29693,6 +39378,7 @@ const TCG_DATA = {
       "average_sale_price": 40.0,
       "recent_sales_count": 1,
       "last_scraped": "2026-08-27T23:33:05+00:00",
+      "first_seen": "2026-08-27T23:33:05+00:00",
       "recent_sales": [
         {
           "date": "5/9/26",
@@ -29729,6 +39415,7 @@ const TCG_DATA = {
       "average_sale_price": 7.47,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:36:04+00:00",
+      "first_seen": "2026-08-27T19:40:14+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -29788,6 +39475,7 @@ const TCG_DATA = {
       "average_sale_price": 81.95,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:31:14+00:00",
+      "first_seen": "2026-08-26T23:31:14+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -29848,6 +39536,7 @@ const TCG_DATA = {
       "average_sale_price": 0.2,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:39:17+00:00",
+      "first_seen": "2026-08-27T22:39:17+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -29883,6 +39572,59 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "697484",
+      "name": "Monkey.D.Luffy (OP16 Release Event Winner) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/697484?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/697484_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-135",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "5000",
+        "Counter+": "1000"
+      },
+      "listed_median": "$227.76",
+      "average_sale_price": 182.68,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:49:26+00:00",
+      "first_seen": "2026-08-28T23:49:26+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "7",
+          "price": "$193.39"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$180.00"
+        },
+        {
+          "date": "8/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$179.01"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$180.49"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:49:26+00:00",
+          "listed_median": "$227.76",
+          "average_sale_price": 182.68
+        }
+      ]
+    },
+    {
       "product_id": "694713",
       "name": "Monkey.D.Luffy (Official Playmat Limited Edition Vol.5) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/694713?Language=English",
@@ -29902,6 +39644,7 @@ const TCG_DATA = {
       "average_sale_price": 678.45,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:16:35+00:00",
+      "first_seen": "2026-08-26T19:16:35+00:00",
       "recent_sales": [
         {
           "date": "8/21/26",
@@ -29962,6 +39705,7 @@ const TCG_DATA = {
       "average_sale_price": 387.0,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:06:44+00:00",
+      "first_seen": "2026-08-26T23:06:44+00:00",
       "recent_sales": [
         {
           "date": "8/19/26",
@@ -30003,6 +39747,68 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "515362",
+      "name": "Monkey.D.Luffy (Pre-Release Tournament) (Winner) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/515362?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/515362_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-036",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "4000",
+        "Subtype(s)": "Land of Wano Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$555.00",
+      "average_sale_price": 421.86,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:34:39+00:00",
+      "first_seen": "2026-08-28T23:34:39+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$460.30"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$450.00"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$458.13"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "MP Foil",
+          "quantity": "1",
+          "price": "$220.00"
+        },
+        {
+          "date": "7/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$520.89"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:34:39+00:00",
+          "listed_median": "$555.00",
+          "average_sale_price": 421.86
+        }
+      ]
+    },
+    {
       "product_id": "566952",
       "name": "Monkey.D.Luffy (Premium Card Collection -Leader Collection-) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/566952?Language=English",
@@ -30022,6 +39828,7 @@ const TCG_DATA = {
       "average_sale_price": 153.88,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:13:19+00:00",
+      "first_seen": "2026-08-26T23:13:19+00:00",
       "recent_sales": [
         {
           "date": "8/19/26",
@@ -30083,6 +39890,7 @@ const TCG_DATA = {
       "average_sale_price": 8898.99,
       "recent_sales_count": 1,
       "last_scraped": "2026-08-26T18:00:17+00:00",
+      "first_seen": "2026-08-26T18:00:17+00:00",
       "recent_sales": [
         {
           "date": "6/12/26",
@@ -30119,6 +39927,7 @@ const TCG_DATA = {
       "average_sale_price": 4999.99,
       "recent_sales_count": 1,
       "last_scraped": "2026-08-26T18:05:59+00:00",
+      "first_seen": "2026-08-26T18:05:59+00:00",
       "recent_sales": [
         {
           "date": "6/2/26",
@@ -30155,6 +39964,7 @@ const TCG_DATA = {
       "average_sale_price": 3.3,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:47:40+00:00",
+      "first_seen": "2026-08-27T19:50:09+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -30238,6 +40048,7 @@ const TCG_DATA = {
       "average_sale_price": 1225.0,
       "recent_sales_count": 1,
       "last_scraped": "2026-08-26T18:33:08+00:00",
+      "first_seen": "2026-08-26T18:33:08+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -30273,6 +40084,7 @@ const TCG_DATA = {
       "average_sale_price": 1.51,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:12:46+00:00",
+      "first_seen": "2026-08-27T22:12:46+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -30333,6 +40145,7 @@ const TCG_DATA = {
       "average_sale_price": 31.86,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:21:31+00:00",
+      "first_seen": "2026-08-27T00:05:39+00:00",
       "recent_sales": [
         {
           "date": "8/22/26",
@@ -30398,6 +40211,7 @@ const TCG_DATA = {
       "average_sale_price": 19.38,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:07:39+00:00",
+      "first_seen": "2026-08-27T19:07:39+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -30457,7 +40271,8 @@ const TCG_DATA = {
       "listed_median": "$3,499.01",
       "average_sale_price": 1235.98,
       "recent_sales_count": 5,
-      "last_scraped": "2026-08-26T18:24:42+00:00",
+      "last_scraped": "2026-08-28T23:24:41+00:00",
+      "first_seen": "2026-08-26T18:24:42+00:00",
       "recent_sales": [
         {
           "date": "7/3/26",
@@ -30495,6 +40310,133 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T18:24:42+00:00",
           "listed_median": "$3,499.01",
           "average_sale_price": 1235.98
+        },
+        {
+          "scraped_at": "2026-08-28T23:24:41+00:00",
+          "listed_median": "$3,499.01",
+          "average_sale_price": 1235.98
+        }
+      ]
+    },
+    {
+      "product_id": "450300",
+      "name": "Monkey.D.Luffy (Super Pre-Release) [Participant] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/450300?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/450300_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-001",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "7000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$264.94",
+      "average_sale_price": 187.38,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:55:58+00:00",
+      "first_seen": "2026-08-28T23:55:58+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$182.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$183.99"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$183.00"
+        },
+        {
+          "date": "8/13/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$194.47"
+        },
+        {
+          "date": "8/13/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$192.43"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:55:58+00:00",
+          "listed_median": "$264.94",
+          "average_sale_price": 187.38
+        }
+      ]
+    },
+    {
+      "product_id": "596915",
+      "name": "Monkey.D.Luffy (Wanted Poster) - Emperors in the New World (OP09)",
+      "url": "https://www.tcgplayer.com/product/596915?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/596915_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "SEC",
+        "Number": "OP05-119",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$678.21",
+      "average_sale_price": 625.7,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:19:57+00:00",
+      "first_seen": "2026-08-28T23:19:57+00:00",
+      "recent_sales": [
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$614.98"
+        },
+        {
+          "date": "8/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$616.31"
+        },
+        {
+          "date": "7/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$648.50"
+        },
+        {
+          "date": "7/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$648.71"
+        },
+        {
+          "date": "7/14/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$600.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:19:57+00:00",
+          "listed_median": "$678.21",
+          "average_sale_price": 625.7
         }
       ]
     },
@@ -30518,6 +40460,7 @@ const TCG_DATA = {
       "average_sale_price": 146.52,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:12:00+00:00",
+      "first_seen": "2026-08-25T22:16:07+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -30564,6 +40507,130 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "457018",
+      "name": "Monkey.D.Luffy - P-006 (Winner Pack Vol. 1) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/457018?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/457018_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-006",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "3000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Counter+": "2000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$149.99",
+      "average_sale_price": 194.38,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:55:17+00:00",
+      "first_seen": "2026-08-28T23:55:17+00:00",
+      "recent_sales": [
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$216.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$199.21"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$196.69"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$180.00"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$179.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:55:17+00:00",
+          "listed_median": "$149.99",
+          "average_sale_price": 194.38
+        }
+      ]
+    },
+    {
+      "product_id": "457019",
+      "name": "Monkey.D.Luffy - P-007 (Winner Pack Vol. 1) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/457019?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/457019_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-007",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$254.00",
+      "average_sale_price": 243.46,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:45:27+00:00",
+      "first_seen": "2026-08-28T23:45:27+00:00",
+      "recent_sales": [
+        {
+          "date": "8/21/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$255.00"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$220.00"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$262.30"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$260.00"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$220.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:45:27+00:00",
+          "listed_median": "$254.00",
+          "average_sale_price": 243.46
+        }
+      ]
+    },
+    {
       "product_id": "599769",
       "name": "Monkey.D.Luffy - Revision Pack Cards (OP-RP)",
       "url": "https://www.tcgplayer.com/product/599769?Language=English",
@@ -30583,6 +40650,7 @@ const TCG_DATA = {
       "average_sale_price": 9.2,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:27:59+00:00",
+      "first_seen": "2026-08-27T19:32:08+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -30648,6 +40716,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-27T23:35:00+00:00",
+      "first_seen": "2026-08-27T23:35:00+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -30696,6 +40765,7 @@ const TCG_DATA = {
       "average_sale_price": 11.53,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:26:40+00:00",
+      "first_seen": "2026-08-27T19:30:48+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -30767,6 +40837,7 @@ const TCG_DATA = {
       "average_sale_price": 2104.24,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:21:30+00:00",
+      "first_seen": "2026-08-26T18:21:30+00:00",
       "recent_sales": [
         {
           "date": "8/3/26",
@@ -30827,6 +40898,7 @@ const TCG_DATA = {
       "average_sale_price": 1.71,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:20:44+00:00",
+      "first_seen": "2026-08-25T23:20:44+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -30888,6 +40960,7 @@ const TCG_DATA = {
       "average_sale_price": 0.02,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:29:33+00:00",
+      "first_seen": "2026-08-25T19:29:33+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -30949,6 +41022,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:13:49+00:00",
+      "first_seen": "2026-08-25T20:13:49+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -31010,6 +41084,7 @@ const TCG_DATA = {
       "average_sale_price": 0.03,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:32:10+00:00",
+      "first_seen": "2026-08-25T19:32:10+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -31064,6 +41139,7 @@ const TCG_DATA = {
       "average_sale_price": 5.38,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:15:07+00:00",
+      "first_seen": "2026-08-25T20:15:07+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -31118,6 +41194,7 @@ const TCG_DATA = {
       "average_sale_price": 0.39,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:14:28+00:00",
+      "first_seen": "2026-08-25T20:14:28+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -31179,6 +41256,7 @@ const TCG_DATA = {
       "average_sale_price": 0.06,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:32:50+00:00",
+      "first_seen": "2026-08-25T19:32:50+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -31240,6 +41318,7 @@ const TCG_DATA = {
       "average_sale_price": 23.44,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:16:25+00:00",
+      "first_seen": "2026-08-25T20:16:25+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -31301,6 +41380,7 @@ const TCG_DATA = {
       "average_sale_price": 3.99,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:15:46+00:00",
+      "first_seen": "2026-08-25T20:15:46+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -31361,6 +41441,7 @@ const TCG_DATA = {
       "average_sale_price": 554.77,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:59:45+00:00",
+      "first_seen": "2026-08-25T23:59:45+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -31422,6 +41503,7 @@ const TCG_DATA = {
       "average_sale_price": 0.48,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:30:12+00:00",
+      "first_seen": "2026-08-26T19:30:12+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -31481,6 +41563,7 @@ const TCG_DATA = {
       "average_sale_price": 245.46,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:10:41+00:00",
+      "first_seen": "2026-08-26T23:10:41+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -31541,6 +41624,7 @@ const TCG_DATA = {
       "average_sale_price": 1.55,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:06:01+00:00",
+      "first_seen": "2026-08-27T22:06:01+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -31597,6 +41681,7 @@ const TCG_DATA = {
       "average_sale_price": 64.79,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:34:34+00:00",
+      "first_seen": "2026-08-26T23:34:34+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -31651,6 +41736,7 @@ const TCG_DATA = {
       "average_sale_price": 0.21,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:37:16+00:00",
+      "first_seen": "2026-08-27T22:37:16+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -31712,6 +41798,7 @@ const TCG_DATA = {
       "average_sale_price": 1130.73,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:29:58+00:00",
+      "first_seen": "2026-08-26T18:29:58+00:00",
       "recent_sales": [
         {
           "date": "8/23/26",
@@ -31773,6 +41860,7 @@ const TCG_DATA = {
       "average_sale_price": 0.71,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:53:57+00:00",
+      "first_seen": "2026-08-26T19:53:57+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -31828,6 +41916,7 @@ const TCG_DATA = {
       "average_sale_price": 1069.69,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:18:13+00:00",
+      "first_seen": "2026-08-26T18:18:13+00:00",
       "recent_sales": [
         {
           "date": "7/7/26",
@@ -31869,6 +41958,68 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "681613",
+      "name": "Nami (Heroines Battle Winner Pack) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/681613?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/681613_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-112",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$270.80",
+      "average_sale_price": 287.57,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:40:34+00:00",
+      "first_seen": "2026-08-28T23:40:34+00:00",
+      "recent_sales": [
+        {
+          "date": "8/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$319.98"
+        },
+        {
+          "date": "8/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$289.90"
+        },
+        {
+          "date": "7/17/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$378.99"
+        },
+        {
+          "date": "7/17/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$378.99"
+        },
+        {
+          "date": "6/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$70.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:40:34+00:00",
+          "listed_median": "$270.80",
+          "average_sale_price": 287.57
+        }
+      ]
+    },
+    {
       "product_id": "587966",
       "name": "Nami (OP01-016) (Manga) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/587966?Language=English",
@@ -31889,6 +42040,7 @@ const TCG_DATA = {
       "average_sale_price": 1470.41,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:17:35+00:00",
+      "first_seen": "2026-08-26T18:17:35+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -31930,6 +42082,68 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "497000",
+      "name": "Nami (Tournament Pack Vol. 3) [Winner] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/497000?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/497000_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "ST01-007",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "1000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$199.00",
+      "average_sale_price": 196.86,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:52:40+00:00",
+      "first_seen": "2026-08-28T23:52:40+00:00",
+      "recent_sales": [
+        {
+          "date": "8/6/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$174.07"
+        },
+        {
+          "date": "8/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$208.69"
+        },
+        {
+          "date": "8/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$197.60"
+        },
+        {
+          "date": "7/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$209.99"
+        },
+        {
+          "date": "7/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$193.94"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:52:40+00:00",
+          "listed_median": "$199.00",
+          "average_sale_price": 196.86
+        }
+      ]
+    },
+    {
       "product_id": "675637",
       "name": "Nami (Whole Cake Island Arc) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/675637?Language=English",
@@ -31949,6 +42163,7 @@ const TCG_DATA = {
       "average_sale_price": 925.99,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:11:24+00:00",
+      "first_seen": "2026-08-26T19:11:24+00:00",
       "recent_sales": [
         {
           "date": "8/9/26",
@@ -32009,6 +42224,7 @@ const TCG_DATA = {
       "average_sale_price": 9.7,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:29:20+00:00",
+      "first_seen": "2026-08-27T19:33:27+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -32080,6 +42296,7 @@ const TCG_DATA = {
       "average_sale_price": 1.61,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:00:27+00:00",
+      "first_seen": "2026-08-27T20:02:59+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -32140,6 +42357,7 @@ const TCG_DATA = {
       "average_sale_price": 0.5,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:35:43+00:00",
+      "first_seen": "2026-08-25T20:35:43+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -32201,6 +42419,7 @@ const TCG_DATA = {
       "average_sale_price": 0.09,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:05:56+00:00",
+      "first_seen": "2026-08-25T23:05:56+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -32261,6 +42480,7 @@ const TCG_DATA = {
       "average_sale_price": 7.57,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:35:22+00:00",
+      "first_seen": "2026-08-27T19:39:31+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -32326,6 +42546,7 @@ const TCG_DATA = {
       "average_sale_price": 125.01,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:15:55+00:00",
+      "first_seen": "2026-08-26T23:15:55+00:00",
       "recent_sales": [
         {
           "date": "8/8/26",
@@ -32386,6 +42607,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:14:44+00:00",
+      "first_seen": "2026-08-27T23:14:44+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -32440,6 +42662,7 @@ const TCG_DATA = {
       "average_sale_price": 0.17,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:09:11+00:00",
+      "first_seen": "2026-08-27T23:09:11+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -32469,6 +42692,62 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "497408",
+      "name": "Nefeltari Vivi (OP-03 Pre-Release Tournament) [Winner] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/497408?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/497408_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "ST01-009",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "4000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$349.99",
+      "average_sale_price": 299.14,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:39:54+00:00",
+      "first_seen": "2026-08-28T23:39:54+00:00",
+      "recent_sales": [
+        {
+          "date": "8/3/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$329.69"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "DMG Foil",
+          "quantity": "1",
+          "price": "$98.00"
+        },
+        {
+          "date": "7/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$350.00"
+        },
+        {
+          "date": "7/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$368.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:39:54+00:00",
+          "listed_median": "$349.99",
+          "average_sale_price": 299.14
+        }
+      ]
+    },
+    {
       "product_id": "533882",
       "name": "New Genesis - Starter Deck 11: Uta (ST-11)",
       "url": "https://www.tcgplayer.com/product/533882?Language=English",
@@ -32486,6 +42765,7 @@ const TCG_DATA = {
       "average_sale_price": 0.29,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:00:11+00:00",
+      "first_seen": "2026-08-26T23:00:11+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -32546,6 +42826,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-27T23:32:27+00:00",
+      "first_seen": "2026-08-27T23:32:27+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -32594,6 +42875,7 @@ const TCG_DATA = {
       "average_sale_price": 1468.0,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:26:39+00:00",
+      "first_seen": "2026-08-26T18:26:39+00:00",
       "recent_sales": [
         {
           "date": "8/22/26",
@@ -32654,6 +42936,7 @@ const TCG_DATA = {
       "average_sale_price": 102.45,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:26:30+00:00",
+      "first_seen": "2026-08-26T23:26:30+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -32714,6 +42997,7 @@ const TCG_DATA = {
       "average_sale_price": 0.38,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:34:31+00:00",
+      "first_seen": "2026-08-27T22:34:31+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -32775,6 +43059,7 @@ const TCG_DATA = {
       "average_sale_price": 61.15,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:26:18+00:00",
+      "first_seen": "2026-08-26T20:26:18+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -32816,6 +43101,68 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "681612",
+      "name": "Nico Robin (Heroines Battle Winner Pack) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/681612?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/681612_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-111",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "4000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$304.99",
+      "average_sale_price": 242.54,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:39:14+00:00",
+      "first_seen": "2026-08-28T23:39:14+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$272.86"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$274.93"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$80.00"
+        },
+        {
+          "date": "8/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$284.99"
+        },
+        {
+          "date": "7/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$299.90"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:39:14+00:00",
+          "listed_median": "$304.99",
+          "average_sale_price": 242.54
+        }
+      ]
+    },
+    {
       "product_id": "696075",
       "name": "Nico Robin - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696075?Language=English",
@@ -32836,6 +43183,7 @@ const TCG_DATA = {
       "average_sale_price": 0.22,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:36:22+00:00",
+      "first_seen": "2026-08-25T20:36:22+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -32891,6 +43239,7 @@ const TCG_DATA = {
       "average_sale_price": 0.99,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:03:27+00:00",
+      "first_seen": "2026-08-26T22:03:27+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -32952,6 +43301,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T18:22:46+00:00",
+      "first_seen": "2026-08-26T18:22:46+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -33001,6 +43351,7 @@ const TCG_DATA = {
       "average_sale_price": 0.02,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:19:00+00:00",
+      "first_seen": "2026-08-25T20:19:00+00:00",
       "recent_sales": [
         {
           "date": "8/23/26",
@@ -33056,6 +43407,7 @@ const TCG_DATA = {
       "average_sale_price": 0.07,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:30:34+00:00",
+      "first_seen": "2026-08-25T20:30:34+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -33116,6 +43468,7 @@ const TCG_DATA = {
       "average_sale_price": 55.48,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:45:19+00:00",
+      "first_seen": "2026-08-26T23:45:19+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -33176,6 +43529,7 @@ const TCG_DATA = {
       "average_sale_price": 0.26,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:29:43+00:00",
+      "first_seen": "2026-08-27T22:29:43+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -33236,6 +43590,7 @@ const TCG_DATA = {
       "average_sale_price": 749.99,
       "recent_sales_count": 4,
       "last_scraped": "2026-08-26T19:02:24+00:00",
+      "first_seen": "2026-08-26T19:02:24+00:00",
       "recent_sales": [
         {
           "date": "8/9/26",
@@ -33290,6 +43645,7 @@ const TCG_DATA = {
       "average_sale_price": 59.17,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:20:04+00:00",
+      "first_seen": "2026-08-25T23:20:04+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -33350,6 +43706,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:19:24+00:00",
+      "first_seen": "2026-08-25T23:19:24+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -33410,6 +43767,7 @@ const TCG_DATA = {
       "average_sale_price": 21.13,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:10:25+00:00",
+      "first_seen": "2026-08-27T19:10:25+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -33458,6 +43816,7 @@ const TCG_DATA = {
       "average_sale_price": 21.85,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:05:37+00:00",
+      "first_seen": "2026-08-27T19:05:37+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -33518,6 +43877,7 @@ const TCG_DATA = {
       "average_sale_price": 0.2,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:08:29+00:00",
+      "first_seen": "2026-08-27T23:08:29+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -33578,6 +43938,7 @@ const TCG_DATA = {
       "average_sale_price": 2.08,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:53:40+00:00",
+      "first_seen": "2026-08-27T19:56:12+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -33638,6 +43999,7 @@ const TCG_DATA = {
       "average_sale_price": 0.07,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:10:35+00:00",
+      "first_seen": "2026-08-25T20:10:35+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -33699,6 +44061,7 @@ const TCG_DATA = {
       "average_sale_price": 0.11,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:37:39+00:00",
+      "first_seen": "2026-08-25T20:37:39+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -33760,6 +44123,7 @@ const TCG_DATA = {
       "average_sale_price": 32.0,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:54:17+00:00",
+      "first_seen": "2026-08-25T23:54:17+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -33815,6 +44179,7 @@ const TCG_DATA = {
       "average_sale_price": 13.11,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:53:38+00:00",
+      "first_seen": "2026-08-25T23:53:38+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -33869,6 +44234,7 @@ const TCG_DATA = {
       "average_sale_price": 37.24,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:45:59+00:00",
+      "first_seen": "2026-08-26T23:45:59+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -33929,6 +44295,7 @@ const TCG_DATA = {
       "average_sale_price": 77.18,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:32:32+00:00",
+      "first_seen": "2026-08-26T23:32:32+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -33989,6 +44356,7 @@ const TCG_DATA = {
       "average_sale_price": 163.21,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:13:57+00:00",
+      "first_seen": "2026-08-26T23:13:57+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -34043,6 +44411,7 @@ const TCG_DATA = {
       "average_sale_price": 963.64,
       "recent_sales_count": 4,
       "last_scraped": "2026-08-26T18:13:42+00:00",
+      "first_seen": "2026-08-26T18:13:42+00:00",
       "recent_sales": [
         {
           "date": "8/14/26",
@@ -34097,6 +44466,7 @@ const TCG_DATA = {
       "average_sale_price": 37.64,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:41:58+00:00",
+      "first_seen": "2026-08-26T23:41:58+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -34152,6 +44522,7 @@ const TCG_DATA = {
       "average_sale_price": 164.15,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:58:27+00:00",
+      "first_seen": "2026-08-25T23:58:27+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -34212,6 +44583,7 @@ const TCG_DATA = {
       "average_sale_price": 9950.0,
       "recent_sales_count": 1,
       "last_scraped": "2026-08-26T17:59:01+00:00",
+      "first_seen": "2026-08-26T17:59:01+00:00",
       "recent_sales": [
         {
           "date": "7/22/26",
@@ -34248,6 +44620,7 @@ const TCG_DATA = {
       "average_sale_price": 34.45,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:16:15+00:00",
+      "first_seen": "2026-08-27T00:00:15+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -34313,6 +44686,7 @@ const TCG_DATA = {
       "average_sale_price": 35.23,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:57:45+00:00",
+      "first_seen": "2026-08-26T23:57:45+00:00",
       "recent_sales": [
         {
           "date": "8/2/26",
@@ -34373,6 +44747,7 @@ const TCG_DATA = {
       "average_sale_price": 0.44,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:16:43+00:00",
+      "first_seen": "2026-08-27T22:16:43+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -34434,6 +44809,7 @@ const TCG_DATA = {
       "average_sale_price": 0.8,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:51:45+00:00",
+      "first_seen": "2026-08-26T21:51:45+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -34495,6 +44871,7 @@ const TCG_DATA = {
       "average_sale_price": 2.23,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:57:22+00:00",
+      "first_seen": "2026-08-25T19:57:22+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -34555,6 +44932,7 @@ const TCG_DATA = {
       "average_sale_price": 15.26,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:18:38+00:00",
+      "first_seen": "2026-08-27T19:22:40+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -34620,6 +44998,7 @@ const TCG_DATA = {
       "average_sale_price": 0.12,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:23:30+00:00",
+      "first_seen": "2026-08-27T23:23:30+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -34680,6 +45059,7 @@ const TCG_DATA = {
       "average_sale_price": 0.46,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:42:36+00:00",
+      "first_seen": "2026-08-26T22:42:36+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -34722,6 +45102,7 @@ const TCG_DATA = {
       "average_sale_price": 24.39,
       "recent_sales_count": 2,
       "last_scraped": "2026-08-26T22:43:15+00:00",
+      "first_seen": "2026-08-26T22:43:15+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -34765,6 +45146,7 @@ const TCG_DATA = {
       "average_sale_price": 0.44,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:27:00+00:00",
+      "first_seen": "2026-08-26T19:27:00+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -34819,6 +45201,7 @@ const TCG_DATA = {
       "average_sale_price": 0.03,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:09:20+00:00",
+      "first_seen": "2026-08-25T23:09:20+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -34879,6 +45262,7 @@ const TCG_DATA = {
       "average_sale_price": 42.75,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:48:03+00:00",
+      "first_seen": "2026-08-26T23:48:03+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -34939,6 +45323,7 @@ const TCG_DATA = {
       "average_sale_price": 0.15,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:05:19+00:00",
+      "first_seen": "2026-08-27T23:05:19+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -34999,6 +45384,7 @@ const TCG_DATA = {
       "average_sale_price": 17.6,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:17:17+00:00",
+      "first_seen": "2026-08-27T19:21:17+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -35064,6 +45450,7 @@ const TCG_DATA = {
       "average_sale_price": 0.08,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:19:34+00:00",
+      "first_seen": "2026-08-27T23:19:34+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -35125,6 +45512,7 @@ const TCG_DATA = {
       "average_sale_price": 6000.0,
       "recent_sales_count": 2,
       "last_scraped": "2026-08-26T18:00:56+00:00",
+      "first_seen": "2026-08-26T18:00:56+00:00",
       "recent_sales": [
         {
           "date": "7/23/26",
@@ -35166,6 +45554,7 @@ const TCG_DATA = {
       "average_sale_price": 31.81,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:18:55+00:00",
+      "first_seen": "2026-08-27T00:03:00+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -35231,6 +45620,7 @@ const TCG_DATA = {
       "average_sale_price": 0.21,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:43:57+00:00",
+      "first_seen": "2026-08-27T22:43:57+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -35291,6 +45681,7 @@ const TCG_DATA = {
       "average_sale_price": 19.4,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:13:11+00:00",
+      "first_seen": "2026-08-27T19:17:12+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -35356,6 +45747,7 @@ const TCG_DATA = {
       "average_sale_price": 0.13,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:20:12+00:00",
+      "first_seen": "2026-08-27T23:20:12+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -35416,6 +45808,7 @@ const TCG_DATA = {
       "average_sale_price": 1124.99,
       "recent_sales_count": 2,
       "last_scraped": "2026-08-26T19:06:16+00:00",
+      "first_seen": "2026-08-26T19:06:16+00:00",
       "recent_sales": [
         {
           "date": "5/16/26",
@@ -35456,6 +45849,7 @@ const TCG_DATA = {
       "average_sale_price": 0.68,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:43:02+00:00",
+      "first_seen": "2026-08-26T19:43:02+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -35516,6 +45910,7 @@ const TCG_DATA = {
       "average_sale_price": 112.36,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:17:37+00:00",
+      "first_seen": "2026-08-26T20:17:37+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -35570,6 +45965,7 @@ const TCG_DATA = {
       "average_sale_price": 2.78,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:50:17+00:00",
+      "first_seen": "2026-08-26T21:53:41+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -35670,6 +46066,7 @@ const TCG_DATA = {
       "average_sale_price": 93.38,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:21:28+00:00",
+      "first_seen": "2026-08-26T20:21:28+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -35730,6 +46127,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:20:08+00:00",
+      "first_seen": "2026-08-26T22:20:08+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -35778,6 +46176,7 @@ const TCG_DATA = {
       "average_sale_price": 36.86,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:22:15+00:00",
+      "first_seen": "2026-08-26T21:22:15+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -35839,6 +46238,7 @@ const TCG_DATA = {
       "average_sale_price": 0.08,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:10:40+00:00",
+      "first_seen": "2026-08-25T23:10:40+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -35900,6 +46300,7 @@ const TCG_DATA = {
       "average_sale_price": 0.26,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:38:07+00:00",
+      "first_seen": "2026-08-26T22:38:07+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -35955,6 +46356,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:38:45+00:00",
+      "first_seen": "2026-08-26T22:38:45+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -36004,6 +46406,7 @@ const TCG_DATA = {
       "average_sale_price": 0.36,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:57:48+00:00",
+      "first_seen": "2026-08-26T19:57:48+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -36064,6 +46467,7 @@ const TCG_DATA = {
       "average_sale_price": 12.75,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:22:43+00:00",
+      "first_seen": "2026-08-27T19:26:46+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -36135,6 +46539,7 @@ const TCG_DATA = {
       "average_sale_price": 792.0,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:18:31+00:00",
+      "first_seen": "2026-08-26T19:18:31+00:00",
       "recent_sales": [
         {
           "date": "8/8/26",
@@ -36195,6 +46600,7 @@ const TCG_DATA = {
       "average_sale_price": 2.48,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:52:18+00:00",
+      "first_seen": "2026-08-27T19:54:51+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -36260,6 +46666,7 @@ const TCG_DATA = {
       "average_sale_price": 53.96,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:42:37+00:00",
+      "first_seen": "2026-08-26T23:42:37+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -36320,6 +46727,7 @@ const TCG_DATA = {
       "average_sale_price": 0.2,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:39:56+00:00",
+      "first_seen": "2026-08-27T22:39:56+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -36374,6 +46782,7 @@ const TCG_DATA = {
       "average_sale_price": 0.08,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:31:30+00:00",
+      "first_seen": "2026-08-25T19:31:30+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -36435,6 +46844,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:33:25+00:00",
+      "first_seen": "2026-08-26T19:33:25+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -36489,6 +46899,7 @@ const TCG_DATA = {
       "average_sale_price": 0.07,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:13:10+00:00",
+      "first_seen": "2026-08-25T20:13:10+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -36544,6 +46955,7 @@ const TCG_DATA = {
       "average_sale_price": 0.57,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:47:45+00:00",
+      "first_seen": "2026-08-26T22:47:45+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -36605,6 +47017,7 @@ const TCG_DATA = {
       "average_sale_price": 15.49,
       "recent_sales_count": 4,
       "last_scraped": "2026-08-26T22:48:23+00:00",
+      "first_seen": "2026-08-26T22:48:23+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -36640,6 +47053,68 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "683982",
+      "name": "Roronoa Zoro (113) (Regionals Finalist Card Set 26-27) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/683982?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/683982_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "OP07-113",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Straw Hat Crew Egghead",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$496.50",
+      "average_sale_price": 487.39,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:35:19+00:00",
+      "first_seen": "2026-08-28T23:35:19+00:00",
+      "recent_sales": [
+        {
+          "date": "7/6/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$450.00"
+        },
+        {
+          "date": "6/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$495.99"
+        },
+        {
+          "date": "6/29/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$499.99"
+        },
+        {
+          "date": "6/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$495.99"
+        },
+        {
+          "date": "6/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$495.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:35:19+00:00",
+          "listed_median": "$496.50",
+          "average_sale_price": 487.39
+        }
+      ]
+    },
+    {
       "product_id": "541660",
       "name": "Roronoa Zoro (Alternate Art) (Manga) - Wings of the Captain (OP06)",
       "url": "https://www.tcgplayer.com/product/541660?Language=English",
@@ -36659,6 +47134,7 @@ const TCG_DATA = {
       "average_sale_price": 2469.8,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:13:03+00:00",
+      "first_seen": "2026-08-26T18:13:03+00:00",
       "recent_sales": [
         {
           "date": "8/6/26",
@@ -36700,6 +47176,68 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "579985",
+      "name": "Roronoa Zoro (CS 2024 Event Pack) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/579985?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/579985_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-042",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "Land of Wano Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$211.45",
+      "average_sale_price": 141.58,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:46:46+00:00",
+      "first_seen": "2026-08-28T23:46:46+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "5",
+          "price": "$151.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "LP Foil",
+          "quantity": "2",
+          "price": "$150.98"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "LP Foil",
+          "quantity": "2",
+          "price": "$150.97"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$153.98"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$100.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:46:46+00:00",
+          "listed_median": "$211.45",
+          "average_sale_price": 141.58
+        }
+      ]
+    },
+    {
       "product_id": "619217",
       "name": "Roronoa Zoro (Championship 25-26 Regionals Season 1) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/619217?Language=English",
@@ -36719,6 +47257,7 @@ const TCG_DATA = {
       "average_sale_price": 166.98,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:04:06+00:00",
+      "first_seen": "2026-08-26T18:04:06+00:00",
       "recent_sales": [
         {
           "date": "8/7/26",
@@ -36779,6 +47318,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:12:27+00:00",
+      "first_seen": "2026-08-26T22:12:27+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -36827,6 +47367,7 @@ const TCG_DATA = {
       "average_sale_price": 15.62,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T17:57:45+00:00",
+      "first_seen": "2026-08-26T17:57:45+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -36887,6 +47428,7 @@ const TCG_DATA = {
       "average_sale_price": 2111.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T18:16:18+00:00",
+      "first_seen": "2026-08-26T18:16:18+00:00",
       "recent_sales": [
         {
           "date": "8/14/26",
@@ -36916,6 +47458,68 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "537439",
+      "name": "Roronoa Zoro (OP-06 Pre-Release Tournament) [Winner] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/537439?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/537439_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-045",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "7000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$412.99",
+      "average_sale_price": 456.79,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:37:16+00:00",
+      "first_seen": "2026-08-28T23:37:16+00:00",
+      "recent_sales": [
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$385.00"
+        },
+        {
+          "date": "8/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$449.99"
+        },
+        {
+          "date": "7/25/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$448.95"
+        },
+        {
+          "date": "7/24/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$499.99"
+        },
+        {
+          "date": "7/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$500.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:37:16+00:00",
+          "listed_median": "$412.99",
+          "average_sale_price": 456.79
+        }
+      ]
+    },
+    {
       "product_id": "706319",
       "name": "Roronoa Zoro (OP12-020) - Starter Deck 32: GREEN Roronoa Zoro (ST-32)",
       "url": "https://www.tcgplayer.com/product/706319?Language=English",
@@ -36935,6 +47539,7 @@ const TCG_DATA = {
       "average_sale_price": 2.8,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:49:39+00:00",
+      "first_seen": "2026-08-27T19:52:10+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -37018,6 +47623,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-27T23:34:22+00:00",
+      "first_seen": "2026-08-27T23:34:22+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -37066,6 +47672,7 @@ const TCG_DATA = {
       "average_sale_price": 129.99,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:17:14+00:00",
+      "first_seen": "2026-08-26T23:17:14+00:00",
       "recent_sales": [
         {
           "date": "8/22/26",
@@ -37126,6 +47733,7 @@ const TCG_DATA = {
       "average_sale_price": 633.38,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:04:08+00:00",
+      "first_seen": "2026-08-26T23:04:08+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -37186,6 +47794,7 @@ const TCG_DATA = {
       "average_sale_price": 5.08,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:38:03+00:00",
+      "first_seen": "2026-08-27T19:42:11+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -37251,6 +47860,7 @@ const TCG_DATA = {
       "average_sale_price": 10.91,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:37:23+00:00",
+      "first_seen": "2026-08-27T19:41:32+00:00",
       "recent_sales": [
         {
           "date": "8/21/26",
@@ -37316,6 +47926,7 @@ const TCG_DATA = {
       "average_sale_price": 14.5,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:20:02+00:00",
+      "first_seen": "2026-08-27T19:24:02+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -37381,6 +47992,7 @@ const TCG_DATA = {
       "average_sale_price": 18.93,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:12:30+00:00",
+      "first_seen": "2026-08-27T19:16:29+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -37446,6 +48058,7 @@ const TCG_DATA = {
       "average_sale_price": 0.18,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:53:06+00:00",
+      "first_seen": "2026-08-27T22:53:06+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -37506,6 +48119,7 @@ const TCG_DATA = {
       "average_sale_price": 1.98,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:55:05+00:00",
+      "first_seen": "2026-08-27T19:57:39+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -37571,6 +48185,7 @@ const TCG_DATA = {
       "average_sale_price": 43.74,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:49:26+00:00",
+      "first_seen": "2026-08-26T23:49:26+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -37625,6 +48240,7 @@ const TCG_DATA = {
       "average_sale_price": 0.47,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:36:37+00:00",
+      "first_seen": "2026-08-27T22:35:11+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -37690,6 +48306,7 @@ const TCG_DATA = {
       "average_sale_price": 4800.0,
       "recent_sales_count": 1,
       "last_scraped": "2026-08-26T18:05:22+00:00",
+      "first_seen": "2026-08-26T18:05:22+00:00",
       "recent_sales": [
         {
           "date": "6/28/26",
@@ -37726,6 +48343,7 @@ const TCG_DATA = {
       "average_sale_price": 25.53,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:19:35+00:00",
+      "first_seen": "2026-08-27T00:03:39+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -37791,6 +48409,7 @@ const TCG_DATA = {
       "average_sale_price": 234.39,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:11:18+00:00",
+      "first_seen": "2026-08-26T23:11:18+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -37851,6 +48470,7 @@ const TCG_DATA = {
       "average_sale_price": 3.37,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:46:16+00:00",
+      "first_seen": "2026-08-27T19:48:50+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -37928,6 +48548,7 @@ const TCG_DATA = {
       "average_sale_price": 20.07,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:29:03+00:00",
+      "first_seen": "2026-08-27T00:13:19+00:00",
       "recent_sales": [
         {
           "date": "8/5/26",
@@ -37993,6 +48614,7 @@ const TCG_DATA = {
       "average_sale_price": 778.33,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T19:01:46+00:00",
+      "first_seen": "2026-08-26T18:35:02+00:00",
       "recent_sales": [
         {
           "date": "5/7/26",
@@ -38046,6 +48668,7 @@ const TCG_DATA = {
       "average_sale_price": 31.64,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:20:51+00:00",
+      "first_seen": "2026-08-27T00:04:59+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -38111,6 +48734,7 @@ const TCG_DATA = {
       "average_sale_price": 23.88,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:00:51+00:00",
+      "first_seen": "2026-08-27T19:00:51+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -38171,6 +48795,7 @@ const TCG_DATA = {
       "average_sale_price": 967.8,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:00:40+00:00",
+      "first_seen": "2026-08-25T23:00:40+00:00",
       "recent_sales": [
         {
           "date": "8/4/26",
@@ -38231,6 +48856,7 @@ const TCG_DATA = {
       "average_sale_price": 0.6,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:10:43+00:00",
+      "first_seen": "2026-08-27T22:10:43+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -38291,6 +48917,7 @@ const TCG_DATA = {
       "average_sale_price": 0.15,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:55:08+00:00",
+      "first_seen": "2026-08-27T22:55:08+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -38351,6 +48978,7 @@ const TCG_DATA = {
       "average_sale_price": 1.56,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:01:52+00:00",
+      "first_seen": "2026-08-27T20:04:26+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -38416,6 +49044,7 @@ const TCG_DATA = {
       "average_sale_price": 19.71,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:12:29+00:00",
+      "first_seen": "2026-08-27T19:12:29+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -38470,6 +49099,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:46:01+00:00",
+      "first_seen": "2026-08-27T22:46:01+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -38530,6 +49160,7 @@ const TCG_DATA = {
       "average_sale_price": 121.72,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:15:16+00:00",
+      "first_seen": "2026-08-26T23:15:16+00:00",
       "recent_sales": [
         {
           "date": "8/5/26",
@@ -38571,6 +49202,43 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "482225",
+      "name": "Sanji (Online Regional 2023) [Finalist] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/482225?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/482225_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "ST01-004",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "4000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$590.00",
+      "average_sale_price": 329.45,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-28T23:38:33+00:00",
+      "first_seen": "2026-08-28T23:38:33+00:00",
+      "recent_sales": [
+        {
+          "date": "8/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$329.45"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:38:33+00:00",
+          "listed_median": "$590.00",
+          "average_sale_price": 329.45
+        }
+      ]
+    },
+    {
       "product_id": "586608",
       "name": "Sanji (PRB01-001) (Alternate Art) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/586608?Language=English",
@@ -38590,6 +49258,7 @@ const TCG_DATA = {
       "average_sale_price": 106.73,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:24:29+00:00",
+      "first_seen": "2026-08-26T23:24:29+00:00",
       "recent_sales": [
         {
           "date": "8/9/26",
@@ -38650,6 +49319,7 @@ const TCG_DATA = {
       "average_sale_price": 0.55,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:11:26+00:00",
+      "first_seen": "2026-08-27T22:11:26+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -38710,6 +49380,7 @@ const TCG_DATA = {
       "average_sale_price": 2128.62,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:14:23+00:00",
+      "first_seen": "2026-08-26T18:14:23+00:00",
       "recent_sales": [
         {
           "date": "8/9/26",
@@ -38770,6 +49441,7 @@ const TCG_DATA = {
       "average_sale_price": 0.35,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:20:07+00:00",
+      "first_seen": "2026-08-27T22:20:07+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -38831,6 +49503,7 @@ const TCG_DATA = {
       "average_sale_price": 0.07,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:32:30+00:00",
+      "first_seen": "2026-08-25T20:32:30+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -38892,6 +49565,7 @@ const TCG_DATA = {
       "average_sale_price": 0.9,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:07:58+00:00",
+      "first_seen": "2026-08-26T22:07:58+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -38953,6 +49627,7 @@ const TCG_DATA = {
       "average_sale_price": 0.3,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:22:36+00:00",
+      "first_seen": "2026-08-25T21:55:47+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -39019,6 +49694,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:46:54+00:00",
+      "first_seen": "2026-08-26T19:46:54+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -39056,6 +49732,7 @@ const TCG_DATA = {
       "average_sale_price": 6.97,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:47:57+00:00",
+      "first_seen": "2026-08-26T19:48:49+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -39110,6 +49787,7 @@ const TCG_DATA = {
       "average_sale_price": 0.13,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:48:11+00:00",
+      "first_seen": "2026-08-26T19:48:11+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -39164,6 +49842,7 @@ const TCG_DATA = {
       "average_sale_price": 12.09,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:25:21+00:00",
+      "first_seen": "2026-08-25T23:45:37+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -39258,6 +49937,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:46:16+00:00",
+      "first_seen": "2026-08-25T23:46:16+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -39319,6 +49999,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:22:51+00:00",
+      "first_seen": "2026-08-25T20:22:51+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -39379,6 +50060,7 @@ const TCG_DATA = {
       "average_sale_price": 38.84,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:50:48+00:00",
+      "first_seen": "2026-08-26T23:50:48+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -39433,6 +50115,7 @@ const TCG_DATA = {
       "average_sale_price": 1647.99,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:20:49+00:00",
+      "first_seen": "2026-08-26T18:20:49+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -39493,6 +50176,7 @@ const TCG_DATA = {
       "average_sale_price": 44.99,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:28:12+00:00",
+      "first_seen": "2026-08-26T20:28:12+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -39535,6 +50219,7 @@ const TCG_DATA = {
       "average_sale_price": 0.45,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:12:04+00:00",
+      "first_seen": "2026-08-26T22:06:41+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -39618,6 +50303,7 @@ const TCG_DATA = {
       "average_sale_price": 78.19,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T20:25:01+00:00",
+      "first_seen": "2026-08-26T20:25:01+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -39666,6 +50352,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:16:17+00:00",
+      "first_seen": "2026-08-26T22:16:17+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -39714,6 +50401,7 @@ const TCG_DATA = {
       "average_sale_price": 8.96,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:46:39+00:00",
+      "first_seen": "2026-08-26T21:46:39+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -39774,6 +50462,7 @@ const TCG_DATA = {
       "average_sale_price": 119.09,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:16:34+00:00",
+      "first_seen": "2026-08-26T23:16:34+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -39834,6 +50523,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T18:07:17+00:00",
+      "first_seen": "2026-08-26T18:07:17+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -39882,6 +50572,7 @@ const TCG_DATA = {
       "average_sale_price": 131.08,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:17:54+00:00",
+      "first_seen": "2026-08-26T23:17:54+00:00",
       "recent_sales": [
         {
           "date": "8/9/26",
@@ -39942,6 +50633,7 @@ const TCG_DATA = {
       "average_sale_price": 1250.0,
       "recent_sales_count": 1,
       "last_scraped": "2026-08-26T18:31:52+00:00",
+      "first_seen": "2026-08-26T18:31:52+00:00",
       "recent_sales": [
         {
           "date": "7/10/26",
@@ -39978,6 +50670,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:18:13+00:00",
+      "first_seen": "2026-08-26T22:18:13+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -40026,6 +50719,7 @@ const TCG_DATA = {
       "average_sale_price": 3999.47,
       "recent_sales_count": 1,
       "last_scraped": "2026-08-26T18:07:55+00:00",
+      "first_seen": "2026-08-26T18:07:55+00:00",
       "recent_sales": [
         {
           "date": "6/26/26",
@@ -40062,6 +50756,7 @@ const TCG_DATA = {
       "average_sale_price": 1.24,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:04:42+00:00",
+      "first_seen": "2026-08-27T22:04:42+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -40122,6 +50817,7 @@ const TCG_DATA = {
       "average_sale_price": 1443.99,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:25:59+00:00",
+      "first_seen": "2026-08-26T18:25:59+00:00",
       "recent_sales": [
         {
           "date": "7/6/26",
@@ -40176,6 +50872,7 @@ const TCG_DATA = {
       "average_sale_price": 5.79,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:41:34+00:00",
+      "first_seen": "2026-08-27T19:44:12+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -40242,6 +50939,7 @@ const TCG_DATA = {
       "average_sale_price": 0.04,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:03:17+00:00",
+      "first_seen": "2026-08-25T23:03:17+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -40302,6 +51000,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:39:11+00:00",
+      "first_seen": "2026-08-26T19:39:11+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -40362,6 +51061,7 @@ const TCG_DATA = {
       "average_sale_price": 46.99,
       "recent_sales_count": 1,
       "last_scraped": "2026-08-26T20:28:50+00:00",
+      "first_seen": "2026-08-26T20:28:50+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -40398,6 +51098,7 @@ const TCG_DATA = {
       "average_sale_price": 3.06,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:53:02+00:00",
+      "first_seen": "2026-08-26T21:53:02+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -40453,6 +51154,7 @@ const TCG_DATA = {
       "average_sale_price": 0.08,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:33:48+00:00",
+      "first_seen": "2026-08-25T20:33:48+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -40514,6 +51216,7 @@ const TCG_DATA = {
       "average_sale_price": 0.52,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:33:09+00:00",
+      "first_seen": "2026-08-25T20:33:09+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -40574,6 +51277,7 @@ const TCG_DATA = {
       "average_sale_price": 21.09,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:11:07+00:00",
+      "first_seen": "2026-08-27T19:11:07+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -40634,6 +51338,7 @@ const TCG_DATA = {
       "average_sale_price": 0.15,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:59:10+00:00",
+      "first_seen": "2026-08-27T22:59:10+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -40694,6 +51399,7 @@ const TCG_DATA = {
       "average_sale_price": 7.78,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:24:34+00:00",
+      "first_seen": "2026-08-25T21:57:46+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -40753,6 +51459,7 @@ const TCG_DATA = {
       "average_sale_price": 0.37,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:23:53+00:00",
+      "first_seen": "2026-08-25T21:57:05+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -40818,6 +51525,7 @@ const TCG_DATA = {
       "average_sale_price": 20.09,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:13:50+00:00",
+      "first_seen": "2026-08-27T19:13:50+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -40879,6 +51587,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:14:23+00:00",
+      "first_seen": "2026-08-26T22:14:23+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -40927,6 +51636,7 @@ const TCG_DATA = {
       "average_sale_price": 0.13,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:07:49+00:00",
+      "first_seen": "2026-08-27T23:07:49+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -40986,6 +51696,7 @@ const TCG_DATA = {
       "average_sale_price": 16.44,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:17:58+00:00",
+      "first_seen": "2026-08-27T19:21:59+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -41050,6 +51761,7 @@ const TCG_DATA = {
       "average_sale_price": 0.18,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:49:24+00:00",
+      "first_seen": "2026-08-27T22:49:24+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -41104,6 +51816,7 @@ const TCG_DATA = {
       "average_sale_price": 69.58,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:30:34+00:00",
+      "first_seen": "2026-08-26T23:30:34+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -41164,6 +51877,7 @@ const TCG_DATA = {
       "average_sale_price": 0.23,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:24:56+00:00",
+      "first_seen": "2026-08-27T22:24:56+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -41224,6 +51938,7 @@ const TCG_DATA = {
       "average_sale_price": 1.5,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:01:09+00:00",
+      "first_seen": "2026-08-27T20:03:44+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -41290,6 +52005,7 @@ const TCG_DATA = {
       "average_sale_price": 0.06,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:26:57+00:00",
+      "first_seen": "2026-08-25T19:26:57+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -41351,6 +52067,7 @@ const TCG_DATA = {
       "average_sale_price": 0.07,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:05:14+00:00",
+      "first_seen": "2026-08-25T23:05:14+00:00",
       "recent_sales": [
         {
           "date": "8/23/26",
@@ -41411,6 +52128,7 @@ const TCG_DATA = {
       "average_sale_price": 0.03,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:04:35+00:00",
+      "first_seen": "2026-08-25T23:04:35+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -41471,6 +52189,7 @@ const TCG_DATA = {
       "average_sale_price": 0.17,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:39:50+00:00",
+      "first_seen": "2026-08-26T19:39:50+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -41532,6 +52251,7 @@ const TCG_DATA = {
       "average_sale_price": 0.84,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T20:05:31+00:00",
+      "first_seen": "2026-08-26T20:05:31+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -41591,6 +52311,7 @@ const TCG_DATA = {
       "average_sale_price": 14.43,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:20:45+00:00",
+      "first_seen": "2026-08-27T19:24:45+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -41655,6 +52376,7 @@ const TCG_DATA = {
       "average_sale_price": 0.08,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:25:34+00:00",
+      "first_seen": "2026-08-27T23:25:34+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -41710,6 +52432,7 @@ const TCG_DATA = {
       "average_sale_price": 29.93,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:24:11+00:00",
+      "first_seen": "2026-08-26T21:24:11+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -41771,6 +52494,7 @@ const TCG_DATA = {
       "average_sale_price": 0.83,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:04:45+00:00",
+      "first_seen": "2026-08-26T22:04:45+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -41820,6 +52544,7 @@ const TCG_DATA = {
       "average_sale_price": 80.78,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T00:00:25+00:00",
+      "first_seen": "2026-08-26T00:00:25+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -41881,6 +52606,7 @@ const TCG_DATA = {
       "average_sale_price": 0.09,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:02:39+00:00",
+      "first_seen": "2026-08-25T23:02:39+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -41939,6 +52665,7 @@ const TCG_DATA = {
       "average_sale_price": 0.35,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:28:17+00:00",
+      "first_seen": "2026-08-26T19:28:17+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -41997,6 +52724,7 @@ const TCG_DATA = {
       "average_sale_price": 0.08,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:17:42+00:00",
+      "first_seen": "2026-08-25T20:17:42+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -42055,6 +52783,7 @@ const TCG_DATA = {
       "average_sale_price": 0.09,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:28:38+00:00",
+      "first_seen": "2026-08-25T20:28:38+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -42113,6 +52842,7 @@ const TCG_DATA = {
       "average_sale_price": 0.88,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:05:24+00:00",
+      "first_seen": "2026-08-26T19:42:24+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -42208,6 +52938,7 @@ const TCG_DATA = {
       "average_sale_price": 72.53,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:29:10+00:00",
+      "first_seen": "2026-08-26T23:29:10+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -42269,6 +53000,7 @@ const TCG_DATA = {
       "average_sale_price": 0.21,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:27:38+00:00",
+      "first_seen": "2026-08-27T22:27:38+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -42324,6 +53056,7 @@ const TCG_DATA = {
       "average_sale_price": 3750.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T18:09:12+00:00",
+      "first_seen": "2026-08-26T18:09:12+00:00",
       "recent_sales": [
         {
           "date": "6/4/26",
@@ -42353,6 +53086,168 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "649665",
+      "name": "Tony Tony.Chopper (CS 25-26 Event Pack Finalist Ver.) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/649665?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649665_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-065",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "4000",
+        "Subtype(s)": "Animal Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "-",
+      "average_sale_price": 800.0,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-28T23:29:50+00:00",
+      "first_seen": "2026-08-28T23:29:50+00:00",
+      "recent_sales": [
+        {
+          "date": "5/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$800.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:29:50+00:00",
+          "listed_median": "-",
+          "average_sale_price": 800.0
+        }
+      ]
+    },
+    {
+      "product_id": "649620",
+      "name": "Tony Tony.Chopper (CS 25-26 Event Pack) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/649620?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649620_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-065",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "4000",
+        "Subtype(s)": "Animal Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$185.00",
+      "average_sale_price": 167.42,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:46:06+00:00",
+      "first_seen": "2026-08-28T23:46:06+00:00",
+      "recent_sales": [
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$165.00"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$174.97"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$166.07"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$166.06"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$165.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:46:06+00:00",
+          "listed_median": "$185.00",
+          "average_sale_price": 167.42
+        }
+      ]
+    },
+    {
+      "product_id": "658340",
+      "name": "Tony Tony.Chopper (CS 25-26 Regionals Textured Chase Promo) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/658340?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/658340_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-089",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "7000",
+        "Subtype(s)": "Animal Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$400.00",
+      "average_sale_price": 243.02,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:56:37+00:00",
+      "first_seen": "2026-08-28T23:56:37+00:00",
+      "recent_sales": [
+        {
+          "date": "6/6/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$302.00"
+        },
+        {
+          "date": "6/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$249.89"
+        },
+        {
+          "date": "6/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$240.00"
+        },
+        {
+          "date": "6/4/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$173.22"
+        },
+        {
+          "date": "6/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$249.98"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:56:37+00:00",
+          "listed_median": "$400.00",
+          "average_sale_price": 243.02
+        }
+      ]
+    },
+    {
       "product_id": "587962",
       "name": "Tony Tony.Chopper (EB01-006) (Manga) - Premium Booster -The Best- (PRB-01)",
       "url": "https://www.tcgplayer.com/product/587962?Language=English",
@@ -42373,6 +53268,7 @@ const TCG_DATA = {
       "average_sale_price": 3000.0,
       "recent_sales_count": 1,
       "last_scraped": "2026-08-26T18:10:29+00:00",
+      "first_seen": "2026-08-26T18:10:29+00:00",
       "recent_sales": [
         {
           "date": "7/15/26",
@@ -42386,6 +53282,50 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T18:10:29+00:00",
           "listed_median": "$50,000.99",
           "average_sale_price": 3000.0
+        }
+      ]
+    },
+    {
+      "product_id": "649738",
+      "name": "Tony Tony.Chopper (Online Regional Finalist Card Set 2025 Vol.2) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/649738?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649738_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-089",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "7000",
+        "Subtype(s)": "Animal Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$1,970.35",
+      "average_sale_price": 300.0,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-28T23:42:30+00:00",
+      "first_seen": "2026-08-28T23:42:30+00:00",
+      "recent_sales": [
+        {
+          "date": "7/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$300.00"
+        },
+        {
+          "date": "5/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$300.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:42:30+00:00",
+          "listed_median": "$1,970.35",
+          "average_sale_price": 300.0
         }
       ]
     },
@@ -42409,6 +53349,7 @@ const TCG_DATA = {
       "average_sale_price": 6835.93,
       "recent_sales_count": 2,
       "last_scraped": "2026-08-26T18:09:51+00:00",
+      "first_seen": "2026-08-26T18:09:51+00:00",
       "recent_sales": [
         {
           "date": "5/20/26",
@@ -42428,6 +53369,67 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T18:09:51+00:00",
           "listed_median": "$4,849.90",
           "average_sale_price": 6835.93
+        }
+      ]
+    },
+    {
+      "product_id": "455815",
+      "name": "Tony Tony.Chopper - ST01-006 (Treasure Cup) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/455815?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/455815_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "ST01-006",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "1000",
+        "Subtype(s)": "Animal Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$2,000.00",
+      "average_sale_price": 591.98,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-28T23:36:37+00:00",
+      "first_seen": "2026-08-28T23:36:37+00:00",
+      "recent_sales": [
+        {
+          "date": "7/14/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$749.95"
+        },
+        {
+          "date": "7/14/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$479.95"
+        },
+        {
+          "date": "6/25/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$480.00"
+        },
+        {
+          "date": "6/10/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$450.00"
+        },
+        {
+          "date": "6/10/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$800.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:36:37+00:00",
+          "listed_median": "$2,000.00",
+          "average_sale_price": 591.98
         }
       ]
     },
@@ -42452,6 +53454,7 @@ const TCG_DATA = {
       "average_sale_price": 0.09,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:35:04+00:00",
+      "first_seen": "2026-08-25T20:35:04+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -42513,6 +53516,7 @@ const TCG_DATA = {
       "average_sale_price": 1.25,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:02:48+00:00",
+      "first_seen": "2026-08-26T22:02:48+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -42573,6 +53577,7 @@ const TCG_DATA = {
       "average_sale_price": 3.82,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:45:36+00:00",
+      "first_seen": "2026-08-27T19:48:10+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -42632,6 +53637,7 @@ const TCG_DATA = {
       "average_sale_price": 352.54,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:06:05+00:00",
+      "first_seen": "2026-08-26T23:06:05+00:00",
       "recent_sales": [
         {
           "date": "8/8/26",
@@ -42692,6 +53698,7 @@ const TCG_DATA = {
       "average_sale_price": 2.73,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:52:58+00:00",
+      "first_seen": "2026-08-27T19:55:30+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -42756,6 +53763,7 @@ const TCG_DATA = {
       "average_sale_price": 25.68,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:27:03+00:00",
+      "first_seen": "2026-08-27T00:11:21+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -42820,6 +53828,7 @@ const TCG_DATA = {
       "average_sale_price": 0.23,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:31:43+00:00",
+      "first_seen": "2026-08-27T22:31:43+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -42880,6 +53889,7 @@ const TCG_DATA = {
       "average_sale_price": 0.13,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:28:16+00:00",
+      "first_seen": "2026-08-25T19:28:16+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -42935,6 +53945,7 @@ const TCG_DATA = {
       "average_sale_price": 0.11,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:24:09+00:00",
+      "first_seen": "2026-08-25T20:24:09+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -42995,6 +54006,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T18:24:04+00:00",
+      "first_seen": "2026-08-26T18:24:04+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -43043,6 +54055,7 @@ const TCG_DATA = {
       "average_sale_price": 1.28,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:07:23+00:00",
+      "first_seen": "2026-08-27T22:07:23+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -43084,6 +54097,154 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "544790",
+      "name": "Trafalgar Law (Offline Regional 2024 Vol. 2) [Finalist] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/544790?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544790_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "ST03-008",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "1000",
+        "Subtype(s)": "Heart Pirates The Seven Warlords of the Sea",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$219.99",
+      "average_sale_price": 225.99,
+      "recent_sales_count": 4,
+      "last_scraped": "2026-08-28T23:48:06+00:00",
+      "first_seen": "2026-08-28T23:48:06+00:00",
+      "recent_sales": [
+        {
+          "date": "7/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$249.97"
+        },
+        {
+          "date": "7/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$249.99"
+        },
+        {
+          "date": "6/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$202.50"
+        },
+        {
+          "date": "6/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$201.51"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:48:06+00:00",
+          "listed_median": "$219.99",
+          "average_sale_price": 225.99
+        }
+      ]
+    },
+    {
+      "product_id": "482219",
+      "name": "Trafalgar Law (Online Regional 2023) [Finalist] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/482219?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/482219_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "OP02-035",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "3000",
+        "Subtype(s)": "Heart Pirates Supernovas",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$265.14",
+      "average_sale_price": 233.76,
+      "recent_sales_count": 3,
+      "last_scraped": "2026-08-28T23:50:04+00:00",
+      "first_seen": "2026-08-28T23:50:04+00:00",
+      "recent_sales": [
+        {
+          "date": "7/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$249.99"
+        },
+        {
+          "date": "5/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$225.00"
+        },
+        {
+          "date": "5/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$226.29"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:50:04+00:00",
+          "listed_median": "$265.14",
+          "average_sale_price": 233.76
+        }
+      ]
+    },
+    {
+      "product_id": "544791",
+      "name": "Trafalgar Law (Online Regional 2024 Vol. 2) [Finalist] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/544791?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544791_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "ST03-008",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "1000",
+        "Subtype(s)": "Heart Pirates The Seven Warlords of the Sea",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$499.99",
+      "average_sale_price": 192.0,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-28T23:53:58+00:00",
+      "first_seen": "2026-08-28T23:53:58+00:00",
+      "recent_sales": [
+        {
+          "date": "5/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$193.99"
+        },
+        {
+          "date": "5/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$190.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:53:58+00:00",
+          "listed_median": "$499.99",
+          "average_sale_price": 192.0
+        }
+      ]
+    },
+    {
       "product_id": "666519",
       "name": "Trafalgar Law - OP14-001 (Alternate Art) - The Azure Sea's Seven (OP14)",
       "url": "https://www.tcgplayer.com/product/666519?Language=English",
@@ -43102,6 +54263,7 @@ const TCG_DATA = {
       "average_sale_price": 20.98,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T19:13:12+00:00",
+      "first_seen": "2026-08-27T19:13:12+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -43162,6 +54324,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:16:07+00:00",
+      "first_seen": "2026-08-27T23:16:07+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -43197,6 +54360,50 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "580034",
+      "name": "Trafalgar Law - P-038 (CS 2024 Event Pack Finalist) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/580034?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/580034_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-038",
+        "Color": "Black",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "Heart Pirates Dressrosa",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "-",
+      "average_sale_price": 800.0,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-28T23:29:11+00:00",
+      "first_seen": "2026-08-28T23:29:11+00:00",
+      "recent_sales": [
+        {
+          "date": "7/15/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$800.00"
+        },
+        {
+          "date": "6/12/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$800.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-28T23:29:11+00:00",
+          "listed_median": "-",
+          "average_sale_price": 800.0
+        }
+      ]
+    },
+    {
       "product_id": "539207",
       "name": "Trafalgar Law - ST10-010 - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/539207?Language=English",
@@ -43217,6 +54424,7 @@ const TCG_DATA = {
       "average_sale_price": 1251.96,
       "recent_sales_count": 2,
       "last_scraped": "2026-08-26T18:31:14+00:00",
+      "first_seen": "2026-08-26T18:31:14+00:00",
       "recent_sales": [
         {
           "date": "5/2/26",
@@ -43260,6 +54468,7 @@ const TCG_DATA = {
       "average_sale_price": 0.18,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:23:30+00:00",
+      "first_seen": "2026-08-25T20:23:30+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -43321,6 +54530,7 @@ const TCG_DATA = {
       "average_sale_price": 0.66,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:41:58+00:00",
+      "first_seen": "2026-08-26T22:41:58+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -43380,6 +54590,7 @@ const TCG_DATA = {
       "average_sale_price": 25.9,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T18:58:07+00:00",
+      "first_seen": "2026-08-27T18:58:07+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -43439,6 +54650,7 @@ const TCG_DATA = {
       "average_sale_price": 0.23,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:33:06+00:00",
+      "first_seen": "2026-08-27T22:33:06+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -43494,6 +54706,7 @@ const TCG_DATA = {
       "average_sale_price": 21.22,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:25:29+00:00",
+      "first_seen": "2026-08-26T21:25:29+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -43553,6 +54766,7 @@ const TCG_DATA = {
       "average_sale_price": 215.69,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:14:36+00:00",
+      "first_seen": "2026-08-26T23:14:36+00:00",
       "recent_sales": [
         {
           "date": "8/20/26",
@@ -43614,6 +54828,7 @@ const TCG_DATA = {
       "average_sale_price": 0.08,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T19:58:03+00:00",
+      "first_seen": "2026-08-25T19:58:03+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -43675,6 +54890,7 @@ const TCG_DATA = {
       "average_sale_price": 1.45,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:57:41+00:00",
+      "first_seen": "2026-08-26T21:57:41+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -43729,6 +54945,7 @@ const TCG_DATA = {
       "average_sale_price": 4.33,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:43:36+00:00",
+      "first_seen": "2026-08-26T22:58:49+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -43824,6 +55041,7 @@ const TCG_DATA = {
       "average_sale_price": 1.26,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:59:33+00:00",
+      "first_seen": "2026-08-26T22:59:33+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -43884,6 +55102,7 @@ const TCG_DATA = {
       "average_sale_price": 35.18,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:58:25+00:00",
+      "first_seen": "2026-08-26T23:58:25+00:00",
       "recent_sales": [
         {
           "date": "8/23/26",
@@ -43944,6 +55163,7 @@ const TCG_DATA = {
       "average_sale_price": 2.78,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:48:19+00:00",
+      "first_seen": "2026-08-27T19:50:49+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -44003,6 +55223,7 @@ const TCG_DATA = {
       "average_sale_price": 925.0,
       "recent_sales_count": 2,
       "last_scraped": "2026-08-26T19:07:32+00:00",
+      "first_seen": "2026-08-26T19:07:32+00:00",
       "recent_sales": [
         {
           "date": "5/3/26",
@@ -44045,6 +55266,7 @@ const TCG_DATA = {
       "average_sale_price": 1.83,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:57:46+00:00",
+      "first_seen": "2026-08-27T20:00:18+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -44129,6 +55351,7 @@ const TCG_DATA = {
       "average_sale_price": 700.0,
       "recent_sales_count": 1,
       "last_scraped": "2026-08-26T17:59:39+00:00",
+      "first_seen": "2026-08-26T17:59:39+00:00",
       "recent_sales": [
         {
           "date": "6/13/26",
@@ -44164,6 +55387,7 @@ const TCG_DATA = {
       "average_sale_price": 14.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:19:19+00:00",
+      "first_seen": "2026-08-27T19:23:20+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -44229,6 +55453,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T23:09:51+00:00",
+      "first_seen": "2026-08-27T23:09:51+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -44290,6 +55515,7 @@ const TCG_DATA = {
       "average_sale_price": 0.07,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:20:40+00:00",
+      "first_seen": "2026-08-25T21:53:49+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -44356,6 +55582,7 @@ const TCG_DATA = {
       "average_sale_price": 0.29,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:25:51+00:00",
+      "first_seen": "2026-08-25T21:59:05+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -44421,6 +55648,7 @@ const TCG_DATA = {
       "average_sale_price": 41.84,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:52:16+00:00",
+      "first_seen": "2026-08-26T23:52:16+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -44481,6 +55709,7 @@ const TCG_DATA = {
       "average_sale_price": 260.74,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:12:41+00:00",
+      "first_seen": "2026-08-26T19:12:41+00:00",
       "recent_sales": [
         {
           "date": "6/25/26",
@@ -44541,6 +55770,7 @@ const TCG_DATA = {
       "average_sale_price": 0.15,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:57:09+00:00",
+      "first_seen": "2026-08-27T22:57:09+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -44601,6 +55831,7 @@ const TCG_DATA = {
       "average_sale_price": 33.54,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:59:07+00:00",
+      "first_seen": "2026-08-26T23:59:07+00:00",
       "recent_sales": [
         {
           "date": "8/24/26",
@@ -44661,6 +55892,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:46:42+00:00",
+      "first_seen": "2026-08-27T22:46:42+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -44721,6 +55953,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T19:13:20+00:00",
+      "first_seen": "2026-08-26T19:13:20+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -44770,6 +56003,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T18:11:08+00:00",
+      "first_seen": "2026-08-26T18:11:08+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -44818,6 +56052,7 @@ const TCG_DATA = {
       "average_sale_price": 22.99,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:07:20+00:00",
+      "first_seen": "2026-08-25T23:07:20+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -44866,6 +56101,7 @@ const TCG_DATA = {
       "average_sale_price": 0.39,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:06:36+00:00",
+      "first_seen": "2026-08-25T23:06:36+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -44926,6 +56162,7 @@ const TCG_DATA = {
       "average_sale_price": 0.31,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:35:20+00:00",
+      "first_seen": "2026-08-26T19:35:20+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -44984,6 +56221,7 @@ const TCG_DATA = {
       "average_sale_price": 0.06,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:18:20+00:00",
+      "first_seen": "2026-08-25T20:18:20+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -45045,6 +56283,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:26:22+00:00",
+      "first_seen": "2026-08-26T19:26:22+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -45106,6 +56345,7 @@ const TCG_DATA = {
       "average_sale_price": 0.19,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:43:54+00:00",
+      "first_seen": "2026-08-26T22:43:54+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -45167,6 +56407,7 @@ const TCG_DATA = {
       "average_sale_price": 0.0,
       "recent_sales_count": 3,
       "last_scraped": "2026-08-26T22:44:32+00:00",
+      "first_seen": "2026-08-26T22:44:32+00:00",
       "recent_sales": [
         {
           "date": "12/12/12",
@@ -45213,6 +56454,7 @@ const TCG_DATA = {
       "average_sale_price": 0.32,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:34:04+00:00",
+      "first_seen": "2026-08-26T19:34:04+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -45259,6 +56501,7 @@ const TCG_DATA = {
       "average_sale_price": 0.61,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:50:45+00:00",
+      "first_seen": "2026-08-26T19:50:45+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -45314,6 +56557,7 @@ const TCG_DATA = {
       "average_sale_price": 0.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:50:07+00:00",
+      "first_seen": "2026-08-26T19:50:07+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -45356,6 +56600,7 @@ const TCG_DATA = {
       "average_sale_price": 4.58,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:42:16+00:00",
+      "first_seen": "2026-08-27T19:44:55+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -45421,6 +56666,7 @@ const TCG_DATA = {
       "average_sale_price": 51.31,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:46:56+00:00",
+      "first_seen": "2026-08-25T23:46:56+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -45481,6 +56727,7 @@ const TCG_DATA = {
       "average_sale_price": 0.16,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:47:36+00:00",
+      "first_seen": "2026-08-25T23:47:36+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -45536,6 +56783,7 @@ const TCG_DATA = {
       "average_sale_price": 0.42,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:38:56+00:00",
+      "first_seen": "2026-08-25T20:38:56+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -45596,6 +56844,7 @@ const TCG_DATA = {
       "average_sale_price": 0.29,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:39:35+00:00",
+      "first_seen": "2026-08-25T20:39:35+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -45651,6 +56900,7 @@ const TCG_DATA = {
       "average_sale_price": 30.77,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:52:18+00:00",
+      "first_seen": "2026-08-25T23:52:18+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -45712,6 +56962,7 @@ const TCG_DATA = {
       "average_sale_price": 1.74,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T23:52:58+00:00",
+      "first_seen": "2026-08-25T23:52:58+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -45766,6 +57017,7 @@ const TCG_DATA = {
       "average_sale_price": 66.78,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T23:36:35+00:00",
+      "first_seen": "2026-08-26T23:36:35+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -45826,6 +57078,7 @@ const TCG_DATA = {
       "average_sale_price": 2.02,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T21:56:25+00:00",
+      "first_seen": "2026-08-27T19:59:01+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -45886,6 +57139,7 @@ const TCG_DATA = {
       "average_sale_price": 506.01,
       "recent_sales_count": 2,
       "last_scraped": "2026-08-26T20:15:05+00:00",
+      "first_seen": "2026-08-26T20:15:05+00:00",
       "recent_sales": [
         {
           "date": "8/23/26",
@@ -45928,6 +57182,7 @@ const TCG_DATA = {
       "average_sale_price": 1066.33,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T19:03:41+00:00",
+      "first_seen": "2026-08-26T19:03:41+00:00",
       "recent_sales": [
         {
           "date": "6/30/26",
@@ -45988,6 +57243,7 @@ const TCG_DATA = {
       "average_sale_price": 4239.99,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T18:06:37+00:00",
+      "first_seen": "2026-08-26T18:06:37+00:00",
       "recent_sales": [
         {
           "date": "7/22/26",
@@ -46049,6 +57305,7 @@ const TCG_DATA = {
       "average_sale_price": 1.36,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T22:00:15+00:00",
+      "first_seen": "2026-08-26T22:00:15+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -46109,6 +57366,7 @@ const TCG_DATA = {
       "average_sale_price": 0.19,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:41:18+00:00",
+      "first_seen": "2026-08-27T22:41:18+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",
@@ -46170,6 +57428,7 @@ const TCG_DATA = {
       "average_sale_price": 15.61,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:26:46+00:00",
+      "first_seen": "2026-08-26T21:26:46+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -46225,6 +57484,7 @@ const TCG_DATA = {
       "average_sale_price": 1.1,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-26T21:59:36+00:00",
+      "first_seen": "2026-08-26T21:59:36+00:00",
       "recent_sales": [
         {
           "date": "8/26/26",
@@ -46280,6 +57540,7 @@ const TCG_DATA = {
       "average_sale_price": 0.06,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T20:19:37+00:00",
+      "first_seen": "2026-08-25T20:19:37+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -46338,6 +57599,7 @@ const TCG_DATA = {
       "average_sale_price": 69.65,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:30:22+00:00",
+      "first_seen": "2026-08-25T22:03:39+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -46401,6 +57663,7 @@ const TCG_DATA = {
       "average_sale_price": 0.29,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-25T22:29:43+00:00",
+      "first_seen": "2026-08-25T22:03:01+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -46466,6 +57729,7 @@ const TCG_DATA = {
       "average_sale_price": 34.33,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T00:17:35+00:00",
+      "first_seen": "2026-08-27T00:01:40+00:00",
       "recent_sales": [
         {
           "date": "8/25/26",
@@ -46531,6 +57795,7 @@ const TCG_DATA = {
       "average_sale_price": 0.27,
       "recent_sales_count": 5,
       "last_scraped": "2026-08-27T22:32:26+00:00",
+      "first_seen": "2026-08-27T22:32:26+00:00",
       "recent_sales": [
         {
           "date": "8/27/26",

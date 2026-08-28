@@ -16,6 +16,11 @@ const $sortBy = document.getElementById("sortBy");
 const $overlay = document.getElementById("overlay");
 const $modal = document.getElementById("modal");
 const $metaInfo = document.getElementById("metaInfo");
+const $filterExpansion = document.getElementById("filterExpansion");
+const $filterColor = document.getElementById("filterColor");
+const $filterCardType = document.getElementById("filterCardType");
+const $catSuggestWrap = document.getElementById("catSuggestWrap");
+const $catSuggestionsList = document.getElementById("catSuggestionsList");
 
 function fmtDate(iso) {
   if (!iso) return "-";
@@ -30,6 +35,42 @@ function priceNumber(str) {
 
 function fmtMoney(n) {
   return n == null ? "-" : "$" + n.toFixed(2);
+}
+
+function getExpansion(p) {
+  const num = p && p.attributes && p.attributes["Number"];
+  if (!num) return null;
+  const s = String(num);
+  const idx = s.indexOf("-");
+  return idx > 0 ? s.slice(0, idx) : s;
+}
+
+function getFirstSeen(p) {
+  if (!p) return "";
+  if (p.first_seen) return p.first_seen;
+  if (p.price_history && p.price_history.length) return p.price_history[0].scraped_at || "";
+  return p.last_scraped || "";
+}
+
+function uniqueSorted(values) {
+  return [...new Set(values.filter(Boolean))].sort((a, b) => naturalCompare(a, b));
+}
+
+function populateFilterOptions(selectEl, values, allLabel) {
+  if (!selectEl) return;
+  const current = selectEl.value;
+  selectEl.innerHTML = `<option value="">${escapeHtml(allLabel)}</option>` +
+    values.map(v => `<option value="${escapeHtml(v)}">${escapeHtml(v)}</option>`).join("");
+  if (values.includes(current)) selectEl.value = current;
+}
+
+function matchesFilters(p, filters) {
+  if (!filters) return true;
+  if (filters.expansion && getExpansion(p) !== filters.expansion) return false;
+  const a = (p && p.attributes) || {};
+  if (filters.color && (a["Color"] || "") !== filters.color) return false;
+  if (filters.cardType && (a["Card Type"] || "") !== filters.cardType) return false;
+  return true;
 }
 
 function escapeHtml(str) {
@@ -90,7 +131,8 @@ function naturalCompare(a, b) {
 
 function sortProducts(list, mode) {
   const copy = [...list];
-  if (mode === "median_desc") copy.sort((a, b) => (priceNumber(b.listed_median) ?? -1) - (priceNumber(a.listed_median) ?? -1));
+  if (mode === "added") copy.sort((a, b) => getFirstSeen(b).localeCompare(getFirstSeen(a)));
+  else if (mode === "median_desc") copy.sort((a, b) => (priceNumber(b.listed_median) ?? -1) - (priceNumber(a.listed_median) ?? -1));
   else if (mode === "median_asc") copy.sort((a, b) => (priceNumber(a.listed_median) ?? Infinity) - (priceNumber(b.listed_median) ?? Infinity));
   else if (mode === "recent") copy.sort((a, b) => (b.last_scraped || "").localeCompare(a.last_scraped || ""));
   else if (mode === "number") copy.sort((a, b) => naturalCompare((a.attributes && a.attributes["Number"]), (b.attributes && b.attributes["Number"])));
@@ -98,10 +140,25 @@ function sortProducts(list, mode) {
   return copy;
 }
 
+function currentCatalogFilters() {
+  return {
+    expansion: $filterExpansion.value,
+    color: $filterColor.value,
+    cardType: $filterCardType.value,
+  };
+}
+
+function initCatalogFilters() {
+  populateFilterOptions($filterExpansion, uniqueSorted(state.products.map(getExpansion)), "Expansión: Todas");
+  populateFilterOptions($filterColor, uniqueSorted(state.products.map(p => p.attributes && p.attributes["Color"])), "Color: Todos");
+  populateFilterOptions($filterCardType, uniqueSorted(state.products.map(p => p.attributes && p.attributes["Card Type"])), "Tipo de carta: Todos");
+}
+
 function renderGrid() {
   const q = $search.value.trim();
-  const mode = $sortBy.value || "number";
-  const filtered = sortProducts(state.products.filter(p => matchesSearch(p, q)), mode);
+  const mode = $sortBy.value || "added";
+  const filters = currentCatalogFilters();
+  const filtered = sortProducts(state.products.filter(p => matchesSearch(p, q) && matchesFilters(p, filters)), mode);
 
   $grid.innerHTML = "";
   $empty.style.display = filtered.length ? "none" : "block";
@@ -171,34 +228,107 @@ function closeModal() { $overlay.classList.remove("open"); }
 $overlay.addEventListener("click", (e) => { if (e.target === $overlay) closeModal(); });
 document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
 
-$search.addEventListener("input", renderGrid);
+function renderCatSuggestions(list) {
+  if (!list.length) { $catSuggestionsList.style.display = "none"; $catSuggestionsList.innerHTML = ""; return; }
+  $catSuggestionsList.innerHTML = list.slice(0, 8).map(p => `
+    <div class="suggest-item" data-id="${p.product_id}">
+      <img src="${p.image_url || ""}" alt="${escapeHtml(p.name)}" loading="lazy" onerror="this.style.opacity=0.15">
+      <div class="info">
+        <div class="name">${escapeHtml(p.name || "(sin nombre)")}</div>
+        <div class="sub">${escapeHtml((p.attributes && p.attributes["Number"]) || "")} · ${escapeHtml((p.attributes && p.attributes["Rarity"]) || "")}</div>
+      </div>
+      <div class="price">${escapeHtml(p.listed_median || "")}</div>
+    </div>
+  `).join("");
+  $catSuggestionsList.style.display = "block";
+  $catSuggestionsList.querySelectorAll("div[data-id]").forEach(el => {
+    el.addEventListener("click", () => {
+      const p = productsById[el.dataset.id];
+      $catSuggestionsList.style.display = "none";
+      if (p) openModal(p);
+    });
+  });
+}
+
+function updateCatSuggestions() {
+  const q = $search.value.trim();
+  if (!q) { $catSuggestionsList.style.display = "none"; $catSuggestionsList.innerHTML = ""; return; }
+  const filters = currentCatalogFilters();
+  const matches = state.products.filter(p => matchesSearch(p, q) && matchesFilters(p, filters));
+  renderCatSuggestions(matches);
+}
+
+$search.addEventListener("input", () => { renderGrid(); updateCatSuggestions(); });
+$search.addEventListener("focus", () => {
+  if ($search.value.trim() && $catSuggestionsList.innerHTML) $catSuggestionsList.style.display = "block";
+});
+document.addEventListener("click", (e) => {
+  if (!e.target.closest("#catSuggestWrap")) $catSuggestionsList.style.display = "none";
+});
+
 $sortBy.addEventListener("change", renderGrid);
+[$filterExpansion, $filterColor, $filterCardType].forEach(el => {
+  el.addEventListener("change", () => { renderGrid(); updateCatSuggestions(); });
+});
 
 // ---------------------------------------------------------------------------
 // Coleccion (persistida en localStorage -- esta pagina corre local, sin
 // internet ni servidor, asi que localStorage es el lugar natural)
 // ---------------------------------------------------------------------------
-const COLLECTION_KEY = "tcg_collection_v1";
+const OLD_COLLECTION_KEY = "tcg_collection_v1"; // formato viejo: una sola coleccion, lista plana
+const COLLECTIONS_KEY = "tcg_collections_v1";    // formato nuevo: varias colecciones
 
-function loadCollection() {
+function uid() {
+  return "c" + Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
+}
+
+function loadCollectionsStore() {
   try {
-    const raw = localStorage.getItem(COLLECTION_KEY);
-    return raw ? JSON.parse(raw) : [];
-  } catch (e) {
-    return [];
-  }
-}
-function saveCollection(items) {
-  localStorage.setItem(COLLECTION_KEY, JSON.stringify(items));
+    const raw = localStorage.getItem(COLLECTIONS_KEY);
+    if (raw) {
+      const store = JSON.parse(raw);
+      if (store && Array.isArray(store.collections) && store.collections.length) {
+        if (!store.activeId || !store.collections.some(c => c.id === store.activeId)) {
+          store.activeId = store.collections[0].id;
+        }
+        return store;
+      }
+    }
+  } catch (e) { /* ignora y sigue a migracion / default */ }
+
+  // Migracion desde el formato viejo (una sola lista en localStorage)
+  let migratedItems = [];
+  try {
+    const oldRaw = localStorage.getItem(OLD_COLLECTION_KEY);
+    if (oldRaw) migratedItems = JSON.parse(oldRaw) || [];
+  } catch (e) { /* ignora */ }
+
+  const firstCollection = { id: uid(), name: "Mi colección", items: migratedItems };
+  const store = { collections: [firstCollection], activeId: firstCollection.id };
+  saveCollectionsStore(store);
+  return store;
 }
 
-let collection = loadCollection(); // [{product_id, qty}]
+function saveCollectionsStore(store) {
+  localStorage.setItem(COLLECTIONS_KEY, JSON.stringify(store));
+}
 
+let colStore = loadCollectionsStore();
+
+function getActiveCollection() {
+  return colStore.collections.find(c => c.id === colStore.activeId) || colStore.collections[0];
+}
+
+function saveColStore() { saveCollectionsStore(colStore); }
+
+const $colSelect = document.getElementById("colSelect");
+const $colNewBtn = document.getElementById("colNewBtn");
+const $colRenameBtn = document.getElementById("colRenameBtn");
+const $colDeleteBtn = document.getElementById("colDeleteBtn");
 const $colSearch = document.getElementById("colSearch");
 const $suggestionsList = document.getElementById("suggestionsList");
 const $addToCollection = document.getElementById("addToCollection");
-const $colTable = document.getElementById("colTable");
-const $colBody = document.getElementById("colBody");
+const $colGrid = document.getElementById("colGrid");
 const $colEmpty = document.getElementById("colEmpty");
 const $totalMedian = document.getElementById("totalMedian");
 const $totalAvg = document.getElementById("totalAvg");
@@ -207,6 +337,59 @@ const $updatePricesBtn = document.getElementById("updatePricesBtn");
 const $updateBox = document.getElementById("updateBox");
 const $updateCommand = document.getElementById("updateCommand");
 const $copyCommand = document.getElementById("copyCommand");
+const $colFilterExpansion = document.getElementById("colFilterExpansion");
+const $colFilterColor = document.getElementById("colFilterColor");
+const $colFilterCardType = document.getElementById("colFilterCardType");
+
+[$colFilterExpansion, $colFilterColor, $colFilterCardType].forEach(el => {
+  el.addEventListener("change", renderCollection);
+});
+
+function renderColSelector() {
+  $colSelect.innerHTML = colStore.collections.map(c =>
+    `<option value="${c.id}" ${c.id === colStore.activeId ? "selected" : ""}>${escapeHtml(c.name)} (${c.items.reduce((s, i) => s + i.qty, 0)})</option>`
+  ).join("");
+}
+
+$colSelect.addEventListener("change", () => {
+  colStore.activeId = $colSelect.value;
+  saveColStore();
+  renderCollection();
+});
+
+$colNewBtn.addEventListener("click", () => {
+  const name = prompt("Nombre de la nueva colección:", "Nueva colección");
+  if (!name || !name.trim()) return;
+  const c = { id: uid(), name: name.trim(), items: [] };
+  colStore.collections.push(c);
+  colStore.activeId = c.id;
+  saveColStore();
+  renderColSelector();
+  renderCollection();
+});
+
+$colRenameBtn.addEventListener("click", () => {
+  const active = getActiveCollection();
+  const name = prompt("Nuevo nombre para la colección:", active.name);
+  if (!name || !name.trim()) return;
+  active.name = name.trim();
+  saveColStore();
+  renderColSelector();
+});
+
+$colDeleteBtn.addEventListener("click", () => {
+  const active = getActiveCollection();
+  if (colStore.collections.length <= 1) {
+    alert("No podés eliminar la última colección. Creá otra primero si querés reemplazarla.");
+    return;
+  }
+  if (!confirm(`¿Eliminar la colección "${active.name}" y todas sus cartas? Esta acción no se puede deshacer.`)) return;
+  colStore.collections = colStore.collections.filter(c => c.id !== active.id);
+  colStore.activeId = colStore.collections[0].id;
+  saveColStore();
+  renderColSelector();
+  renderCollection();
+});
 
 let selectedSuggestion = null;
 
@@ -218,9 +401,13 @@ function renderSuggestionList(matches) {
   if (!matches.length) { $suggestionsList.style.display = "none"; return; }
 
   $suggestionsList.innerHTML = matches.map(p => `
-    <div data-id="${p.product_id}">
-      <span>${escapeHtml(p.name)}</span>
-      <span style="color:var(--muted);">${escapeHtml(p.listed_median || "")}</span>
+    <div class="suggest-item" data-id="${p.product_id}">
+      <img src="${p.image_url || ""}" alt="${escapeHtml(p.name)}" loading="lazy" onerror="this.style.opacity=0.15">
+      <div class="info">
+        <div class="name">${escapeHtml(p.name)}</div>
+        <div class="sub">${escapeHtml((p.attributes && p.attributes["Number"]) || "")} · ${escapeHtml((p.attributes && p.attributes["Rarity"]) || "")}</div>
+      </div>
+      <div class="price">${escapeHtml(p.listed_median || "")}</div>
     </div>
   `).join("");
   $suggestionsList.style.display = "block";
@@ -272,32 +459,69 @@ $addToCollection.addEventListener("click", () => {
     alert("Elegí una carta de la lista de sugerencias antes de agregar.");
     return;
   }
-  const existing = collection.find(c => c.product_id === String(product.product_id));
+  const active = getActiveCollection();
+  const existing = active.items.find(c => c.product_id === String(product.product_id));
   if (existing) existing.qty += 1;
-  else collection.push({ product_id: String(product.product_id), qty: 1 });
+  else active.items.push({ product_id: String(product.product_id), qty: 1 });
 
-  saveCollection(collection);
+  saveColStore();
   $colSearch.value = "";
   selectedSuggestion = null;
   $suggestionsList.style.display = "none";
+  renderColSelector();
   renderCollection();
 });
 
 function renderCollection() {
-  $colTable.style.display = collection.length ? "table" : "none";
-  $colEmpty.style.display = collection.length ? "none" : "block";
+  renderColSelector();
+  const active = getActiveCollection();
+  const items = active.items;
+
+  const ownedProducts = items.map(i => productsById[i.product_id]).filter(Boolean);
+  populateFilterOptions($colFilterExpansion, uniqueSorted(ownedProducts.map(getExpansion)), "Expansión: Todas");
+  populateFilterOptions($colFilterColor, uniqueSorted(ownedProducts.map(p => p.attributes && p.attributes["Color"])), "Color: Todos");
+  populateFilterOptions($colFilterCardType, uniqueSorted(ownedProducts.map(p => p.attributes && p.attributes["Card Type"])), "Tipo de carta: Todos");
+
+  const colFilters = {
+    expansion: $colFilterExpansion.value,
+    color: $colFilterColor.value,
+    cardType: $colFilterCardType.value,
+  };
+  const visible = items
+    .map((item, idx) => ({ item, idx }))
+    .filter(({ item }) => {
+      const p = productsById[item.product_id];
+      if (!p) return true; // siempre mostramos las cartas "huerfanas" (ya no en la base)
+      return matchesFilters(p, colFilters);
+    });
+
+  $colGrid.style.display = items.length ? "grid" : "none";
+  $colEmpty.style.display = items.length ? "none" : "block";
+
+  if (items.length && !visible.length) {
+    $colGrid.style.display = "block";
+    $colGrid.innerHTML = `<div style="color:var(--muted); padding:20px 0;">Ningún resultado coincide con esos filtros.</div>`;
+    $totalMedian.textContent = fmtMoney(0);
+    $totalAvg.textContent = fmtMoney(0);
+    $totalCount.textContent = 0;
+    return;
+  }
 
   let totalMedian = 0, totalAvg = 0, totalCount = 0;
   let missingMedian = false, missingAvg = false;
 
-  $colBody.innerHTML = collection.map((item, idx) => {
+  $colGrid.innerHTML = visible.map(({ item, idx }) => {
     const p = productsById[item.product_id];
     if (!p) {
-      return `<tr>
-        <td colspan="6" style="color:var(--muted);">Producto ${item.product_id} ya no está en la base (¿lo borraste?)</td>
-        <td><button class="rm" data-idx="${idx}">✕</button></td>
-      </tr>`;
+      return `
+        <div class="colcard">
+          <div class="body">
+            <div class="name" style="color:var(--muted);">Producto ${escapeHtml(item.product_id)} ya no está en la base (¿lo borraste?)</div>
+            <button class="rm-btn" data-idx="${idx}">✕ Quitar</button>
+          </div>
+        </div>`;
     }
+    const a = p.attributes || {};
     const median = priceNumber(p.listed_median);
     const avg = p.average_sale_price;
     const subMedian = median != null ? median * item.qty : null;
@@ -307,34 +531,65 @@ function renderCollection() {
     if (avg != null) totalAvg += subAvg; else missingAvg = true;
     totalCount += item.qty;
 
-    return `<tr>
-      <td>
-        <img class="thumb" src="${p.image_url || ""}" onerror="this.style.opacity=0.15">
-        ${escapeHtml(p.name)}
-      </td>
-      <td><input type="number" class="qty" min="1" value="${item.qty}" data-idx="${idx}"></td>
-      <td>${escapeHtml(p.listed_median || "-")}</td>
-      <td>${avg != null ? "$" + avg : "-"}</td>
-      <td>${fmtMoney(subMedian)}</td>
-      <td>${fmtMoney(subAvg)}</td>
-      <td><button class="rm" data-idx="${idx}">✕</button></td>
-    </tr>`;
+    return `
+      <div class="colcard" data-product-id="${escapeHtml(p.product_id)}">
+        <img src="${p.image_url || ""}" alt="${escapeHtml(p.name)}" loading="lazy" onerror="this.style.opacity=0.15">
+        <div class="body">
+          <div class="name">${escapeHtml(p.name || "(sin nombre)")}</div>
+          <div class="sub">${escapeHtml(a["Number"] || "")} · ${escapeHtml(a["Rarity"] || "")}</div>
+
+          <div class="info-row qtyRow">
+            <span class="k">Cantidad</span>
+            <input type="number" class="qty" min="1" value="${item.qty}" data-idx="${idx}">
+          </div>
+          <div class="info-row median-row">
+            <span class="k">Listed Median</span>
+            <span class="v">${escapeHtml(p.listed_median || "-")}</span>
+          </div>
+          <div class="info-row">
+            <span class="k">Ventas recientes (prom.)</span>
+            <span class="v">${avg != null ? "$" + avg : "-"}</span>
+          </div>
+          <div class="info-row">
+            <span class="k">Subtotal (Median)</span>
+            <span class="v">${fmtMoney(subMedian)}</span>
+          </div>
+          <div class="info-row">
+            <span class="k">Subtotal (Ventas Recientes)</span>
+            <span class="v">${fmtMoney(subAvg)}</span>
+          </div>
+          <div class="info-row">
+            <span class="k">Última actualización</span>
+            <span class="v">${fmtDate(p.last_scraped)}</span>
+          </div>
+
+          <button class="rm-btn" data-idx="${idx}">✕ Quitar de la colección</button>
+        </div>
+      </div>`;
   }).join("");
 
-  $colBody.querySelectorAll("input.qty").forEach(inp => {
+  $colGrid.querySelectorAll("input.qty").forEach(inp => {
+    inp.addEventListener("click", (e) => e.stopPropagation());
     inp.addEventListener("change", () => {
       const idx = parseInt(inp.dataset.idx, 10);
-      collection[idx].qty = Math.max(1, parseInt(inp.value, 10) || 1);
-      saveCollection(collection);
+      active.items[idx].qty = Math.max(1, parseInt(inp.value, 10) || 1);
+      saveColStore();
       renderCollection();
     });
   });
-  $colBody.querySelectorAll("button.rm").forEach(btn => {
-    btn.addEventListener("click", () => {
+  $colGrid.querySelectorAll("button.rm-btn").forEach(btn => {
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
       const idx = parseInt(btn.dataset.idx, 10);
-      collection.splice(idx, 1);
-      saveCollection(collection);
+      active.items.splice(idx, 1);
+      saveColStore();
       renderCollection();
+    });
+  });
+  $colGrid.querySelectorAll(".colcard").forEach(el => {
+    el.addEventListener("click", () => {
+      const p = productsById[el.dataset.productId];
+      if (p) openModal(p);
     });
   });
 
@@ -344,11 +599,12 @@ function renderCollection() {
 }
 
 $updatePricesBtn.addEventListener("click", () => {
-  if (!collection.length) {
-    alert("Tu colección está vacía, agregá cartas primero.");
+  const active = getActiveCollection();
+  if (!active.items.length) {
+    alert("Esta colección está vacía, agregá cartas primero.");
     return;
   }
-  const ids = collection.map(c => c.product_id).join(" ");
+  const ids = active.items.map(c => c.product_id).join(" ");
   $updateCommand.textContent = `python details.py ${ids}`;
   $updateBox.style.display = "block";
 });
@@ -547,4 +803,5 @@ setupRunTool("toolCheckRun", "toolCheckStatus", () => {
 
 // ---------------------------------------------------------------------------
 updateMeta();
+initCatalogFilters();
 renderGrid();
