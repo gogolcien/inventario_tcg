@@ -1,7 +1,7 @@
 // Archivo generado automaticamente -- no editar a mano.
 // Se regenera cada vez que corres details.py
 const TCG_DATA = {
-  "generated_at": "2026-08-28T23:56:37+00:00",
+  "generated_at": "2026-08-31T16:38:03+00:00",
   "products": [
     {
       "product_id": "696064",
@@ -2179,6 +2179,68 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "686458",
+      "name": "Boa Hancock (OP15 Release Event Winner) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/686458?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/686458_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-115",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "7000",
+        "Subtype(s)": "Kuja Pirates The Seven Warlords of the Sea",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$167.48",
+      "average_sale_price": 118.17,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-31T16:21:08+00:00",
+      "first_seen": "2026-08-31T16:21:08+00:00",
+      "recent_sales": [
+        {
+          "date": "8/31/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$115.95"
+        },
+        {
+          "date": "8/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$117.98"
+        },
+        {
+          "date": "8/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$117.98"
+        },
+        {
+          "date": "8/27/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$117.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$121.95"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:21:08+00:00",
+          "listed_median": "$167.48",
+          "average_sale_price": 118.17
+        }
+      ]
+    },
+    {
       "product_id": "629181",
       "name": "Boa Hancock (SP) - Extra Booster: Anime 25th Collection (EB-02)",
       "url": "https://www.tcgplayer.com/product/629181?Language=English",
@@ -3844,12 +3906,36 @@ const TCG_DATA = {
         "Counter+": "1000",
         "Attribute": "Slash"
       },
-      "listed_median": "$9.93",
-      "average_sale_price": 9.29,
+      "listed_median": "$2.23",
+      "average_sale_price": 1.56,
       "recent_sales_count": 5,
-      "last_scraped": "2026-08-26T21:28:42+00:00",
+      "last_scraped": "2026-08-31T16:36:06+00:00",
       "first_seen": "2026-08-26T19:30:51+00:00",
       "recent_sales": [
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.40"
+        },
+        {
+          "date": "8/30/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$1.89"
+        },
+        {
+          "date": "8/30/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.65"
+        },
+        {
+          "date": "8/30/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.42"
+        },
         {
           "date": "8/26/26",
           "condition": "NM",
@@ -3885,6 +3971,11 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T21:28:42+00:00",
           "listed_median": "$9.93",
           "average_sale_price": 9.29
+        },
+        {
+          "scraped_at": "2026-08-31T16:36:06+00:00",
+          "listed_median": "$2.23",
+          "average_sale_price": 1.56
         }
       ]
     },
@@ -5002,12 +5093,42 @@ const TCG_DATA = {
         "Counter+": "2000",
         "Attribute": "Slash"
       },
-      "listed_median": "$13.60",
-      "average_sale_price": 12.44,
+      "listed_median": "$9.47",
+      "average_sale_price": 4.14,
       "recent_sales_count": 5,
-      "last_scraped": "2026-08-26T21:27:24+00:00",
+      "last_scraped": "2026-08-31T16:34:50+00:00",
       "first_seen": "2026-08-26T20:02:58+00:00",
       "recent_sales": [
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$4.65"
+        },
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$4.43"
+        },
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$4.00"
+        },
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.98"
+        },
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$3.65"
+        },
         {
           "date": "8/26/26",
           "condition": "NM",
@@ -5037,24 +5158,6 @@ const TCG_DATA = {
           "condition": "NM",
           "quantity": "1",
           "price": "$12.84"
-        },
-        {
-          "date": "12/12/12",
-          "condition": "NM Japanese",
-          "quantity": "2",
-          "price": "$0.00"
-        },
-        {
-          "date": "12/12/12",
-          "condition": "MP",
-          "quantity": "1",
-          "price": "$0.00"
-        },
-        {
-          "date": "12/12/12",
-          "condition": "LP Foil",
-          "quantity": "3",
-          "price": "$0.00"
         }
       ],
       "price_history": [
@@ -5067,6 +5170,11 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T21:27:24+00:00",
           "listed_median": "$13.60",
           "average_sale_price": 12.44
+        },
+        {
+          "scraped_at": "2026-08-31T16:34:50+00:00",
+          "listed_median": "$9.47",
+          "average_sale_price": 4.14
         }
       ]
     },
@@ -6626,6 +6734,130 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "483197",
+      "name": "Charlotte Pudding (Offline Regional 2023) [Finalist] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/483197?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/483197_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "ST07-008",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "3000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "2000",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$200.00",
+      "average_sale_price": 128.32,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-31T16:29:02+00:00",
+      "first_seen": "2026-08-31T16:29:02+00:00",
+      "recent_sales": [
+        {
+          "date": "7/2/26",
+          "condition": "MP Foil",
+          "quantity": "1",
+          "price": "$129.64"
+        },
+        {
+          "date": "6/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$139.99"
+        },
+        {
+          "date": "6/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$134.99"
+        },
+        {
+          "date": "5/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$119.99"
+        },
+        {
+          "date": "5/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$116.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:29:02+00:00",
+          "listed_median": "$200.00",
+          "average_sale_price": 128.32
+        }
+      ]
+    },
+    {
+      "product_id": "683984",
+      "name": "Charlotte Pudding (Regionals Finalist Card Set 26-27) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/683984?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/683984_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "OP12-071",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "2000",
+        "Subtype(s)": "Big Mom Pirates",
+        "Counter+": "1000",
+        "Attribute": "Wisdom"
+      },
+      "listed_median": "$117.98",
+      "average_sale_price": 114.56,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-31T16:30:21+00:00",
+      "first_seen": "2026-08-31T16:30:21+00:00",
+      "recent_sales": [
+        {
+          "date": "8/3/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$113.85"
+        },
+        {
+          "date": "7/25/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$113.95"
+        },
+        {
+          "date": "7/25/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$117.99"
+        },
+        {
+          "date": "7/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$112.00"
+        },
+        {
+          "date": "7/21/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$114.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:30:21+00:00",
+          "listed_median": "$117.98",
+          "average_sale_price": 114.56
+        }
+      ]
+    },
+    {
       "product_id": "629189",
       "name": "Charlotte Pudding (SP) - Extra Booster: Anime 25th Collection (EB-02)",
       "url": "https://www.tcgplayer.com/product/629189?Language=English",
@@ -7271,6 +7503,106 @@ const TCG_DATA = {
           "scraped_at": "2026-08-27T22:22:56+00:00",
           "listed_median": "$0.35",
           "average_sale_price": 0.38
+        }
+      ]
+    },
+    {
+      "product_id": "514176",
+      "name": "Crocodile (Offline Regional 2023) [Finalist] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/514176?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514176_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "OP02-053",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "7000",
+        "Subtype(s)": "Impel Down Former Baroque Works",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$599.97",
+      "average_sale_price": 149.99,
+      "recent_sales_count": 4,
+      "last_scraped": "2026-08-31T16:23:06+00:00",
+      "first_seen": "2026-08-31T16:23:06+00:00",
+      "recent_sales": [
+        {
+          "date": "7/2/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$199.99"
+        },
+        {
+          "date": "6/9/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$149.99"
+        },
+        {
+          "date": "6/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$149.99"
+        },
+        {
+          "date": "5/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$100.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:23:06+00:00",
+          "listed_median": "$599.97",
+          "average_sale_price": 149.99
+        }
+      ]
+    },
+    {
+      "product_id": "514035",
+      "name": "Crocodile (Online Regional 2023) [Finalist] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/514035?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514035_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "OP02-053",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "7000",
+        "Subtype(s)": "Impel Down Former Baroque Works",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "-",
+      "average_sale_price": 224.5,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-31T16:25:07+00:00",
+      "first_seen": "2026-08-31T16:25:07+00:00",
+      "recent_sales": [
+        {
+          "date": "7/20/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$299.00"
+        },
+        {
+          "date": "5/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$150.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:25:07+00:00",
+          "listed_median": "-",
+          "average_sale_price": 224.5
         }
       ]
     },
@@ -21970,6 +22302,50 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "544779",
+      "name": "Eustass\"Captain\"Kid (Online Regional 2024 Vol. 2) [Finalist] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/544779?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544779_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-003",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "3",
+        "Power": "4000",
+        "Subtype(s)": "Kid Pirates Supernovas",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$295.00",
+      "average_sale_price": 153.75,
+      "recent_sales_count": 2,
+      "last_scraped": "2026-08-31T16:22:24+00:00",
+      "first_seen": "2026-08-31T16:22:24+00:00",
+      "recent_sales": [
+        {
+          "date": "8/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$157.50"
+        },
+        {
+          "date": "5/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$150.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:22:24+00:00",
+          "listed_median": "$295.00",
+          "average_sale_price": 153.75
+        }
+      ]
+    },
+    {
       "product_id": "567117",
       "name": "Eustass\"Captain\"Kid (Premium Card Collection -Leader Collection-) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/567117?Language=English",
@@ -23661,12 +24037,42 @@ const TCG_DATA = {
         "Counter+": "2000",
         "Attribute": "Strike"
       },
-      "listed_median": "$4.27",
-      "average_sale_price": 2.52,
+      "listed_median": "$1.71",
+      "average_sale_price": 1.27,
       "recent_sales_count": 5,
-      "last_scraped": "2026-08-26T21:50:28+00:00",
+      "last_scraped": "2026-08-31T16:38:02+00:00",
       "first_seen": "2026-08-26T19:55:14+00:00",
       "recent_sales": [
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.23"
+        },
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.21"
+        },
+        {
+          "date": "8/31/26",
+          "condition": "LP",
+          "quantity": "4",
+          "price": "$1.47"
+        },
+        {
+          "date": "8/30/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.22"
+        },
+        {
+          "date": "8/30/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.21"
+        },
         {
           "date": "8/26/26",
           "condition": "NM",
@@ -23708,6 +24114,11 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T21:50:28+00:00",
           "listed_median": "$4.27",
           "average_sale_price": 2.52
+        },
+        {
+          "scraped_at": "2026-08-31T16:38:02+00:00",
+          "listed_median": "$1.71",
+          "average_sale_price": 1.27
         }
       ]
     },
@@ -26239,6 +26650,44 @@ const TCG_DATA = {
           "scraped_at": "2026-08-28T23:25:19+00:00",
           "listed_median": "-",
           "average_sale_price": 1499.99
+        }
+      ]
+    },
+    {
+      "product_id": "646729",
+      "name": "Jewelry Bonney (Offline Regional Finalist Card Set 2025 Vol.2) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/646729?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/646729_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-085",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Bonney Pirates Supernovas",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "$267.49",
+      "average_sale_price": 269.0,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-31T16:32:19+00:00",
+      "first_seen": "2026-08-31T16:32:19+00:00",
+      "recent_sales": [
+        {
+          "date": "7/25/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$269.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:32:19+00:00",
+          "listed_median": "$267.49",
+          "average_sale_price": 269.0
         }
       ]
     },
@@ -28897,12 +29346,42 @@ const TCG_DATA = {
         "Counter+": "2000",
         "Attribute": "Strike"
       },
-      "listed_median": "$7.93",
-      "average_sale_price": 4.89,
+      "listed_median": "$4.75",
+      "average_sale_price": 2.63,
       "recent_sales_count": 5,
-      "last_scraped": "2026-08-26T21:47:18+00:00",
+      "last_scraped": "2026-08-31T16:36:45+00:00",
       "first_seen": "2026-08-26T19:23:09+00:00",
       "recent_sales": [
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$2.71"
+        },
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.98"
+        },
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.59"
+        },
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.44"
+        },
+        {
+          "date": "8/30/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.44"
+        },
         {
           "date": "8/26/26",
           "condition": "NM",
@@ -28932,36 +29411,6 @@ const TCG_DATA = {
           "condition": "NM",
           "quantity": "1",
           "price": "$4.10"
-        },
-        {
-          "date": "8/26/26",
-          "condition": "NM",
-          "quantity": "1",
-          "price": "$3.60"
-        },
-        {
-          "date": "8/25/26",
-          "condition": "NM",
-          "quantity": "5",
-          "price": "$7.68"
-        },
-        {
-          "date": "8/25/26",
-          "condition": "NM",
-          "quantity": "2",
-          "price": "$7.99"
-        },
-        {
-          "date": "8/25/26",
-          "condition": "NM",
-          "quantity": "1",
-          "price": "$7.68"
-        },
-        {
-          "date": "8/25/26",
-          "condition": "NM",
-          "quantity": "1",
-          "price": "$5.67"
         }
       ],
       "price_history": [
@@ -28974,6 +29423,11 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T21:47:18+00:00",
           "listed_median": "$7.93",
           "average_sale_price": 4.89
+        },
+        {
+          "scraped_at": "2026-08-31T16:36:45+00:00",
+          "listed_median": "$4.75",
+          "average_sale_price": 2.63
         }
       ]
     },
@@ -30853,12 +31307,42 @@ const TCG_DATA = {
         "Subtype(s)": "Rocks Pirates",
         "Attribute": "Slash"
       },
-      "listed_median": "$12.96",
-      "average_sale_price": 12.45,
+      "listed_median": "$5.99",
+      "average_sale_price": 4.63,
       "recent_sales_count": 5,
-      "last_scraped": "2026-08-26T21:28:03+00:00",
+      "last_scraped": "2026-08-31T16:35:28+00:00",
       "first_seen": "2026-08-26T19:38:33+00:00",
       "recent_sales": [
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$5.25"
+        },
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$5.00"
+        },
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$4.51"
+        },
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$4.40"
+        },
+        {
+          "date": "8/30/26",
+          "condition": "NM",
+          "quantity": "2",
+          "price": "$4.01"
+        },
         {
           "date": "8/26/26",
           "condition": "NM",
@@ -30888,12 +31372,6 @@ const TCG_DATA = {
           "condition": "NM",
           "quantity": "1",
           "price": "$11.47"
-        },
-        {
-          "date": "8/24/26",
-          "condition": "NM",
-          "quantity": "5",
-          "price": "$12.96"
         }
       ],
       "price_history": [
@@ -30906,6 +31384,11 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T21:28:03+00:00",
           "listed_median": "$12.96",
           "average_sale_price": 12.45
+        },
+        {
+          "scraped_at": "2026-08-31T16:35:28+00:00",
+          "listed_median": "$5.99",
+          "average_sale_price": 4.63
         }
       ]
     },
@@ -33454,6 +33937,44 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "482228",
+      "name": "Marshall.D.Teach (Online Regional 2023) [Finalist] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/482228?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/482228_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "ST03-014",
+        "Color": "Blue",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "4000",
+        "Subtype(s)": "Blackbeard Pirates The Seven Warlords of the Sea",
+        "Counter+": "1000",
+        "Attribute": "Special"
+      },
+      "listed_median": "-",
+      "average_sale_price": 199.99,
+      "recent_sales_count": 1,
+      "last_scraped": "2026-08-31T16:32:57+00:00",
+      "first_seen": "2026-08-31T16:32:57+00:00",
+      "recent_sales": [
+        {
+          "date": "5/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$199.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:32:57+00:00",
+          "listed_median": "-",
+          "average_sale_price": 199.99
+        }
+      ]
+    },
+    {
       "product_id": "646573",
       "name": "Marshall.D.Teach (SP) (Gold) - Legacy of the Master (OP12)",
       "url": "https://www.tcgplayer.com/product/646573?Language=English",
@@ -34614,6 +35135,67 @@ const TCG_DATA = {
           "scraped_at": "2026-08-28T23:31:27+00:00",
           "listed_median": "$1,000.00",
           "average_sale_price": 599.99
+        }
+      ]
+    },
+    {
+      "product_id": "544773",
+      "name": "Monkey.D.Luffy (001) (Online Regional 2024 Vol. 2) [Participant] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/544773?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544773_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-001",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "7000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$172.36",
+      "average_sale_price": 122.26,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-31T16:31:40+00:00",
+      "first_seen": "2026-08-31T16:31:40+00:00",
+      "recent_sales": [
+        {
+          "date": "7/6/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$179.99"
+        },
+        {
+          "date": "7/5/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$110.00"
+        },
+        {
+          "date": "7/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$176.00"
+        },
+        {
+          "date": "7/11/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$47.50"
+        },
+        {
+          "date": "6/28/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$97.83"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:31:40+00:00",
+          "listed_median": "$172.36",
+          "average_sale_price": 122.26
         }
       ]
     },
@@ -36549,6 +37131,130 @@ const TCG_DATA = {
           "scraped_at": "2026-08-28T23:28:33+00:00",
           "listed_median": "$1,250.00",
           "average_sale_price": 746.47
+        }
+      ]
+    },
+    {
+      "product_id": "544782",
+      "name": "Monkey.D.Luffy (041) (Offline Regional 2024 Vol. 2) [Participant] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/544782?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544782_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-041",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$134.94",
+      "average_sale_price": 110.86,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-31T16:25:45+00:00",
+      "first_seen": "2026-08-31T16:25:45+00:00",
+      "recent_sales": [
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$115.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$114.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$111.97"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$107.50"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$103.84"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:25:45+00:00",
+          "listed_median": "$134.94",
+          "average_sale_price": 110.86
+        }
+      ]
+    },
+    {
+      "product_id": "544783",
+      "name": "Monkey.D.Luffy (041) (Online Regional 2024 Vol. 2) [Participant] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/544783?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544783_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-041",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$159.99",
+      "average_sale_price": 122.98,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-31T16:21:46+00:00",
+      "first_seen": "2026-08-31T16:21:46+00:00",
+      "recent_sales": [
+        {
+          "date": "8/4/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$159.99"
+        },
+        {
+          "date": "8/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$34.95"
+        },
+        {
+          "date": "8/10/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$159.00"
+        },
+        {
+          "date": "7/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$160.95"
+        },
+        {
+          "date": "7/13/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$99.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:21:46+00:00",
+          "listed_median": "$159.99",
+          "average_sale_price": 122.98
         }
       ]
     },
@@ -38600,6 +39306,68 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "580055",
+      "name": "Monkey.D.Luffy (CS 2024 Participation) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/580055?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/580055_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-041",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "10",
+        "Power": "12000",
+        "Subtype(s)": "Straw Hat Crew The Four Emperors",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$89.93",
+      "average_sale_price": 80.82,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-31T16:28:24+00:00",
+      "first_seen": "2026-08-31T16:28:24+00:00",
+      "recent_sales": [
+        {
+          "date": "8/8/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$89.00"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$89.89"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$31.25"
+        },
+        {
+          "date": "8/14/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$89.96"
+        },
+        {
+          "date": "7/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$104.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:28:24+00:00",
+          "listed_median": "$89.93",
+          "average_sale_price": 80.82
+        }
+      ]
+    },
+    {
       "product_id": "695310",
       "name": "Monkey.D.Luffy (Certificate of our crew) (Oversized) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/695310?Language=English",
@@ -38926,6 +39694,67 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "510578",
+      "name": "Monkey.D.Luffy (Gen Con 2023) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/510578?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/510578_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-037",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "2",
+        "Power": "4000",
+        "Subtype(s)": "Straw Hat Crew",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$139.50",
+      "average_sale_price": 111.76,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-31T16:31:01+00:00",
+      "first_seen": "2026-08-31T16:31:01+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$115.00"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$113.36"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "4",
+          "price": "$113.36"
+        },
+        {
+          "date": "8/21/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$115.07"
+        },
+        {
+          "date": "8/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$102.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:31:01+00:00",
+          "listed_median": "$139.50",
+          "average_sale_price": 111.76
+        }
+      ]
+    },
+    {
       "product_id": "523785",
       "name": "Monkey.D.Luffy (Gift Collection 2023) - One Piece Promotion Cards (OP-PR)",
       "url": "https://www.tcgplayer.com/product/523785?Language=English",
@@ -38983,6 +39812,67 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T17:55:47+00:00",
           "listed_median": "$139.99",
           "average_sale_price": 101.23
+        }
+      ]
+    },
+    {
+      "product_id": "514061",
+      "name": "Monkey.D.Luffy (Judge Pack Vol. 2) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/514061?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514061_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "OP03-070",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "6",
+        "Power": "7000",
+        "Subtype(s)": "Straw Hat Crew Water Seven",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$86.98",
+      "average_sale_price": 81.88,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-31T16:29:41+00:00",
+      "first_seen": "2026-08-31T16:29:41+00:00",
+      "recent_sales": [
+        {
+          "date": "8/29/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$69.48"
+        },
+        {
+          "date": "8/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$74.99"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$74.99"
+        },
+        {
+          "date": "8/19/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$89.95"
+        },
+        {
+          "date": "8/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$99.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:29:41+00:00",
+          "listed_median": "$86.98",
+          "average_sale_price": 81.88
         }
       ]
     },
@@ -40249,6 +41139,68 @@ const TCG_DATA = {
           "scraped_at": "2026-08-27T19:07:39+00:00",
           "listed_median": "$26.20",
           "average_sale_price": 19.38
+        }
+      ]
+    },
+    {
+      "product_id": "532116",
+      "name": "Monkey.D.Luffy (Starter Deck 11: Uta Deck Battle) [Winner] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/532116?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/532116_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-061",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "8",
+        "Power": "10000",
+        "Subtype(s)": "FILM Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$188.18",
+      "average_sale_price": 210.04,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-31T16:26:26+00:00",
+      "first_seen": "2026-08-31T16:26:26+00:00",
+      "recent_sales": [
+        {
+          "date": "8/12/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$189.99"
+        },
+        {
+          "date": "7/13/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$214.99"
+        },
+        {
+          "date": "7/1/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$215.80"
+        },
+        {
+          "date": "6/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$215.80"
+        },
+        {
+          "date": "6/28/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$213.64"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:26:26+00:00",
+          "listed_median": "$188.18",
+          "average_sale_price": 210.04
         }
       ]
     },
@@ -43387,6 +44339,56 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "514033",
+      "name": "Otama (Online Regional 2023) [Finalist] - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/514033?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514033_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "OP01-006",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "0",
+        "Subtype(s)": "Land of Wano",
+        "Counter+": "2000",
+        "Attribute": "Special"
+      },
+      "listed_median": "-",
+      "average_sale_price": 126.06,
+      "recent_sales_count": 4,
+      "last_scraped": "2026-08-31T16:27:44+00:00",
+      "first_seen": "2026-08-31T16:27:44+00:00",
+      "recent_sales": [
+        {
+          "date": "6/21/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$119.95"
+        },
+        {
+          "date": "5/27/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$140.30"
+        },
+        {
+          "date": "5/24/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$122.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:27:44+00:00",
+          "listed_median": "-",
+          "average_sale_price": 126.06
+        }
+      ]
+    },
+    {
       "product_id": "696066",
       "name": "Otama - The Time of Battle (OP16)",
       "url": "https://www.tcgplayer.com/product/696066?Language=English",
@@ -44333,6 +45335,67 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T23:32:32+00:00",
           "listed_median": "$93.79",
           "average_sale_price": 77.18
+        }
+      ]
+    },
+    {
+      "product_id": "525299",
+      "name": "Portgas.D.Ace (CS 2023 Event Pack) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/525299?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/525299_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-028",
+        "Color": "Red",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "6000",
+        "Subtype(s)": "Whitebeard Pirates",
+        "Attribute": "Special"
+      },
+      "listed_median": "$499.49",
+      "average_sale_price": 150.04,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-31T16:24:28+00:00",
+      "first_seen": "2026-08-31T16:24:28+00:00",
+      "recent_sales": [
+        {
+          "date": "8/31/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$145.80"
+        },
+        {
+          "date": "6/18/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$189.99"
+        },
+        {
+          "date": "6/18/26",
+          "condition": "LP Foil",
+          "quantity": "2",
+          "price": "$98.95"
+        },
+        {
+          "date": "6/17/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$174.99"
+        },
+        {
+          "date": "6/16/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$140.45"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:24:28+00:00",
+          "listed_median": "$499.49",
+          "average_sale_price": 150.04
         }
       ]
     },
@@ -47115,6 +48178,68 @@ const TCG_DATA = {
       ]
     },
     {
+      "product_id": "683972",
+      "name": "Roronoa Zoro (114) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/683972?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/683972_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-114",
+        "Color": "Green",
+        "Card Type": "Character",
+        "Cost": "4",
+        "Power": "5000",
+        "Subtype(s)": "Straw Hat Crew Supernovas",
+        "Counter+": "1000",
+        "Attribute": "Slash"
+      },
+      "listed_median": "$144.95",
+      "average_sale_price": 126.47,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-31T16:27:06+00:00",
+      "first_seen": "2026-08-31T16:27:06+00:00",
+      "recent_sales": [
+        {
+          "date": "8/24/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$135.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$120.00"
+        },
+        {
+          "date": "8/24/26",
+          "condition": "LP",
+          "quantity": "1",
+          "price": "$109.99"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$135.00"
+        },
+        {
+          "date": "8/22/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$132.36"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:27:06+00:00",
+          "listed_median": "$144.95",
+          "average_sale_price": 126.47
+        }
+      ]
+    },
+    {
       "product_id": "541660",
       "name": "Roronoa Zoro (Alternate Art) (Manga) - Wings of the Captain (OP06)",
       "url": "https://www.tcgplayer.com/product/541660?Language=English",
@@ -49728,12 +50853,42 @@ const TCG_DATA = {
         "Counter+": "2000",
         "Attribute": "Special"
       },
-      "listed_median": "$7.58",
-      "average_sale_price": 6.97,
+      "listed_median": "$2.63",
+      "average_sale_price": 1.67,
       "recent_sales_count": 5,
-      "last_scraped": "2026-08-26T21:47:57+00:00",
+      "last_scraped": "2026-08-31T16:37:23+00:00",
       "first_seen": "2026-08-26T19:48:49+00:00",
       "recent_sales": [
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "4",
+          "price": "$2.04"
+        },
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "3",
+          "price": "$1.00"
+        },
+        {
+          "date": "8/31/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.50"
+        },
+        {
+          "date": "8/30/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$2.83"
+        },
+        {
+          "date": "8/30/26",
+          "condition": "NM",
+          "quantity": "1",
+          "price": "$1.00"
+        },
         {
           "date": "8/26/26",
           "condition": "NM",
@@ -49763,6 +50918,11 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T21:47:57+00:00",
           "listed_median": "$7.58",
           "average_sale_price": 6.97
+        },
+        {
+          "scraped_at": "2026-08-31T16:37:23+00:00",
+          "listed_median": "$2.63",
+          "average_sale_price": 1.67
         }
       ]
     },
@@ -53282,6 +54442,68 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T18:10:29+00:00",
           "listed_median": "$50,000.99",
           "average_sale_price": 3000.0
+        }
+      ]
+    },
+    {
+      "product_id": "646733",
+      "name": "Tony Tony.Chopper (Offline Regional Finalist Card Set 2025 Vol.2) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/646733?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/646733_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-089",
+        "Color": "Yellow",
+        "Card Type": "Character",
+        "Cost": "5",
+        "Power": "7000",
+        "Subtype(s)": "Animal Straw Hat Crew",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$273.27",
+      "average_sale_price": 230.6,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-31T16:23:47+00:00",
+      "first_seen": "2026-08-31T16:23:47+00:00",
+      "recent_sales": [
+        {
+          "date": "6/9/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$135.99"
+        },
+        {
+          "date": "6/5/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$301.00"
+        },
+        {
+          "date": "6/5/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$300.00"
+        },
+        {
+          "date": "6/5/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$280.00"
+        },
+        {
+          "date": "6/18/26",
+          "condition": "LP Foil",
+          "quantity": "1",
+          "price": "$135.99"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:23:47+00:00",
+          "listed_median": "$273.27",
+          "average_sale_price": 230.6
         }
       ]
     },
@@ -57055,6 +58277,68 @@ const TCG_DATA = {
           "scraped_at": "2026-08-26T23:36:35+00:00",
           "listed_median": "$79.92",
           "average_sale_price": 66.78
+        }
+      ]
+    },
+    {
+      "product_id": "579987",
+      "name": "Yamato (CS 2024 Event Pack) - One Piece Promotion Cards (OP-PR)",
+      "url": "https://www.tcgplayer.com/product/579987?Language=English",
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/579987_in_1000x1000.jpg",
+      "category": "One Piece Card Game",
+      "attributes": {
+        "Rarity": "PR",
+        "Number": "P-046",
+        "Color": "Purple",
+        "Card Type": "Character",
+        "Cost": "1",
+        "Power": "2000",
+        "Subtype(s)": "Land of Wano",
+        "Counter+": "1000",
+        "Attribute": "Strike"
+      },
+      "listed_median": "$130.50",
+      "average_sale_price": 90.79,
+      "recent_sales_count": 5,
+      "last_scraped": "2026-08-31T16:33:36+00:00",
+      "first_seen": "2026-08-31T16:33:36+00:00",
+      "recent_sales": [
+        {
+          "date": "8/30/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$80.00"
+        },
+        {
+          "date": "8/26/26",
+          "condition": "NM Foil",
+          "quantity": "1",
+          "price": "$94.95"
+        },
+        {
+          "date": "8/23/26",
+          "condition": "NM Foil",
+          "quantity": "3",
+          "price": "$86.99"
+        },
+        {
+          "date": "8/16/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$96.00"
+        },
+        {
+          "date": "8/13/26",
+          "condition": "NM Foil",
+          "quantity": "2",
+          "price": "$96.00"
+        }
+      ],
+      "price_history": [
+        {
+          "scraped_at": "2026-08-31T16:33:36+00:00",
+          "listed_median": "$130.50",
+          "average_sale_price": 90.79
         }
       ]
     },

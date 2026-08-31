@@ -1,1000 +1,319 @@
 {
-  "514044": {
-    "product_id": "514044",
-    "url": "https://www.tcgplayer.com/product/514044?Language=English",
-    "name": "Jozu (Championship 2023) - One Piece Promotion Cards (OP-PR)",
+  "712655": {
+    "product_id": "712655",
+    "url": "https://www.tcgplayer.com/product/712655?Language=English",
+    "name": "Charlotte Daifuku (Pandaman Art) - The World's Strongest Warriors (OP17)",
     "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514044_in_1000x1000.jpg",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712655_in_1000x1000.jpg",
     "valid": true,
-    "Rarity": "PR",
-    "Number": "OP02-008",
-    "Color": "Red",
+    "Rarity": "UC",
+    "Number": "OP17-107",
+    "Color": "Yellow",
+    "Card Type": "Character",
+    "Cost": "3",
+    "Power": "4000",
+    "Subtype(s)": "Big Mom Pirates",
+    "Counter+": "2000",
+    "Attribute": "Slash",
+    "recent_sales": [
+      {
+        "date": "8/31/26",
+        "condition": "NM",
+        "quantity": "1",
+        "price": "$3.98"
+      },
+      {
+        "date": "8/31/26",
+        "condition": "NM",
+        "quantity": "3",
+        "price": "$4.65"
+      },
+      {
+        "date": "8/31/26",
+        "condition": "NM",
+        "quantity": "2",
+        "price": "$4.43"
+      },
+      {
+        "date": "8/31/26",
+        "condition": "NM",
+        "quantity": "1",
+        "price": "$3.65"
+      },
+      {
+        "date": "8/31/26",
+        "condition": "NM",
+        "quantity": "1",
+        "price": "$4.00"
+      }
+    ],
+    "recent_sales_count": 5,
+    "average_sale_price": 4.14,
+    "listed_median": "$9.47",
+    "elapsed_seconds": 37.63
+  },
+  "712617": {
+    "product_id": "712617",
+    "url": "https://www.tcgplayer.com/product/712617?Language=English",
+    "name": "Kyo (Pandaman Art) - The World's Strongest Warriors (OP17)",
+    "category": "One Piece Card Game",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712617_in_1000x1000.jpg",
+    "valid": true,
+    "Rarity": "UC",
+    "Number": "OP17-045",
+    "Color": "Blue",
+    "Card Type": "Character",
+    "Cost": "2",
+    "Power": "4000",
+    "Subtype(s)": "Rocks Pirates",
+    "Attribute": "Slash",
+    "recent_sales": [
+      {
+        "date": "8/31/26",
+        "condition": "NM",
+        "quantity": "1",
+        "price": "$4.40"
+      },
+      {
+        "date": "8/31/26",
+        "condition": "NM",
+        "quantity": "1",
+        "price": "$5.00"
+      },
+      {
+        "date": "8/31/26",
+        "condition": "NM",
+        "quantity": "1",
+        "price": "$5.25"
+      },
+      {
+        "date": "8/31/26",
+        "condition": "NM",
+        "quantity": "1",
+        "price": "$4.51"
+      },
+      {
+        "date": "8/30/26",
+        "condition": "NM",
+        "quantity": "2",
+        "price": "$4.01"
+      }
+    ],
+    "recent_sales_count": 5,
+    "average_sale_price": 4.63,
+    "listed_median": "$5.99",
+    "elapsed_seconds": 37.61
+  },
+  "712605": {
+    "product_id": "712605",
+    "url": "https://www.tcgplayer.com/product/712605?Language=English",
+    "name": "Building Snake (Pandaman Art) - The World's Strongest Warriors (OP17)",
+    "category": "One Piece Card Game",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712605_in_1000x1000.jpg",
+    "valid": true,
+    "Rarity": "UC",
+    "Number": "OP17-025",
+    "Color": "Green",
     "Card Type": "Character",
     "Cost": "4",
-    "Power": "4000",
+    "Power": "5000",
+    "Subtype(s)": "Red-Haired Pirates",
+    "Counter+": "1000",
+    "Attribute": "Slash",
+    "recent_sales": [
+      {
+        "date": "8/31/26",
+        "condition": "NM",
+        "quantity": "1",
+        "price": "$1.40"
+      },
+      {
+        "date": "8/30/26",
+        "condition": "NM",
+        "quantity": "4",
+        "price": "$1.89"
+      },
+      {
+        "date": "8/30/26",
+        "condition": "NM",
+        "quantity": "1",
+        "price": "$1.65"
+      },
+      {
+        "date": "8/30/26",
+        "condition": "NM",
+        "quantity": "1",
+        "price": "$1.42"
+      },
+      {
+        "date": "8/30/26",
+        "condition": "NM",
+        "quantity": "1",
+        "price": "$1.42"
+      }
+    ],
+    "recent_sales_count": 5,
+    "average_sale_price": 1.56,
+    "listed_median": "$2.23",
+    "elapsed_seconds": 37.58
+  },
+  "712593": {
+    "product_id": "712593",
+    "url": "https://www.tcgplayer.com/product/712593?Language=English",
+    "name": "Kingdew (Pandaman Art) - The World's Strongest Warriors (OP17)",
+    "category": "One Piece Card Game",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712593_in_1000x1000.jpg",
+    "valid": true,
+    "Rarity": "C",
+    "Number": "OP17-006",
+    "Color": "Red",
+    "Card Type": "Character",
+    "Cost": "7",
+    "Power": "8000",
     "Subtype(s)": "Whitebeard Pirates",
     "Counter+": "2000",
     "Attribute": "Strike",
     "recent_sales": [
       {
-        "date": "7/7/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$312.48"
-      },
-      {
-        "date": "7/4/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$349.99"
-      },
-      {
-        "date": "6/8/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$54.99"
-      }
-    ],
-    "recent_sales_count": 3,
-    "average_sale_price": 239.15,
-    "listed_median": "$375.00",
-    "elapsed_seconds": 37.45
-  },
-  "707315": {
-    "product_id": "707315",
-    "url": "https://www.tcgplayer.com/product/707315?Language=English",
-    "name": "Buggy (P-084) (SP) - The World's Strongest Warriors (OP17)",
-    "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707315_in_1000x1000.jpg",
-    "valid": true,
-    "Rarity": "PR",
-    "Number": "P-084",
-    "Color": "Blue",
-    "Card Type": "Character",
-    "Cost": "7",
-    "Power": "8000",
-    "Subtype(s)": "The Four Emperors Cross Guild",
-    "Attribute": "Slash",
-    "recent_sales": [
-      {
-        "date": "8/28/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$274.88"
-      },
-      {
-        "date": "8/28/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$274.89"
-      },
-      {
-        "date": "8/28/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$274.59"
-      },
-      {
-        "date": "8/28/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$275.00"
-      },
-      {
-        "date": "8/28/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$300.00"
-      }
-    ],
-    "recent_sales_count": 5,
-    "average_sale_price": 279.87,
-    "listed_median": "$335.63",
-    "elapsed_seconds": 37.45
-  },
-  "457019": {
-    "product_id": "457019",
-    "url": "https://www.tcgplayer.com/product/457019?Language=English",
-    "name": "Monkey.D.Luffy - P-007 (Winner Pack Vol. 1) - One Piece Promotion Cards (OP-PR)",
-    "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/457019_in_1000x1000.jpg",
-    "valid": true,
-    "Rarity": "PR",
-    "Number": "P-007",
-    "Color": "Red",
-    "Card Type": "Character",
-    "Cost": "4",
-    "Power": "5000",
-    "Subtype(s)": "Straw Hat Crew Supernovas",
-    "Counter+": "1000",
-    "Attribute": "Strike",
-    "recent_sales": [
-      {
-        "date": "8/21/26",
+        "date": "8/31/26",
         "condition": "NM",
         "quantity": "1",
-        "price": "$255.00"
+        "price": "$2.98"
       },
       {
-        "date": "8/14/26",
+        "date": "8/31/26",
         "condition": "NM",
         "quantity": "1",
-        "price": "$260.00"
+        "price": "$2.44"
       },
       {
-        "date": "8/14/26",
+        "date": "8/31/26",
         "condition": "NM",
-        "quantity": "2",
-        "price": "$220.00"
-      },
-      {
-        "date": "8/14/26",
-        "condition": "NM",
-        "quantity": "1",
-        "price": "$220.00"
-      },
-      {
-        "date": "8/14/26",
-        "condition": "NM",
-        "quantity": "1",
-        "price": "$262.30"
-      }
-    ],
-    "recent_sales_count": 5,
-    "average_sale_price": 243.46,
-    "listed_median": "$254.00",
-    "elapsed_seconds": 41.4
-  },
-  "649620": {
-    "product_id": "649620",
-    "url": "https://www.tcgplayer.com/product/649620?Language=English",
-    "name": "Tony Tony.Chopper (CS 25-26 Event Pack) - One Piece Promotion Cards (OP-PR)",
-    "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649620_in_1000x1000.jpg",
-    "valid": true,
-    "Rarity": "PR",
-    "Number": "P-065",
-    "Color": "Black",
-    "Card Type": "Character",
-    "Cost": "3",
-    "Power": "4000",
-    "Subtype(s)": "Animal Straw Hat Crew",
-    "Counter+": "1000",
-    "Attribute": "Wisdom",
-    "recent_sales": [
-      {
-        "date": "8/28/26",
-        "condition": "NM Foil",
         "quantity": "3",
-        "price": "$165.00"
+        "price": "$2.71"
       },
       {
-        "date": "8/21/26",
-        "condition": "NM Foil",
+        "date": "8/31/26",
+        "condition": "NM",
         "quantity": "1",
-        "price": "$174.97"
+        "price": "$2.59"
       },
       {
-        "date": "8/17/26",
-        "condition": "NM Foil",
+        "date": "8/30/26",
+        "condition": "NM",
         "quantity": "1",
-        "price": "$165.00"
-      },
-      {
-        "date": "8/17/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$166.06"
-      },
-      {
-        "date": "8/17/26",
-        "condition": "NM Foil",
-        "quantity": "4",
-        "price": "$166.07"
+        "price": "$2.44"
       }
     ],
     "recent_sales_count": 5,
-    "average_sale_price": 167.42,
-    "listed_median": "$185.00",
-    "elapsed_seconds": 38.31
+    "average_sale_price": 2.63,
+    "listed_median": "$4.75",
+    "elapsed_seconds": 38.63
   },
-  "579985": {
-    "product_id": "579985",
-    "url": "https://www.tcgplayer.com/product/579985?Language=English",
-    "name": "Roronoa Zoro (CS 2024 Event Pack) - One Piece Promotion Cards (OP-PR)",
+  "712633": {
+    "product_id": "712633",
+    "url": "https://www.tcgplayer.com/product/712633?Language=English",
+    "name": "Scratchmen Apoo (Pandaman Art) - The World's Strongest Warriors (OP17)",
     "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/579985_in_1000x1000.jpg",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712633_in_1000x1000.jpg",
     "valid": true,
-    "Rarity": "PR",
-    "Number": "P-042",
-    "Color": "Yellow",
-    "Card Type": "Character",
-    "Cost": "4",
-    "Power": "5000",
-    "Subtype(s)": "Land of Wano Straw Hat Crew",
-    "Counter+": "1000",
-    "Attribute": "Slash",
-    "recent_sales": [
-      {
-        "date": "8/28/26",
-        "condition": "NM Foil",
-        "quantity": "5",
-        "price": "$151.99"
-      },
-      {
-        "date": "8/26/26",
-        "condition": "LP Foil",
-        "quantity": "2",
-        "price": "$150.98"
-      },
-      {
-        "date": "8/26/26",
-        "condition": "LP Foil",
-        "quantity": "2",
-        "price": "$150.97"
-      },
-      {
-        "date": "8/24/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$153.98"
-      },
-      {
-        "date": "8/22/26",
-        "condition": "LP Foil",
-        "quantity": "1",
-        "price": "$100.00"
-      }
-    ],
-    "recent_sales_count": 5,
-    "average_sale_price": 141.58,
-    "listed_median": "$211.45",
-    "elapsed_seconds": 39.77
-  },
-  "580056": {
-    "product_id": "580056",
-    "url": "https://www.tcgplayer.com/product/580056?Language=English",
-    "name": "Monkey.D.Luffy (Bandai Card Games Fest 24-25) - One Piece Promotion Cards (OP-PR)",
-    "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/580056_in_1000x1000.jpg",
-    "valid": true,
-    "Rarity": "PR",
-    "Number": "P-080",
-    "Color": "Red",
-    "Card Type": "Character",
-    "Cost": "7",
-    "Power": "9000",
-    "Subtype(s)": "Straw Hat Crew The Four Emperors Egghead",
-    "Counter+": "1000",
-    "Attribute": "Strike",
-    "recent_sales": [
-      {
-        "date": "8/28/26",
-        "condition": "NM",
-        "quantity": "1",
-        "price": "$149.99"
-      },
-      {
-        "date": "8/26/26",
-        "condition": "NM",
-        "quantity": "1",
-        "price": "$149.99"
-      },
-      {
-        "date": "8/22/26",
-        "condition": "NM",
-        "quantity": "1",
-        "price": "$172.00"
-      },
-      {
-        "date": "8/18/26",
-        "condition": "NM",
-        "quantity": "1",
-        "price": "$182.48"
-      },
-      {
-        "date": "8/13/26",
-        "condition": "NM",
-        "quantity": "1",
-        "price": "$192.60"
-      }
-    ],
-    "recent_sales_count": 5,
-    "average_sale_price": 169.41,
-    "listed_median": "$232.28",
-    "elapsed_seconds": 39.86
-  },
-  "544790": {
-    "product_id": "544790",
-    "url": "https://www.tcgplayer.com/product/544790?Language=English",
-    "name": "Trafalgar Law (Offline Regional 2024 Vol. 2) [Finalist] - One Piece Promotion Cards (OP-PR)",
-    "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544790_in_1000x1000.jpg",
-    "valid": true,
-    "Rarity": "PR",
-    "Number": "ST03-008",
-    "Color": "Blue",
-    "Card Type": "Character",
-    "Cost": "1",
-    "Power": "1000",
-    "Subtype(s)": "Heart Pirates The Seven Warlords of the Sea",
-    "Attribute": "Slash",
-    "recent_sales": [
-      {
-        "date": "7/26/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$249.99"
-      },
-      {
-        "date": "7/8/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$249.97"
-      },
-      {
-        "date": "6/23/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$202.50"
-      },
-      {
-        "date": "6/10/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$201.51"
-      }
-    ],
-    "recent_sales_count": 4,
-    "average_sale_price": 225.99,
-    "listed_median": "$219.99",
-    "elapsed_seconds": 38.67
-  },
-  "532752": {
-    "product_id": "532752",
-    "url": "https://www.tcgplayer.com/product/532752?Language=English",
-    "name": "Monkey.D.Luffy (041) (BANDAI CARD GAMES Fest 23-24 World Tour) - One Piece Promotion Cards (OP-PR)",
-    "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/532752_in_1000x1000.jpg",
-    "valid": true,
-    "Rarity": "PR",
-    "Number": "P-041",
+    "Rarity": "C",
+    "Number": "OP17-070",
     "Color": "Purple",
-    "Card Type": "Character",
-    "Cost": "10",
-    "Power": "12000",
-    "Subtype(s)": "Straw Hat Crew The Four Emperors",
-    "Counter+": "1000",
-    "Attribute": "Strike",
-    "recent_sales": [
-      {
-        "date": "8/18/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$206.00"
-      },
-      {
-        "date": "8/16/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$199.00"
-      },
-      {
-        "date": "8/13/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$205.00"
-      },
-      {
-        "date": "8/13/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$209.98"
-      },
-      {
-        "date": "8/13/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$204.95"
-      }
-    ],
-    "recent_sales_count": 5,
-    "average_sale_price": 204.99,
-    "listed_median": "$224.78",
-    "elapsed_seconds": 39.0
-  },
-  "697484": {
-    "product_id": "697484",
-    "url": "https://www.tcgplayer.com/product/697484?Language=English",
-    "name": "Monkey.D.Luffy (OP16 Release Event Winner) - One Piece Promotion Cards (OP-PR)",
-    "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/697484_in_1000x1000.jpg",
-    "valid": true,
-    "Rarity": "PR",
-    "Number": "P-135",
-    "Card Type": "Character",
-    "Cost": "5",
-    "Power": "5000",
-    "Counter+": "1000",
-    "recent_sales": [
-      {
-        "date": "8/28/26",
-        "condition": "NM Foil",
-        "quantity": "7",
-        "price": "$193.39"
-      },
-      {
-        "date": "8/25/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$180.00"
-      },
-      {
-        "date": "8/25/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$179.01"
-      },
-      {
-        "date": "8/19/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$180.49"
-      },
-      {
-        "date": "8/19/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$180.49"
-      }
-    ],
-    "recent_sales_count": 5,
-    "average_sale_price": 182.68,
-    "listed_median": "$227.76",
-    "elapsed_seconds": 39.91
-  },
-  "482219": {
-    "product_id": "482219",
-    "url": "https://www.tcgplayer.com/product/482219?Language=English",
-    "name": "Trafalgar Law (Online Regional 2023) [Finalist] - One Piece Promotion Cards (OP-PR)",
-    "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/482219_in_1000x1000.jpg",
-    "valid": true,
-    "Rarity": "PR",
-    "Number": "OP02-035",
-    "Color": "Green",
-    "Card Type": "Character",
-    "Cost": "2",
-    "Power": "3000",
-    "Subtype(s)": "Heart Pirates Supernovas",
-    "Counter+": "1000",
-    "Attribute": "Slash",
-    "recent_sales": [
-      {
-        "date": "7/26/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$249.99"
-      },
-      {
-        "date": "5/24/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$225.00"
-      },
-      {
-        "date": "5/20/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$226.29"
-      }
-    ],
-    "recent_sales_count": 3,
-    "average_sale_price": 233.76,
-    "listed_median": "$265.14",
-    "elapsed_seconds": 37.67
-  },
-  "649736": {
-    "product_id": "649736",
-    "url": "https://www.tcgplayer.com/product/649736?Language=English",
-    "name": "Jewelry Bonney (Online Regional Finalist Card Set 2025 Vol.2) - One Piece Promotion Cards (OP-PR)",
-    "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649736_in_1000x1000.jpg",
-    "valid": true,
-    "Rarity": "PR",
-    "Number": "P-085",
-    "Color": "Yellow",
-    "Card Type": "Character",
-    "Cost": "5",
-    "Power": "6000",
-    "Subtype(s)": "Bonney Pirates Supernovas",
-    "Counter+": "1000",
-    "Attribute": "Special",
-    "recent_sales": [
-      {
-        "date": "7/17/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$249.95"
-      },
-      {
-        "date": "7/12/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$225.00"
-      },
-      {
-        "date": "7/12/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$225.00"
-      },
-      {
-        "date": "5/31/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$130.00"
-      }
-    ],
-    "recent_sales_count": 4,
-    "average_sale_price": 207.49,
-    "listed_median": "-",
-    "elapsed_seconds": 38.31
-  },
-  "525315": {
-    "product_id": "525315",
-    "url": "https://www.tcgplayer.com/product/525315?Language=English",
-    "name": "Monkey.D.Luffy (007) (CS 2023 Celebration Pack) - One Piece Promotion Cards (OP-PR)",
-    "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/525315_in_1000x1000.jpg",
-    "valid": true,
-    "Rarity": "PR",
-    "Number": "P-007",
-    "Color": "Red",
-    "Card Type": "Character",
-    "Cost": "4",
-    "Power": "5000",
-    "Subtype(s)": "Straw Hat Crew Supernovas",
-    "Counter+": "1000",
-    "Attribute": "Strike",
-    "recent_sales": [
-      {
-        "date": "8/12/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$294.99"
-      },
-      {
-        "date": "8/12/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$294.98"
-      },
-      {
-        "date": "8/12/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$294.88"
-      },
-      {
-        "date": "6/25/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$399.99"
-      },
-      {
-        "date": "6/25/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$380.00"
-      }
-    ],
-    "recent_sales_count": 5,
-    "average_sale_price": 332.97,
-    "listed_median": "$349.99",
-    "elapsed_seconds": 38.41
-  },
-  "509752": {
-    "product_id": "509752",
-    "url": "https://www.tcgplayer.com/product/509752?Language=English",
-    "name": "Monkey.D.Luffy (Alternate Art) - One Piece Promotion Cards (OP-PR)",
-    "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/509752_in_1000x1000.jpg",
-    "valid": true,
-    "Rarity": "PR",
-    "Number": "P-001",
-    "Color": "Red",
     "Card Type": "Character",
     "Cost": "6",
     "Power": "7000",
-    "Subtype(s)": "Straw Hat Crew Supernovas",
-    "Attribute": "Strike",
-    "recent_sales": [
-      {
-        "date": "8/27/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$135.00"
-      },
-      {
-        "date": "8/21/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$155.00"
-      },
-      {
-        "date": "8/17/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$139.75"
-      },
-      {
-        "date": "8/16/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$160.00"
-      },
-      {
-        "date": "8/16/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$145.00"
-      }
-    ],
-    "recent_sales_count": 5,
-    "average_sale_price": 146.95,
-    "listed_median": "$203.12",
-    "elapsed_seconds": 39.36
-  },
-  "497000": {
-    "product_id": "497000",
-    "url": "https://www.tcgplayer.com/product/497000?Language=English",
-    "name": "Nami (Tournament Pack Vol. 3) [Winner] - One Piece Promotion Cards (OP-PR)",
-    "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/497000_in_1000x1000.jpg",
-    "valid": true,
-    "Rarity": "PR",
-    "Number": "ST01-007",
-    "Color": "Red",
-    "Card Type": "Character",
-    "Cost": "1",
-    "Power": "1000",
-    "Subtype(s)": "Straw Hat Crew",
-    "Counter+": "1000",
+    "Subtype(s)": "Animal Kingdom Pirates On-Air Pirates",
+    "Counter+": "2000",
     "Attribute": "Special",
     "recent_sales": [
       {
-        "date": "8/11/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$197.60"
+        "date": "8/31/26",
+        "condition": "NM",
+        "quantity": "4",
+        "price": "$2.04"
       },
       {
-        "date": "8/6/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$174.07"
+        "date": "8/31/26",
+        "condition": "NM",
+        "quantity": "3",
+        "price": "$1.00"
       },
       {
-        "date": "8/4/26",
-        "condition": "NM Foil",
+        "date": "8/31/26",
+        "condition": "NM",
         "quantity": "1",
-        "price": "$208.69"
+        "price": "$1.50"
       },
       {
-        "date": "7/26/26",
-        "condition": "NM Foil",
+        "date": "8/30/26",
+        "condition": "NM",
         "quantity": "1",
-        "price": "$209.99"
+        "price": "$2.83"
       },
       {
-        "date": "7/26/26",
-        "condition": "NM Foil",
+        "date": "8/30/26",
+        "condition": "NM",
         "quantity": "1",
-        "price": "$193.94"
+        "price": "$1.00"
       }
     ],
     "recent_sales_count": 5,
-    "average_sale_price": 196.86,
-    "listed_median": "$199.00",
-    "elapsed_seconds": 37.37
+    "average_sale_price": 1.67,
+    "listed_median": "$2.63",
+    "elapsed_seconds": 37.57
   },
-  "658338": {
-    "product_id": "658338",
-    "url": "https://www.tcgplayer.com/product/658338?Language=English",
-    "name": "Jewelry Bonney (CS 25-26 Regionals Textured Chase Promo) - One Piece Promotion Cards (OP-PR)",
+  "712643": {
+    "product_id": "712643",
+    "url": "https://www.tcgplayer.com/product/712643?Language=English",
+    "name": "Hajrudin (Pandaman Art) - The World's Strongest Warriors (OP17)",
     "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/658338_in_1000x1000.jpg",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712643_in_1000x1000.jpg",
     "valid": true,
-    "Rarity": "PR",
-    "Number": "P-085",
-    "Color": "Yellow",
-    "Card Type": "Character",
-    "Cost": "5",
-    "Power": "6000",
-    "Subtype(s)": "Bonney Pirates Supernovas",
-    "Counter+": "1000",
-    "Attribute": "Special",
-    "recent_sales": [
-      {
-        "date": "8/25/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$219.99"
-      },
-      {
-        "date": "8/25/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$199.99"
-      },
-      {
-        "date": "8/25/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$199.90"
-      },
-      {
-        "date": "8/23/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$194.99"
-      },
-      {
-        "date": "8/23/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$194.98"
-      }
-    ],
-    "recent_sales_count": 5,
-    "average_sale_price": 201.97,
-    "listed_median": "$189.99",
-    "elapsed_seconds": 38.26
-  },
-  "544791": {
-    "product_id": "544791",
-    "url": "https://www.tcgplayer.com/product/544791?Language=English",
-    "name": "Trafalgar Law (Online Regional 2024 Vol. 2) [Finalist] - One Piece Promotion Cards (OP-PR)",
-    "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544791_in_1000x1000.jpg",
-    "valid": true,
-    "Rarity": "PR",
-    "Number": "ST03-008",
-    "Color": "Blue",
-    "Card Type": "Character",
-    "Cost": "1",
-    "Power": "1000",
-    "Subtype(s)": "Heart Pirates The Seven Warlords of the Sea",
-    "Attribute": "Slash",
-    "recent_sales": [
-      {
-        "date": "5/23/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$193.99"
-      },
-      {
-        "date": "5/23/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$190.00"
-      }
-    ],
-    "recent_sales_count": 2,
-    "average_sale_price": 192.0,
-    "listed_median": "$499.99",
-    "elapsed_seconds": 39.16
-  },
-  "483179": {
-    "product_id": "483179",
-    "url": "https://www.tcgplayer.com/product/483179?Language=English",
-    "name": "Koby (Offline Regional 2023) [Finalist] - One Piece Promotion Cards (OP-PR)",
-    "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/483179_in_1000x1000.jpg",
-    "valid": true,
-    "Rarity": "PR",
-    "Number": "OP02-098",
+    "Rarity": "C",
+    "Number": "OP17-088",
     "Color": "Black",
     "Card Type": "Character",
-    "Cost": "3",
-    "Power": "4000",
-    "Subtype(s)": "Navy",
-    "Counter+": "1000",
-    "Attribute": "Strike",
-    "recent_sales": [
-      {
-        "date": "6/17/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$164.55"
-      },
-      {
-        "date": "6/16/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$164.55"
-      },
-      {
-        "date": "6/14/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$163.56"
-      },
-      {
-        "date": "6/14/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$163.56"
-      },
-      {
-        "date": "5/10/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$219.99"
-      }
-    ],
-    "recent_sales_count": 5,
-    "average_sale_price": 175.24,
-    "listed_median": "$325.00",
-    "elapsed_seconds": 38.2
-  },
-  "457018": {
-    "product_id": "457018",
-    "url": "https://www.tcgplayer.com/product/457018?Language=English",
-    "name": "Monkey.D.Luffy - P-006 (Winner Pack Vol. 1) - One Piece Promotion Cards (OP-PR)",
-    "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/457018_in_1000x1000.jpg",
-    "valid": true,
-    "Rarity": "PR",
-    "Number": "P-006",
-    "Color": "Red",
-    "Card Type": "Character",
-    "Cost": "3",
-    "Power": "3000",
-    "Subtype(s)": "Straw Hat Crew Supernovas",
+    "Cost": "7",
+    "Power": "8000",
+    "Subtype(s)": "Giant New Giant Pirates Elbaph",
     "Counter+": "2000",
     "Attribute": "Strike",
     "recent_sales": [
       {
-        "date": "8/27/26",
-        "condition": "NM",
-        "quantity": "1",
-        "price": "$216.00"
+        "date": "8/31/26",
+        "condition": "LP",
+        "quantity": "4",
+        "price": "$1.47"
       },
       {
-        "date": "8/27/26",
+        "date": "8/31/26",
         "condition": "NM",
         "quantity": "1",
-        "price": "$199.21"
+        "price": "$1.21"
       },
       {
-        "date": "8/27/26",
+        "date": "8/31/26",
         "condition": "NM",
         "quantity": "1",
-        "price": "$196.69"
+        "price": "$1.23"
       },
       {
-        "date": "8/27/26",
+        "date": "8/30/26",
         "condition": "NM",
         "quantity": "1",
-        "price": "$179.99"
+        "price": "$1.21"
       },
       {
-        "date": "8/27/26",
+        "date": "8/30/26",
         "condition": "NM",
         "quantity": "1",
-        "price": "$180.00"
+        "price": "$1.22"
       }
     ],
     "recent_sales_count": 5,
-    "average_sale_price": 194.38,
-    "listed_median": "$149.99",
-    "elapsed_seconds": 39.51
-  },
-  "450300": {
-    "product_id": "450300",
-    "url": "https://www.tcgplayer.com/product/450300?Language=English",
-    "name": "Monkey.D.Luffy (Super Pre-Release) [Participant] - One Piece Promotion Cards (OP-PR)",
-    "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/450300_in_1000x1000.jpg",
-    "valid": true,
-    "Rarity": "PR",
-    "Number": "P-001",
-    "Color": "Red",
-    "Card Type": "Character",
-    "Cost": "6",
-    "Power": "7000",
-    "Subtype(s)": "Straw Hat Crew Supernovas",
-    "Attribute": "Strike",
-    "recent_sales": [
-      {
-        "date": "8/27/26",
-        "condition": "NM",
-        "quantity": "1",
-        "price": "$183.99"
-      },
-      {
-        "date": "8/27/26",
-        "condition": "NM",
-        "quantity": "1",
-        "price": "$183.00"
-      },
-      {
-        "date": "8/27/26",
-        "condition": "NM",
-        "quantity": "2",
-        "price": "$182.99"
-      },
-      {
-        "date": "8/13/26",
-        "condition": "NM",
-        "quantity": "1",
-        "price": "$194.47"
-      },
-      {
-        "date": "8/13/26",
-        "condition": "NM",
-        "quantity": "1",
-        "price": "$192.43"
-      }
-    ],
-    "recent_sales_count": 5,
-    "average_sale_price": 187.38,
-    "listed_median": "$264.94",
-    "elapsed_seconds": 40.64
-  },
-  "658340": {
-    "product_id": "658340",
-    "url": "https://www.tcgplayer.com/product/658340?Language=English",
-    "name": "Tony Tony.Chopper (CS 25-26 Regionals Textured Chase Promo) - One Piece Promotion Cards (OP-PR)",
-    "category": "One Piece Card Game",
-    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/658340_in_1000x1000.jpg",
-    "valid": true,
-    "Rarity": "PR",
-    "Number": "P-089",
-    "Color": "Yellow",
-    "Card Type": "Character",
-    "Cost": "5",
-    "Power": "7000",
-    "Subtype(s)": "Animal Straw Hat Crew",
-    "Counter+": "1000",
-    "Attribute": "Strike",
-    "recent_sales": [
-      {
-        "date": "6/24/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$249.98"
-      },
-      {
-        "date": "6/6/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$302.00"
-      },
-      {
-        "date": "6/4/26",
-        "condition": "LP Foil",
-        "quantity": "1",
-        "price": "$173.22"
-      },
-      {
-        "date": "6/4/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$240.00"
-      },
-      {
-        "date": "6/4/26",
-        "condition": "NM Foil",
-        "quantity": "1",
-        "price": "$249.89"
-      }
-    ],
-    "recent_sales_count": 5,
-    "average_sale_price": 243.02,
-    "listed_median": "$400.00",
-    "elapsed_seconds": 38.34
+    "average_sale_price": 1.27,
+    "listed_median": "$1.71",
+    "elapsed_seconds": 38.37
   }
 }
